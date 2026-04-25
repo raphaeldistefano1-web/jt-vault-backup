@@ -1,0 +1,100 @@
+# Vault Le Jardin Tropical — cerveau IA unifié
+
+> Knowledge graph dense pour Raphaël Distefano (owner-operator hôtel + PMS Next.js + site WordPress). Mémoire unifiée pour Claude / ChatGPT / Gemini / Cursor / Claude Code via MCP + AGENTS.md.
+
+Le vault est organisé en **PARA + couche IA** : Projects (10-), Areas (20-), Resources (30-), Archives (40-), MOCs (50-), Daily (60-), Meta (90-).
+
+Atomic notes 200-1500 mots avec frontmatter strict + 5-15 wikilinks/note pour densité neuronale. Pattern : MOC d'abord (entry point), atomic notes à la demande (progressive disclosure pour économiser tokens).
+
+## Quickstart
+
+- [AGENTS.md](AGENTS.md) — orientation universelle des IA
+- [INDEX.md](INDEX.md) — navigation hiérarchique du vault
+- [README.md](README.md) — quickstart pour humain (Obsidian setup)
+
+## MOCs (Maps of Content)
+
+- [50-MOCs/Hotel.md](50-MOCs/Hotel.md) — entry point hôtel Le Jardin Tropical
+- [50-MOCs/PMS.md](50-MOCs/PMS.md) — entry point PMS Next.js
+- [50-MOCs/Site-WordPress.md](50-MOCs/Site-WordPress.md) — entry point site WP
+
+## Areas
+
+- [20-Areas/User-Raphael-Distefano.md](20-Areas/User-Raphael-Distefano.md)
+- [20-Areas/Hotel-Le-Jardin-Tropical.md](20-Areas/Hotel-Le-Jardin-Tropical.md)
+- [20-Areas/Dev-PMS-Area.md](20-Areas/Dev-PMS-Area.md)
+- [20-Areas/Site-WordPress.md](20-Areas/Site-WordPress.md)
+- [20-Areas/Workflow-Collaboration-IA.md](20-Areas/Workflow-Collaboration-IA.md)
+
+## Concepts / Standards
+
+- [30-Resources/Concepts/MCP-Model-Context-Protocol.md](30-Resources/Concepts/MCP-Model-Context-Protocol.md)
+- [30-Resources/Concepts/AGENTS-md-standard.md](30-Resources/Concepts/AGENTS-md-standard.md)
+- [30-Resources/Concepts/llms-txt-standard.md](30-Resources/Concepts/llms-txt-standard.md)
+- [30-Resources/Concepts/GEO-Generative-Engine-Optimization.md](30-Resources/Concepts/GEO-Generative-Engine-Optimization.md)
+- [30-Resources/Concepts/Schema-org-LodgingBusiness.md](30-Resources/Concepts/Schema-org-LodgingBusiness.md)
+- [30-Resources/Concepts/Schema-FAQPage.md](30-Resources/Concepts/Schema-FAQPage.md)
+- [30-Resources/Concepts/Robots-txt-LLM-Aware.md](30-Resources/Concepts/Robots-txt-LLM-Aware.md)
+- [30-Resources/Concepts/Mu-plugin-vs-Theme-Pattern.md](30-Resources/Concepts/Mu-plugin-vs-Theme-Pattern.md)
+- [30-Resources/Concepts/Atomic-Notes-Pattern.md](30-Resources/Concepts/Atomic-Notes-Pattern.md)
+- [30-Resources/Concepts/Frontmatter-Standard.md](30-Resources/Concepts/Frontmatter-Standard.md)
+
+## Workflows
+
+- [30-Resources/Workflows/Workflow-Preview-Then-Apply.md](30-Resources/Workflows/Workflow-Preview-Then-Apply.md)
+- [30-Resources/Workflows/Workflow-Deploy-PMS.md](30-Resources/Workflows/Workflow-Deploy-PMS.md)
+- [30-Resources/Workflows/Workflow-API-Integrations.md](30-Resources/Workflows/Workflow-API-Integrations.md)
+- [30-Resources/Workflows/Workflow-Cross-Feature-Coherence.md](30-Resources/Workflows/Workflow-Cross-Feature-Coherence.md)
+- [30-Resources/Workflows/Workflow-File-Share-Uploads.md](30-Resources/Workflows/Workflow-File-Share-Uploads.md)
+
+## Resources Stack
+
+- [30-Resources/Stack-Tech.md](30-Resources/Stack-Tech.md)
+- [30-Resources/VPS-Hostinger.md](30-Resources/VPS-Hostinger.md)
+- [30-Resources/Sub-agents-internes-PMS.md](30-Resources/Sub-agents-internes-PMS.md)
+- [30-Resources/OpenClaw-VPS-Reference.md](30-Resources/OpenClaw-VPS-Reference.md)
+
+## Projects PMS
+
+- [10-Projects/PMS/PMS-Stack.md](10-Projects/PMS/PMS-Stack.md)
+- [10-Projects/PMS/PMS-Dashboard-v2.md](10-Projects/PMS/PMS-Dashboard-v2.md)
+- [10-Projects/PMS/PMS-Calendar-v2.md](10-Projects/PMS/PMS-Calendar-v2.md)
+- [10-Projects/PMS/PMS-Settings-Hub.md](10-Projects/PMS/PMS-Settings-Hub.md)
+- [10-Projects/PMS/PMS-AI-Assistant.md](10-Projects/PMS/PMS-AI-Assistant.md)
+- [10-Projects/PMS/Desktop-App-Electron.md](10-Projects/PMS/Desktop-App-Electron.md)
+- [10-Projects/PMS/Plugin-OpenClaw.md](10-Projects/PMS/Plugin-OpenClaw.md)
+
+## Projects Site Web
+
+- [10-Projects/Site-Web/Theme-jardintropical-child.md](10-Projects/Site-Web/Theme-jardintropical-child.md)
+- [10-Projects/Site-Web/Mu-plugin-jt-seo-extras.md](10-Projects/Site-Web/Mu-plugin-jt-seo-extras.md)
+- [10-Projects/Site-Web/Site-Plugins-Stack-2026-04-25.md](10-Projects/Site-Web/Site-Plugins-Stack-2026-04-25.md)
+- [10-Projects/Site-Web/Site-WordPress-Optimisation-2026-04-25.md](10-Projects/Site-Web/Site-WordPress-Optimisation-2026-04-25.md)
+- [10-Projects/Site-Web/Plugin-jt-booking.md](10-Projects/Site-Web/Plugin-jt-booking.md)
+
+## Projects JT-Migrate
+
+- [10-Projects/JT-Migrate/Plugin-jt-migrate.md](10-Projects/JT-Migrate/Plugin-jt-migrate.md)
+- [10-Projects/JT-Migrate/Migration-WP-com-vers-VPS-2026-04-25.md](10-Projects/JT-Migrate/Migration-WP-com-vers-VPS-2026-04-25.md)
+- [10-Projects/JT-Migrate/JT-Migrate-v1.0.0.md](10-Projects/JT-Migrate/JT-Migrate-v1.0.0.md)
+- [10-Projects/JT-Migrate/JT-Migrate-v1.1.0.md](10-Projects/JT-Migrate/JT-Migrate-v1.1.0.md)
+- [10-Projects/JT-Migrate/JT-Migrate-v1.2.0.md](10-Projects/JT-Migrate/JT-Migrate-v1.2.0.md)
+- [10-Projects/JT-Migrate/JT-Migrate-v1.2.1.md](10-Projects/JT-Migrate/JT-Migrate-v1.2.1.md)
+
+## Decisions (chronologique)
+
+- [10-Projects/Decisions/Decision-Mu-plugin-vs-RankMath.md](10-Projects/Decisions/Decision-Mu-plugin-vs-RankMath.md)
+- [10-Projects/Decisions/Decision-Streaming-tar-gz-vs-PharData.md](10-Projects/Decisions/Decision-Streaming-tar-gz-vs-PharData.md)
+- [10-Projects/Decisions/Decision-Redis-Object-Cache-Disabled.md](10-Projects/Decisions/Decision-Redis-Object-Cache-Disabled.md)
+- [10-Projects/Decisions/Decision-Robots-txt-LLM-Aware.md](10-Projects/Decisions/Decision-Robots-txt-LLM-Aware.md)
+- [10-Projects/Decisions/Decision-Akismet-vers-Antispam-Bee.md](10-Projects/Decisions/Decision-Akismet-vers-Antispam-Bee.md)
+- [10-Projects/Decisions/Decision-Disable-WP-Cron-cron-Linux.md](10-Projects/Decisions/Decision-Disable-WP-Cron-cron-Linux.md)
+
+## Bugs / Lessons learned
+
+- [10-Projects/Bugs/Bug-PharData-RAM-OOM.md](10-Projects/Bugs/Bug-PharData-RAM-OOM.md)
+- [10-Projects/Bugs/Bug-JT-Migrate-Auth-Loss-After-DB-Restore.md](10-Projects/Bugs/Bug-JT-Migrate-Auth-Loss-After-DB-Restore.md)
+- [10-Projects/Bugs/Bug-Apache-Timeout-300-vs-Uploads.md](10-Projects/Bugs/Bug-Apache-Timeout-300-vs-Uploads.md)
+- [10-Projects/Bugs/Bug-Redis-WPO-Advanced-Cache-Conflict.md](10-Projects/Bugs/Bug-Redis-WPO-Advanced-Cache-Conflict.md)
+- [10-Projects/Bugs/Bug-WP-Image-Encoding-Accent.md](10-Projects/Bugs/Bug-WP-Image-Encoding-Accent.md)
+- [10-Projects/Bugs/Bug-WP-Link-Blog-404.md](10-Projects/Bugs/Bug-WP-Link-Blog-404.md)

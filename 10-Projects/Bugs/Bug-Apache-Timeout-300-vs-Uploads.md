@@ -1,0 +1,68 @@
+---
+type: bug
+status: resolved
+tags: [bug, lesson, apache, infra]
+created: 2026-04-25
+updated: 2026-04-25
+relevance: medium
+description: "Apache Timeout=300s (default) tue les uploads > 5 min sur connexion résidentielle → Traefik retourne 502. Fix Timeout 1800s."
+ai_writable: false
+related:
+  - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
+  - "[[VPS-Hostinger]]"
+  - "[[Plugin-jt-migrate]]"
+---
+
+# 🐛 Bug : Apache Timeout=300 vs gros uploads
+
+## Symptôme
+
+Pendant l'import d'une archive 321 MB via UI WordPress, l'upload abandonnait après ~10 minutes avec :
+```
+HTTP 502 Bad Gateway
+```
+
+Le frontend voyait l'upload progresser jusqu'à un certain pourcentage puis fail.
+
+## Cause racine
+
+Apache `Timeout 300` (5 min) par défaut dans le conteneur `wordpress:6.6-php8.3-apache`. Sur connexion résidentielle (~1-5 Mbit/s upload), 321 MB prend 8-30 minutes. Apache ferme la connexion en plein milieu → Traefik retourne 502 au navigateur.
+
+Ce n'est pas un timeout PHP (set_time_limit) — c'est Apache qui kick.
+
+## Fix
+
+Override Apache config dans `/var/www/wordpress-instance/config/apache-uploads.conf`, monté en `/etc/apache2/conf-enabled/zz-jt-uploads.conf` :
+
+```apache
+Timeout 1800
+RequestReadTimeout body=60,minrate=200
+```
+
+- `Timeout 1800` = 30 min
+- `RequestReadTimeout body=60,minrate=200` = 60s pour le 1er byte du body, puis minimum 200 b/s
+
+Restart conteneur → fix immédiat.
+
+## Alternative découverte
+
+Plus pragmatique pour les très gros uploads : [[JT-Migrate-v1.2.0|mode import-from-server-path]] qui bypass complètement l'upload HTTP. L'archive est déposée directement sur le serveur via SCP ou téléchargée server-to-server.
+
+C'est la solution préférée pour les futurs imports > 200 MB.
+
+## 📚 Lesson learned
+
+**Apache `Timeout 300` par défaut tue les gros uploads sur connexion résidentielle.**
+
+Dès qu'on prévoit des uploads > 50 MB :
+- Augmenter `Timeout` (1800 = 30 min raisonnable)
+- Vérifier `RequestReadTimeout` (`body=60,minrate=200` permet 200 b/s minimum, tolère les liens lents)
+- Plus généralement : prévoir un **bypass HTTP** (SCP, server-to-server curl, S3 multipart upload) pour les vrais gros volumes
+
+Sur Traefik, pas de timeout particulier à modifier (les valeurs par défaut sont OK). Le timeout vient bien d'Apache.
+
+## Liens
+
+- [[VPS-Hostinger]]
+- [[Migration-WP-com-vers-VPS-2026-04-25]]
+- [[JT-Migrate-v1.2.0]]
