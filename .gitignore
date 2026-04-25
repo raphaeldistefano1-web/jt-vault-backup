@@ -1,0 +1,10 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/.smart-env/
+.smart-env/
+.trash/
+.DS_Store
+Thumbs.db
