@@ -11,6 +11,15 @@ related:
   - "[[User-Raphael-Distefano]]"
   - "[[TODO-centralized]]"
   - "[[Mu-plugin-vs-Theme-Pattern]]"
+id: 202604252025-workflow-collaboration-ia
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "User-Raphael-Distefano|Raphaël utilise massivement le mode auto de Claude Code. Implications :"
+entities: [documentation, reference]
+topic_cluster: area-hub
+intent: reference
+tier: hot
 ---
 
 # 🤝 Workflow Collaboration IA

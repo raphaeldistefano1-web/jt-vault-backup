@@ -12,6 +12,15 @@ related:
   - "[[Mu-plugin-jt-seo-extras]]"
   - "[[Site-Plugins-Stack-2026-04-25]]"
   - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
+id: 202604252033-site-wordpress-optimisation-2026-04-25
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Suite à la migration depuis dealmfr.wpcomstaging.com vers le VPS Hostinger Migration-WP-com-vers-VPS-2026-04-25, User-Ra…"
+entities: [migration, site-wordpress, wordpress]
+topic_cluster: wordpress-stack
+intent: reference
+tier: hot
 ---
 
 # 🚀 Optimisation site WP — 2026-04-25

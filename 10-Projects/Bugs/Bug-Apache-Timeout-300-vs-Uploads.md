@@ -11,6 +11,15 @@ related:
   - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
   - "[[VPS-Hostinger]]"
   - "[[Plugin-jt-migrate]]"
+id: 202604252038-bug-apache-timeout-300-vs-uploads
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Pendant l'import d'une archive 321 MB via UI WordPress, l'upload abandonnait après ~10 minutes avec :"
+entities: [debugging, site-wordpress, wordpress]
+topic_cluster: bug-log
+intent: log
+tier: cold
 ---
 
 # 🐛 Bug : Apache Timeout=300 vs gros uploads

@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[INDEX]]"
   - "[[Decisions-Log]]"
+id: 202604252041-lessons-learned
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "MOC apprentissages — PharData RAM, Redis vs WPO, streaming uploads, pipelines auth-safe, atomic notes patterns."
+entities: [debugging, redis, site-wordpress, wordpress, wordpress-optimization]
+topic_cluster: vault-navigation
+intent: reference
+tier: warm
 ---
 
 # 💡 MOC Lessons Learned

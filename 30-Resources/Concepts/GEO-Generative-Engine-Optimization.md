@@ -13,6 +13,15 @@ related:
   - "[[Schema-org-LodgingBusiness]]"
   - "[[Schema-FAQPage]]"
 aliases: [GEO]
+id: 202604252026-geo-generative-engine-optimization
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Generative Engine Optimization = ensemble de pratiques pour être cité par les moteurs LLM ChatGPT search, Perplexity, Go…"
+entities: [documentation, llm, reference]
+topic_cluster: wordpress-seo
+intent: concept
+tier: warm
 ---
 
 # 🤖 GEO — Generative Engine Optimization

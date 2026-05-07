@@ -11,6 +11,15 @@ related:
   - "[[PMS-Stack]]"
   - "[[Dev-PMS-Area]]"
   - "[[Brainstorm-PMS-Améliorations-2026-04-25]]"
+id: 202604252224-tests-pms-batterie-2026-04-25
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Batterie tests PMS complets — 22 endpoints OK, 26 pages OK, TTFB < 120ms, 7 findings mineurs documentés."
+entities: [api, authentication, debugging, jwt, nextauth, pms]
+topic_cluster: pms-stack
+intent: reference
+tier: hot
 ---
 
 # 🧪 Tests batterie PMS — 2026-04-25

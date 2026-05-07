@@ -13,6 +13,15 @@ related:
   - "[[Plugin-jt-migrate]]"
   - "[[Decision-Akismet-vers-Antispam-Bee]]"
   - "[[Decision-Redis-Object-Cache-Disabled]]"
+id: 202604252033-site-plugins-stack-2026-04-25
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "| Plugin | Version | Rôle | Notes |"
+entities: [akismet, antispam-bee, booking, migration, site-wordpress]
+topic_cluster: wordpress-stack
+intent: reference
+tier: hot
 ---
 
 # 📦 Site WP — Plugins stack 2026-04-25

@@ -7,6 +7,15 @@ updated: 2026-04-25
 relevance: high
 description: "Map of Content — PMS (Property Management System) custom Next.js du Jardin Tropical"
 ai_writable: false
+id: 202604252021-pms
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "PMS Property Management System custom dev en Next.js, géré par Raphaël owner-operator. Pas de produit SaaS — outil inter…"
+entities: [nextjs, pms, postgres, prisma]
+topic_cluster: vault-navigation
+intent: reference
+tier: warm
 ---
 
 # 🛏️ MOC PMS Le Jardin Tropical

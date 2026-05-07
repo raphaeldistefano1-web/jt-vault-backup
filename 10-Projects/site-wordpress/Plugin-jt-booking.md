@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[Site-WordPress]]"
   - "[[PMS-Calendar-v2]]"
+id: 202604252033-plugin-jt-booking
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Plugin WordPress custom dev par User-Raphael-Distefano|Raphaël. Module de réservation pour le site WP de l'hôtel."
+entities: [api, booking, debugging, site-wordpress, wordpress]
+topic_cluster: wordpress-stack
+intent: reference
+tier: hot
 ---
 
 # 🛏️ Plugin jt-booking v1.0.4

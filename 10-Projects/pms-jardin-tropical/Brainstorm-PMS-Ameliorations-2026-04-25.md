@@ -11,6 +11,15 @@ related:
   - "[[Tests-PMS-Batterie-2026-04-25]]"
   - "[[PMS-Stack]]"
   - "[[Dev-PMS-Area]]"
+id: 202604252226-brainstorm-pms-ameliorations-2026-04-25
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Synthèse de la recherche UX hôtellerie 2026 HippoRAG-style retrieval + analyse codebase + tests fonctionnels."
+entities: [infrastructure, pms, rag]
+topic_cluster: pms-stack
+intent: reference
+tier: hot
 ---
 
 # 💡 Brainstorm PMS Améliorations — 2026-04-25

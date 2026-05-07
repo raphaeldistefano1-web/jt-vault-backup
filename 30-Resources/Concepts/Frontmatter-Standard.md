@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[Atomic-Notes-Pattern]]"
   - "[[Vault-Setup]]"
+id: 202604252028-frontmatter-standard
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Standard YAML frontmatter vault — champs, vocabulaires contrôlés, convention description, règles dates ISO."
+entities: [documentation, reference]
+topic_cluster: vault-architecture
+intent: concept
+tier: warm
 ---
 
 # 📋 Frontmatter — standard du vault

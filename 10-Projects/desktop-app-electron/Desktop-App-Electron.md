@@ -11,6 +11,15 @@ related:
   - "[[Dev-PMS-Area]]"
   - "[[PMS-Stack]]"
   - "[[Bug-Cross-Compile-Linux-MacOS]]"
+id: 202604252031-desktop-app-electron
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "✅ Déployée prod cf. mémoire projectpmsdesktopapp.md."
+entities: [api, electron, pms]
+topic_cluster: pms-desktop
+intent: reference
+tier: warm
 ---
 
 # 🖥️ Desktop App Electron v1.3.0

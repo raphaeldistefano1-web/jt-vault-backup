@@ -13,6 +13,15 @@ related:
   - "[[PMS-Area]]"
   - "[[Reserve-Cousteau]]"
 aliases: ["Le Jardin Tropical", "JT"]
+id: 202604252024-hotel-le-jardin-tropical
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Résidence de vacances 14 hébergements à Bouillante (Guadeloupe) — vitrine business, tarif depuis 85€/nuit, publicité directe."
+entities: [documentation, reference]
+topic_cluster: area-hub
+intent: reference
+tier: hot
 ---
 
 # 🌺 Hotel Le Jardin Tropical

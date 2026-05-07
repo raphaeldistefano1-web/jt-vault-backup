@@ -11,6 +11,15 @@ related:
   - "[[Plugin-jt-migrate]]"
   - "[[JT-Migrate-v1.0.0]]"
   - "[[Decision-Streaming-tar-gz-vs-PharData]]"
+id: 202604252037-bug-phardata-ram-oom
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Le plugin JT-Migrate-v1.0.0|JT Migrate v1.0.0 crashait à l'export d'un site WP > 100 MB :"
+entities: [debugging, migration, site-wordpress]
+topic_cluster: bug-log
+intent: log
+tier: cold
 ---
 
 # 🐛 Bug : PharData OOM sur > 100 MB

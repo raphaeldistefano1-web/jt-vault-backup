@@ -12,6 +12,15 @@ related:
   - "[[Theme-jardintropical-child]]"
   - "[[Decision-Mu-plugin-vs-RankMath]]"
   - "[[Site-WordPress]]"
+id: 202604252026-mu-plugin-vs-theme-pattern
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Quand un theme custom fait déjà bien son boulot meta, OG, schema, lazy load, ne PAS installer un plugin SEO commercial R…"
+entities: [documentation, reference, wordpress]
+topic_cluster: wordpress-patterns
+intent: concept
+tier: warm
 ---
 
 # 🔧 Pattern : mu-plugin vs theme

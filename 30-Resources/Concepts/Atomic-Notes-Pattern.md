@@ -11,6 +11,15 @@ related:
   - "[[Vault-Setup]]"
   - "[[Frontmatter-Standard]]"
   - "[[MOCs-Pattern]]"
+id: 202604252028-atomic-notes-pattern
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "1 idée = 1 note. Inspiré du Zettelkasten de Niklas Luhmann + framework \"Linking Your Thinking\" LYT de Nick Milo + Andy M…"
+entities: [documentation, reference]
+topic_cluster: vault-architecture
+intent: concept
+tier: warm
 ---
 
 # ⚛️ Atomic Notes — pattern

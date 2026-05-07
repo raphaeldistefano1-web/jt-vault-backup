@@ -13,6 +13,15 @@ related:
   - "[[Dev-PMS-Area]]"
   - "[[Vault-Setup]]"
 aliases: [VPS]
+id: 202604252031-vps-hostinger
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "VPS Hostinger host — WordPress Docker, PMS Next.js, OpenClaw Gateway, Vault Obsidian, Traefik reverse proxy."
+entities: [docker, nextjs, obsidian, pms, postgres, site-wordpress, wordpress]
+topic_cluster: infrastructure
+intent: reference
+tier: warm
 ---
 
 # 🖥️ VPS Hostinger

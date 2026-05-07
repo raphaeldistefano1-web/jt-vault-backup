@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[Dev-PMS-Area]]"
   - "[[Workflow-Preview-Then-Apply]]"
+id: 202604252029-workflow-cross-feature-coherence
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Toute feature ajoutée au Dev-PMS-Area|PMS doit être :"
+entities: [api, calendar, dashboard, pms]
+topic_cluster: pms-architecture
+intent: how-to
+tier: warm
 ---
 
 # 🔄 Workflow Cross-Feature Coherence

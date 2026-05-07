@@ -13,6 +13,15 @@ related:
   - "[[PMS-Dashboard-v2]]"
   - "[[Plugin-jt-booking]]"
   - "[[Workflow-Cross-Feature-Coherence]]"
+id: 202604252030-pms-calendar-v2
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "✅ Appliqué prod cf. mémoire projectpmsstate.md."
+entities: [calendar, dashboard, pms, rag]
+topic_cluster: pms-stack
+intent: reference
+tier: hot
 ---
 
 # 📅 PMS Calendar v2

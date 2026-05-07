@@ -13,6 +13,15 @@ related:
   - "[[JT-Migrate-v1.1.0]]"
   - "[[Bug-JT-Migrate-v1.1-Import-Extract-Fail]]"
 supersedes: "[[JT-Migrate-v1.2.0]]"
+id: 202604252035-jt-migrate-v1-2-1
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "✅ Version actuelle, déployée sur le VPS."
+entities: [debugging, documentation, migration]
+topic_cluster: wp-migration
+intent: reference
+tier: warm
 ---
 
 # 📦 JT Migrate v1.2.1 — current

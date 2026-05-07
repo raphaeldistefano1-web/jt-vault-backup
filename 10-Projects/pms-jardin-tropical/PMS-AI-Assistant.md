@@ -12,6 +12,15 @@ related:
   - "[[Plugin-OpenClaw]]"
   - "[[PMS-Settings-Hub]]"
   - "[[OpenClaw-VPS-Reference]]"
+id: 202604252031-pms-ai-assistant
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "✅ Fusion Mémoire IA + Assistant IA appliquée cf. mémoire projectpmsstate.md."
+entities: [authentication, dashboard, oauth, pms]
+topic_cluster: pms-stack
+intent: reference
+tier: hot
 ---
 
 # 🤖 PMS AI Assistant

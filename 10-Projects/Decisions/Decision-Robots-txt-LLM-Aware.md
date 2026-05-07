@@ -14,6 +14,15 @@ related:
 context: "Optim site WP 2026-04-25 — décision stratégique GEO"
 chosen: "Bloquer training crawlers, autoriser retrieval crawlers"
 alternatives: ["Tout bloquer", "Tout autoriser", "Bloquer training + retrieval"]
+id: 202604252037-decision-robots-txt-llm-aware
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Avec la prolifération des crawlers IA en 2026 GPTBot, Google-Extended, ClaudeBot, PerplexityBot, etc., 4 stratégies poss…"
+entities: [documentation, llm, reference]
+topic_cluster: decision-log
+intent: decision
+tier: warm
 ---
 
 # 🎯 Decision : robots.txt LLM-aware

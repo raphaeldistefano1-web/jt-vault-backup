@@ -7,6 +7,15 @@ updated: 2026-04-25
 relevance: high
 description: "Map of Content — site WordPress lejardintropical.fr (actuellement sur wp-46-202-171-204.nip.io)"
 ai_writable: false
+id: 202604252021-site-wordpress
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "MOC WordPress — stack Docker, theme custom, jt-booking, jt-migrate, cache 27ms, schemas LodgingBusiness."
+entities: [docker, site-wordpress, wordpress]
+topic_cluster: vault-navigation
+intent: reference
+tier: warm
 ---
 
 # 🌐 MOC Site WordPress

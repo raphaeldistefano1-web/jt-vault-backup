@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[PMS-Stack]]"
   - "[[Plugin-jt-migrate]]"
+id: 202604252029-workflow-file-share-uploads
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Le Dev-PMS-Area|PMS expose une page /uploads publique permettant à User-Raphael-Distefano|Raphaël ou n'importe qui avec …"
+entities: [configuration, infrastructure, pms]
+topic_cluster: pms-features
+intent: how-to
+tier: warm
 ---
 
 # 📤 Workflow File Share Uploads

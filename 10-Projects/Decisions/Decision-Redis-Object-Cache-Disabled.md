@@ -14,6 +14,15 @@ related:
 context: "Optim site WP 2026-04-25 — Redis installé puis désactivé"
 chosen: "Redis désactivé, conteneur up pour usage futur"
 alternatives: ["redis-cache + wp-optimize", "redis-cache seul", "memcached"]
+id: 202604252036-decision-redis-object-cache-disabled
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Pendant Loop 1 optim, ajout du conteneur Redis au docker-compose pour activer un Object Cache WP gain TTFB potentiel sur…"
+entities: [booking, docker, redis, site-wordpress, wordpress]
+topic_cluster: decision-log
+intent: decision
+tier: warm
 ---
 
 # 🎯 Decision : Redis Object Cache désactivé

@@ -12,6 +12,15 @@ related:
   - "[[AGENTS-md-standard]]"
   - "[[Atomic-Notes-Pattern]]"
   - "[[Frontmatter-Standard]]"
+id: 202604252041-vault-setup
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "/srv/vault-jardin-tropical/ sur le VPS Hostinger 46.202.171.204."
+entities: [documentation, obsidian, reference]
+topic_cluster: vault-architecture
+intent: concept
+tier: warm
 ---
 
 # 🛠️ Vault Setup

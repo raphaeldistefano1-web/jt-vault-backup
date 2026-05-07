@@ -11,6 +11,15 @@ related:
   - "[[Dev-PMS-Area]]"
   - "[[PMS-Dashboard-v2]]"
   - "[[PMS-Calendar-v2]]"
+id: 202604252029-workflow-preview-then-apply
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Toute refonte UI d'envergure du Dev-PMS-Area|PMS passe par une route v2 prévisualisable, jamais de modif directe sur le …"
+entities: [calendar, dashboard, pms]
+topic_cluster: pms-patterns
+intent: how-to
+tier: warm
 ---
 
 # 🎨 Workflow Preview-Then-Apply

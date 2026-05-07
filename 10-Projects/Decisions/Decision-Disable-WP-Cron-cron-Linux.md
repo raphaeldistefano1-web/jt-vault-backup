@@ -13,6 +13,15 @@ related:
 context: "Optim site WP 2026-04-25 — wp-cron au pageload est unfair"
 chosen: "Cron Linux host"
 alternatives: ["wp-cron pageload", "cron systemd timer", "cron dans conteneur"]
+id: 202604252037-decision-disable-wp-cron-cron-linux
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "WordPress par défaut déclenche wp-cron.php à chaque pageload. Problèmes :"
+entities: [documentation, site-wordpress, wordpress]
+topic_cluster: decision-log
+intent: decision
+tier: warm
 ---
 
 # 🎯 Decision : DISABLE_WP_CRON + cron Linux host

@@ -11,6 +11,15 @@ related:
   - "[[Schema-org-LodgingBusiness]]"
   - "[[GEO-Generative-Engine-Optimization]]"
   - "[[Mu-plugin-jt-seo-extras]]"
+id: 202604252028-schema-faqpage
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Type Schema.org qui structure une page FAQ en Q/R machine-readable. Booster majeur pour :"
+entities: [documentation, reference]
+topic_cluster: wordpress-schema
+intent: concept
+tier: warm
 ---
 
 # ❓ Schema.org — FAQPage

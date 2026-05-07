@@ -12,6 +12,15 @@ related:
   - "[[Vault-Setup]]"
   - "[[Linux-Foundation-AAIF]]"
 aliases: [Model Context Protocol]
+id: 202604252025-mcp-model-context-protocol
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Standard ouvert pour exposer des outils functions et des ressources read-only data à des LLMs/agents. Permet à Claude/Ch…"
+entities: [llm, mcp, obsidian, postgres]
+topic_cluster: ai-integration
+intent: concept
+tier: warm
 ---
 
 # 🔌 MCP — Model Context Protocol

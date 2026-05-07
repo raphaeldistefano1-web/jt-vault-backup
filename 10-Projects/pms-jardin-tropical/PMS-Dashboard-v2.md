@@ -12,6 +12,15 @@ related:
   - "[[Workflow-Preview-Then-Apply]]"
   - "[[PMS-Calendar-v2]]"
   - "[[PMS-Settings-Hub]]"
+id: 202604252030-pms-dashboard-v2
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "✅ Appliqué prod cf. mémoire projectpmsstate.md."
+entities: [calendar, dashboard, pms]
+topic_cluster: pms-stack
+intent: reference
+tier: hot
 ---
 
 # 📊 PMS Dashboard v2

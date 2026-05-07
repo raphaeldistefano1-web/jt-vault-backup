@@ -10,6 +10,15 @@ ai_writable: true
 related:
   - "[[User-Raphael-Distefano]]"
   - "[[Workflow-Collaboration-IA]]"
+id: 202604252041-todo-centralized
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "La to-do canonique est dans la mémoire globale de Claude :"
+entities: [documentation, reference]
+topic_cluster: operations
+intent: reference
+tier: warm
 ---
 
 # 📋 TODO Centralisée — pointeur

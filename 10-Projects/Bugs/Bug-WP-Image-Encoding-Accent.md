@@ -9,6 +9,15 @@ description: "Image WebP avec accent dans nom (dressée vs dressee) → 404 → 
 ai_writable: false
 related:
   - "[[Site-WordPress]]"
+id: 202604252038-bug-wp-image-encoding-accent
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Audit broken links de la page /restauration/ : 1 image en 404 :"
+entities: [debugging, documentation, wordpress]
+topic_cluster: bug-log
+intent: log
+tier: cold
 ---
 
 # 🐛 Bug : URL image avec accent

@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[Dev-PMS-Area]]"
   - "[[PMS-Stack]]"
+id: 202604252029-workflow-deploy-pms
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Après chaque modif code du Dev-PMS-Area|PMS :"
+entities: [devops, migration, nextjs, pm2, pms, prisma]
+topic_cluster: pms-ops
+intent: how-to
+tier: warm
 ---
 
 # 🚀 Workflow Deploy PMS

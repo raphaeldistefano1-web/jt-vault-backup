@@ -14,6 +14,15 @@ related:
   - "[[Sub-agents-internes-PMS]]"
   - "[[Plugin-OpenClaw]]"
   - "[[Desktop-App-Electron]]"
+id: 202604252024-dev-pms-area
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "PMS-Area|PMS = Property Management System custom Next.js mono-tenant pour piloter Le Jardin Tropical au quotidien. Pas d…"
+entities: [brevo, nextjs, pm2, pms, postgres, prisma, traefik]
+topic_cluster: area-hub
+intent: reference
+tier: hot
 ---
 
 # 💻 Dev PMS Area

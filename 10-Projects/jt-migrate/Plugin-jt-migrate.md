@@ -15,6 +15,15 @@ related:
   - "[[JT-Migrate-v1.2.1]]"
   - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
 aliases: [JT Migrate]
+id: 202604252034-plugin-jt-migrate
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Plugin WordPress custom de migration full-fidelity entre instances WP. Similaire à All-in-One WP Migration mais :"
+entities: [debugging, migration, site-wordpress, wordpress]
+topic_cluster: wp-migration
+intent: reference
+tier: warm
 ---
 
 # 🚚 Plugin jt-migrate v1.2.1

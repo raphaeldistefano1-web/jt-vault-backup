@@ -12,6 +12,15 @@ related:
   - "[[PMS-Stack]]"
   - "[[Site-WordPress]]"
   - "[[Theme-jardintropical-child]]"
+id: 202604252130-test-jt-booking-pms-2026-04-25
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "1. Régénération clé API WordPress côté PMS script scripts/regen-wp-key.ts — précédente perdue/inaccessible"
+entities: [api, booking, pms, site-wordpress, wordpress]
+topic_cluster: wordpress-stack
+intent: reference
+tier: hot
 ---
 
 # 🧪 Test connexion jt-booking ↔ PMS — 2026-04-25

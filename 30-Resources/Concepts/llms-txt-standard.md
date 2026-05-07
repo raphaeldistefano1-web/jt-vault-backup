@@ -12,6 +12,15 @@ related:
   - "[[Robots-txt-LLM-Aware]]"
   - "[[Site-WordPress-Optimisation-2026-04-25]]"
 aliases: ["llms.txt"]
+id: 202604252026-llms-txt-standard
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Fichier markdown à la racine d'un site web /llms.txt qui sert d'index curé pour les LLMs. Le format markdown est lisible…"
+entities: [documentation, llm, site-wordpress]
+topic_cluster: ai-integration
+intent: concept
+tier: warm
 ---
 
 # 📄 llms.txt — standard

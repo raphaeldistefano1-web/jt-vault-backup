@@ -16,6 +16,15 @@ related:
 context: "Bug v1.0.0 : PharData::compress() + PharData::extract() chargent tout en RAM, fail sur > 100 MB"
 chosen: "Streaming gzopen + USTAR custom"
 alternatives: ["PharData", "exec(tar)", "ZipArchive"]
+id: 202604252036-decision-streaming-tar-gz-vs-phardata
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "JT Migrate v1.0.0 utilisait PharData Phar built-in PHP pour créer/extraire les archives .tar.gz. Bug fatal sur sites > 1…"
+entities: [api, debugging, migration, rag, site-wordpress]
+topic_cluster: decision-log
+intent: decision
+tier: warm
 ---
 
 # 🎯 Decision : Streaming tar.gz vs PharData

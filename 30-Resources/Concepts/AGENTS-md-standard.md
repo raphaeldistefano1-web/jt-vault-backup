@@ -12,6 +12,15 @@ related:
   - "[[Vault-Setup]]"
   - "[[Linux-Foundation-AAIF]]"
 aliases: [AGENTS.md]
+id: 202604252026-agents-md-standard
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Fichier markdown à la racine d'un projet/repo/vault, lu en premier par les agents IA pour s'orienter : identité user, st…"
+entities: [documentation, mcp, reference]
+topic_cluster: vault-architecture
+intent: concept
+tier: warm
 ---
 
 # 📜 AGENTS.md — standard 2026

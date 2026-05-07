@@ -13,6 +13,15 @@ related:
   - "[[JT-Migrate-v1.2.0]]"
 supersedes: "[[JT-Migrate-v1.0.0]]"
 superseded_by: "[[JT-Migrate-v1.2.0]]"
+id: 202604252035-jt-migrate-v1-1-0
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "❌ Superseded par JT-Migrate-v1.2.0."
+entities: [documentation, migration, reference]
+topic_cluster: wp-migration
+intent: reference
+tier: warm
 ---
 
 # 📦 JT Migrate v1.1.0

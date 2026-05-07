@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[INDEX]]"
   - "[[Lessons-Learned]]"
+id: 202604252040-decisions-log
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "MOC décisions techniques — streaming tar.gz, mu-plugin vs RankMath, robots.txt LLM-aware, anti-spam RGPD."
+entities: [akismet, antispam-bee, llm, migration, site-wordpress, wordpress]
+topic_cluster: decision-log
+intent: decision
+tier: warm
 ---
 
 # 🎯 MOC Decisions Log

@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[Dev-PMS-Area]]"
   - "[[Workflow-Collaboration-IA]]"
+id: 202604252031-sub-agents-internes-pms
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: ".claude/agents/ à la racine du projet /var/www/pms-jardin-tropical/."
+entities: [devops, infrastructure, pms]
+topic_cluster: pms-architecture
+intent: reference
+tier: warm
 ---
 
 # 🧑‍💼 Sub-agents internes PMS

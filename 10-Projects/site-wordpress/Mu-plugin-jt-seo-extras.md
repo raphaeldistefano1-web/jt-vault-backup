@@ -14,6 +14,15 @@ related:
   - "[[Robots-txt-LLM-Aware]]"
   - "[[Schema-FAQPage]]"
   - "[[GEO-Generative-Engine-Optimization]]"
+id: 202604252032-mu-plugin-jt-seo-extras
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "/var/www/wordpress-instance/data/wordpress/wp-content/mu-plugins/jt-seo-extras.php"
+entities: [llm, site-wordpress, wordpress]
+topic_cluster: wordpress-stack
+intent: reference
+tier: hot
 ---
 
 # 🔧 Mu-plugin jt-seo-extras

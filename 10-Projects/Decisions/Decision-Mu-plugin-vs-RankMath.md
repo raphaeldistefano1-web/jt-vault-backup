@@ -14,6 +14,15 @@ related:
 context: "Optim site WP 2026-04-25 — Rank Math testé puis désinstallé"
 chosen: "Mu-plugin custom + theme existant"
 alternatives: ["Rank Math", "Yoast", "SEOPress", "Slim SEO"]
+id: 202604252036-decision-mu-plugin-vs-rankmath
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Pendant l'optim site WP 2026-04-25, j'ai initialement installé Rank Math comme plugin SEO recommandé par les guides 2026…"
+entities: [documentation, site-wordpress, wordpress-optimization]
+topic_cluster: decision-log
+intent: decision
+tier: warm
 ---
 
 # 🎯 Decision : Mu-plugin custom vs RankMath

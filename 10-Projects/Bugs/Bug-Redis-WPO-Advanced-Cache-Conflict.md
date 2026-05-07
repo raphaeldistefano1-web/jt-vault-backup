@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[Decision-Redis-Object-Cache-Disabled]]"
   - "[[Site-Plugins-Stack-2026-04-25]]"
+id: 202604252038-bug-redis-wpo-advanced-cache-conflict
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Lors de l'activation du plugin redis-cache sur stack avec WP-Optimize page cache déjà actif :"
+entities: [debugging, redis, site-wordpress, wordpress, wordpress-optimization]
+topic_cluster: bug-log
+intent: log
+tier: cold
 ---
 
 # 🐛 Bug : Redis Object Cache + WP-Optimize conflit

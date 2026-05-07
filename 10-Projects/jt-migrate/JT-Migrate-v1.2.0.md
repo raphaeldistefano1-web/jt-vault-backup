@@ -14,6 +14,15 @@ related:
   - "[[Bug-Apache-Timeout-300-vs-Uploads]]"
 supersedes: "[[JT-Migrate-v1.1.0]]"
 superseded_by: "[[JT-Migrate-v1.2.1]]"
+id: 202604252035-jt-migrate-v1-2-0
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "❌ Superseded par JT-Migrate-v1.2.1."
+entities: [debugging, migration, rag, wordpress]
+topic_cluster: wp-migration
+intent: reference
+tier: warm
 ---
 
 # 📦 JT Migrate v1.2.0

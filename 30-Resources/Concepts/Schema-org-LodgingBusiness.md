@@ -12,6 +12,15 @@ related:
   - "[[Schema-FAQPage]]"
   - "[[Schema-TouristAttraction]]"
   - "[[Theme-jardintropical-child]]"
+id: 202604252027-schema-org-lodgingbusiness
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Type Schema.org pour un établissement d'hébergement. Sous-types pertinents pour Hotel-Le-Jardin-Tropical|Le Jardin Tropi…"
+entities: [documentation, reference]
+topic_cluster: wordpress-schema
+intent: concept
+tier: warm
 ---
 
 # 🏨 Schema.org — LodgingBusiness

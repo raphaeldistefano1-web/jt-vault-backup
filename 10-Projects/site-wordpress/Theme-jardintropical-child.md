@@ -12,6 +12,15 @@ related:
   - "[[Schema-org-LodgingBusiness]]"
   - "[[Mu-plugin-vs-Theme-Pattern]]"
   - "[[Mu-plugin-jt-seo-extras]]"
+id: 202604252032-theme-jardintropical-child
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Theme standalone custom malgré son nom -child qui suggère un theme enfant — il n'a en fait pas de parent dépendant."
+entities: [documentation, reference]
+topic_cluster: wordpress-stack
+intent: reference
+tier: hot
 ---
 
 # 🎨 Theme jardintropical-child

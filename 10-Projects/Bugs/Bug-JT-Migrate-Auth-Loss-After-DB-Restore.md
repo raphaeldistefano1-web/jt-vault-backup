@@ -11,6 +11,15 @@ related:
   - "[[Plugin-jt-migrate]]"
   - "[[JT-Migrate-v1.2.1]]"
   - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
+id: 202604252038-bug-jt-migrate-auth-loss-after-db-restore
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Pendant l'import d'un site sur le VPS :"
+entities: [authentication, debugging, migration, site-wordpress]
+topic_cluster: bug-log
+intent: log
+tier: cold
 ---
 
 # 🐛 Bug : JT Migrate auth loss after DB restore

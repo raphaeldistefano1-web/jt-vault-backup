@@ -7,6 +7,15 @@ updated: 2026-04-25
 relevance: high
 description: "Map of Content — entry point pour tous les sujets hôtel Le Jardin Tropical"
 ai_writable: false
+id: 202604252020-hotel
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Hôtel/résidence de vacances à Bouillante Guadeloupe, face à la Réserve Cousteau. 11 bungalows + 3 villas avec piscine pa…"
+entities: [documentation, reference]
+topic_cluster: vault-navigation
+intent: reference
+tier: warm
 ---
 
 # 🌺 MOC Hotel Le Jardin Tropical

@@ -12,6 +12,15 @@ related:
 context: "Optim site WP 2026-04-25 — Akismet en place mais licence commerciale exigée"
 chosen: "Antispam Bee (gratuit, RGPD-pur)"
 alternatives: ["Akismet payant", "Cloudflare Turnstile", "CleanTalk"]
+id: 202604252037-decision-akismet-vers-antispam-bee
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Akismet était installé sur le site WP migré depuis dealmfr. Akismet est gratuit pour usage personnel mais payant pour us…"
+entities: [akismet, antispam-bee, site-wordpress]
+topic_cluster: decision-log
+intent: decision
+tier: warm
 ---
 
 # 🎯 Decision : Akismet → Antispam Bee

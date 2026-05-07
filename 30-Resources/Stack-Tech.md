@@ -7,6 +7,15 @@ updated: 2026-04-25
 relevance: high
 description: "Stack technique complète Le Jardin Tropical : VPS, domaines, ports, paths"
 ai_writable: false
+id: 202604252021-stack-tech
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Stack complète VPS — Hostinger 46.202.171.204, Traefik, WordPress Docker, PMS Next.js, OpenClaw, vault."
+entities: [docker, pms, site-wordpress, traefik, wordpress]
+topic_cluster: infrastructure
+intent: reference
+tier: warm
 ---
 
 # 🔧 Stack technique

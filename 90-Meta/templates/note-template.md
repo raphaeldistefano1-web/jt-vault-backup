@@ -6,7 +6,7 @@ project: null
 area: null
 status: draft
 confidence: medium
-summary: ""
+summary: "Template — remplacer par phrase descriptive 25 mots max décrivant le contenu réel de la note."
 intent: reference
 entities: []
 topic_cluster: ""

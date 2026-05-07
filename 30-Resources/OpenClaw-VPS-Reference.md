@@ -11,6 +11,15 @@ related:
   - "[[Plugin-OpenClaw]]"
   - "[[Stack-Tech]]"
   - "[[VPS-Hostinger]]"
+id: 202604252031-openclaw-vps-reference
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Référence OpenClaw Gateway — loopback :18789, endpoints /v1/chat/completions, service systemd, logs journalctl."
+entities: [authentication, debugging, llm]
+topic_cluster: openclaw-integration
+intent: reference
+tier: warm
 ---
 
 # 🔧 OpenClaw VPS — référence

@@ -11,6 +11,15 @@ related:
   - "[[GEO-Generative-Engine-Optimization]]"
   - "[[llms-txt-standard]]"
   - "[[Mu-plugin-jt-seo-extras]]"
+id: 202604252028-robots-txt-llm-aware
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Les crawlers IA se divisent en 2 catégories :"
+entities: [documentation, llm, reference]
+topic_cluster: wordpress-seo
+intent: concept
+tier: warm
 ---
 
 # 🤖 robots.txt LLM-aware

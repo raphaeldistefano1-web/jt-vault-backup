@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[Theme-jardintropical-child]]"
   - "[[Mu-plugin-jt-seo-extras]]"
+id: 202604252039-bug-wp-link-blog-404
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Audit broken links détecte un lien vers /blog/ dans la page À propos. Le slug blog n'existe pas comme page WP → 404."
+entities: [debugging, documentation, wordpress]
+topic_cluster: bug-log
+intent: log
+tier: cold
 ---
 
 # 🐛 Bug : Lien /blog/ dans theme sans blog actif

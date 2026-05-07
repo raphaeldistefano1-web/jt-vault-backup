@@ -12,6 +12,15 @@ related:
   - "[[Stack-Tech]]"
   - "[[Workflow-Deploy-PMS]]"
   - "[[VPS-Hostinger]]"
+id: 202604252030-pms-stack
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Stack technique PMS — Next.js 15 + Postgres + Prisma 6 + PM2 + NextAuth v5 + OpenClaw Gateway loopback."
+entities: [electron, nextjs, pm2, pms, postgres, prisma, traefik]
+topic_cluster: pms-stack
+intent: reference
+tier: hot
 ---
 
 # 🏗️ PMS Stack

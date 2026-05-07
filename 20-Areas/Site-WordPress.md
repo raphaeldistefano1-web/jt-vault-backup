@@ -14,6 +14,15 @@ related:
   - "[[Mu-plugin-jt-seo-extras]]"
   - "[[Site-WordPress-Optimisation-2026-04-25]]"
   - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
+id: 202604252024-site-wordpress
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Site WordPress optimisé LodgingBusiness — Docker Apache/PHP/MariaDB, theme custom, mu-plugin SEO, TTFB 33ms."
+entities: [docker, site-wordpress, wordpress]
+topic_cluster: area-hub
+intent: reference
+tier: hot
 ---
 
 # 🌐 Site WordPress

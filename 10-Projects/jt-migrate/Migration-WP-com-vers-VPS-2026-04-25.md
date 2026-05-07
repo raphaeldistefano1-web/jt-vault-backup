@@ -14,6 +14,15 @@ related:
   - "[[JT-Migrate-v1.2.1]]"
   - "[[Bug-JT-Migrate-Auth-Loss-After-DB-Restore]]"
   - "[[Bug-Apache-Timeout-300-vs-Uploads]]"
+id: 202604252034-migration-wp-com-vers-vps-2026-04-25
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Migration 321 MB WP.com → VPS Hostinger réussie — 5 bugs résolus (PharData RAM, Apache Timeout, auth loss)."
+entities: [debugging, migration, wordpress]
+topic_cluster: wp-migration
+intent: reference
+tier: warm
 ---
 
 # 🚚 Migration WP.com → VPS — 2026-04-25

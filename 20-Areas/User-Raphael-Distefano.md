@@ -12,6 +12,15 @@ related:
   - "[[Dev-PMS-Area]]"
   - "[[Workflow-Collaboration-IA]]"
 aliases: [Raphaël, Raph]
+id: 202604252023-user-raphael-distefano
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Owner-operator Le Jardin Tropical, pilote PMS Next.js + WordPress, daily driver Claude Code, base Bouillante."
+entities: [docker, nextjs, pms, site-wordpress, wordpress]
+topic_cluster: area-hub
+intent: reference
+tier: hot
 ---
 
 # 👤 Raphaël Distefano

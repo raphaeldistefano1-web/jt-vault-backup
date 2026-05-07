@@ -13,6 +13,15 @@ related:
   - "[[Bug-PharData-RAM-OOM]]"
 supersedes: []
 superseded_by: "[[JT-Migrate-v1.1.0]]"
+id: 202604252034-jt-migrate-v1-0-0
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "❌ Superseded par JT-Migrate-v1.1.0."
+entities: [debugging, migration, site-wordpress]
+topic_cluster: wp-migration
+intent: reference
+tier: warm
 ---
 
 # 📦 JT Migrate v1.0.0

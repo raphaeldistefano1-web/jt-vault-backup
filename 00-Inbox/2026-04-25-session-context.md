@@ -11,6 +11,15 @@ related:
   - "[[INDEX]]"
   - "[[Vault-Setup]]"
   - "[[TODO-centralized]]"
+id: 202604252113-2026-04-25-session-context
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes."
+entities: [migration, obsidian, rag, site-wordpress, wordpress]
+topic_cluster: general
+intent: reference
+tier: warm
 ---
 
 # 📝 Session 2026-04-25 — log de fin

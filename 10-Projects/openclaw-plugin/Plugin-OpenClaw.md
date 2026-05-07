@@ -11,6 +11,15 @@ related:
   - "[[PMS-AI-Assistant]]"
   - "[[OpenClaw-VPS-Reference]]"
   - "[[Bug-OpenClaw-Plugin-Sandbox]]"
+id: 202604252031-plugin-openclaw
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Plugin IA du PMS — Feature 1 OAuth Codex livrée sur /dashboard/ai, Feature 2 routines en attente."
+entities: [authentication, dashboard, oauth, pms]
+topic_cluster: openclaw-integration
+intent: reference
+tier: warm
 ---
 
 # 🔌 Plugin OpenClaw PMS

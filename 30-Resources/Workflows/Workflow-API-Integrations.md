@@ -10,6 +10,15 @@ ai_writable: false
 related:
   - "[[PMS-Settings-Hub]]"
   - "[[Dev-PMS-Area]]"
+id: 202604252029-workflow-api-integrations
+embed_model_version: null
+embed_hash: null
+last-accessed: 2026-04-25
+summary: "Toute clé API externe Stripe, Brevo, OVH, Claude, OpenAI… doit passer par l'UI /dashboard/settings/integrations du Dev-P…"
+entities: [api, brevo, dashboard, pms]
+topic_cluster: pms-integrations
+intent: how-to
+tier: warm
 ---
 
 # 🔑 Workflow API Integrations
