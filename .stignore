@@ -1,0 +1,32 @@
+# Syncthing ignore patterns for jt-vault
+# (Mac side will get the same .stignore via sync, so changes here propagate.)
+
+# Git internals — never sync
+.git
+.git/**
+
+# Obsidian workspace state (per-device, conflicts otherwise)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# OS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+desktop.ini
+
+# Editor swap files
+*.swp
+*.swo
+*~
+.#*
+
+# Syncthing internals
+.stversions
+.stfolder
+.stignore.tmp
+
+# Conflict markers (always ignored by syncthing but explicit)
+*.sync-conflict-*
