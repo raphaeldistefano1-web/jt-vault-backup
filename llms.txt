@@ -1,100 +1,63 @@
-# Vault Le Jardin Tropical — cerveau IA unifié
+# Vault Raphaël Distefano — cerveau IA multi-projets
 
-> Knowledge graph dense pour Raphaël Distefano (owner-operator hôtel + PMS Next.js + site WordPress). Mémoire unifiée pour Claude / ChatGPT / Gemini / Cursor / Claude Code via MCP + AGENTS.md.
+> Cerveau Obsidian unifié pour Raphaël Distefano (owner-operator hôtel Le Jardin Tropical + dev quotidien PMS, site WordPress, automatisations).
+>
+> **Mis à jour 2026-05-07** — refondé en architecture multi-projets auto-alimentée.
 
-Le vault est organisé en **PARA + couche IA** : Projects (10-), Areas (20-), Resources (30-), Archives (40-), MOCs (50-), Daily (60-), Meta (90-).
+## Comment naviguer (token-efficient)
 
-Atomic notes 200-1500 mots avec frontmatter strict + 5-15 wikilinks/note pour densité neuronale. Pattern : MOC d'abord (entry point), atomic notes à la demande (progressive disclosure pour économiser tokens).
+1. Lire `AGENTS.md` (= `CLAUDE.md`) pour orientation 30s
+2. Lire `INDEX.md` pour navigation par couche
+3. Identifier le projet courant et ouvrir son `_MOC-<projet>.md`
+4. Lire les notes pertinentes filtrées par frontmatter `summary` + `tier`
+5. **Jamais de glob brut** — la hiérarchie d'entrée est obligatoire
 
-## Quickstart
+## Structure (PARA enrichie)
 
-- [AGENTS.md](AGENTS.md) — orientation universelle des IA
-- [INDEX.md](INDEX.md) — navigation hiérarchique du vault
-- [README.md](README.md) — quickstart pour humain (Obsidian setup)
+- `00-Inbox/` — capture brute (dispatchée par vault-curator quotidien)
+- `05-Daily/` — journal quotidien auto-généré
+- `10-Projects/<slug>/` — projets actifs avec MOC dédié :
+  - `pms-jardin-tropical/` — PMS Next.js custom
+  - `claude-system/` — système IA personnel (agents, skills, hooks, vault)
+  - `site-wordpress/` — site lejardintropical
+  - `openclaw-plugin/` — plugin OpenClaw + gateway IA
+  - `desktop-app-electron/` — wrapper desktop PMS
+  - `jt-migrate/` — plugin migration WordPress
+  - `n8n-automations/` — n8n + bus events
+  - `montage-video/` — pipeline Whisper→Claude→FFmpeg
+- `20-Areas/<slug>/` — responsabilités continues (hotel-operations, dev-tooling, marketing-comm, personal)
+- `30-Resources/` — concepts, workflows, snippets, credentials-encrypted
+- `40-Archives/` — READ-ONLY (jamais modifier)
+- `50-MOCs/` — Maps of Content transversales (Decisions-Log, Lessons-Learned, Stack-Tech, Hotel)
+- `60-Permanent/` — Zettelkasten atomique évergreen
+- `90-Meta/` — templates, schemas, bases (Obsidian Bases .base)
 
-## MOCs (Maps of Content)
+## Frontmatter canonique
 
-- [50-MOCs/Hotel.md](50-MOCs/Hotel.md) — entry point hôtel Le Jardin Tropical
-- [50-MOCs/PMS.md](50-MOCs/PMS.md) — entry point PMS Next.js
-- [50-MOCs/Site-WordPress.md](50-MOCs/Site-WordPress.md) — entry point site WP
+Référence : `90-Meta/schemas/note-schema.md`. Champs critiques pour retrieval :
+- `id` : `YYYYMMDDHHMM-slug` (immuable)
+- `summary` : 1 phrase 25 mots max (lue par IA AVANT le corps)
+- `entities` : 3-7 entités (filtrage par sujet)
+- `tier` : `hot` | `warm` | `cold` (politique chargement)
+- `embed_model_version` + `embed_hash` : future-proof semantic search
 
-## Areas
+## Règles strictes pour IA
 
-- [20-Areas/User-Raphael-Distefano.md](20-Areas/User-Raphael-Distefano.md)
-- [20-Areas/Hotel-Le-Jardin-Tropical.md](20-Areas/Hotel-Le-Jardin-Tropical.md)
-- [20-Areas/Dev-PMS-Area.md](20-Areas/Dev-PMS-Area.md)
-- [20-Areas/Site-WordPress.md](20-Areas/Site-WordPress.md)
-- [20-Areas/Workflow-Collaboration-IA.md](20-Areas/Workflow-Collaboration-IA.md)
+1. Toute note IA → `00-Inbox/` avec frontmatter complet (id horodaté)
+2. Modif uniquement si `ai_writable: true`
+3. Append-only sur decisions, contracts
+4. `updated:` strict à chaque modif
+5. `related: ≥ 1` (anti-orphelin)
+6. Tags ≤ 3 (taxonomie fermée dans AGENTS.md)
+7. Wikilinks par titre, sauf collision → utiliser `id`
 
-## Concepts / Standards
+## Identité utilisateur
 
-- [30-Resources/Concepts/MCP-Model-Context-Protocol.md](30-Resources/Concepts/MCP-Model-Context-Protocol.md)
-- [30-Resources/Concepts/AGENTS-md-standard.md](30-Resources/Concepts/AGENTS-md-standard.md)
-- [30-Resources/Concepts/llms-txt-standard.md](30-Resources/Concepts/llms-txt-standard.md)
-- [30-Resources/Concepts/GEO-Generative-Engine-Optimization.md](30-Resources/Concepts/GEO-Generative-Engine-Optimization.md)
-- [30-Resources/Concepts/Schema-org-LodgingBusiness.md](30-Resources/Concepts/Schema-org-LodgingBusiness.md)
-- [30-Resources/Concepts/Schema-FAQPage.md](30-Resources/Concepts/Schema-FAQPage.md)
-- [30-Resources/Concepts/Robots-txt-LLM-Aware.md](30-Resources/Concepts/Robots-txt-LLM-Aware.md)
-- [30-Resources/Concepts/Mu-plugin-vs-Theme-Pattern.md](30-Resources/Concepts/Mu-plugin-vs-Theme-Pattern.md)
-- [30-Resources/Concepts/Atomic-Notes-Pattern.md](30-Resources/Concepts/Atomic-Notes-Pattern.md)
-- [30-Resources/Concepts/Frontmatter-Standard.md](30-Resources/Concepts/Frontmatter-Standard.md)
+Raphaël Distefano, owner-operator hôtel **Le Jardin Tropical** (14 chambres, Bouillante, Guadeloupe). Stack quotidienne : PMS Next.js custom + WordPress + Claude Code. Préférences : explications concrètes en français, action > sur-planification.
 
-## Workflows
+## Phase de transition (mai 2026)
 
-- [30-Resources/Workflows/Workflow-Preview-Then-Apply.md](30-Resources/Workflows/Workflow-Preview-Then-Apply.md)
-- [30-Resources/Workflows/Workflow-Deploy-PMS.md](30-Resources/Workflows/Workflow-Deploy-PMS.md)
-- [30-Resources/Workflows/Workflow-API-Integrations.md](30-Resources/Workflows/Workflow-API-Integrations.md)
-- [30-Resources/Workflows/Workflow-Cross-Feature-Coherence.md](30-Resources/Workflows/Workflow-Cross-Feature-Coherence.md)
-- [30-Resources/Workflows/Workflow-File-Share-Uploads.md](30-Resources/Workflows/Workflow-File-Share-Uploads.md)
-
-## Resources Stack
-
-- [30-Resources/Stack-Tech.md](30-Resources/Stack-Tech.md)
-- [30-Resources/VPS-Hostinger.md](30-Resources/VPS-Hostinger.md)
-- [30-Resources/Sub-agents-internes-PMS.md](30-Resources/Sub-agents-internes-PMS.md)
-- [30-Resources/OpenClaw-VPS-Reference.md](30-Resources/OpenClaw-VPS-Reference.md)
-
-## Projects PMS
-
-- [10-Projects/PMS/PMS-Stack.md](10-Projects/PMS/PMS-Stack.md)
-- [10-Projects/PMS/PMS-Dashboard-v2.md](10-Projects/PMS/PMS-Dashboard-v2.md)
-- [10-Projects/PMS/PMS-Calendar-v2.md](10-Projects/PMS/PMS-Calendar-v2.md)
-- [10-Projects/PMS/PMS-Settings-Hub.md](10-Projects/PMS/PMS-Settings-Hub.md)
-- [10-Projects/PMS/PMS-AI-Assistant.md](10-Projects/PMS/PMS-AI-Assistant.md)
-- [10-Projects/PMS/Desktop-App-Electron.md](10-Projects/PMS/Desktop-App-Electron.md)
-- [10-Projects/PMS/Plugin-OpenClaw.md](10-Projects/PMS/Plugin-OpenClaw.md)
-
-## Projects Site Web
-
-- [10-Projects/Site-Web/Theme-jardintropical-child.md](10-Projects/Site-Web/Theme-jardintropical-child.md)
-- [10-Projects/Site-Web/Mu-plugin-jt-seo-extras.md](10-Projects/Site-Web/Mu-plugin-jt-seo-extras.md)
-- [10-Projects/Site-Web/Site-Plugins-Stack-2026-04-25.md](10-Projects/Site-Web/Site-Plugins-Stack-2026-04-25.md)
-- [10-Projects/Site-Web/Site-WordPress-Optimisation-2026-04-25.md](10-Projects/Site-Web/Site-WordPress-Optimisation-2026-04-25.md)
-- [10-Projects/Site-Web/Plugin-jt-booking.md](10-Projects/Site-Web/Plugin-jt-booking.md)
-
-## Projects JT-Migrate
-
-- [10-Projects/JT-Migrate/Plugin-jt-migrate.md](10-Projects/JT-Migrate/Plugin-jt-migrate.md)
-- [10-Projects/JT-Migrate/Migration-WP-com-vers-VPS-2026-04-25.md](10-Projects/JT-Migrate/Migration-WP-com-vers-VPS-2026-04-25.md)
-- [10-Projects/JT-Migrate/JT-Migrate-v1.0.0.md](10-Projects/JT-Migrate/JT-Migrate-v1.0.0.md)
-- [10-Projects/JT-Migrate/JT-Migrate-v1.1.0.md](10-Projects/JT-Migrate/JT-Migrate-v1.1.0.md)
-- [10-Projects/JT-Migrate/JT-Migrate-v1.2.0.md](10-Projects/JT-Migrate/JT-Migrate-v1.2.0.md)
-- [10-Projects/JT-Migrate/JT-Migrate-v1.2.1.md](10-Projects/JT-Migrate/JT-Migrate-v1.2.1.md)
-
-## Decisions (chronologique)
-
-- [10-Projects/Decisions/Decision-Mu-plugin-vs-RankMath.md](10-Projects/Decisions/Decision-Mu-plugin-vs-RankMath.md)
-- [10-Projects/Decisions/Decision-Streaming-tar-gz-vs-PharData.md](10-Projects/Decisions/Decision-Streaming-tar-gz-vs-PharData.md)
-- [10-Projects/Decisions/Decision-Redis-Object-Cache-Disabled.md](10-Projects/Decisions/Decision-Redis-Object-Cache-Disabled.md)
-- [10-Projects/Decisions/Decision-Robots-txt-LLM-Aware.md](10-Projects/Decisions/Decision-Robots-txt-LLM-Aware.md)
-- [10-Projects/Decisions/Decision-Akismet-vers-Antispam-Bee.md](10-Projects/Decisions/Decision-Akismet-vers-Antispam-Bee.md)
-- [10-Projects/Decisions/Decision-Disable-WP-Cron-cron-Linux.md](10-Projects/Decisions/Decision-Disable-WP-Cron-cron-Linux.md)
-
-## Bugs / Lessons learned
-
-- [10-Projects/Bugs/Bug-PharData-RAM-OOM.md](10-Projects/Bugs/Bug-PharData-RAM-OOM.md)
-- [10-Projects/Bugs/Bug-JT-Migrate-Auth-Loss-After-DB-Restore.md](10-Projects/Bugs/Bug-JT-Migrate-Auth-Loss-After-DB-Restore.md)
-- [10-Projects/Bugs/Bug-Apache-Timeout-300-vs-Uploads.md](10-Projects/Bugs/Bug-Apache-Timeout-300-vs-Uploads.md)
-- [10-Projects/Bugs/Bug-Redis-WPO-Advanced-Cache-Conflict.md](10-Projects/Bugs/Bug-Redis-WPO-Advanced-Cache-Conflict.md)
-- [10-Projects/Bugs/Bug-WP-Image-Encoding-Accent.md](10-Projects/Bugs/Bug-WP-Image-Encoding-Accent.md)
-- [10-Projects/Bugs/Bug-WP-Link-Blog-404.md](10-Projects/Bugs/Bug-WP-Link-Blog-404.md)
+- Phase 0-1 ✅ : structure multi-projets, MOCs créés, schemas définis
+- Phase 2 (en cours) : migrator frontmatter étendu sur 32 notes existantes
+- Phase 3 (à venir) : hook Stop extract_memory (Haiku 4.5)
+- Phase 4+ (différée) : MCP server, semantic search (Smart Connections + nomic-embed-text-v2-moe + sqlite-vec)

@@ -1,150 +1,118 @@
 ---
+id: 20260507-1110-index-root
 type: moc
+title: "INDEX racine — cerveau multi-projets"
+project: null
+area: null
 status: active
-tags: [index, root, moc]
+confidence: high
+summary: "Entry point racine du vault — navigation par couches PARA + MOCs par projet."
+intent: reference
+entities: [vault, index, navigation]
+topic_cluster: meta
+related: ["[[AGENTS]]", "[[Decisions-Log]]", "[[Lessons-Learned]]"]
+moc: null
+source: null
+tier: hot
 created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "INDEX racine du vault — entry point pour humains et IA, navigation par couches"
+updated: 2026-05-07
+last-accessed: 2026-05-07
+embed_model_version: null
+embed_hash: null
+tags: [index, root, moc]
 ai_writable: false
 ---
 
-# 🧠 INDEX — Cerveau Le Jardin Tropical
+# 🧠 INDEX — Cerveau Raphaël Distefano
 
-> Vault Obsidian pour [[User-Raphael-Distefano|Raphaël]]. Mémoire unifiée pour Claude / ChatGPT / Gemini / Cursor / Claude Code via [[MCP-Model-Context-Protocol|MCP]] + [[AGENTS-md-standard|AGENTS.md]].
+> Vault Obsidian multi-projets. Mémoire unifiée pour Claude Code / Cursor / ChatGPT / Gemini via [[AGENTS]] (= CLAUDE.md).
 >
-> Initialisé 2026-04-25.
+> Refondé 2026-05-07 en architecture multi-projets auto-alimentée.
 
 ## 🚀 Quickstart pour une IA qui débarque
 
-1. Lire **[[AGENTS.md]]** (= CLAUDE.md) — orientation 30s
-2. Lire ce fichier ([[INDEX]]) — navigation par couche
-3. Choisir la **MOC pertinente** selon la question
-4. Charger **uniquement les notes nécessaires** (atomic notes 200-1500 mots)
+1. Lire **[[AGENTS]]** → orientation 30s
+2. Identifier le projet courant (depuis `cwd`, le prompt user, ou demander)
+3. Ouvrir le **`_MOC-<projet>`** correspondant (cf. tableau ci-dessous)
+4. Lire **uniquement** les notes pertinentes (filtrer par frontmatter `summary` + `tier`)
+5. **Jamais de glob brut** sur le vault (cramerait les tokens)
 
-## 🗺️ MOCs (Maps of Content)
+## 🗺️ MOCs par projet (10-Projects)
 
-Les MOCs sont des **hubs neuraux** — entry points par sujet. Lire la MOC d'abord, charger les notes liées **à la demande**.
+| Projet | MOC | Status | Tier |
+|---|---|---|---|
+| PMS Jardin Tropical | [[_MOC-pms]] | 🟢 Actif | hot |
+| Claude System | [[_MOC-claude-system]] | 🟢 Actif | hot |
+| Site WordPress | [[_MOC-site-wordpress]] | 🟢 Actif | hot |
+| OpenClaw Plugin | [[_MOC-openclaw]] | 🟢 Actif | hot |
+| Desktop App Electron | [[_MOC-desktop-app]] | 🟡 Maintenance | warm |
+| JT-Migrate | [[_MOC-jt-migrate]] | 🟡 Audit en cours | warm |
+| n8n Automations | [[_MOC-n8n]] | 🟢 Actif | hot |
+| Montage Vidéo | [[_MOC-montage-video]] | 🟠 Démarrage | warm |
 
-| MOC | Sujet | Liens |
+## 🌐 MOCs transversales (50-MOCs)
+
+| MOC | Contenu | Filter |
 |---|---|---|
-| [[Hotel]] | Hôtel Le Jardin Tropical (business, capacité, services) | 🌺 |
-| [[PMS]] | PMS Next.js custom (dev, archi, état) | 💻 |
-| [[Site-WordPress]] | Site WP (vitrine, booking, optims, plugins) | 🌐 |
-| [[Stack-Tech]] | Stack technique transversale (VPS, ports, paths) | 🔧 |
-| [[Decisions-Log]] | Toutes les décisions techniques (chronologique) | 🎯 |
-| [[Lessons-Learned]] | Apprentissages transversaux | 💡 |
+| [[Decisions-Log]] | Toutes les décisions techniques (chronologique) | par `project:` |
+| [[Lessons-Learned]] | Apprentissages transversaux | par `topic_cluster:` |
+| [[Stack-Tech]] | VPS, ports, paths, infra | global |
+| [[Hotel]] | Business, capacité, services | global |
 
-## 👤 Identité
+## 🏛️ Areas (20-Areas) — responsabilités continues
 
-- [[User-Raphael-Distefano]] — profil utilisateur, préférences IA
-- [[Workflow-Collaboration-IA]] — comment Raphaël collabore avec ses IA
+| Area | Sujet |
+|---|---|
+| `hotel-operations/` | Gestion quotidienne, équipe, RGPD |
+| `dev-tooling/` | VPS, Tailscale, backups, monitoring |
+| `marketing-comm/` | Site, SEO, réseaux sociaux |
+| `personal/` | Profil utilisateur, préférences |
 
-## 🛏️ Areas (PARA)
+## 📚 Resources (30-Resources)
 
-Responsabilités continues, pas de deadline :
+- `concepts/` — Modèles mentaux réutilisables
+- `workflows/` — Procédures
+- `snippets/` — Bouts de code réutilisables
+- `credentials-encrypted/` — Secrets chiffrés (age/gpg)
 
-- [[Hotel-Le-Jardin-Tropical]]
-- [[Dev-PMS-Area]]
-- [[Site-WordPress]]
-- [[Workflow-Collaboration-IA]]
+## 🌱 Permanent notes (60-Permanent)
 
-## 🚧 Projects (PARA)
+Notes atomiques évergreen (style Zettelkasten). À enrichir au fil du temps avec les apprentissages durables transversaux aux projets.
 
-### PMS
+## 📥 Inbox (00-Inbox) — capture brute
 
-- [[PMS-Stack]]
-- [[PMS-Dashboard-v2]]
-- [[PMS-Calendar-v2]]
-- [[PMS-Settings-Hub]]
-- [[PMS-AI-Assistant]]
-- [[Desktop-App-Electron]]
-- [[Plugin-OpenClaw]]
+Notes en attente de dispatch. Vidée par le **vault-curator** quotidien (Phase 5 future) ou manuellement.
 
-### Site Web
+## 📅 Daily (05-Daily)
 
-- [[Site-WordPress-Optimisation-2026-04-25]] — 3 loops d'optim (perf+SEO+sec+a11y)
-- [[Theme-jardintropical-child]]
-- [[Mu-plugin-jt-seo-extras]]
-- [[Site-Plugins-Stack-2026-04-25]]
-- [[Plugin-jt-booking]]
+Journal quotidien `YYYY-MM-DD.md` auto-généré (Phase 5 future).
 
-### JT Migrate
+## 🗄️ Archives (40-Archives) — READ-ONLY
 
-- [[Plugin-jt-migrate]] (v1.2.1 active)
-- [[Migration-WP-com-vers-VPS-2026-04-25]]
-- [[JT-Migrate-v1.0.0]] → [[JT-Migrate-v1.1.0]] → [[JT-Migrate-v1.2.0]] → [[JT-Migrate-v1.2.1]]
+Projets clos. Aucune IA ne doit les modifier.
 
-### Decisions (chronologique)
+## 📦 Meta (90-Meta)
 
-- [[Decision-Mu-plugin-vs-RankMath]]
-- [[Decision-Streaming-tar-gz-vs-PharData]]
-- [[Decision-Redis-Object-Cache-Disabled]]
-- [[Decision-Robots-txt-LLM-Aware]]
-- [[Decision-Akismet-vers-Antispam-Bee]]
-- [[Decision-Disable-WP-Cron-cron-Linux]]
+- `templates/` — `note-template.md` à utiliser pour toute nouvelle note
+- `schemas/` — `note-schema.md` (référence frontmatter)
+- `bases/` — Obsidian Bases (.base files) — vues dynamiques
 
-### Bugs / Lessons
+## 🔍 Recherche & retrieval
 
-- [[Bug-PharData-RAM-OOM]] → leçon : `PharData` pas scalable, streaming USTAR custom
-- [[Bug-JT-Migrate-Auth-Loss-After-DB-Restore]] → leçon : pipelines doivent ordonner les modifs auth-affecting EN DERNIER
-- [[Bug-Apache-Timeout-300-vs-Uploads]] → leçon : Apache default Timeout=300 tue les gros uploads
-- [[Bug-Redis-WPO-Advanced-Cache-Conflict]] → leçon : drop-ins WP mutuellement exclusifs
-- [[Bug-WP-Image-Encoding-Accent]] → leçon : symlink quand search-replace ne trouve pas
-- [[Bug-WP-Link-Blog-404]] → leçon : `parse_request` > `template_redirect` pour 404 redirects
+**À 67 notes (état actuel)** : `grep` + frontmatter `summary` suffisent.
 
-## 📚 Resources
+**À ~300 notes (Phase 4 future)** : activation **semantic search** :
+- Plugin Smart Connections + Ollama + `nomic-embed-text-v2-moe`
+- Stockage `sqlite-vec` (hybrid BM25 + semantic)
+- MCP `dan6684/smart-connections-mcp` côté Claude
 
-### Concepts / Standards
+## 📊 État du vault (2026-05-07)
 
-- [[MCP-Model-Context-Protocol]]
-- [[AGENTS-md-standard]]
-- [[llms-txt-standard]]
-- [[GEO-Generative-Engine-Optimization]]
-- [[Schema-org-LodgingBusiness]]
-- [[Schema-FAQPage]]
-- [[Robots-txt-LLM-Aware]]
-- [[Mu-plugin-vs-Theme-Pattern]]
-- [[Atomic-Notes-Pattern]]
-- [[Frontmatter-Standard]]
-
-### Workflows
-
-- [[Workflow-Preview-Then-Apply]]
-- [[Workflow-Deploy-PMS]]
-- [[Workflow-API-Integrations]]
-- [[Workflow-Cross-Feature-Coherence]]
-- [[Workflow-File-Share-Uploads]]
-
-### Stack & Infra
-
-- [[Stack-Tech]]
-- [[VPS-Hostinger]]
-- [[Sub-agents-internes-PMS]]
-- [[OpenClaw-VPS-Reference]]
-
-## 📋 To-do persistante
-
-- [[TODO-centralized]] — actions que [[User-Raphael-Distefano|Raphaël]] doit faire manuellement (à présenter quand il demande "ma to-do")
-
-## 🔍 Pour chercher
-
-- **Recherche sémantique** : Smart Connections (à activer dans Obsidian Settings)
-- **Recherche graphe** : Graph view Obsidian + plugin Graph Analysis
-- **Via IA** : un agent connecté en MCP peut faire `search`/`list_files`/`read_file` directement
-
-## 📐 Convention frontmatter
-
-Cf. [[Frontmatter-Standard]]. Tous les nouveaux notes doivent avoir au minimum :
-```yaml
-type, status, tags, created, updated, relevance, description, ai_writable
-```
-
-## 🔗 Conventions de liens
-
-- `[[Note]]` simple
-- `[[Note|alias]]`
-- Frontmatter `related: ["[[Note1]]", "[[Note2]]"]`
-- Frontmatter `depends_on:`, `supersedes:`, `superseded_by:`
-
-Cibler **5-15 wikilinks** par note pour densité neuronale (cf. [[Atomic-Notes-Pattern]]).
+- Notes totales : **67** (pré-refonte)
+- Wikilinks : **619+**
+- Projets avec MOC : **8** (créés Phase 1)
+- Frontmatter étendu : **0%** (Phase 2 à venir)
+- Auto-alimentation hooks : **Pas active** (Phase 3 à venir)
+- Semantic search : **Pas active** (Phase 4 future, seuil ~300 notes)
+- Path canonique : `/srv/vault/` (symlink rétro `/srv/vault-jardin-tropical/`)
+- Versionning : git (tag `pre-rebuild-2026-05-07` posé avant refonte)
