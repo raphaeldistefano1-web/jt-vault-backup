@@ -1,27 +1,35 @@
 ---
-type: project
-status: superseded
-tags: [jt-migrate, version, bug]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: low
-description: "Première version JT Migrate — bloque sur sites > 100 MB à cause de PharData::compress qui charge tout en RAM"
 ai_writable: false
-related:
-  - "[[Plugin-jt-migrate]]"
-  - "[[JT-Migrate-v1.1.0]]"
-  - "[[Bug-PharData-RAM-OOM]]"
-supersedes: []
-superseded_by: "[[JT-Migrate-v1.1.0]]"
-id: 202604252034-jt-migrate-v1-0-0
-embed_model_version: null
+created: 2026-04-25
+description: Première version JT Migrate — bloque sur sites > 100 MB à cause de PharData::compress
+  qui charge tout en RAM
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "❌ Superseded par JT-Migrate-v1.1.0."
-entities: [debugging, migration, site-wordpress]
-topic_cluster: wp-migration
+embed_model_version: null
+entities:
+- debugging
+- migration
+- site-wordpress
+id: 202604252034-jt-migrate-v1-0-0
 intent: reference
+last-accessed: 2026-04-25
+project: jt-migrate
+related:
+- '[[Plugin-jt-migrate]]'
+- '[[JT-Migrate-v1.1.0]]'
+- '[[Bug-PharData-RAM-OOM]]'
+relevance: low
+status: superseded
+summary: ❌ Superseded par JT-Migrate-v1.1.0.
+superseded_by: '[[JT-Migrate-v1.1.0]]'
+supersedes: []
+tags:
+- jt-migrate
+- version
+- bug
 tier: warm
+topic_cluster: wp-migration
+type: project
+updated: 2026-04-25
 ---
 
 # 📦 JT Migrate v1.0.0

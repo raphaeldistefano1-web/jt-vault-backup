@@ -1,26 +1,35 @@
 ---
-type: project
-status: completed
-tags: [pms, ui, dashboard, v2]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Dashboard v2 du PMS — appliqué prod après preview-then-apply, refonte centralisée"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[Workflow-Preview-Then-Apply]]"
-  - "[[PMS-Calendar-v2]]"
-  - "[[PMS-Settings-Hub]]"
-id: 202604252030-pms-dashboard-v2
-embed_model_version: null
+created: 2026-04-25
+description: Dashboard v2 du PMS — appliqué prod après preview-then-apply, refonte
+  centralisée
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "✅ Appliqué prod cf. mémoire projectpmsstate.md."
-entities: [calendar, dashboard, pms]
-topic_cluster: pms-stack
+embed_model_version: null
+entities:
+- calendar
+- dashboard
+- pms
+id: 202604252030-pms-dashboard-v2
 intent: reference
+last-accessed: 2026-04-25
+project: pms-jardin-tropical
+related:
+- '[[Dev-PMS-Area]]'
+- '[[Workflow-Preview-Then-Apply]]'
+- '[[PMS-Calendar-v2]]'
+- '[[PMS-Settings-Hub]]'
+relevance: medium
+status: completed
+summary: ✅ Appliqué prod cf. mémoire projectpmsstate.md.
+tags:
+- pms
+- ui
+- dashboard
+- v2
 tier: hot
+topic_cluster: pms-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 📊 PMS Dashboard v2

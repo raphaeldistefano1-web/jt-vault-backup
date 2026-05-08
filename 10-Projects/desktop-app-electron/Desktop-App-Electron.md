@@ -1,25 +1,34 @@
 ---
-type: project
-status: deployed
-tags: [pms, electron, desktop, app]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Wrapper Electron v1.3.0 du PMS — notifs natives, badge dock, tray menu bar, deep links pms://, mode offline lecture"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[PMS-Stack]]"
-  - "[[Bug-Cross-Compile-Linux-MacOS]]"
-id: 202604252031-desktop-app-electron
-embed_model_version: null
+created: 2026-04-25
+description: Wrapper Electron v1.3.0 du PMS — notifs natives, badge dock, tray menu
+  bar, deep links pms://, mode offline lecture
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "✅ Déployée prod cf. mémoire projectpmsdesktopapp.md."
-entities: [api, electron, pms]
-topic_cluster: pms-desktop
+embed_model_version: null
+entities:
+- api
+- electron
+- pms
+id: 202604252031-desktop-app-electron
 intent: reference
+last-accessed: 2026-04-25
+project: desktop-app-electron
+related:
+- '[[Dev-PMS-Area]]'
+- '[[PMS-Stack]]'
+- '[[Bug-Cross-Compile-Linux-MacOS]]'
+relevance: high
+status: deployed
+summary: ✅ Déployée prod cf. mémoire projectpmsdesktopapp.md.
+tags:
+- pms
+- electron
+- desktop
+- app
 tier: warm
+topic_cluster: pms-desktop
+type: project
+updated: 2026-04-25
 ---
 
 # 🖥️ Desktop App Electron v1.3.0

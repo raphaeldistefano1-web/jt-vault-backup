@@ -1,25 +1,36 @@
 ---
-type: project
-status: partial
-tags: [pms, plugin, ia, openclaw]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Plugin OpenClaw du PMS — IA assistant, Feature 1 OAuth Codex livrée, Feature 2 routines reportée"
 ai_writable: false
-related:
-  - "[[PMS-AI-Assistant]]"
-  - "[[OpenClaw-VPS-Reference]]"
-  - "[[Bug-OpenClaw-Plugin-Sandbox]]"
-id: 202604252031-plugin-openclaw
-embed_model_version: null
+created: 2026-04-25
+description: Plugin OpenClaw du PMS — IA assistant, Feature 1 OAuth Codex livrée,
+  Feature 2 routines reportée
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Plugin IA du PMS — Feature 1 OAuth Codex livrée sur /dashboard/ai, Feature 2 routines en attente."
-entities: [authentication, dashboard, oauth, pms]
-topic_cluster: openclaw-integration
+embed_model_version: null
+entities:
+- authentication
+- dashboard
+- oauth
+- pms
+id: 202604252031-plugin-openclaw
 intent: reference
+last-accessed: 2026-04-25
+project: openclaw-plugin
+related:
+- '[[PMS-AI-Assistant]]'
+- '[[OpenClaw-VPS-Reference]]'
+- '[[Bug-OpenClaw-Plugin-Sandbox]]'
+relevance: high
+status: partial
+summary: Plugin IA du PMS — Feature 1 OAuth Codex livrée sur /dashboard/ai, Feature
+  2 routines en attente.
+tags:
+- pms
+- plugin
+- ia
+- openclaw
 tier: warm
+topic_cluster: openclaw-integration
+type: project
+updated: 2026-04-25
 ---
 
 # 🔌 Plugin OpenClaw PMS

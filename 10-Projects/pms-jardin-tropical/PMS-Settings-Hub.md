@@ -1,25 +1,35 @@
 ---
-type: project
-status: completed
-tags: [pms, settings, ui]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Hub central des paramètres PMS — consolidation de tous les settings dispersés en un point d'entrée"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[Workflow-API-Integrations]]"
-  - "[[PMS-AI-Assistant]]"
-id: 202604252030-pms-settings-hub
-embed_model_version: null
+created: 2026-04-25
+description: Hub central des paramètres PMS — consolidation de tous les settings dispersés
+  en un point d'entrée
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "✅ Consolidé cf. mémoire projectpmsstate.md. Tous les paramètres précédemment dispersés sont maintenant accessibles depui…"
-entities: [api, brevo, dashboard, pms]
-topic_cluster: pms-stack
+embed_model_version: null
+entities:
+- api
+- brevo
+- dashboard
+- pms
+id: 202604252030-pms-settings-hub
 intent: reference
+last-accessed: 2026-04-25
+project: pms-jardin-tropical
+related:
+- '[[Dev-PMS-Area]]'
+- '[[Workflow-API-Integrations]]'
+- '[[PMS-AI-Assistant]]'
+relevance: medium
+status: completed
+summary: ✅ Consolidé cf. mémoire projectpmsstate.md. Tous les paramètres précédemment
+  dispersés sont maintenant accessibles depui…
+tags:
+- pms
+- settings
+- ui
 tier: hot
+topic_cluster: pms-stack
+type: project
+updated: 2026-04-25
 ---
 
 # ⚙️ PMS Settings Hub

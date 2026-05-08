@@ -1,25 +1,36 @@
 ---
-type: note
-status: active
-tags: [session, log, continue]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Log de fin de session 2026-04-25 — vault construit, Phase 5 MCP à reprendre demain, double-write actif"
 ai_writable: true
-related:
-  - "[[INDEX]]"
-  - "[[Vault-Setup]]"
-  - "[[TODO-centralized]]"
-id: 202604252113-2026-04-25-session-context
-embed_model_version: null
+created: 2026-04-25
+description: Log de fin de session 2026-04-25 — vault construit, Phase 5 MCP à reprendre
+  demain, double-write actif
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes."
-entities: [migration, obsidian, rag, site-wordpress, wordpress]
-topic_cluster: general
+embed_model_version: null
+entities:
+- migration
+- obsidian
+- rag
+- site-wordpress
+- wordpress
+id: 202604252113-2026-04-25-session-context
 intent: reference
+last-accessed: 2026-04-25
+project: claude-system
+related:
+- '[[INDEX]]'
+- '[[Vault-Setup]]'
+- '[[TODO-centralized]]'
+relevance: high
+status: active
+summary: 'Session log 2026-04-25: migration WP, site optimization, Obsidian vault
+  construction with 67 notes.'
+tags:
+- session
+- log
+- continue
 tier: warm
+topic_cluster: general
+type: note
+updated: 2026-04-25
 ---
 
 # 📝 Session 2026-04-25 — log de fin

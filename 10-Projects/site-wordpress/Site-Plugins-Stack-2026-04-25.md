@@ -1,27 +1,37 @@
 ---
-type: project
-status: active
-tags: [wordpress, plugins, stack]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Stack 10 plugins WP actifs au 2026-04-25 + état post-cleanup (akismet/all-in-one-wp-migration/hello/wp-robots-txt désinstallés)"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-  - "[[Plugin-jt-booking]]"
-  - "[[Plugin-jt-migrate]]"
-  - "[[Decision-Akismet-vers-Antispam-Bee]]"
-  - "[[Decision-Redis-Object-Cache-Disabled]]"
-id: 202604252033-site-plugins-stack-2026-04-25
-embed_model_version: null
+created: 2026-04-25
+description: Stack 10 plugins WP actifs au 2026-04-25 + état post-cleanup (akismet/all-in-one-wp-migration/hello/wp-robots-txt
+  désinstallés)
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "| Plugin | Version | Rôle | Notes |"
-entities: [akismet, antispam-bee, booking, migration, site-wordpress]
-topic_cluster: wordpress-stack
+embed_model_version: null
+entities:
+- akismet
+- antispam-bee
+- booking
+- migration
+- site-wordpress
+id: 202604252033-site-plugins-stack-2026-04-25
 intent: reference
+last-accessed: 2026-04-25
+project: site-wordpress
+related:
+- '[[Site-WordPress]]'
+- '[[Plugin-jt-booking]]'
+- '[[Plugin-jt-migrate]]'
+- '[[Decision-Akismet-vers-Antispam-Bee]]'
+- '[[Decision-Redis-Object-Cache-Disabled]]'
+relevance: high
+status: active
+summary: '| Plugin | Version | Rôle | Notes |'
+tags:
+- wordpress
+- plugins
+- stack
 tier: hot
+topic_cluster: wordpress-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 📦 Site WP — Plugins stack 2026-04-25

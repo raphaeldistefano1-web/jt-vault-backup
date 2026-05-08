@@ -1,26 +1,34 @@
 ---
-type: project
-status: active
-tags: [wordpress, theme, jardintropical-child]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Theme custom jardintropical-child du site WP — ultra pro, schema LodgingBusiness complet, lazy loading, 74% WebP"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-  - "[[Schema-org-LodgingBusiness]]"
-  - "[[Mu-plugin-vs-Theme-Pattern]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-id: 202604252032-theme-jardintropical-child
-embed_model_version: null
+created: 2026-04-25
+description: Theme custom jardintropical-child du site WP — ultra pro, schema LodgingBusiness
+  complet, lazy loading, 74% WebP
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Theme standalone custom malgré son nom -child qui suggère un theme enfant — il n'a en fait pas de parent dépendant."
-entities: [documentation, reference]
-topic_cluster: wordpress-stack
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252032-theme-jardintropical-child
 intent: reference
+last-accessed: 2026-04-25
+project: site-wordpress
+related:
+- '[[Site-WordPress]]'
+- '[[Schema-org-LodgingBusiness]]'
+- '[[Mu-plugin-vs-Theme-Pattern]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+relevance: high
+status: active
+summary: Theme standalone custom malgré son nom -child qui suggère un theme enfant
+  — il n'a en fait pas de parent dépendant.
+tags:
+- wordpress
+- theme
+- jardintropical-child
 tier: hot
+topic_cluster: wordpress-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 🎨 Theme jardintropical-child

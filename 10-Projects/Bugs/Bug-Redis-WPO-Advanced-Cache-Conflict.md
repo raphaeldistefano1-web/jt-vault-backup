@@ -1,24 +1,37 @@
 ---
-type: bug
-status: workaround
-tags: [bug, lesson, wordpress, redis, cache]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Plugin redis-cache + WP-Optimize page cache = conflit advanced-cache.php → site HTTP 500. Workaround : redis-cache désactivé."
 ai_writable: false
-related:
-  - "[[Decision-Redis-Object-Cache-Disabled]]"
-  - "[[Site-Plugins-Stack-2026-04-25]]"
-id: 202604252038-bug-redis-wpo-advanced-cache-conflict
-embed_model_version: null
+created: 2026-04-25
+description: 'Plugin redis-cache + WP-Optimize page cache = conflit advanced-cache.php
+  → site HTTP 500. Workaround : redis-cache désactivé.'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Lors de l'activation du plugin redis-cache sur stack avec WP-Optimize page cache déjà actif :"
-entities: [debugging, redis, site-wordpress, wordpress, wordpress-optimization]
-topic_cluster: bug-log
+embed_model_version: null
+entities:
+- debugging
+- redis
+- site-wordpress
+- wordpress
+- wordpress-optimization
+id: 202604252038-bug-redis-wpo-advanced-cache-conflict
 intent: log
+last-accessed: 2026-04-25
+project: Bugs
+related:
+- '[[Decision-Redis-Object-Cache-Disabled]]'
+- '[[Site-Plugins-Stack-2026-04-25]]'
+relevance: medium
+status: workaround
+summary: 'Lors de l''activation du plugin redis-cache sur stack avec WP-Optimize page
+  cache déjà actif :'
+tags:
+- bug
+- lesson
+- wordpress
+- redis
+- cache
 tier: cold
+topic_cluster: bug-log
+type: bug
+updated: 2026-04-25
 ---
 
 # 🐛 Bug : Redis Object Cache + WP-Optimize conflit

@@ -1,28 +1,37 @@
 ---
-type: project
-status: superseded
-tags: [jt-migrate, version, feature]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "v1.2.0 — mode import-from-server-path (bypass upload HTTP, dépose archive via SCP dans incoming/)"
 ai_writable: false
-related:
-  - "[[Plugin-jt-migrate]]"
-  - "[[JT-Migrate-v1.1.0]]"
-  - "[[JT-Migrate-v1.2.1]]"
-  - "[[Bug-Apache-Timeout-300-vs-Uploads]]"
-supersedes: "[[JT-Migrate-v1.1.0]]"
-superseded_by: "[[JT-Migrate-v1.2.1]]"
-id: 202604252035-jt-migrate-v1-2-0
-embed_model_version: null
+created: 2026-04-25
+description: v1.2.0 — mode import-from-server-path (bypass upload HTTP, dépose archive
+  via SCP dans incoming/)
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "❌ Superseded par JT-Migrate-v1.2.1."
-entities: [debugging, migration, rag, wordpress]
-topic_cluster: wp-migration
+embed_model_version: null
+entities:
+- debugging
+- migration
+- rag
+- wordpress
+id: 202604252035-jt-migrate-v1-2-0
 intent: reference
+last-accessed: 2026-04-25
+project: jt-migrate
+related:
+- '[[Plugin-jt-migrate]]'
+- '[[JT-Migrate-v1.1.0]]'
+- '[[JT-Migrate-v1.2.1]]'
+- '[[Bug-Apache-Timeout-300-vs-Uploads]]'
+relevance: medium
+status: superseded
+summary: ❌ Superseded par JT-Migrate-v1.2.1.
+superseded_by: '[[JT-Migrate-v1.2.1]]'
+supersedes: '[[JT-Migrate-v1.1.0]]'
+tags:
+- jt-migrate
+- version
+- feature
 tier: warm
+topic_cluster: wp-migration
+type: project
+updated: 2026-04-25
 ---
 
 # 📦 JT Migrate v1.2.0

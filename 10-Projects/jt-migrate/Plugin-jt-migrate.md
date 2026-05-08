@@ -1,29 +1,41 @@
 ---
-type: project
-status: active
-tags: [wordpress, plugin, migration, custom]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Plugin WP custom de migration full-fidelity v1.2.1 — similaire All-in-One WP Migration mais pure PHP, streaming"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-  - "[[JT-Migrate-v1.0.0]]"
-  - "[[JT-Migrate-v1.1.0]]"
-  - "[[JT-Migrate-v1.2.0]]"
-  - "[[JT-Migrate-v1.2.1]]"
-  - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
-aliases: [JT Migrate]
-id: 202604252034-plugin-jt-migrate
-embed_model_version: null
+aliases:
+- JT Migrate
+created: 2026-04-25
+description: Plugin WP custom de migration full-fidelity v1.2.1 — similaire All-in-One
+  WP Migration mais pure PHP, streaming
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Plugin WordPress custom de migration full-fidelity entre instances WP. Similaire à All-in-One WP Migration mais :"
-entities: [debugging, migration, site-wordpress, wordpress]
-topic_cluster: wp-migration
+embed_model_version: null
+entities:
+- debugging
+- migration
+- site-wordpress
+- wordpress
+id: 202604252034-plugin-jt-migrate
 intent: reference
+last-accessed: 2026-04-25
+project: jt-migrate
+related:
+- '[[Site-WordPress]]'
+- '[[JT-Migrate-v1.0.0]]'
+- '[[JT-Migrate-v1.1.0]]'
+- '[[JT-Migrate-v1.2.0]]'
+- '[[JT-Migrate-v1.2.1]]'
+- '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+relevance: high
+status: active
+summary: 'Plugin WordPress custom de migration full-fidelity entre instances WP. Similaire
+  à All-in-One WP Migration mais :'
+tags:
+- wordpress
+- plugin
+- migration
+- custom
 tier: warm
+topic_cluster: wp-migration
+type: project
+updated: 2026-04-25
 ---
 
 # 🚚 Plugin jt-migrate v1.2.1

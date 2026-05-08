@@ -1,28 +1,37 @@
 ---
-type: project
-status: completed
-tags: [wordpress, migration, jt-migrate]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Migration site dealmfr.wpcomstaging.com → VPS Hostinger via JT Migrate v1.2.1 — 321 MB d'archive, succès après bug séquence"
 ai_writable: false
-related:
-  - "[[Plugin-jt-migrate]]"
-  - "[[Site-WordPress]]"
-  - "[[JT-Migrate-v1.0.0]]"
-  - "[[JT-Migrate-v1.2.1]]"
-  - "[[Bug-JT-Migrate-Auth-Loss-After-DB-Restore]]"
-  - "[[Bug-Apache-Timeout-300-vs-Uploads]]"
-id: 202604252034-migration-wp-com-vers-vps-2026-04-25
-embed_model_version: null
+created: 2026-04-25
+description: Migration site dealmfr.wpcomstaging.com → VPS Hostinger via JT Migrate
+  v1.2.1 — 321 MB d'archive, succès après bug séquence
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Migration 321 MB WP.com → VPS Hostinger réussie — 5 bugs résolus (PharData RAM, Apache Timeout, auth loss)."
-entities: [debugging, migration, wordpress]
-topic_cluster: wp-migration
+embed_model_version: null
+entities:
+- debugging
+- migration
+- wordpress
+id: 202604252034-migration-wp-com-vers-vps-2026-04-25
 intent: reference
+last-accessed: 2026-04-25
+project: jt-migrate
+related:
+- '[[Plugin-jt-migrate]]'
+- '[[Site-WordPress]]'
+- '[[JT-Migrate-v1.0.0]]'
+- '[[JT-Migrate-v1.2.1]]'
+- '[[Bug-JT-Migrate-Auth-Loss-After-DB-Restore]]'
+- '[[Bug-Apache-Timeout-300-vs-Uploads]]'
+relevance: high
+status: completed
+summary: Migration 321 MB WP.com → VPS Hostinger réussie — 5 bugs résolus (PharData
+  RAM, Apache Timeout, auth loss).
+tags:
+- wordpress
+- migration
+- jt-migrate
 tier: warm
+topic_cluster: wp-migration
+type: project
+updated: 2026-04-25
 ---
 
 # 🚚 Migration WP.com → VPS — 2026-04-25

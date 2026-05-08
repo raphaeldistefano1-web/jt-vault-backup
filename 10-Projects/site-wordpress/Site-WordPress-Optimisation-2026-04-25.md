@@ -1,26 +1,37 @@
 ---
-type: project
-status: completed
-tags: [wordpress, optimisation, perf, seo, security]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Optimisation complète site WP — 3 loops vérification/recherche/application — TTFB 1170ms→33ms, gzip -81%, 0 broken links/441"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-  - "[[Site-Plugins-Stack-2026-04-25]]"
-  - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
-id: 202604252033-site-wordpress-optimisation-2026-04-25
-embed_model_version: null
+created: 2026-04-25
+description: Optimisation complète site WP — 3 loops vérification/recherche/application
+  — TTFB 1170ms→33ms, gzip -81%, 0 broken links/441
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Suite à la migration depuis dealmfr.wpcomstaging.com vers le VPS Hostinger Migration-WP-com-vers-VPS-2026-04-25, User-Ra…"
-entities: [migration, site-wordpress, wordpress]
-topic_cluster: wordpress-stack
+embed_model_version: null
+entities:
+- migration
+- site-wordpress
+- wordpress
+id: 202604252033-site-wordpress-optimisation-2026-04-25
 intent: reference
+last-accessed: 2026-04-25
+project: site-wordpress
+related:
+- '[[Site-WordPress]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+- '[[Site-Plugins-Stack-2026-04-25]]'
+- '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+relevance: high
+status: completed
+summary: Suite à la migration depuis dealmfr.wpcomstaging.com vers le VPS Hostinger
+  Migration-WP-com-vers-VPS-2026-04-25, User-Ra…
+tags:
+- wordpress
+- optimisation
+- perf
+- seo
+- security
 tier: hot
+topic_cluster: wordpress-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 🚀 Optimisation site WP — 2026-04-25

@@ -1,25 +1,37 @@
 ---
-type: project
-status: completed
-tags: [pms, tests, audit]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Batterie complète tests fonctionnels PMS — 22 endpoints API + 26 pages testés, perfs excellentes, quelques incohérences mineures"
 ai_writable: false
-related:
-  - "[[PMS-Stack]]"
-  - "[[Dev-PMS-Area]]"
-  - "[[Brainstorm-PMS-Améliorations-2026-04-25]]"
-id: 202604252224-tests-pms-batterie-2026-04-25
-embed_model_version: null
+created: 2026-04-25
+description: Batterie complète tests fonctionnels PMS — 22 endpoints API + 26 pages
+  testés, perfs excellentes, quelques incohérences mineures
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Batterie tests PMS complets — 22 endpoints OK, 26 pages OK, TTFB < 120ms, 7 findings mineurs documentés."
-entities: [api, authentication, debugging, jwt, nextauth, pms]
-topic_cluster: pms-stack
+embed_model_version: null
+entities:
+- api
+- authentication
+- debugging
+- jwt
+- nextauth
+- pms
+id: 202604252224-tests-pms-batterie-2026-04-25
 intent: reference
+last-accessed: 2026-04-25
+project: pms-jardin-tropical
+related:
+- '[[PMS-Stack]]'
+- '[[Dev-PMS-Area]]'
+- '[[Brainstorm-PMS-Améliorations-2026-04-25]]'
+relevance: high
+status: completed
+summary: Batterie tests PMS complets — 22 endpoints OK, 26 pages OK, TTFB < 120ms,
+  7 findings mineurs documentés.
+tags:
+- pms
+- tests
+- audit
 tier: hot
+topic_cluster: pms-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 🧪 Tests batterie PMS — 2026-04-25

@@ -15,7 +15,7 @@ ai_writable: false
 
 # 📑 Index — desktop-app-electron
 
-> Auto-régénéré le 2026-05-08 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-08 09:55 par `vault-rag-curator`.
 
 ## HOT (2)
 

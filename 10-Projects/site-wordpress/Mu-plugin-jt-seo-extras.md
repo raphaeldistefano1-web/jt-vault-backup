@@ -1,28 +1,37 @@
 ---
-type: project
-status: active
-tags: [wordpress, mu-plugin, seo, security]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Mu-plugin custom ~600 lignes 16 sections — robots.txt LLM-aware, security headers, schemas, GEO, redirects, A11y"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-  - "[[Theme-jardintropical-child]]"
-  - "[[Mu-plugin-vs-Theme-Pattern]]"
-  - "[[Robots-txt-LLM-Aware]]"
-  - "[[Schema-FAQPage]]"
-  - "[[GEO-Generative-Engine-Optimization]]"
-id: 202604252032-mu-plugin-jt-seo-extras
-embed_model_version: null
+created: 2026-04-25
+description: Mu-plugin custom ~600 lignes 16 sections — robots.txt LLM-aware, security
+  headers, schemas, GEO, redirects, A11y
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "/var/www/wordpress-instance/data/wordpress/wp-content/mu-plugins/jt-seo-extras.php"
-entities: [llm, site-wordpress, wordpress]
-topic_cluster: wordpress-stack
+embed_model_version: null
+entities:
+- llm
+- site-wordpress
+- wordpress
+id: 202604252032-mu-plugin-jt-seo-extras
 intent: reference
+last-accessed: 2026-04-25
+project: site-wordpress
+related:
+- '[[Site-WordPress]]'
+- '[[Theme-jardintropical-child]]'
+- '[[Mu-plugin-vs-Theme-Pattern]]'
+- '[[Robots-txt-LLM-Aware]]'
+- '[[Schema-FAQPage]]'
+- '[[GEO-Generative-Engine-Optimization]]'
+relevance: high
+status: active
+summary: /var/www/wordpress-instance/data/wordpress/wp-content/mu-plugins/jt-seo-extras.php
+tags:
+- wordpress
+- mu-plugin
+- seo
+- security
 tier: hot
+topic_cluster: wordpress-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 🔧 Mu-plugin jt-seo-extras

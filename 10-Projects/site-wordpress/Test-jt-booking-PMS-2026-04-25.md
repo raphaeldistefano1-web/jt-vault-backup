@@ -1,26 +1,38 @@
 ---
-type: project
-status: completed
-tags: [jt-booking, pms, test, integration]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Review complète + tests batterie de la connexion jt-booking ↔ PMS — clé API régénérée, 1 bug theme fixé, Stripe à configurer pour finaliser"
 ai_writable: false
-related:
-  - "[[Plugin-jt-booking]]"
-  - "[[PMS-Stack]]"
-  - "[[Site-WordPress]]"
-  - "[[Theme-jardintropical-child]]"
-id: 202604252130-test-jt-booking-pms-2026-04-25
-embed_model_version: null
+created: 2026-04-25
+description: Review complète + tests batterie de la connexion jt-booking ↔ PMS — clé
+  API régénérée, 1 bug theme fixé, Stripe à configurer pour finaliser
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "1. Régénération clé API WordPress côté PMS script scripts/regen-wp-key.ts — précédente perdue/inaccessible"
-entities: [api, booking, pms, site-wordpress, wordpress]
-topic_cluster: wordpress-stack
+embed_model_version: null
+entities:
+- api
+- booking
+- pms
+- site-wordpress
+- wordpress
+id: 202604252130-test-jt-booking-pms-2026-04-25
 intent: reference
+last-accessed: 2026-04-25
+project: site-wordpress
+related:
+- '[[Plugin-jt-booking]]'
+- '[[PMS-Stack]]'
+- '[[Site-WordPress]]'
+- '[[Theme-jardintropical-child]]'
+relevance: high
+status: completed
+summary: 1. Régénération clé API WordPress côté PMS script scripts/regen-wp-key.ts
+  — précédente perdue/inaccessible
+tags:
+- jt-booking
+- pms
+- test
+- integration
 tier: hot
+topic_cluster: wordpress-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 🧪 Test connexion jt-booking ↔ PMS — 2026-04-25

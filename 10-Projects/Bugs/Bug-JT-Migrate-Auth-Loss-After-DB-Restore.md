@@ -1,25 +1,35 @@
 ---
-type: bug
-status: workaround
-tags: [bug, lesson, design, jt-migrate]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Pipeline d'import écrase wp_users AVANT search-replace+files → cookie session admin invalidé → steps 403. Workaround wp-cli, fix v1.3.0."
 ai_writable: false
-related:
-  - "[[Plugin-jt-migrate]]"
-  - "[[JT-Migrate-v1.2.1]]"
-  - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
-id: 202604252038-bug-jt-migrate-auth-loss-after-db-restore
-embed_model_version: null
+created: 2026-04-25
+description: Pipeline d'import écrase wp_users AVANT search-replace+files → cookie
+  session admin invalidé → steps 403. Workaround wp-cli, fix v1.3.0.
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Pendant l'import d'un site sur le VPS :"
-entities: [authentication, debugging, migration, site-wordpress]
-topic_cluster: bug-log
+embed_model_version: null
+entities:
+- authentication
+- debugging
+- migration
+- site-wordpress
+id: 202604252038-bug-jt-migrate-auth-loss-after-db-restore
 intent: log
+last-accessed: 2026-04-25
+project: Bugs
+related:
+- '[[Plugin-jt-migrate]]'
+- '[[JT-Migrate-v1.2.1]]'
+- '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+relevance: high
+status: workaround
+summary: 'Pendant l''import d''un site sur le VPS :'
+tags:
+- bug
+- lesson
+- design
+- jt-migrate
 tier: cold
+topic_cluster: bug-log
+type: bug
+updated: 2026-04-25
 ---
 
 # 🐛 Bug : JT Migrate auth loss after DB restore

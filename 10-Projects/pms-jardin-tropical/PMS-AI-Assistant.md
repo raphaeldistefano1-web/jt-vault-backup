@@ -1,26 +1,36 @@
 ---
-type: project
-status: active
-tags: [pms, ia, assistant, openclaw]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Assistant IA du PMS — fusion Mémoire IA + Assistant IA, alimenté par OpenClaw plugin"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[Plugin-OpenClaw]]"
-  - "[[PMS-Settings-Hub]]"
-  - "[[OpenClaw-VPS-Reference]]"
-id: 202604252031-pms-ai-assistant
-embed_model_version: null
+created: 2026-04-25
+description: Assistant IA du PMS — fusion Mémoire IA + Assistant IA, alimenté par
+  OpenClaw plugin
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "✅ Fusion Mémoire IA + Assistant IA appliquée cf. mémoire projectpmsstate.md."
-entities: [authentication, dashboard, oauth, pms]
-topic_cluster: pms-stack
+embed_model_version: null
+entities:
+- authentication
+- dashboard
+- oauth
+- pms
+id: 202604252031-pms-ai-assistant
 intent: reference
+last-accessed: 2026-04-25
+project: pms-jardin-tropical
+related:
+- '[[Dev-PMS-Area]]'
+- '[[Plugin-OpenClaw]]'
+- '[[PMS-Settings-Hub]]'
+- '[[OpenClaw-VPS-Reference]]'
+relevance: high
+status: active
+summary: ✅ Fusion Mémoire IA + Assistant IA appliquée cf. mémoire projectpmsstate.md.
+tags:
+- pms
+- ia
+- assistant
+- openclaw
 tier: hot
+topic_cluster: pms-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 🤖 PMS AI Assistant

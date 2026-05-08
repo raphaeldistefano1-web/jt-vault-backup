@@ -1,27 +1,34 @@
 ---
-type: project
-status: superseded
-tags: [jt-migrate, version]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: low
-description: "v1.1.0 — fix export streaming tar.gz + shutdown handler pour capturer fatals"
 ai_writable: false
-related:
-  - "[[Plugin-jt-migrate]]"
-  - "[[JT-Migrate-v1.0.0]]"
-  - "[[JT-Migrate-v1.2.0]]"
-supersedes: "[[JT-Migrate-v1.0.0]]"
-superseded_by: "[[JT-Migrate-v1.2.0]]"
-id: 202604252035-jt-migrate-v1-1-0
-embed_model_version: null
+created: 2026-04-25
+description: v1.1.0 — fix export streaming tar.gz + shutdown handler pour capturer
+  fatals
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "❌ Superseded par JT-Migrate-v1.2.0."
-entities: [documentation, migration, reference]
-topic_cluster: wp-migration
+embed_model_version: null
+entities:
+- documentation
+- migration
+- reference
+id: 202604252035-jt-migrate-v1-1-0
 intent: reference
+last-accessed: 2026-04-25
+project: jt-migrate
+related:
+- '[[Plugin-jt-migrate]]'
+- '[[JT-Migrate-v1.0.0]]'
+- '[[JT-Migrate-v1.2.0]]'
+relevance: low
+status: superseded
+summary: ❌ Superseded par JT-Migrate-v1.2.0.
+superseded_by: '[[JT-Migrate-v1.2.0]]'
+supersedes: '[[JT-Migrate-v1.0.0]]'
+tags:
+- jt-migrate
+- version
 tier: warm
+topic_cluster: wp-migration
+type: project
+updated: 2026-04-25
 ---
 
 # 📦 JT Migrate v1.1.0

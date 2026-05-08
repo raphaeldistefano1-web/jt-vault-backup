@@ -15,4 +15,4 @@ ai_writable: false
 
 # 📑 Index — montage-video
 
-> Auto-régénéré le 2026-05-08 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-08 09:55 par `vault-rag-curator`.

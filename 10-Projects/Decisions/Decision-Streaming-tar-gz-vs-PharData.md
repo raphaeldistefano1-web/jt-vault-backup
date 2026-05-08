@@ -1,30 +1,46 @@
 ---
-type: decision
-status: accepted
-tags: [decision, jt-migrate, performance, php]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Décision : remplacer PharData par streaming gzopen + USTAR custom dans JT Migrate (export ET import)"
 ai_writable: false
-related:
-  - "[[Plugin-jt-migrate]]"
-  - "[[JT-Migrate-v1.0.0]]"
-  - "[[JT-Migrate-v1.1.0]]"
-  - "[[JT-Migrate-v1.2.1]]"
-  - "[[Bug-PharData-RAM-OOM]]"
-context: "Bug v1.0.0 : PharData::compress() + PharData::extract() chargent tout en RAM, fail sur > 100 MB"
-chosen: "Streaming gzopen + USTAR custom"
-alternatives: ["PharData", "exec(tar)", "ZipArchive"]
-id: 202604252036-decision-streaming-tar-gz-vs-phardata
-embed_model_version: null
+alternatives:
+- PharData
+- exec(tar)
+- ZipArchive
+chosen: Streaming gzopen + USTAR custom
+context: 'Bug v1.0.0 : PharData::compress() + PharData::extract() chargent tout en
+  RAM, fail sur > 100 MB'
+created: 2026-04-25
+description: 'Décision : remplacer PharData par streaming gzopen + USTAR custom dans
+  JT Migrate (export ET import)'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "JT Migrate v1.0.0 utilisait PharData Phar built-in PHP pour créer/extraire les archives .tar.gz. Bug fatal sur sites > 1…"
-entities: [api, debugging, migration, rag, site-wordpress]
-topic_cluster: decision-log
+embed_model_version: null
+entities:
+- api
+- debugging
+- migration
+- rag
+- site-wordpress
+id: 202604252036-decision-streaming-tar-gz-vs-phardata
 intent: decision
+last-accessed: 2026-04-25
+project: Decisions
+related:
+- '[[Plugin-jt-migrate]]'
+- '[[JT-Migrate-v1.0.0]]'
+- '[[JT-Migrate-v1.1.0]]'
+- '[[JT-Migrate-v1.2.1]]'
+- '[[Bug-PharData-RAM-OOM]]'
+relevance: high
+status: accepted
+summary: JT Migrate v1.0.0 utilisait PharData Phar built-in PHP pour créer/extraire
+  les archives .tar.gz. Bug fatal sur sites > 1…
+tags:
+- decision
+- jt-migrate
+- performance
+- php
 tier: warm
+topic_cluster: decision-log
+type: decision
+updated: 2026-04-25
 ---
 
 # 🎯 Decision : Streaming tar.gz vs PharData

@@ -1,28 +1,43 @@
 ---
-type: decision
-status: accepted
-tags: [decision, wordpress, cache, redis]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Redis Object Cache désactivé suite à conflit advanced-cache.php avec WP-Optimize — conteneur Redis reste up"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-  - "[[Site-Plugins-Stack-2026-04-25]]"
-  - "[[Bug-Redis-WPO-Advanced-Cache-Conflict]]"
-context: "Optim site WP 2026-04-25 — Redis installé puis désactivé"
-chosen: "Redis désactivé, conteneur up pour usage futur"
-alternatives: ["redis-cache + wp-optimize", "redis-cache seul", "memcached"]
-id: 202604252036-decision-redis-object-cache-disabled
-embed_model_version: null
+alternatives:
+- redis-cache + wp-optimize
+- redis-cache seul
+- memcached
+chosen: Redis désactivé, conteneur up pour usage futur
+context: Optim site WP 2026-04-25 — Redis installé puis désactivé
+created: 2026-04-25
+description: Redis Object Cache désactivé suite à conflit advanced-cache.php avec
+  WP-Optimize — conteneur Redis reste up
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Pendant Loop 1 optim, ajout du conteneur Redis au docker-compose pour activer un Object Cache WP gain TTFB potentiel sur…"
-entities: [booking, docker, redis, site-wordpress, wordpress]
-topic_cluster: decision-log
+embed_model_version: null
+entities:
+- booking
+- docker
+- redis
+- site-wordpress
+- wordpress
+id: 202604252036-decision-redis-object-cache-disabled
 intent: decision
+last-accessed: 2026-04-25
+project: Decisions
+related:
+- '[[Site-WordPress]]'
+- '[[Site-Plugins-Stack-2026-04-25]]'
+- '[[Bug-Redis-WPO-Advanced-Cache-Conflict]]'
+relevance: medium
+status: accepted
+summary: Pendant Loop 1 optim, ajout du conteneur Redis au docker-compose pour activer
+  un Object Cache WP gain TTFB potentiel sur…
+tags:
+- decision
+- wordpress
+- cache
+- redis
 tier: warm
+topic_cluster: decision-log
+type: decision
+updated: 2026-04-25
 ---
 
 # 🎯 Decision : Redis Object Cache désactivé

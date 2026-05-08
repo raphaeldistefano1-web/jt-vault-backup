@@ -1,26 +1,39 @@
 ---
-type: resource
-status: active
-tags: [pms, stack, infra]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Stack technique complète du PMS Le Jardin Tropical — Next.js 15 / Postgres / Prisma 6 / PM2 / Brevo"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[Stack-Tech]]"
-  - "[[Workflow-Deploy-PMS]]"
-  - "[[VPS-Hostinger]]"
-id: 202604252030-pms-stack
-embed_model_version: null
+created: 2026-04-25
+description: Stack technique complète du PMS Le Jardin Tropical — Next.js 15 / Postgres
+  / Prisma 6 / PM2 / Brevo
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Stack technique PMS — Next.js 15 + Postgres + Prisma 6 + PM2 + NextAuth v5 + OpenClaw Gateway loopback."
-entities: [electron, nextjs, pm2, pms, postgres, prisma, traefik]
-topic_cluster: pms-stack
+embed_model_version: null
+entities:
+- electron
+- nextjs
+- pm2
+- pms
+- postgres
+- prisma
+- traefik
+id: 202604252030-pms-stack
 intent: reference
+last-accessed: 2026-04-25
+project: pms-jardin-tropical
+related:
+- '[[Dev-PMS-Area]]'
+- '[[Stack-Tech]]'
+- '[[Workflow-Deploy-PMS]]'
+- '[[VPS-Hostinger]]'
+relevance: high
+status: active
+summary: Stack technique PMS — Next.js 15 + Postgres + Prisma 6 + PM2 + NextAuth v5
+  + OpenClaw Gateway loopback.
+tags:
+- pms
+- stack
+- infra
 tier: hot
+topic_cluster: pms-stack
+type: resource
+updated: 2026-04-25
 ---
 
 # 🏗️ PMS Stack

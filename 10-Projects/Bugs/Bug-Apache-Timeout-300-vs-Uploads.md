@@ -1,25 +1,35 @@
 ---
-type: bug
-status: resolved
-tags: [bug, lesson, apache, infra]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Apache Timeout=300s (default) tue les uploads > 5 min sur connexion résidentielle → Traefik retourne 502. Fix Timeout 1800s."
 ai_writable: false
-related:
-  - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
-  - "[[VPS-Hostinger]]"
-  - "[[Plugin-jt-migrate]]"
-id: 202604252038-bug-apache-timeout-300-vs-uploads
-embed_model_version: null
+created: 2026-04-25
+description: Apache Timeout=300s (default) tue les uploads > 5 min sur connexion résidentielle
+  → Traefik retourne 502. Fix Timeout 1800s.
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Pendant l'import d'une archive 321 MB via UI WordPress, l'upload abandonnait après ~10 minutes avec :"
-entities: [debugging, site-wordpress, wordpress]
-topic_cluster: bug-log
+embed_model_version: null
+entities:
+- debugging
+- site-wordpress
+- wordpress
+id: 202604252038-bug-apache-timeout-300-vs-uploads
 intent: log
+last-accessed: 2026-04-25
+project: Bugs
+related:
+- '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+- '[[VPS-Hostinger]]'
+- '[[Plugin-jt-migrate]]'
+relevance: medium
+status: resolved
+summary: 'Pendant l''import d''une archive 321 MB via UI WordPress, l''upload abandonnait
+  après ~10 minutes avec :'
+tags:
+- bug
+- lesson
+- apache
+- infra
 tier: cold
+topic_cluster: bug-log
+type: bug
+updated: 2026-04-25
 ---
 
 # 🐛 Bug : Apache Timeout=300 vs gros uploads

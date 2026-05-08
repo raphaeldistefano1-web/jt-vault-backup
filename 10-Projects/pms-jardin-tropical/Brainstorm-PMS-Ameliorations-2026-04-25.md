@@ -1,25 +1,35 @@
 ---
-type: project
-status: active
-tags: [pms, brainstorm, ux, design]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Brainstorm complet améliorations PMS — quick wins UX/perf + investissements + anti-patterns à éviter"
 ai_writable: true
-related:
-  - "[[Tests-PMS-Batterie-2026-04-25]]"
-  - "[[PMS-Stack]]"
-  - "[[Dev-PMS-Area]]"
-id: 202604252226-brainstorm-pms-ameliorations-2026-04-25
-embed_model_version: null
+created: 2026-04-25
+description: Brainstorm complet améliorations PMS — quick wins UX/perf + investissements
+  + anti-patterns à éviter
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Synthèse de la recherche UX hôtellerie 2026 HippoRAG-style retrieval + analyse codebase + tests fonctionnels."
-entities: [infrastructure, pms, rag]
-topic_cluster: pms-stack
+embed_model_version: null
+entities:
+- infrastructure
+- pms
+- rag
+id: 202604252226-brainstorm-pms-ameliorations-2026-04-25
 intent: reference
+last-accessed: 2026-04-25
+project: pms-jardin-tropical
+related:
+- '[[Tests-PMS-Batterie-2026-04-25]]'
+- '[[PMS-Stack]]'
+- '[[Dev-PMS-Area]]'
+relevance: high
+status: active
+summary: Synthèse de la recherche UX hôtellerie 2026 HippoRAG-style retrieval + analyse
+  codebase + tests fonctionnels.
+tags:
+- pms
+- brainstorm
+- ux
+- design
 tier: hot
+topic_cluster: pms-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 💡 Brainstorm PMS Améliorations — 2026-04-25

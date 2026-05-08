@@ -1,27 +1,40 @@
 ---
-type: decision
-status: accepted
-tags: [decision, wordpress, cron, perf]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "DISABLE_WP_CRON=true + cron Linux host */15min — fiable, pas de pageload trigger"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-context: "Optim site WP 2026-04-25 — wp-cron au pageload est unfair"
-chosen: "Cron Linux host"
-alternatives: ["wp-cron pageload", "cron systemd timer", "cron dans conteneur"]
-id: 202604252037-decision-disable-wp-cron-cron-linux
-embed_model_version: null
+alternatives:
+- wp-cron pageload
+- cron systemd timer
+- cron dans conteneur
+chosen: Cron Linux host
+context: Optim site WP 2026-04-25 — wp-cron au pageload est unfair
+created: 2026-04-25
+description: DISABLE_WP_CRON=true + cron Linux host */15min — fiable, pas de pageload
+  trigger
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "WordPress par défaut déclenche wp-cron.php à chaque pageload. Problèmes :"
-entities: [documentation, site-wordpress, wordpress]
-topic_cluster: decision-log
+embed_model_version: null
+entities:
+- documentation
+- site-wordpress
+- wordpress
+id: 202604252037-decision-disable-wp-cron-cron-linux
 intent: decision
+last-accessed: 2026-04-25
+project: Decisions
+related:
+- '[[Site-WordPress]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+relevance: medium
+status: accepted
+summary: 'WordPress par défaut déclenche wp-cron.php à chaque pageload. Problèmes
+  :'
+tags:
+- decision
+- wordpress
+- cron
+- perf
 tier: warm
+topic_cluster: decision-log
+type: decision
+updated: 2026-04-25
 ---
 
 # 🎯 Decision : DISABLE_WP_CRON + cron Linux host

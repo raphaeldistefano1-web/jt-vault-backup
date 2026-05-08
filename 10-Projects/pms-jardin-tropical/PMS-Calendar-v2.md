@@ -1,27 +1,37 @@
 ---
-type: project
-status: completed
-tags: [pms, ui, calendar, v2]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Calendar v2 du PMS — vue calendrier centralisée pour gestion réservations, appliqué prod"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[Workflow-Preview-Then-Apply]]"
-  - "[[PMS-Dashboard-v2]]"
-  - "[[Plugin-jt-booking]]"
-  - "[[Workflow-Cross-Feature-Coherence]]"
-id: 202604252030-pms-calendar-v2
-embed_model_version: null
+created: 2026-04-25
+description: Calendar v2 du PMS — vue calendrier centralisée pour gestion réservations,
+  appliqué prod
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "✅ Appliqué prod cf. mémoire projectpmsstate.md."
-entities: [calendar, dashboard, pms, rag]
-topic_cluster: pms-stack
+embed_model_version: null
+entities:
+- calendar
+- dashboard
+- pms
+- rag
+id: 202604252030-pms-calendar-v2
 intent: reference
+last-accessed: 2026-04-25
+project: pms-jardin-tropical
+related:
+- '[[Dev-PMS-Area]]'
+- '[[Workflow-Preview-Then-Apply]]'
+- '[[PMS-Dashboard-v2]]'
+- '[[Plugin-jt-booking]]'
+- '[[Workflow-Cross-Feature-Coherence]]'
+relevance: medium
+status: completed
+summary: ✅ Appliqué prod cf. mémoire projectpmsstate.md.
+tags:
+- pms
+- ui
+- calendar
+- v2
 tier: hot
+topic_cluster: pms-stack
+type: project
+updated: 2026-04-25
 ---
 
 # 📅 PMS Calendar v2

@@ -1,24 +1,34 @@
 ---
-type: bug
-status: workaround
-tags: [bug, lesson, wordpress, theme]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: low
-description: "Theme link vers /blog/ même sans blog actif → 404. Workaround : redirect 301 vers home dans mu-plugin."
 ai_writable: false
-related:
-  - "[[Theme-jardintropical-child]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-id: 202604252039-bug-wp-link-blog-404
-embed_model_version: null
+created: 2026-04-25
+description: 'Theme link vers /blog/ même sans blog actif → 404. Workaround : redirect
+  301 vers home dans mu-plugin.'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Audit broken links détecte un lien vers /blog/ dans la page À propos. Le slug blog n'existe pas comme page WP → 404."
-entities: [debugging, documentation, wordpress]
-topic_cluster: bug-log
+embed_model_version: null
+entities:
+- debugging
+- documentation
+- wordpress
+id: 202604252039-bug-wp-link-blog-404
 intent: log
+last-accessed: 2026-04-25
+project: Bugs
+related:
+- '[[Theme-jardintropical-child]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+relevance: low
+status: workaround
+summary: Audit broken links détecte un lien vers /blog/ dans la page À propos. Le
+  slug blog n'existe pas comme page WP → 404.
+tags:
+- bug
+- lesson
+- wordpress
+- theme
 tier: cold
+topic_cluster: bug-log
+type: bug
+updated: 2026-04-25
 ---
 
 # 🐛 Bug : Lien /blog/ dans theme sans blog actif

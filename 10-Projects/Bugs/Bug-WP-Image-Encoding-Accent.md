@@ -1,23 +1,32 @@
 ---
-type: bug
-status: resolved
-tags: [bug, lesson, wordpress, encoding]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: low
-description: "Image WebP avec accent dans nom (dressée vs dressee) → 404 → fix par symlink"
 ai_writable: false
-related:
-  - "[[Site-WordPress]]"
-id: 202604252038-bug-wp-image-encoding-accent
-embed_model_version: null
+created: 2026-04-25
+description: Image WebP avec accent dans nom (dressée vs dressee) → 404 → fix par
+  symlink
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Audit broken links de la page /restauration/ : 1 image en 404 :"
-entities: [debugging, documentation, wordpress]
-topic_cluster: bug-log
+embed_model_version: null
+entities:
+- debugging
+- documentation
+- wordpress
+id: 202604252038-bug-wp-image-encoding-accent
 intent: log
+last-accessed: 2026-04-25
+project: Bugs
+related:
+- '[[Site-WordPress]]'
+relevance: low
+status: resolved
+summary: 'Audit broken links de la page /restauration/ : 1 image en 404 :'
+tags:
+- bug
+- lesson
+- wordpress
+- encoding
 tier: cold
+topic_cluster: bug-log
+type: bug
+updated: 2026-04-25
 ---
 
 # 🐛 Bug : URL image avec accent

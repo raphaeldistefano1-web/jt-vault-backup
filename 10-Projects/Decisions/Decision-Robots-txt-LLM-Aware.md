@@ -1,28 +1,41 @@
 ---
-type: decision
-status: accepted
-tags: [decision, geo, llm, seo]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Stratégie GEO : bloquer crawlers d'entraînement LLM, autoriser retrieval bots — maximiser citations sans donner contenu pour entraînement"
 ai_writable: false
-related:
-  - "[[Robots-txt-LLM-Aware]]"
-  - "[[GEO-Generative-Engine-Optimization]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-context: "Optim site WP 2026-04-25 — décision stratégique GEO"
-chosen: "Bloquer training crawlers, autoriser retrieval crawlers"
-alternatives: ["Tout bloquer", "Tout autoriser", "Bloquer training + retrieval"]
-id: 202604252037-decision-robots-txt-llm-aware
-embed_model_version: null
+alternatives:
+- Tout bloquer
+- Tout autoriser
+- Bloquer training + retrieval
+chosen: Bloquer training crawlers, autoriser retrieval crawlers
+context: Optim site WP 2026-04-25 — décision stratégique GEO
+created: 2026-04-25
+description: 'Stratégie GEO : bloquer crawlers d''entraînement LLM, autoriser retrieval
+  bots — maximiser citations sans donner contenu pour entraînement'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Avec la prolifération des crawlers IA en 2026 GPTBot, Google-Extended, ClaudeBot, PerplexityBot, etc., 4 stratégies poss…"
-entities: [documentation, llm, reference]
-topic_cluster: decision-log
+embed_model_version: null
+entities:
+- documentation
+- llm
+- reference
+id: 202604252037-decision-robots-txt-llm-aware
 intent: decision
+last-accessed: 2026-04-25
+project: Decisions
+related:
+- '[[Robots-txt-LLM-Aware]]'
+- '[[GEO-Generative-Engine-Optimization]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+relevance: high
+status: accepted
+summary: Avec la prolifération des crawlers IA en 2026 GPTBot, Google-Extended, ClaudeBot,
+  PerplexityBot, etc., 4 stratégies poss…
+tags:
+- decision
+- geo
+- llm
+- seo
 tier: warm
+topic_cluster: decision-log
+type: decision
+updated: 2026-04-25
 ---
 
 # 🎯 Decision : robots.txt LLM-aware

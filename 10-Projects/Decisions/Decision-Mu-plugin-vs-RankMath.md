@@ -1,28 +1,42 @@
 ---
-type: decision
-status: accepted
-tags: [decision, wordpress, seo, plugin]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Décision : NE PAS installer Rank Math/Yoast — utiliser un mu-plugin custom à la place"
 ai_writable: false
-related:
-  - "[[Mu-plugin-vs-Theme-Pattern]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-  - "[[Theme-jardintropical-child]]"
-context: "Optim site WP 2026-04-25 — Rank Math testé puis désinstallé"
-chosen: "Mu-plugin custom + theme existant"
-alternatives: ["Rank Math", "Yoast", "SEOPress", "Slim SEO"]
-id: 202604252036-decision-mu-plugin-vs-rankmath
-embed_model_version: null
+alternatives:
+- Rank Math
+- Yoast
+- SEOPress
+- Slim SEO
+chosen: Mu-plugin custom + theme existant
+context: Optim site WP 2026-04-25 — Rank Math testé puis désinstallé
+created: 2026-04-25
+description: 'Décision : NE PAS installer Rank Math/Yoast — utiliser un mu-plugin
+  custom à la place'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Pendant l'optim site WP 2026-04-25, j'ai initialement installé Rank Math comme plugin SEO recommandé par les guides 2026…"
-entities: [documentation, site-wordpress, wordpress-optimization]
-topic_cluster: decision-log
+embed_model_version: null
+entities:
+- documentation
+- site-wordpress
+- wordpress-optimization
+id: 202604252036-decision-mu-plugin-vs-rankmath
 intent: decision
+last-accessed: 2026-04-25
+project: Decisions
+related:
+- '[[Mu-plugin-vs-Theme-Pattern]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+- '[[Theme-jardintropical-child]]'
+relevance: high
+status: accepted
+summary: Pendant l'optim site WP 2026-04-25, j'ai initialement installé Rank Math
+  comme plugin SEO recommandé par les guides 2026…
+tags:
+- decision
+- wordpress
+- seo
+- plugin
 tier: warm
+topic_cluster: decision-log
+type: decision
+updated: 2026-04-25
 ---
 
 # 🎯 Decision : Mu-plugin custom vs RankMath

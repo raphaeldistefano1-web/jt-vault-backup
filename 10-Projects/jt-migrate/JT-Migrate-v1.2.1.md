@@ -1,27 +1,35 @@
 ---
-type: project
-status: active
-tags: [jt-migrate, version, current]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "v1.2.1 — fix streaming import (parser USTAR custom en lecture, miroir du fix v1.1 mais à l'extract). Version actuelle."
 ai_writable: false
-related:
-  - "[[Plugin-jt-migrate]]"
-  - "[[JT-Migrate-v1.2.0]]"
-  - "[[JT-Migrate-v1.1.0]]"
-  - "[[Bug-JT-Migrate-v1.1-Import-Extract-Fail]]"
-supersedes: "[[JT-Migrate-v1.2.0]]"
-id: 202604252035-jt-migrate-v1-2-1
-embed_model_version: null
+created: 2026-04-25
+description: v1.2.1 — fix streaming import (parser USTAR custom en lecture, miroir
+  du fix v1.1 mais à l'extract). Version actuelle.
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "✅ Version actuelle, déployée sur le VPS."
-entities: [debugging, documentation, migration]
-topic_cluster: wp-migration
+embed_model_version: null
+entities:
+- debugging
+- documentation
+- migration
+id: 202604252035-jt-migrate-v1-2-1
 intent: reference
+last-accessed: 2026-04-25
+project: jt-migrate
+related:
+- '[[Plugin-jt-migrate]]'
+- '[[JT-Migrate-v1.2.0]]'
+- '[[JT-Migrate-v1.1.0]]'
+- '[[Bug-JT-Migrate-v1.1-Import-Extract-Fail]]'
+relevance: high
+status: active
+summary: ✅ Version actuelle, déployée sur le VPS.
+supersedes: '[[JT-Migrate-v1.2.0]]'
+tags:
+- jt-migrate
+- version
+- current
 tier: warm
+topic_cluster: wp-migration
+type: project
+updated: 2026-04-25
 ---
 
 # 📦 JT Migrate v1.2.1 — current

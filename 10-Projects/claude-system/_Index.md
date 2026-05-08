@@ -15,14 +15,22 @@ ai_writable: false
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-05-08 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-08 09:55 par `vault-rag-curator`.
 
 ## WARM (1)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (48)
+## COLD (65)
 
+- [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
+- [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
+- [[2026-05-08-0920-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:20 sur projet claude-system (0 edits, 0 créations, 2 bash).
+- [[2026-05-08-0921-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:21 sur projet claude-system (0 edits, 0 créations, 4 bash).
+- [[2026-05-08-0928-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:28 sur projet claude-system (0 edits, 0 créations, 4 bash).
+- [[2026-05-08-0935-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:35 sur projet claude-system (0 edits, 0 créations, 4 bash).
+- [[2026-05-08-0942-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:42 sur projet claude-system (0 edits, 0 créations, 4 bash).
+- [[2026-05-08-0950-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:50 sur projet claude-system (0 edits, 0 créations, 7 bash).
 - [[2026-05-07-1210-session-b3219199]] — Session Claude Code du 2026-05-07 12:10 sur projet claude-system (0 edits, 0 créations, 0 bash).
 - [[2026-05-07-1213-session-b3219199]] — Session Claude Code du 2026-05-07 12:13 sur projet claude-system (0 edits, 0 créations, 5 bash).
 - [[2026-05-07-1216-session-b3219199]] — Session Claude Code du 2026-05-07 12:16 sur projet claude-system (0 edits, 0 créations, 7 bash).
@@ -49,6 +57,14 @@ ai_writable: false
 - [[2026-05-07-1549-session-158ff0de]] — Session Claude Code du 2026-05-07 15:49 sur projet claude-system (11 edits, 13 créations, 91 bash).
 - [[2026-05-07-1551-session-158ff0de]] — Session Claude Code du 2026-05-07 15:51 sur projet claude-system (11 edits, 13 créations, 91 bash).
 - [[2026-05-07-1655-session-158ff0de]] — Session Claude Code du 2026-05-07 16:55 sur projet claude-system (12 edits, 21 créations, 98 bash).
+- [[2026-05-08-0839-session-158ff0de]] — Session Claude Code du 2026-05-08 08:39 sur projet claude-system (12 edits, 21 créations, 105 bash).
+- [[2026-05-08-0844-session-158ff0de]] — Session Claude Code du 2026-05-08 08:44 sur projet claude-system (12 edits, 21 créations, 108 bash).
+- [[2026-05-08-0856-session-158ff0de]] — Session Claude Code du 2026-05-08 08:56 sur projet claude-system (12 edits, 22 créations, 111 bash).
+- [[2026-05-08-0901-session-158ff0de]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (13 edits, 22 créations, 112 bash).
+- [[2026-05-08-0904-session-158ff0de]] — Session Claude Code du 2026-05-08 09:04 sur projet claude-system (13 edits, 22 créations, 113 bash).
+- [[2026-05-08-0909-session-158ff0de]] — Session Claude Code du 2026-05-08 09:09 sur projet claude-system (13 edits, 22 créations, 113 bash).
+- [[2026-05-08-0927-session-158ff0de]] — Session Claude Code du 2026-05-08 09:27 sur projet claude-system (13 edits, 22 créations, 121 bash).
+- [[2026-05-08-0946-session-158ff0de]] — Session Claude Code du 2026-05-08 09:46 sur projet unknown (13 edits, 25 créations, 124 bash).
 - [[2026-05-07-1126-session-9416e8cf]] — Session Claude Code du 2026-05-07 11:26 sur projet unknown (2 edits, 4 créations, 30 bash).
 - [[2026-05-07-1128-session-9416e8cf]] — Session Claude Code du 2026-05-07 11:28 sur projet claude-system (2 edits, 4 créations, 30 bash).
 - [[2026-05-07-1212-session-e172a5dd]] — Session Claude Code du 2026-05-07 12:12 sur projet claude-system (0 edits, 0 créations, 7 bash).
@@ -71,3 +87,4 @@ ai_writable: false
 - [[2026-05-07-1538-session-e172a5dd]] — Session Claude Code du 2026-05-07 15:38 sur projet unknown (10 edits, 3 créations, 90 bash).
 - [[2026-05-07-1543-session-e172a5dd]] — Session Claude Code du 2026-05-07 15:43 sur projet claude-system (10 edits, 3 créations, 91 bash).
 - [[2026-05-07-1553-session-e172a5dd]] — Session Claude Code du 2026-05-07 15:53 sur projet claude-system (10 edits, 4 créations, 93 bash).
+- [[2026-05-08-0844-session-e172a5dd]] — Session Claude Code du 2026-05-08 08:44 sur projet claude-system (10 edits, 4 créations, 93 bash).
