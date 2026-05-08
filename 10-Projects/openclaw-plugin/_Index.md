@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-05-08
+updated: 2026-05-08
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — openclaw-plugin
 
-> Auto-régénéré le 2026-05-07 13:04 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-08 03:00 par `vault-rag-curator`.
 
 ## HOT (2)
 
@@ -27,6 +27,8 @@ ai_writable: false
 - [[OpenClaw-Pieges-Dev]] — Ne pas mettre openclaw en devDep (symlink récursif crash Gateway), plugins update skip source=path, sandbox bloque prism…
 - [[Plugin-OpenClaw]] — Plugin IA du PMS — Feature 1 OAuth Codex livrée sur /dashboard/ai, Feature 2 routines en attente.
 
-## COLD (1)
+## COLD (3)
 
 - [[2026-05-07-1254-session-158ff0de]] — Session Claude Code du 2026-05-07 12:54 sur projet openclaw-plugin (3 edits, 3 créations, 37 bash).
+- [[2026-05-07-1325-session-158ff0de]] — Session Claude Code du 2026-05-07 13:25 sur projet openclaw-plugin (4 edits, 10 créations, 60 bash).
+- [[2026-05-07-1340-session-158ff0de]] — Session Claude Code du 2026-05-07 13:40 sur projet openclaw-plugin (4 edits, 12 créations, 69 bash).

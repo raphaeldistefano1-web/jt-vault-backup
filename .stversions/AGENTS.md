@@ -6,7 +6,7 @@
 
 ## Identité utilisateur
 
-- **Raphaël Di stefano**, owner-operator de l'hôtel **Le Jardin Tropical** (Bouillante, Guadeloupe).
+- **Raphaël Distefano**, owner-operator de l'hôtel **Le Jardin Tropical** (Bouillante, Guadeloupe).
 - Stack quotidienne : PMS Next.js custom + site WordPress + dev quotidien avec Claude Code.
 - Préférences : explications **concrètes, en français**. À l'aise avec docker / CLI / Linux mais pas dev full-time.
 - Mode de collaboration : préfère **agir** plutôt que sur-planifier. Ne pas demander confirmation pour des actions safe et réversibles.
