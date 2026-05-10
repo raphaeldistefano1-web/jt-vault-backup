@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -15,7 +19,13 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- '2026-05-07'
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-10-questionsprompts-externalisées-par-jeu
+- _MOC-claude-system
+- deep-research
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-0844-session-e172a5dd.md
@@ -38,3 +48,12 @@ updated: '2026-05-08'
 ---
 
 Pattern de coordination multi-agents : chaque finding complexe (ex: Finding #1, Finding #2) = 1 session/agent isolé, coordonné via team central. Structure : `/root/.claude/teams/veille-ia-build/config.json` (membership), `/root/.claude/teams/veille-ia-build/inboxes/` (messages asynchrones), `/root/.claude/tasks/veille-ia-build/` (task list). Avantage : évite context-window saturation quand N findings en parallèle, permet progression indépendante, inbox capture outputs pour synthèse finale. Pattern réutilisable pour tout pipeline multi-findings (audit, refactoring, migration).
+
+## Related
+
+- [[2026-05-07-structure-répertoires-srvveille-ia-config-external]] — Structure répertoires /srv/veille-ia (config externalisée)
+- [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
+- [[2026-05-07]] — Veille IA — Jeudi 7 mai 2026
+- [[_MOC-claude-system]] — MOC Claude System — système IA personnel
+- [[deep-research]] — deep research
+- [[2026-05-10-questionsprompts-externalisées-par-jeu]] — Questions/prompts externalisées par jeu

@@ -1,6 +1,13 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-adr-template-et-pattern-docsadr
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-10-architecture-decision-records-template-structure
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +21,13 @@ intent: pattern
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-09-adr-template-et-pattern-docsadr
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-10-architecture-decision-records-template-structure
+- CANONICITY
+- Workflow-Collaboration-IA
+- interface-design
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1442-session-21c4cfc3.md
@@ -67,3 +80,12 @@ Régimes corrects :
 3. **Décisions comportement agent** (rules de dispatch, permissions, hooks) → `CLAUDE.md` global ou project-level
 
 Chaque régime a son outil, sa fréquence d'audit, ses relecteurs. Pas de shortcut "tout dans CLAUDE.md".
+
+## Related
+
+- [[interface-design]] — interface design
+- [[2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo]] — Hiérarchie persistance : Mémoire vs Vault vs Todo
+- [[2026-05-09-adr-template-et-pattern-docsadr]] — ADR template et pattern docs/adr/
+- [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
+- [[Workflow-Collaboration-IA]] — Workflow Collaboration IA
+- [[2026-05-10-architecture-decision-records-template-structure]] — Architecture Decision Records template structure

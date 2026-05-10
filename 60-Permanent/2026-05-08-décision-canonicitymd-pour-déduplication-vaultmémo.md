@@ -1,6 +1,12 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-adr-template-et-pattern-docsadr
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -16,7 +22,14 @@ intent: decision
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- TODO-centralized
+- note-schema
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-0903-session-4d0a55cb.md
@@ -61,3 +74,13 @@ updated: '2026-05-08'
 **Implémentation possible** (à valider) :
 - Option A : vault est source ; mémoires CC archivées/supprimées
 - Option B : vault et CC synchronisés, vault reste primaire pour résolution de conflits
+
+## Related
+
+- [[2026-05-09-schéma-canonique-des-notes-du-vault-atomiques]] — Schéma canonique des notes du vault atomiques
+- [[2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo]] — Hiérarchie persistance : Mémoire vs Vault vs Todo
+- [[TODO-centralized]] — TODO centralized
+- [[2026-05-08-vault-para-multi-projets-chemin-canonique]] — Vault PARA multi-projets chemin canonique
+- [[note-schema]] — note schema
+- [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
+- [[2026-05-10-decision-defensive-truncation-et-sync-check-vault-]] — Decision : Defensive truncation et sync-check vault RAG

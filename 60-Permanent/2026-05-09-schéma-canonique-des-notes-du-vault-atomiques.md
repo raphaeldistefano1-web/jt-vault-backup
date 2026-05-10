@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +18,12 @@ intent: config
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- CANONICITY
+- Atomic-Notes-Pattern
+- 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1021-session-4d0a55cb.md
@@ -55,3 +64,11 @@ Pour les notes `intent: feedback-rule` uniquement :
 - **proposed_rule** (phrase impérative prête à coller dans CLAUDE.md)
 
 Documentalisé dans `/srv/vault/90-Meta/CANONICITY.md`.
+
+## Related
+
+- [[2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo]] — Décision — CANONICITY.md pour déduplication vault↔mémoires CC
+- [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
+- [[Atomic-Notes-Pattern]] — Atomic Notes Pattern
+- [[2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs]] — Vault synthesizer — synthèse auto des session-logs
+- [[2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo]] — Hiérarchie persistance : Mémoire vs Vault vs Todo

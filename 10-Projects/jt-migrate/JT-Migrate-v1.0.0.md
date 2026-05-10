@@ -1,5 +1,14 @@
 ---
 ai_writable: false
+backlinks:
+- Bug-PharData-RAM-OOM
+- Decision-Streaming-tar-gz-vs-PharData
+- JT-Migrate-v1.1.0
+- Migration-WP-com-vers-VPS-2026-04-25
+- Plugin-jt-migrate
+- _Index
+- _MOC-jt-migrate
+- _VAULT-INDEX
 created: 2026-04-25
 description: Première version JT Migrate — bloque sur sites > 100 MB à cause de PharData::compress
   qui charge tout en RAM

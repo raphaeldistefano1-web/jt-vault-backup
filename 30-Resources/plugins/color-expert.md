@@ -1,18 +1,32 @@
 ---
-intent: plugin-doc
-plugin_id: color-expert
-plugin_full_name: Color Expert (meodai / David Aerne)
-project: claude-system
+backlinks:
+- 2026-05-09-impeccable-surpasse-frontend-design-officiel
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- _Index
+- _VAULT-INDEX
 category: design
-regime: invocable
+consent_required: false
 cost: moyen
 cost_tokens_estimate: 8000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Color Expert (meodai / David Aerne)
+plugin_id: color-expert
+project: claude-system
+regime: invocable
+related:
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
 status: active
-tags: [design, couleur, palette, oklch, apca]
-synergies: [impeccable, interface-design]
+synergies:
+- impeccable
+- interface-design
+tags:
+- design
+- couleur
+- palette
+- oklch
+- apca
 ---
 
 # Color Expert
@@ -45,3 +59,6 @@ https://github.com/meodai/skill.color-expert — David Aerne (meodai)
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `/root/.claude/skills/color-expert/` (skill user / plugin marketplace).
 
+## Related
+
+- [[2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée]] — Page à-propos : couleur fond « nos valeurs » trop foncée

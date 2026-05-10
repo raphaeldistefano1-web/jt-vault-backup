@@ -4,6 +4,12 @@ alternatives:
 - Tout bloquer
 - Tout autoriser
 - Bloquer training + retrieval
+backlinks:
+- Decisions-Log
+- Lessons-Learned
+- Site-WordPress
+- Site-WordPress-Optimisation-2026-04-25
+- _MOC-site-wordpress
 chosen: Bloquer training crawlers, autoriser retrieval crawlers
 context: Optim site WP 2026-04-25 — décision stratégique GEO
 created: 2026-04-25

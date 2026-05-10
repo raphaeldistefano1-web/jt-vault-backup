@@ -1,26 +1,41 @@
 ---
-id: 20260507-1130-whisper-ref
-type: reference
-title: Whisper large-v3-turbo VPS — Paths, usage, performances
-project: null
-area: null
-status: active
-confidence: high
-summary: faster-whisper + modèle 1.6GB. CLI /usr/local/bin/whisper. ~0.29x realtime CPU int8. Formats txt/srt/vtt/json.
-intent: how-to
-entities: [whisper, transcription, faster-whisper, vps, cli, performance]
-topic_cluster: null
-related: ["[[Stack-Tech]]", "[[project_montage_video]]"]
-moc: "[[Stack-Tech]]"
-source: "memory:reference_whisper_vps.md"
-tier: warm
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [whisper, transcription, vps]
 ai_writable: true
+area: null
+backlinks:
+- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- _VAULT-INDEX
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- whisper
+- transcription
+- faster-whisper
+- vps
+- cli
+- performance
+id: 20260507-1130-whisper-ref
+intent: how-to
+last-accessed: 2026-05-07
+moc: '[[Stack-Tech]]'
+project: null
+related:
+- '[[Stack-Tech]]'
+- '[[project_montage_video]]'
+source: memory:reference_whisper_vps.md
+status: active
+summary: faster-whisper + modèle 1.6GB. CLI /usr/local/bin/whisper. ~0.29x realtime
+  CPU int8. Formats txt/srt/vtt/json.
+tags:
+- whisper
+- transcription
+- vps
+tier: warm
+title: Whisper large-v3-turbo VPS — Paths, usage, performances
+topic_cluster: null
+type: reference
+updated: 2026-05-07
 ---
 
 # Whisper large-v3-turbo VPS — Paths, usage, performances

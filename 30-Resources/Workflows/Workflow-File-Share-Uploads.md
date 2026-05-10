@@ -1,24 +1,38 @@
 ---
-type: workflow
-status: active
-tags: [workflow, file-sharing, claude]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Page /uploads du PMS pour partager des fichiers à Claude (code 8 chars, public/shares/<CODE>/)"
 ai_writable: false
-related:
-  - "[[PMS-Stack]]"
-  - "[[Plugin-jt-migrate]]"
-id: 202604252029-workflow-file-share-uploads
-embed_model_version: null
+backlinks:
+- Dev-PMS-Area
+- JT-Migrate-v1.2.0
+- Migration-WP-com-vers-VPS-2026-04-25
+- PMS-Stack
+- Workflow-Deploy-PMS
+created: 2026-04-25
+description: Page /uploads du PMS pour partager des fichiers à Claude (code 8 chars,
+  public/shares/<CODE>/)
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Le Dev-PMS-Area|PMS expose une page /uploads publique permettant à User-Raphael-Distefano|Raphaël ou n'importe qui avec …"
-entities: [configuration, infrastructure, pms]
-topic_cluster: pms-features
+embed_model_version: null
+entities:
+- configuration
+- infrastructure
+- pms
+id: 202604252029-workflow-file-share-uploads
 intent: how-to
+last-accessed: 2026-04-25
+related:
+- '[[PMS-Stack]]'
+- '[[Plugin-jt-migrate]]'
+relevance: medium
+status: active
+summary: Le Dev-PMS-Area|PMS expose une page /uploads publique permettant à User-Raphael-Distefano|Raphaël
+  ou n'importe qui avec …
+tags:
+- workflow
+- file-sharing
+- claude
 tier: warm
+topic_cluster: pms-features
+type: workflow
+updated: 2026-04-25
 ---
 
 # 📤 Workflow File Share Uploads

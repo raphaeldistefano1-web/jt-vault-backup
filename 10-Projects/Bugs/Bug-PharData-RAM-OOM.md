@@ -1,5 +1,12 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
+- Decision-Streaming-tar-gz-vs-PharData
+- JT-Migrate-v1.0.0
+- Lessons-Learned
+- _MOC-jt-migrate
+- _VAULT-INDEX
 created: 2026-04-25
 description: 'PharData::compress() et ::extract() chargent tout en RAM → OOM sur archives
   > 100 MB. Fix : streaming gzopen + USTAR custom.'

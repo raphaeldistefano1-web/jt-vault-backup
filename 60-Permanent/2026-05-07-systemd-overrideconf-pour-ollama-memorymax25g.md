@@ -1,6 +1,11 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-embedding-model-nomic-embed-text-v2-moe-305m-moe
+- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
+- 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -14,7 +19,8 @@ intent: config
 last-accessed: '2026-05-07'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1254-session-158ff0de.md
 - 10-Projects/claude-system/2026-05-07-1240-session-158ff0de.md
@@ -48,3 +54,7 @@ MemoryHigh=2.0G
 **Application** : `systemctl daemon-reload && systemctl restart ollama`
 
 Force systemd à terminer Ollama *gracefully* si RSS > 2.5G. `MemoryHigh=2.0G` déclenche reclaim agressif avant la limite hard. Nécessaire après incident bge-m3 OOM. Peut être ajusté si nouveau modèle nécessite plus, ou baissé si VPS monte en charge.
+
+## Related
+
+- [[2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann]] — nomic-embed-text-v2-moe consommation réelle vs annoncée

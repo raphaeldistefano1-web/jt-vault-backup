@@ -1,5 +1,10 @@
 ---
 ai_writable: false
+backlinks:
+- Dev-PMS-Area
+- PMS-Stack
+- _Index
+- _MOC-desktop-app
 created: 2026-04-25
 description: Wrapper Electron v1.3.0 du PMS — notifs natives, badge dock, tray menu
   bar, deep links pms://, mode offline lecture

@@ -1,18 +1,31 @@
 ---
-intent: plugin-doc
-plugin_id: codex-peer-review
-plugin_full_name: Codex Peer Review (jcputney)
-project: claude-system
+backlinks:
+- 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- _Index
 category: code-quality
-regime: invocable
+consent_required: false
 cost: moyen
 cost_tokens_estimate: 7000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Codex Peer Review (jcputney)
+plugin_id: codex-peer-review
+project: claude-system
+regime: invocable
+related:
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
 status: active
-tags: [code-review, peer-review, codex, ai-collaboration]
-synergies: [devils-advocate, code-reviewer]
+synergies:
+- devils-advocate
+- code-reviewer
+tags:
+- code-review
+- peer-review
+- codex
+- ai-collaboration
 ---
 
 # Codex Peer Review
@@ -45,3 +58,6 @@ https://github.com/jcputney/agent-peer-review — jcputney
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `plugin marketplace: codex-peer-review@agent-peer-review-marketplace` (skill user / plugin marketplace).
 
+## Related
+
+- [[2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése]] — Claude Max quota — fenêtre 5h limitée, stratégie réservation

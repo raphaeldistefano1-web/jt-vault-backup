@@ -1,5 +1,21 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-04-25-session-context
+- 2026-04-25-session-context 2
+- Bug-WP-Image-Encoding-Accent
+- Decision-Mu-plugin-vs-RankMath
+- Decisions-Log
+- GEO-Generative-Engine-Optimization
+- Hotel-Le-Jardin-Tropical
+- Migration-WP-com-vers-VPS-2026-04-25
+- Mu-plugin-jt-seo-extras
+- Robots-txt-LLM-Aware
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress
+- _Index
+- _MOC-site-wordpress
+- llms-txt-standard
 created: 2026-04-25
 description: Optimisation complète site WP — 3 loops vérification/recherche/application
   — TTFB 1170ms→33ms, gzip -81%, 0 broken links/441
@@ -14,10 +30,11 @@ intent: reference
 last-accessed: 2026-04-25
 project: site-wordpress
 related:
-- '[[Site-WordPress]]'
+- 2026-04-25-session-context 2
+- '[[Migration-WP-com-vers-VPS-2026-04-25]]'
 - '[[Mu-plugin-jt-seo-extras]]'
 - '[[Site-Plugins-Stack-2026-04-25]]'
-- '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+- '[[Site-WordPress]]'
 relevance: high
 status: completed
 summary: Suite à la migration depuis dealmfr.wpcomstaging.com vers le VPS Hostinger
@@ -112,3 +129,7 @@ Chaque loop = vérification → recherche web (agents avec WebSearch) → applic
 - [[Site-WordPress]]
 - [[Mu-plugin-jt-seo-extras]]
 - [[Site-Plugins-Stack-2026-04-25]]
+
+## Related
+
+- [[2026-04-25-session-context 2]] — 2026-04-25-session-context 2

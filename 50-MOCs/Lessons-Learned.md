@@ -1,24 +1,38 @@
 ---
-type: moc
-status: active
-tags: [lessons, moc, learnings]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "MOC apprentissages transversaux — bugs résolus, patterns à retenir, anti-patterns identifiés"
 ai_writable: false
-related:
-  - "[[INDEX]]"
-  - "[[Decisions-Log]]"
-id: 202604252041-lessons-learned
-embed_model_version: null
+backlinks:
+- Decisions-Log
+- INDEX
+- _VAULT-INDEX
+created: 2026-04-25
+description: MOC apprentissages transversaux — bugs résolus, patterns à retenir, anti-patterns
+  identifiés
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "MOC apprentissages — PharData RAM, Redis vs WPO, streaming uploads, pipelines auth-safe, atomic notes patterns."
-entities: [debugging, redis, site-wordpress, wordpress, wordpress-optimization]
-topic_cluster: vault-navigation
+embed_model_version: null
+entities:
+- debugging
+- redis
+- site-wordpress
+- wordpress
+- wordpress-optimization
+id: 202604252041-lessons-learned
 intent: reference
+last-accessed: 2026-04-25
+related:
+- '[[INDEX]]'
+- '[[Decisions-Log]]'
+relevance: high
+status: active
+summary: MOC apprentissages — PharData RAM, Redis vs WPO, streaming uploads, pipelines
+  auth-safe, atomic notes patterns.
+tags:
+- lessons
+- moc
+- learnings
 tier: warm
+topic_cluster: vault-navigation
+type: moc
+updated: 2026-04-25
 ---
 
 # 💡 MOC Lessons Learned

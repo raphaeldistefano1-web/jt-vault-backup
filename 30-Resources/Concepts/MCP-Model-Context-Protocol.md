@@ -1,26 +1,42 @@
 ---
-type: concept
-status: active
-tags: [mcp, ai, protocol, standard]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Standard 2026 pour exposer outils/données aux LLMs — MCP donné à la Linux Foundation par Anthropic"
 ai_writable: false
-related:
-  - "[[AGENTS-md-standard]]"
-  - "[[Vault-Setup]]"
-  - "[[Linux-Foundation-AAIF]]"
-aliases: [Model Context Protocol]
-id: 202604252025-mcp-model-context-protocol
-embed_model_version: null
+aliases:
+- Model Context Protocol
+backlinks:
+- 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
+- AGENTS-md-standard
+- Vault-Setup
+- _VAULT-INDEX
+created: 2026-04-25
+description: Standard 2026 pour exposer outils/données aux LLMs — MCP donné à la Linux
+  Foundation par Anthropic
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Standard ouvert pour exposer des outils functions et des ressources read-only data à des LLMs/agents. Permet à Claude/Ch…"
-entities: [llm, mcp, obsidian, postgres]
-topic_cluster: ai-integration
+embed_model_version: null
+entities:
+- llm
+- mcp
+- obsidian
+- postgres
+id: 202604252025-mcp-model-context-protocol
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[AGENTS-md-standard]]'
+- '[[Vault-Setup]]'
+- '[[Linux-Foundation-AAIF]]'
+relevance: high
+status: active
+summary: Standard ouvert pour exposer des outils functions et des ressources read-only
+  data à des LLMs/agents. Permet à Claude/Ch…
+tags:
+- mcp
+- ai
+- protocol
+- standard
 tier: warm
+topic_cluster: ai-integration
+type: concept
+updated: 2026-04-25
 ---
 
 # 🔌 MCP — Model Context Protocol

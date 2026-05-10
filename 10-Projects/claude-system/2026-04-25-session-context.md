@@ -1,5 +1,8 @@
 ---
 ai_writable: true
+backlinks:
+- _Index
+- _VAULT-INDEX
 created: 2026-04-25
 description: Log de fin de session 2026-04-25 — vault construit, Phase 5 MCP à reprendre
   demain, double-write actif

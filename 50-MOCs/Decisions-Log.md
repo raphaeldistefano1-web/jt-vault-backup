@@ -1,24 +1,45 @@
 ---
-type: moc
-status: active
-tags: [decisions, moc, log]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "MOC chronologique des décisions techniques majeures du projet Le Jardin Tropical"
 ai_writable: false
-related:
-  - "[[INDEX]]"
-  - "[[Lessons-Learned]]"
-id: 202604252040-decisions-log
-embed_model_version: null
+backlinks:
+- 2026-05-09-instance-d-wordpress-en-rotation-test
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- INDEX
+- Lessons-Learned
+- _MOC-pms
+- _VAULT-INDEX
+- note-schema
+created: 2026-04-25
+description: MOC chronologique des décisions techniques majeures du projet Le Jardin
+  Tropical
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "MOC décisions techniques — streaming tar.gz, mu-plugin vs RankMath, robots.txt LLM-aware, anti-spam RGPD."
-entities: [akismet, antispam-bee, llm, migration, site-wordpress, wordpress]
-topic_cluster: decision-log
+embed_model_version: null
+entities:
+- akismet
+- antispam-bee
+- llm
+- migration
+- site-wordpress
+- wordpress
+id: 202604252040-decisions-log
 intent: decision
+last-accessed: 2026-04-25
+related:
+- 2026-04-25-session-context 2
+- 2026-05-09-instance-d-wordpress-en-rotation-test
+- '[[INDEX]]'
+- '[[Lessons-Learned]]'
+relevance: high
+status: active
+summary: MOC décisions techniques — streaming tar.gz, mu-plugin vs RankMath, robots.txt
+  LLM-aware, anti-spam RGPD.
+tags:
+- decisions
+- moc
+- log
 tier: warm
+topic_cluster: decision-log
+type: moc
+updated: 2026-04-25
 ---
 
 # 🎯 MOC Decisions Log
@@ -56,3 +77,8 @@ Pour ce site, le ratio coût/bénéfice penche systématiquement vers du self-ho
 - [[INDEX]]
 - [[Lessons-Learned]]
 - [[Site-WordPress-Optimisation-2026-04-25]]
+
+## Related
+
+- [[2026-05-09-instance-d-wordpress-en-rotation-test]] — Instance D WordPress en rotation test
+- [[2026-04-25-session-context 2]] — 2026-04-25-session-context 2

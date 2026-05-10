@@ -1,24 +1,38 @@
 ---
-type: workflow
-status: active
-tags: [workflow, ux, coherence, pms]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Toute feature doit être exposée à TOUS les points d'entrée pertinents + mutualiser composants/API + cascader les MAJ"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[Workflow-Preview-Then-Apply]]"
-id: 202604252029-workflow-cross-feature-coherence
-embed_model_version: null
+backlinks:
+- Dev-PMS-Area
+- PMS
+- PMS-Calendar-v2
+- PMS-Stack
+created: 2026-04-25
+description: Toute feature doit être exposée à TOUS les points d'entrée pertinents
+  + mutualiser composants/API + cascader les MAJ
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Toute feature ajoutée au Dev-PMS-Area|PMS doit être :"
-entities: [api, calendar, dashboard, pms]
-topic_cluster: pms-architecture
+embed_model_version: null
+entities:
+- api
+- calendar
+- dashboard
+- pms
+id: 202604252029-workflow-cross-feature-coherence
 intent: how-to
+last-accessed: 2026-04-25
+related:
+- '[[Dev-PMS-Area]]'
+- '[[Workflow-Preview-Then-Apply]]'
+relevance: high
+status: active
+summary: 'Toute feature ajoutée au Dev-PMS-Area|PMS doit être :'
+tags:
+- workflow
+- ux
+- coherence
+- pms
 tier: warm
+topic_cluster: pms-architecture
+type: workflow
+updated: 2026-04-25
 ---
 
 # 🔄 Workflow Cross-Feature Coherence

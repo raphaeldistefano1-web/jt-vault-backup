@@ -1,26 +1,41 @@
 ---
-type: concept
-status: active
-tags: [wordpress, pattern, mu-plugin]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Pattern : compléter le theme via un mu-plugin custom plutôt qu'un plugin SEO commercial qui écraserait"
 ai_writable: false
-related:
-  - "[[Mu-plugin-jt-seo-extras]]"
-  - "[[Theme-jardintropical-child]]"
-  - "[[Decision-Mu-plugin-vs-RankMath]]"
-  - "[[Site-WordPress]]"
-id: 202604252026-mu-plugin-vs-theme-pattern
-embed_model_version: null
+backlinks:
+- Decision-Mu-plugin-vs-RankMath
+- Decisions-Log
+- Lessons-Learned
+- Mu-plugin-jt-seo-extras
+- Theme-jardintropical-child
+- Workflow-Collaboration-IA
+created: 2026-04-25
+description: 'Pattern : compléter le theme via un mu-plugin custom plutôt qu''un plugin
+  SEO commercial qui écraserait'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Quand un theme custom fait déjà bien son boulot meta, OG, schema, lazy load, ne PAS installer un plugin SEO commercial R…"
-entities: [documentation, reference, wordpress]
-topic_cluster: wordpress-patterns
+embed_model_version: null
+entities:
+- documentation
+- reference
+- wordpress
+id: 202604252026-mu-plugin-vs-theme-pattern
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[Mu-plugin-jt-seo-extras]]'
+- '[[Theme-jardintropical-child]]'
+- '[[Decision-Mu-plugin-vs-RankMath]]'
+- '[[Site-WordPress]]'
+relevance: high
+status: active
+summary: Quand un theme custom fait déjà bien son boulot meta, OG, schema, lazy load,
+  ne PAS installer un plugin SEO commercial R…
+tags:
+- wordpress
+- pattern
+- mu-plugin
 tier: warm
+topic_cluster: wordpress-patterns
+type: concept
+updated: 2026-04-25
 ---
 
 # 🔧 Pattern : mu-plugin vs theme

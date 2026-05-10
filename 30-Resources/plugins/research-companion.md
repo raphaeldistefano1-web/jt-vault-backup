@@ -1,18 +1,29 @@
 ---
-intent: plugin-doc
-plugin_id: research-companion
-plugin_full_name: Research Companion (André Huang)
-project: claude-system
+backlinks:
+- 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
+- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- _Index
 category: research
-regime: invocable
+consent_required: false
 cost: moyen
 cost_tokens_estimate: 8000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Research Companion (André Huang)
+plugin_id: research-companion
+project: claude-system
+regime: invocable
 status: active
-tags: [research, idea-validation, brainstorm, decision]
-synergies: [deep-research, thinking-skills, codex-peer-review]
+synergies:
+- deep-research
+- thinking-skills
+- codex-peer-review
+tags:
+- research
+- idea-validation
+- brainstorm
+- decision
 ---
 
 # Research Companion
@@ -44,4 +55,3 @@ https://github.com/andrehuang/research-companion — André Huang
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `plugin marketplace: research-companion@andrehuang-research-companion` (skill user / plugin marketplace).
-

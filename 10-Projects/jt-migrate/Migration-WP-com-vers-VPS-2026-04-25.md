@@ -1,5 +1,19 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-04-25-session-context
+- 2026-04-25-session-context 2
+- Bug-Apache-Timeout-300-vs-Uploads
+- Bug-JT-Migrate-Auth-Loss-After-DB-Restore
+- JT-Migrate-v1.0.0
+- JT-Migrate-v1.2.1
+- Plugin-jt-migrate
+- Site-WordPress
+- Site-WordPress-Optimisation-2026-04-25
+- Workflow-File-Share-Uploads
+- _Index
+- _MOC-jt-migrate
+- _VAULT-INDEX
 created: 2026-04-25
 description: Migration site dealmfr.wpcomstaging.com → VPS Hostinger via JT Migrate
   v1.2.1 — 321 MB d'archive, succès après bug séquence
@@ -14,12 +28,14 @@ intent: reference
 last-accessed: 2026-04-25
 project: jt-migrate
 related:
-- '[[Plugin-jt-migrate]]'
-- '[[Site-WordPress]]'
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- Workflow-File-Share-Uploads
+- '[[Bug-Apache-Timeout-300-vs-Uploads]]'
+- '[[Bug-JT-Migrate-Auth-Loss-After-DB-Restore]]'
 - '[[JT-Migrate-v1.0.0]]'
 - '[[JT-Migrate-v1.2.1]]'
-- '[[Bug-JT-Migrate-Auth-Loss-After-DB-Restore]]'
-- '[[Bug-Apache-Timeout-300-vs-Uploads]]'
+- '[[Plugin-jt-migrate]]'
+- '[[Site-WordPress]]'
 relevance: high
 status: completed
 summary: Migration 321 MB WP.com → VPS Hostinger réussie — 5 bugs résolus (PharData
@@ -97,3 +113,8 @@ L'archive 321 MB téléchargée du WP.com a refusé d'uploader sur le VPS via UI
 - [[Plugin-jt-migrate]]
 - [[Site-WordPress]]
 - [[Site-WordPress-Optimisation-2026-04-25]]
+
+## Related
+
+- [[Workflow-File-Share-Uploads]] — Workflow-File-Share-Uploads
+- [[2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé]] — Instance C : images affichées mais absentes de la médiathèque

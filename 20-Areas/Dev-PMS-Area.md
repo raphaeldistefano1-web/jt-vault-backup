@@ -1,28 +1,59 @@
 ---
-type: area
-status: active
-tags: [pms, dev, nextjs]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Area de responsabilité — développement et exploitation du PMS custom Le Jardin Tropical"
 ai_writable: false
-related:
-  - "[[PMS-Stack]]"
-  - "[[Workflow-Preview-Then-Apply]]"
-  - "[[Workflow-Deploy-PMS]]"
-  - "[[Sub-agents-internes-PMS]]"
-  - "[[Plugin-OpenClaw]]"
-  - "[[Desktop-App-Electron]]"
-id: 202604252024-dev-pms-area
-embed_model_version: null
+backlinks:
+- Brainstorm-PMS-Ameliorations-2026-04-25
+- Desktop-App-Electron
+- PMS-AI-Assistant
+- PMS-Calendar-v2
+- PMS-Dashboard-v2
+- PMS-Settings-Hub
+- PMS-Stack
+- Sub-agents-internes-PMS
+- Tests-PMS-Batterie-2026-04-25
+- User-Raphael-Distefano
+- VPS-Hostinger
+- Workflow-API-Integrations
+- Workflow-Cross-Feature-Coherence
+- Workflow-Deploy-PMS
+- Workflow-File-Share-Uploads
+- Workflow-Preview-Then-Apply
+created: 2026-04-25
+description: Area de responsabilité — développement et exploitation du PMS custom
+  Le Jardin Tropical
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "PMS-Area|PMS = Property Management System custom Next.js mono-tenant pour piloter Le Jardin Tropical au quotidien. Pas d…"
-entities: [brevo, nextjs, pm2, pms, postgres, prisma, traefik]
-topic_cluster: area-hub
+embed_model_version: null
+entities:
+- brevo
+- nextjs
+- pm2
+- pms
+- postgres
+- prisma
+- traefik
+id: 202604252024-dev-pms-area
 intent: reference
+last-accessed: 2026-04-25
+related:
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- Workflow-File-Share-Uploads
+- '[[Desktop-App-Electron]]'
+- '[[PMS-Stack]]'
+- '[[Plugin-OpenClaw]]'
+- '[[Sub-agents-internes-PMS]]'
+- '[[Workflow-Deploy-PMS]]'
+- '[[Workflow-Preview-Then-Apply]]'
+relevance: high
+status: active
+summary: PMS-Area|PMS = Property Management System custom Next.js mono-tenant pour
+  piloter Le Jardin Tropical au quotidien. Pas d…
+tags:
+- pms
+- dev
+- nextjs
 tier: hot
+topic_cluster: area-hub
+type: area
+updated: 2026-04-25
 ---
 
 # 💻 Dev PMS Area
@@ -74,3 +105,8 @@ Cf. [[PMS-Stack]] pour détails.
 
 - **Code source** : `/var/www/pms-jardin-tropical/`
 - **URL provisoire** : https://pms-46-202-171-204.nip.io
+
+## Related
+
+- [[Workflow-File-Share-Uploads]] — Workflow-File-Share-Uploads
+- [[2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router]] — Stack CUL SEC — PWA Next.js 14 App Router

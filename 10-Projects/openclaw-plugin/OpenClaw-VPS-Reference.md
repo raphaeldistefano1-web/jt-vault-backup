@@ -1,26 +1,50 @@
 ---
-id: 20260507-1118-openclaw-vps-ref
-type: reference
-title: OpenClaw sur le VPS — Paths, ports, config
-project: openclaw
-area: null
-status: active
-confidence: high
-summary: Gateway loopback :18789, paths config auth-profiles, fix systemd ExecStart NVM, Codex OAuth lib.
-intent: how-to
-entities: [openclaw, gateway, vps, paths, systemd, oauth-codex]
-topic_cluster: openclaw
-related: ["[[_MOC-openclaw]]", "[[OpenClaw-Etat]]"]
-moc: "[[_MOC-openclaw]]"
-source: "memory:reference_openclaw_vps.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [openclaw, vps, gateway, config]
 ai_writable: true
+area: null
+backlinks:
+- OpenClaw-Etat
+- OpenClaw-Pieges-Dev
+- PMS-AI-Assistant
+- PMS-Desktop-Reference
+- PMS-Stack
+- Plugin-OpenClaw
+- _Index
+- n8n-Reference
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- openclaw
+- gateway
+- vps
+- paths
+- systemd
+- oauth-codex
+id: 20260507-1118-openclaw-vps-ref
+intent: how-to
+last-accessed: 2026-05-07
+moc: '[[_MOC-openclaw]]'
+project: openclaw
+related:
+- OpenClaw-VPS-Reference
+- VPS-Access-Tailscale
+- '[[OpenClaw-Etat]]'
+- '[[_MOC-openclaw]]'
+source: memory:reference_openclaw_vps.md
+status: active
+summary: Gateway loopback :18789, paths config auth-profiles, fix systemd ExecStart
+  NVM, Codex OAuth lib.
+tags:
+- openclaw
+- vps
+- gateway
+- config
+tier: hot
+title: OpenClaw sur le VPS — Paths, ports, config
+topic_cluster: openclaw
+type: reference
+updated: 2026-05-07
 ---
 
 # OpenClaw sur le VPS — Paths, ports, config
@@ -67,3 +91,8 @@ Le service file pointait par défaut vers `/usr/bin/node` (inexistant sur ce VPS
 - MOC parent : [[_MOC-openclaw]]
 - État du plugin : [[OpenClaw-Etat]]
 - Source : `memory:reference_openclaw_vps.md`
+
+## Related
+
+- [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)
+- [[OpenClaw-VPS-Reference]] — OpenClaw-VPS-Reference

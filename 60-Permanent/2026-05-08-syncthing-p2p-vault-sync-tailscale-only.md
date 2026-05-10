@@ -1,6 +1,13 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- CANONICITY
+- Vault-Setup
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -15,7 +22,13 @@ intent: config
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- CANONICITY
+- Vault-Setup
+- _HEALTH
 schema_version: 1
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1325-session-158ff0de.md
@@ -62,3 +75,12 @@ Setup P2P vault VPS ↔ Mac (développement local) :
 - **.stignore** : exclude logs, `.DS_Store`, fichiers temporaires
 
 **Avantage** : chiffrage P2P, pas serveur tiers, latence basse Tailscale. **À noter** : Syncthing gourmand en file descriptors sur vaults >50k notes — monitorer via `lsof | grep syncthing`.
+
+## Related
+
+- [[Vault-Setup]] — Vault Setup
+- [[2026-05-08-vault-para-multi-projets-chemin-canonique]] — Vault PARA multi-projets chemin canonique
+- [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
+- [[_HEALTH]] — Vault Health Check
+- [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
+- [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer

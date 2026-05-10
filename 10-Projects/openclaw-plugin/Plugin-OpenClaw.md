@@ -1,5 +1,15 @@
 ---
 ai_writable: false
+backlinks:
+- Dev-PMS-Area
+- OpenClaw-VPS-Reference
+- PMS
+- PMS-AI-Assistant
+- PMS-Stack
+- VPS-Hostinger
+- Workflow-API-Integrations
+- _Index
+- _MOC-openclaw
 created: 2026-04-25
 description: Plugin OpenClaw du PMS — IA assistant, Feature 1 OAuth Codex livrée,
   Feature 2 routines reportée

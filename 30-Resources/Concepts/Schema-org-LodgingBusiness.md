@@ -1,26 +1,38 @@
 ---
-type: concept
-status: active
-tags: [schema-org, seo, hotel]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Schema.org LodgingBusiness / BedAndBreakfast — type structuré pour hôtel/location vacances"
 ai_writable: false
-related:
-  - "[[GEO-Generative-Engine-Optimization]]"
-  - "[[Schema-FAQPage]]"
-  - "[[Schema-TouristAttraction]]"
-  - "[[Theme-jardintropical-child]]"
-id: 202604252027-schema-org-lodgingbusiness
-embed_model_version: null
+backlinks:
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- GEO-Generative-Engine-Optimization
+- Schema-FAQPage
+- Theme-jardintropical-child
+created: 2026-04-25
+description: Schema.org LodgingBusiness / BedAndBreakfast — type structuré pour hôtel/location
+  vacances
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Type Schema.org pour un établissement d'hébergement. Sous-types pertinents pour Hotel-Le-Jardin-Tropical|Le Jardin Tropi…"
-entities: [documentation, reference]
-topic_cluster: wordpress-schema
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252027-schema-org-lodgingbusiness
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[GEO-Generative-Engine-Optimization]]'
+- '[[Schema-FAQPage]]'
+- '[[Schema-TouristAttraction]]'
+- '[[Theme-jardintropical-child]]'
+relevance: high
+status: active
+summary: Type Schema.org pour un établissement d'hébergement. Sous-types pertinents
+  pour Hotel-Le-Jardin-Tropical|Le Jardin Tropi…
+tags:
+- schema-org
+- seo
+- hotel
 tier: warm
+topic_cluster: wordpress-schema
+type: concept
+updated: 2026-04-25
 ---
 
 # 🏨 Schema.org — LodgingBusiness

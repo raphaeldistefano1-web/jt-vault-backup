@@ -1,6 +1,12 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-haiku-pour-curation-veille-ia-économie-tokens
+- 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
+- 2026-05-09-impeccable-surpasse-frontend-design-officiel
+- 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +20,13 @@ intent: gotcha
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-haiku-pour-curation-veille-ia-économie-tokens
+- 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
+- 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
+- 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- impeccable
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1442-session-21c4cfc3.md
@@ -67,3 +79,12 @@ Réalité : fenêtre glissante 5h, rechargement quotidien. Une session 2-3h comp
 - Intégration comptable
 
 Tâches quotidiennes → rester sur Sonnet/Haiku/Codex.
+
+## Related
+
+- [[2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau]] — Codex CLI en MCP server pour économiser quota Claude Max
+- [[2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl]] — Tmux dashboard 3-windows monitoring quotas live Claude/Codex
+- [[2026-05-07-haiku-pour-curation-veille-ia-économie-tokens]] — Haiku pour curation veille IA (économie tokens)
+- [[impeccable]] — impeccable
+- [[2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs]] — Vault synthesizer — synthèse auto des session-logs
+- [[2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése]] — Claude Max quota — fenêtre 5h limitée, stratégie réservation

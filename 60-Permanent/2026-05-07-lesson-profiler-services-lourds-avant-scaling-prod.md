@@ -1,6 +1,11 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
+- 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
+- 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -14,7 +19,13 @@ intent: lesson
 last-accessed: '2026-05-07'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
+- 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
+- 2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g
+- 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
+- 2026-05-08-ollama-systemd-memorymax-guardrail-et-swap
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1254-session-158ff0de.md
 - 10-Projects/claude-system/2026-05-07-1240-session-158ff0de.md
@@ -40,3 +51,12 @@ updated: '2026-05-07'
 Documentations donnent chiffres optimistes ("700 MB") qui ignores : overhead runtime (Ollama), allocation GPU/CPU context, padding inférence, caching intermédiaires, concurrent requests. **Protocole avant scaling** : 1. Isoler service sur machine test 2. Charger workload *complète* (104+ notes vault = 100+ embeddings) 3. Observer `top`, `free -h`, `ps aux` pendant 5+ min sous charge réelle 4. Ajouter 50% marge sécurité 5. Configurer systemd limits (MemoryMax) AVANT prod
 
 **Monitoring continu en prod** : swap usage, OOM-kill counts (`journalctl -b | grep OOM`), systemd kill signals (`memory cgroup.events`).
+
+## Related
+
+- [[2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite]] — Ollama bge-m3 consomme 5.6 GB sans limite
+- [[2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd]] — Ollama démarrage manuel, pas auto-start systemd
+- [[2026-05-08-ollama-systemd-memorymax-guardrail-et-swap]] — Ollama systemd MemoryMax guardrail et swap
+- [[2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann]] — nomic-embed-text-v2-moe consommation réelle vs annoncée
+- [[2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g]] — systemd override.conf pour Ollama : MemoryMax=2.5G
+- [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle

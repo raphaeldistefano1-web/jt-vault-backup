@@ -1,26 +1,54 @@
 ---
-type: area
-status: active
-tags: [user, identity, profile]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Profil de Raphaël Distefano, owner-operator du Jardin Tropical et de la stack tech"
 ai_writable: false
-related:
-  - "[[Hotel-Le-Jardin-Tropical]]"
-  - "[[Dev-PMS-Area]]"
-  - "[[Workflow-Collaboration-IA]]"
-aliases: [Raphaël, Raph]
-id: 202604252023-user-raphael-distefano
-embed_model_version: null
+aliases:
+- Raphaël
+- Raph
+backlinks:
+- AGENTS-md-standard
+- Atomic-Notes-Pattern
+- Bug-WP-Link-Blog-404
+- Dev-PMS-Area
+- Hotel-Le-Jardin-Tropical
+- PMS-Dashboard-v2
+- PMS-Settings-Hub
+- Plugin-jt-booking
+- Site-WordPress-Optimisation-2026-04-25
+- TODO-centralized
+- Workflow-API-Integrations
+- Workflow-Collaboration-IA
+- Workflow-File-Share-Uploads
+- Workflow-Preview-Then-Apply
+- _VAULT-INDEX
+created: 2026-04-25
+description: Profil de Raphaël Distefano, owner-operator du Jardin Tropical et de
+  la stack tech
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Owner-operator Le Jardin Tropical, pilote PMS Next.js + WordPress, daily driver Claude Code, base Bouillante."
-entities: [docker, nextjs, pms, site-wordpress, wordpress]
-topic_cluster: area-hub
+embed_model_version: null
+entities:
+- docker
+- nextjs
+- pms
+- site-wordpress
+- wordpress
+id: 202604252023-user-raphael-distefano
 intent: reference
+last-accessed: 2026-04-25
+related:
+- '[[Hotel-Le-Jardin-Tropical]]'
+- '[[Dev-PMS-Area]]'
+- '[[Workflow-Collaboration-IA]]'
+relevance: high
+status: active
+summary: Owner-operator Le Jardin Tropical, pilote PMS Next.js + WordPress, daily
+  driver Claude Code, base Bouillante.
+tags:
+- user
+- identity
+- profile
 tier: hot
+topic_cluster: area-hub
+type: area
+updated: 2026-04-25
 ---
 
 # 👤 Raphaël Distefano

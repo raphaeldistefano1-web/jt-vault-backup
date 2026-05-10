@@ -1,21 +1,46 @@
 ---
-type: resource
-status: active
-tags: [infra, stack, credentials]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Stack technique complète Le Jardin Tropical : VPS, domaines, ports, paths"
 ai_writable: false
-id: 202604252021-stack-tech
-embed_model_version: null
+backlinks:
+- AGENTS-md-standard
+- Hotel
+- INDEX
+- MCP-Model-Context-Protocol
+- OpenClaw-VPS-Reference
+- PMS-Stack
+- RUNBOOK-disaster-recovery
+- Site-WordPress
+- VPS-Access-Tailscale
+- VPS-Hostinger
+- Whisper-VPS-Reference
+created: 2026-04-25
+description: 'Stack technique complète Le Jardin Tropical : VPS, domaines, ports,
+  paths'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Stack complète VPS — Hostinger 46.202.171.204, Traefik, WordPress Docker, PMS Next.js, OpenClaw, vault."
-entities: [docker, pms, site-wordpress, traefik, wordpress]
-topic_cluster: infrastructure
+embed_model_version: null
+entities:
+- docker
+- pms
+- site-wordpress
+- traefik
+- wordpress
+id: 202604252021-stack-tech
 intent: reference
+last-accessed: 2026-04-25
+related:
+- Site-WordPress
+- VPS-Access-Tailscale
+relevance: high
+status: active
+summary: Stack complète VPS — Hostinger 46.202.171.204, Traefik, WordPress Docker,
+  PMS Next.js, OpenClaw, vault.
+tags:
+- infra
+- stack
+- credentials
 tier: warm
+topic_cluster: infrastructure
+type: resource
+updated: 2026-04-25
 ---
 
 # 🔧 Stack technique
@@ -83,3 +108,8 @@ tier: warm
 
 - Brevo (PMS transactionnel)
 - (à compléter)
+
+## Related
+
+- [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)
+- [[Site-WordPress]] — Site-WordPress

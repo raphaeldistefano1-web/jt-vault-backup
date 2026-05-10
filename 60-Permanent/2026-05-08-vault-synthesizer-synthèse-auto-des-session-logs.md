@@ -1,6 +1,13 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-haiku-pour-curation-veille-ia-économie-tokens
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
+- 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
+- 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
+- 2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -15,7 +22,16 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
+- 2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault
+- CANONICITY
+- _Index
+- _MOC-claude-system
+- note-schema
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-0903-session-4d0a55cb.md
@@ -59,3 +75,15 @@ updated: '2026-05-08'
 **Intégration au RAG** :
 - Vault RAG (SQLite+vec0+FTS5+MCP) indexe ces notes en temps réel
 - Recherche sémantique + lexicale sur 60-Permanent/ accessible via contexte Claude
+
+## Related
+
+- [[_MOC-claude-system]] — MOC Claude System — système IA personnel
+- [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
+- [[_Index]] — Index — claude-system
+- [[note-schema]] — note schema
+- [[2026-05-08-frontmatter-enrichi-extrait-insights-durables]] — Frontmatter enrichi extrait insights durables
+- [[2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau]] — Audit one-shot — déduplication 39 mémoires CC vs vault
+- [[2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct]] — Lesson : Checklist pour diagnostiquer que Crow fonctionne
+- [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
+- [[2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault]] — Pattern : Scripts maintenance et diagnostic vault

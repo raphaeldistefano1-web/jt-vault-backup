@@ -1,26 +1,43 @@
 ---
-id: 20260507-1128-vps-access
-type: reference
-title: Accès VPS via Tailscale (depuis 2026-05-06)
-project: null
-area: null
-status: active
-confidence: high
-summary: VPS Hostinger port 22 fermé. Accès SSH uniquement via Tailscale (100.98.218.10). Alias Mac, iPhone+Termius, backup console VNC.
-intent: how-to
-entities: [vps, tailscale, ssh, security, backup-access]
-topic_cluster: null
-related: ["[[Stack-Tech]]"]
-moc: "[[Stack-Tech]]"
-source: "memory:reference_vps_access.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [vps, tailscale, security]
 ai_writable: true
+area: null
+backlinks:
+- OpenClaw-VPS-Reference
+- PMS-Desktop-Reference
+- Stack-Tech
+- VPS-Hostinger
+- Vault-Setup
+- _VAULT-INDEX
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- vps
+- tailscale
+- ssh
+- security
+- backup-access
+id: 20260507-1128-vps-access
+intent: how-to
+last-accessed: 2026-05-07
+moc: '[[Stack-Tech]]'
+project: null
+related:
+- '[[Stack-Tech]]'
+source: memory:reference_vps_access.md
+status: active
+summary: VPS Hostinger port 22 fermé. Accès SSH uniquement via Tailscale (100.98.218.10).
+  Alias Mac, iPhone+Termius, backup console VNC.
+tags:
+- vps
+- tailscale
+- security
+tier: hot
+title: Accès VPS via Tailscale (depuis 2026-05-06)
+topic_cluster: null
+type: reference
+updated: 2026-05-07
 ---
 
 # Accès VPS via Tailscale

@@ -1,26 +1,43 @@
 ---
-id: 20260507-1124-n8n-etat
-type: project
-title: n8n + Bus d'événements PMS — État (post-session 26-04)
-project: n8n
-area: null
-status: active
-confidence: high
-summary: 12 workflows actifs + bus events PMS. Refonte avis Google avec IA. 19 events versionnés. Cron 8 tâches automatisées.
-intent: log
-entities: [n8n, workflow, event-bus, pms, automation, google-reviews]
-topic_cluster: n8n
-related: ["[[_MOC-n8n]]", "[[n8n-Reference]]"]
-moc: "[[_MOC-n8n]]"
-source: "memory:project_n8n_automations.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [n8n, automation, workflows]
 ai_writable: true
+area: null
+backlinks:
+- _Index
+- _VAULT-INDEX
+- n8n-Reference
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- n8n
+- workflow
+- event-bus
+- pms
+- automation
+- google-reviews
+id: 20260507-1124-n8n-etat
+intent: log
+last-accessed: 2026-05-07
+moc: '[[_MOC-n8n]]'
+project: n8n
+related:
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
+- '[[_MOC-n8n]]'
+- '[[n8n-Reference]]'
+source: memory:project_n8n_automations.md
+status: active
+summary: 12 workflows actifs + bus events PMS. Refonte avis Google avec IA. 19 events
+  versionnés. Cron 8 tâches automatisées.
+tags:
+- n8n
+- automation
+- workflows
+tier: hot
+title: n8n + Bus d'événements PMS — État (post-session 26-04)
+topic_cluster: n8n
+type: project
+updated: 2026-05-07
 ---
 
 # n8n + Bus d'événements PMS — État
@@ -138,3 +155,7 @@ Au lieu de drafter uniquement les avis < 4★, le workflow drafte pour TOUS les 
 - MOC parent : [[_MOC-n8n]]
 - Référence technique : [[n8n-Reference]]
 - Source : `memory:project_n8n_automations.md`
+
+## Related
+
+- [[2026-05-10-accès-données-hbook-source-unique-de-vérité]] — Accès données HBook — source unique de vérité

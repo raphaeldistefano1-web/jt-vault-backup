@@ -1,6 +1,11 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
+- 2026-05-10-questionsprompts-externalisées-par-jeu
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -14,7 +19,13 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
+- 2026-05-10-questionsprompts-externalisées-par-jeu
+- Workflow-API-Integrations
+- impeccable
+- n8n-Reference
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-0844-session-e172a5dd.md
@@ -37,3 +48,12 @@ updated: '2026-05-08'
 ---
 
 Pattern configuration robuste : **1) `.env`** : variables sensibles (API keys masquées), chemins, flags runtime. **2) `config/prompts/digest.md`** : prompt Haiku pour digest generation (modifiable sans rebuild, audit trail git). **3) `templates/digest.html.j2`** : rendu final (flexibilité design indépendante de logic). Bénéfices : 1) Modifs config/prompts sans redéploiement code. 2) Secrets sécurisés (masqués en logs). 3) Historique git traceable (qui a changé quoi/quand/pourquoi). 4) Tests/AB : deux versions prompts en deux fichiers, basculer via flag .env. Applicable à tout pipeline multi-étape avec orchestration IA.
+
+## Related
+
+- [[2026-05-07-pipeline-3-couches-ingestion-curation-livraison]] — Pipeline 3-couches ingestion → curation → livraison
+- [[2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend]] — Pipeline veille-ia-youtube : ingest→analyze→render→send
+- [[Workflow-API-Integrations]] — Workflow API Integrations
+- [[impeccable]] — impeccable
+- [[n8n-Reference]] — n8n self-hosted — URLs, paths, credentials, commandes
+- [[2026-05-10-questionsprompts-externalisées-par-jeu]] — Questions/prompts externalisées par jeu

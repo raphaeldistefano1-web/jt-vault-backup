@@ -1,26 +1,42 @@
 ---
-id: 20260507-1114-pms-desktop-pieges
-type: feedback
-title: Pièges du dev — Electron PMS Desktop
-project: pms-desktop
-area: null
-status: active
-confidence: high
-summary: Cross-compile Linux→macOS limites (pas dmg/universal), mutations offline désactivées, Gatekeeper xattr, cookies tray, drag region no-drag.
-intent: how-to
-entities: [cross-compile, gatekeeper, offline-mutations, drag-region, cookies-partition]
-topic_cluster: desktop-app
-related: ["[[_MOC-desktop-app]]", "[[PMS-Desktop-Etat]]"]
-moc: "[[_MOC-desktop-app]]"
-source: "memory:feedback_pms_desktop_dev.md"
-tier: warm
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [pms, desktop, electron, piege]
 ai_writable: true
+area: null
+backlinks:
+- PMS-Desktop-Etat
+- _Index
+- _VAULT-INDEX
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- cross-compile
+- gatekeeper
+- offline-mutations
+- drag-region
+- cookies-partition
+id: 20260507-1114-pms-desktop-pieges
+intent: how-to
+last-accessed: 2026-05-07
+moc: '[[_MOC-desktop-app]]'
+project: pms-desktop
+related:
+- '[[_MOC-desktop-app]]'
+- '[[PMS-Desktop-Etat]]'
+source: memory:feedback_pms_desktop_dev.md
+status: active
+summary: Cross-compile Linux→macOS limites (pas dmg/universal), mutations offline
+  désactivées, Gatekeeper xattr, cookies tray, drag region no-drag.
+tags:
+- pms
+- desktop
+- electron
+- piege
+tier: warm
+title: Pièges du dev — Electron PMS Desktop
+topic_cluster: desktop-app
+type: feedback
+updated: 2026-05-07
 ---
 
 # Pièges du dev — Electron PMS Desktop

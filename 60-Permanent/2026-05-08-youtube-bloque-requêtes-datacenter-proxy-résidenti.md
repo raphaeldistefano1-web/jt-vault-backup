@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -13,7 +17,12 @@ intent: gotcha
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
+- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1424-session-e172a5dd.md
@@ -55,3 +64,11 @@ updated: '2026-05-08'
 **Quand l'utiliser** : si `ingest.py` standard retourne des 429 ou bloquages sur YouTube API/pages. Basculer sur le script résidentiel.
 
 **Implications** : coût de proxy résidentiel (bande passante/quota), latence accrue, mais gain de fiabilité d'ingestion. À préférer à des retries exponentiels qui finissent par timeout.
+
+## Related
+
+- [[2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend]] — Pipeline veille-ia-youtube : ingest→analyze→render→send
+- [[2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest]] — Pipeline modulaire ingest→analyze→render→digest
+- [[2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives]] — YouTube Transcript API vs Whisper (priorité natives)
+- [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
+- [[2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak]] — Cron 23h30 pour ingestion veille (timing off-peak)

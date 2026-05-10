@@ -1,24 +1,36 @@
 ---
-type: resource
-status: active
-tags: [todo, central]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Pointeur vers la to-do persistante centralisée de Raphaël (mémoire globale Claude)"
 ai_writable: true
-related:
-  - "[[User-Raphael-Distefano]]"
-  - "[[Workflow-Collaboration-IA]]"
-id: 202604252041-todo-centralized
-embed_model_version: null
+backlinks:
+- 2026-04-25-session-context
+- 2026-04-25-session-context 2
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- Workflow-Collaboration-IA
+created: 2026-04-25
+description: Pointeur vers la to-do persistante centralisée de Raphaël (mémoire globale
+  Claude)
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "La to-do canonique est dans la mémoire globale de Claude :"
-entities: [documentation, reference]
-topic_cluster: operations
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252041-todo-centralized
 intent: reference
+last-accessed: 2026-04-25
+related:
+- '[[User-Raphael-Distefano]]'
+- '[[Workflow-Collaboration-IA]]'
+relevance: high
+status: active
+summary: 'La to-do canonique est dans la mémoire globale de Claude :'
+tags:
+- todo
+- central
 tier: warm
+topic_cluster: operations
+type: resource
+updated: 2026-04-25
 ---
 
 # 📋 TODO Centralisée — pointeur

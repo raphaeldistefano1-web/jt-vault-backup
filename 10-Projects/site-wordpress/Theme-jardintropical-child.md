@@ -1,5 +1,17 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- Bug-WP-Link-Blog-404
+- Decision-Mu-plugin-vs-RankMath
+- Mu-plugin-jt-seo-extras
+- Mu-plugin-vs-Theme-Pattern
+- Schema-org-LodgingBusiness
+- Site-WordPress
+- Test-jt-booking-PMS-2026-04-25
+- _Index
+- _MOC-site-wordpress
+- _VAULT-INDEX
 created: 2026-04-25
 description: Theme custom jardintropical-child du site WP — ultra pro, schema LodgingBusiness
   complet, lazy loading, 74% WebP

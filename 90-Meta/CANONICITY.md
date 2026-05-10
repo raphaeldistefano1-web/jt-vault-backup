@@ -1,17 +1,36 @@
 ---
-title: Canonicité vault ↔ mémoire Claude Code
-type: index
-created: '2026-05-08'
-updated: '2026-05-08'
-id: canonicity-vault-cc-memory
-schema_version: 1
-tier: hot
-status: active
-intent: decision
-topic_cluster: vault-architecture
-project: claude-system
-tags: [canonicity, source-of-truth, memory, decision]
 ai_writable: false
+backlinks:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- _VAULT-INDEX
+created: '2026-05-08'
+id: canonicity-vault-cc-memory
+intent: decision
+project: claude-system
+related:
+- 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+schema_version: 1
+status: active
+tags:
+- canonicity
+- source-of-truth
+- memory
+- decision
+tier: hot
+title: Canonicité vault ↔ mémoire Claude Code
+topic_cluster: vault-architecture
+type: index
+updated: '2026-05-08'
 ---
 
 # Canonicité — vault vs mémoire Claude Code
@@ -96,3 +115,8 @@ Le hook `UserPromptSubmit` `auto_retrieve.py` compense l'absence de notes en mé
 - Plan d'amélioration : voir mémoire CC `project_vault_rebuild.md`
 - Hermès : `vault-sync-rules` + `/reflect-vault` skill
 - Hook auto-retrieve : `/root/.claude/hooks/auto_retrieve.py`
+
+## Related
+
+- [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
+- [[2026-05-10-decision-defensive-truncation-et-sync-check-vault-]] — Decision : Defensive truncation et sync-check vault RAG

@@ -1,26 +1,42 @@
 ---
-id: 20260507-1120-openclaw-pieges
-type: feedback
-title: Pièges du dev — Plugin OpenClaw + PMS
-project: openclaw
-area: null
-status: active
-confidence: high
-summary: Ne pas mettre openclaw en devDep (symlink récursif crash Gateway), plugins update skip source=path, sandbox bloque prisma, scripts .mjs.
-intent: how-to
-entities: [symlink-bug, plugins-update, prisma-migrate, sandbox, scripts]
-topic_cluster: openclaw
-related: ["[[_MOC-openclaw]]", "[[OpenClaw-Etat]]"]
-moc: "[[_MOC-openclaw]]"
-source: "memory:feedback_openclaw_plugin_dev.md"
-tier: warm
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [openclaw, piege, plugin, dev]
 ai_writable: true
+area: null
+backlinks:
+- OpenClaw-Etat
+- _Index
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- symlink-bug
+- plugins-update
+- prisma-migrate
+- sandbox
+- scripts
+id: 20260507-1120-openclaw-pieges
+intent: how-to
+last-accessed: 2026-05-07
+moc: '[[_MOC-openclaw]]'
+project: openclaw
+related:
+- OpenClaw-VPS-Reference
+- '[[OpenClaw-Etat]]'
+- '[[_MOC-openclaw]]'
+source: memory:feedback_openclaw_plugin_dev.md
+status: active
+summary: Ne pas mettre openclaw en devDep (symlink récursif crash Gateway), plugins
+  update skip source=path, sandbox bloque prisma, scripts .mjs.
+tags:
+- openclaw
+- piege
+- plugin
+- dev
+tier: warm
+title: Pièges du dev — Plugin OpenClaw + PMS
+topic_cluster: openclaw
+type: feedback
+updated: 2026-05-07
 ---
 
 # Pièges du dev — Plugin OpenClaw + PMS
@@ -63,3 +79,7 @@ Pièges rencontrés et solutions appliquées le 2026-04-22 sur le plugin `jardin
 - MOC parent : [[_MOC-openclaw]]
 - État du plugin : [[OpenClaw-Etat]]
 - Source : `memory:feedback_openclaw_plugin_dev.md`
+
+## Related
+
+- [[OpenClaw-VPS-Reference]] — OpenClaw-VPS-Reference

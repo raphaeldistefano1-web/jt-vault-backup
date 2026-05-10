@@ -1,5 +1,16 @@
 ---
 ai_writable: false
+backlinks:
+- Bug-PharData-RAM-OOM
+- Decision-Streaming-tar-gz-vs-PharData
+- JT-Migrate-v1.0.0
+- JT-Migrate-v1.2.0
+- JT-Migrate-v1.2.1
+- Lessons-Learned
+- Migration-WP-com-vers-VPS-2026-04-25
+- Plugin-jt-migrate
+- _Index
+- _MOC-jt-migrate
 created: 2026-04-25
 description: v1.1.0 — fix export streaming tar.gz + shutdown handler pour capturer
   fatals

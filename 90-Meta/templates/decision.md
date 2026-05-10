@@ -1,24 +1,29 @@
 ---
-type: decision
-status: proposed       # proposed | accepted | rejected | superseded
-tags: [decision]
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD") %>
-relevance: high
-description: ""
 ai_writable: false
-context: ""
 alternatives: []
-chosen: ""
-id: 202604252020-decision
-embed_model_version: null
+backlinks:
+- _VAULT-INDEX
+chosen: ''
+context: ''
+created: <% tp.date.now("YYYY-MM-DD") %>
+description: ''
 embed_hash: null
-last-accessed: <% tp.date.now("YYYY-MM-DD") %>
-summary: "<!-- Pourquoi cette décision se pose maintenant -->"
-entities: [documentation, reference]
-topic_cluster: general
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252020-decision
 intent: reference
+last-accessed: <% tp.date.now("YYYY-MM-DD") %>
+relevance: high
+status: proposed
+summary: <!-- Pourquoi cette décision se pose maintenant -->
+tags:
+- decision
 tier: warm
+topic_cluster: general
+type: decision
+updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 # Décision : <% tp.file.title %>
@@ -46,4 +51,4 @@ tier: warm
 
 
 ## Liens
-- 
+-

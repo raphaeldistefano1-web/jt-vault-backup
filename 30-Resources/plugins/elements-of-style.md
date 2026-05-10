@@ -1,18 +1,29 @@
 ---
-intent: plugin-doc
-plugin_id: elements-of-style
-plugin_full_name: Elements of Style / Writing Clearly and Concisely (Jesse Vincent obra)
-project: claude-system
+backlinks:
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- _Index
 category: prose
-regime: invocable
+consent_required: false
 cost: faible
 cost_tokens_estimate: 3000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Elements of Style / Writing Clearly and Concisely (Jesse Vincent
+  obra)
+plugin_id: elements-of-style
+project: claude-system
+regime: invocable
+related:
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
 status: active
-tags: [prose, clarte, strunk-white, ecriture]
-synergies: [humanizer]
+synergies:
+- humanizer
+tags:
+- prose
+- clarte
+- strunk-white
+- ecriture
 ---
 
 # Elements of Style
@@ -45,3 +56,6 @@ https://github.com/obra/the-elements-of-style — Jesse Vincent (obra)
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `/root/.claude/skills/elements-of-style/` (skill user / plugin marketplace).
 
+## Related
+
+- [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents

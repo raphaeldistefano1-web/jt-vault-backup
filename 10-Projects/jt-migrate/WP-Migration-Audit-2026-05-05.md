@@ -1,26 +1,47 @@
 ---
-id: 20260507-1122-wp-migration
-type: project
-title: Migration WordPress — État post-audit (2026-05-05)
-project: jt-migrate
-area: null
-status: active
-confidence: high
-summary: Migration OVH(Divi) → NEW(theme custom) livrée sur Instance C. HBook 1120 résas, theme bugs fixés, 4 mu-plugins créés, 3 findings critiques résolus.
-intent: log
-entities: [wordpress, hbook, migration, instance-c, theme-custom, mu-plugins]
-topic_cluster: jt-migrate
-related: ["[[_MOC-jt-migrate]]"]
-moc: "[[_MOC-jt-migrate]]"
-source: "memory:project_wp_migration.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [wordpress, hbook, migration]
 ai_writable: true
+area: null
+backlinks:
+- 2026-05-09-instance-d-wordpress-en-rotation-test
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- _Index
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- wordpress
+- hbook
+- migration
+- instance-c
+- theme-custom
+- mu-plugins
+id: 20260507-1122-wp-migration
+intent: log
+last-accessed: 2026-05-07
+moc: '[[_MOC-jt-migrate]]'
+project: jt-migrate
+related:
+- 2026-05-09-instance-d-wordpress-en-rotation-test
+- 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- '[[_MOC-jt-migrate]]'
+source: memory:project_wp_migration.md
+status: active
+summary: Migration OVH(Divi) → NEW(theme custom) livrée sur Instance C. HBook 1120
+  résas, theme bugs fixés, 4 mu-plugins créés, 3 findings critiques résolus.
+tags:
+- wordpress
+- hbook
+- migration
+tier: hot
+title: Migration WordPress — État post-audit (2026-05-05)
+topic_cluster: jt-migrate
+type: project
+updated: 2026-05-07
 ---
 
 # Migration WordPress — État post-audit
@@ -123,3 +144,10 @@ Toutes ces décisions doivent être prises AVANT de commencer la migration final
 ## Liens
 - MOC parent : [[_MOC-jt-migrate]]
 - Source : `memory:project_wp_migration.md`
+
+## Related
+
+- [[2026-05-09-synchronisation-manuelle-fragile-entre-instances-w]] — Synchronisation manuelle fragile entre instances WordPress
+- [[2026-05-09-instance-d-wordpress-en-rotation-test]] — Instance D WordPress en rotation test
+- [[2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa]] — Carousel HBook : boutons surdimensionnés et mal espacés
+- [[2026-05-10-workflow-modification-contenu-multi-instances-wp]] — Workflow modification contenu multi-instances WP

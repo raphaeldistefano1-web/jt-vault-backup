@@ -5,6 +5,16 @@ alternatives:
 - Yoast
 - SEOPress
 - Slim SEO
+backlinks:
+- Decisions-Log
+- Lessons-Learned
+- Mu-plugin-vs-Theme-Pattern
+- Schema-org-LodgingBusiness
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress
+- Site-WordPress-Optimisation-2026-04-25
+- Theme-jardintropical-child
+- _MOC-site-wordpress
 chosen: Mu-plugin custom + theme existant
 context: Optim site WP 2026-04-25 — Rank Math testé puis désinstallé
 created: 2026-04-25

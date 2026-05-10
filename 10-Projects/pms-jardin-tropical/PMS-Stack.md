@@ -1,5 +1,19 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-service-worker-offline-pour-pwa-cul-sec
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- Brainstorm-PMS-Ameliorations-2026-04-25
+- Desktop-App-Electron
+- Dev-PMS-Area
+- Test-jt-booking-PMS-2026-04-25
+- Tests-PMS-Batterie-2026-04-25
+- VPS-Hostinger
+- Workflow-Deploy-PMS
+- Workflow-File-Share-Uploads
+- _Index
+- _MOC-pms
+- _VAULT-INDEX
 created: 2026-04-25
 description: Stack technique complète du PMS Le Jardin Tropical — Next.js 15 / Postgres
   / Prisma 6 / PM2 / Brevo
@@ -18,10 +32,14 @@ intent: reference
 last-accessed: 2026-04-25
 project: pms-jardin-tropical
 related:
+- 2026-05-10-service-worker-offline-pour-pwa-cul-sec
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- OpenClaw-VPS-Reference
+- Workflow-File-Share-Uploads
 - '[[Dev-PMS-Area]]'
 - '[[Stack-Tech]]'
-- '[[Workflow-Deploy-PMS]]'
 - '[[VPS-Hostinger]]'
+- '[[Workflow-Deploy-PMS]]'
 relevance: high
 status: active
 summary: Stack technique PMS — Next.js 15 + Postgres + Prisma 6 + PM2 + NextAuth v5
@@ -75,3 +93,10 @@ Le projet PMS a **6 sub-agents internes** dans `.claude/agents/` (cf. [[Sub-agen
 - [[Dev-PMS-Area]]
 - [[Workflow-Deploy-PMS]]
 - [[Workflow-Cross-Feature-Coherence]]
+
+## Related
+
+- [[OpenClaw-VPS-Reference]] — OpenClaw-VPS-Reference
+- [[Workflow-File-Share-Uploads]] — Workflow-File-Share-Uploads
+- [[2026-05-10-service-worker-offline-pour-pwa-cul-sec]] — Service Worker offline pour PWA CUL SEC
+- [[2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router]] — Stack CUL SEC — PWA Next.js 14 App Router

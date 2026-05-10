@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -14,7 +18,14 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- '2026-05-07'
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-questionsprompts-externalisées-par-jeu
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
+- deep-research
+- research-companion
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1424-session-e172a5dd.md
@@ -62,3 +73,13 @@ updated: '2026-05-08'
 - Cada agent peut avoir ses skills/tools spécialisés.
 
 **Setup** : `TeamCreate(team_name, description)` → crée team + task list. Puis `Agent(..., team_name=..., name=...)` pour dispatcher agents nommés à la team. Ils se coordonnent via task list (TaskUpdate pour claim + mark completed).
+
+## Related
+
+- [[deep-research]] — deep research
+- [[research-companion]] — research companion
+- [[2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi]] — Valider systèmes de dispatch via test instances vierges
+- [[2026-05-07]] — Veille IA — Jeudi 7 mai 2026
+- [[2026-05-07-structure-répertoires-srvveille-ia-config-external]] — Structure répertoires /srv/veille-ia (config externalisée)
+- [[2026-05-10-questionsprompts-externalisées-par-jeu]] — Questions/prompts externalisées par jeu
+- [[2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges]] — Valider systèmes de dispatch via instances vierges

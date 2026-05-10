@@ -1,6 +1,14 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-adr-template-et-pattern-docsadr
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +22,14 @@ intent: decision
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- AGENTS
+- INDEX
+- TODO-centralized
+- _MOC-claude-system
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1726-session-96ce7c71.md
@@ -76,3 +91,13 @@ updated: '2026-05-09'
 - Nouvelle action manuelle → todo_raphael.md
 
 Cette hiérarchie élimine les redémarrages mémoire et structure la recherche avant d'importuner l'utilisateur.
+
+## Related
+
+- [[TODO-centralized]] — TODO centralized
+- [[AGENTS]] — AGENTS
+- [[_MOC-claude-system]] — MOC Claude System — système IA personnel
+- [[2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo]] — Décision — CANONICITY.md pour déduplication vault↔mémoires CC
+- [[INDEX]] — INDEX racine — cerveau multi-projets
+- [[2026-05-08-frontmatter-enrichi-extrait-insights-durables]] — Frontmatter enrichi extrait insights durables
+- [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle

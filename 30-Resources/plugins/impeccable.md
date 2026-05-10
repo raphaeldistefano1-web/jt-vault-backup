@@ -1,18 +1,37 @@
 ---
-intent: plugin-doc
-plugin_id: impeccable
-plugin_full_name: Impeccable (Paul Bakaus)
-project: claude-system
+backlinks:
+- 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- _Index
 category: design
-regime: invocable
+consent_required: false
 cost: faible
 cost_tokens_estimate: 5000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Impeccable (Paul Bakaus)
+plugin_id: impeccable
+project: claude-system
+regime: invocable
+related:
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
 status: active
-tags: [design, anti-ai-slop, frontend, polish, audit-design]
-synergies: [emil-design-eng, interface-design, color-expert, frontend-design]
+synergies:
+- emil-design-eng
+- interface-design
+- color-expert
+- frontend-design
+tags:
+- design
+- anti-ai-slop
+- frontend
+- polish
+- audit-design
 ---
 
 # Impeccable
@@ -44,3 +63,8 @@ https://github.com/pbakaus/impeccable — Paul Bakaus
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `/root/.claude/skills/impeccable/` (skill user / plugin marketplace).
+
+## Related
+
+- [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents
+- [[2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée]] — Page à-propos : couleur fond « nos valeurs » trop foncée

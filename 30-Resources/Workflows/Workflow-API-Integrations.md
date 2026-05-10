@@ -1,24 +1,42 @@
 ---
-type: workflow
-status: active
-tags: [workflow, api, integrations, security]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Toute clé API externe passe par /dashboard/settings/integrations — jamais d'édition .env côté user"
 ai_writable: false
-related:
-  - "[[PMS-Settings-Hub]]"
-  - "[[Dev-PMS-Area]]"
-id: 202604252029-workflow-api-integrations
-embed_model_version: null
+backlinks:
+- 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- Dev-PMS-Area
+- PMS
+- PMS-Settings-Hub
+- PMS-Stack
+- Test-jt-booking-PMS-2026-04-25
+- Workflow-Collaboration-IA
+created: 2026-04-25
+description: Toute clé API externe passe par /dashboard/settings/integrations — jamais
+  d'édition .env côté user
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Toute clé API externe Stripe, Brevo, OVH, Claude, OpenAI… doit passer par l'UI /dashboard/settings/integrations du Dev-P…"
-entities: [api, brevo, dashboard, pms]
-topic_cluster: pms-integrations
+embed_model_version: null
+entities:
+- api
+- brevo
+- dashboard
+- pms
+id: 202604252029-workflow-api-integrations
 intent: how-to
+last-accessed: 2026-04-25
+related:
+- '[[PMS-Settings-Hub]]'
+- '[[Dev-PMS-Area]]'
+relevance: high
+status: active
+summary: Toute clé API externe Stripe, Brevo, OVH, Claude, OpenAI… doit passer par
+  l'UI /dashboard/settings/integrations du Dev-P…
+tags:
+- workflow
+- api
+- integrations
+- security
 tier: warm
+topic_cluster: pms-integrations
+type: workflow
+updated: 2026-04-25
 ---
 
 # 🔑 Workflow API Integrations

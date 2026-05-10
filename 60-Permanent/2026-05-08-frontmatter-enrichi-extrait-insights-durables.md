@@ -1,6 +1,12 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- AGENTS
+- Atomic-Notes-Pattern
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -16,7 +22,12 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- note-schema
+- 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
+- 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- AGENTS
 schema_version: 1
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1325-session-158ff0de.md
@@ -75,3 +86,11 @@ tags: [tag1, tag2]
 - Extraction auto pour MEMORY.md
 
 Chaque note = atomique (1 concept), evergreen (6+ mois), lisible hors contexte, inclut le POURQUOI.
+
+## Related
+
+- [[note-schema]] — note schema
+- [[2026-05-09-schéma-canonique-des-notes-du-vault-atomiques]] — Schéma canonique des notes du vault atomiques
+- [[2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs]] — Vault synthesizer — synthèse auto des session-logs
+- [[2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo]] — Trier items capturés : hot (immédiat) vs warm/cold (mémoire)
+- [[AGENTS]] — AGENTS

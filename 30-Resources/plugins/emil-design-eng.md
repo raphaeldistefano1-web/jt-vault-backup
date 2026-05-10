@@ -1,18 +1,28 @@
 ---
-intent: plugin-doc
-plugin_id: emil-design-eng
-plugin_full_name: Emil Design Engineering (Emil Kowalski, Linear)
-project: claude-system
+backlinks:
+- 2026-05-09-impeccable-surpasse-frontend-design-officiel
+- _Index
 category: design
-regime: invocable
+consent_required: false
 cost: faible
 cost_tokens_estimate: 3000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Emil Design Engineering (Emil Kowalski, Linear)
+plugin_id: emil-design-eng
+project: claude-system
+regime: invocable
 status: active
-tags: [design, motion, micro-interactions, animation, premium]
-synergies: [impeccable, interface-design]
+synergies:
+- impeccable
+- interface-design
+tags:
+- design
+- motion
+- micro-interactions
+- animation
+- premium
 ---
 
 # Emil Design Engineering

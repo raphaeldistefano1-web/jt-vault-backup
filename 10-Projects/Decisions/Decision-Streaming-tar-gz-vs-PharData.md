@@ -4,6 +4,11 @@ alternatives:
 - PharData
 - exec(tar)
 - ZipArchive
+backlinks:
+- Bug-PharData-RAM-OOM
+- Decisions-Log
+- Site-WordPress
+- _MOC-jt-migrate
 chosen: Streaming gzopen + USTAR custom
 context: 'Bug v1.0.0 : PharData::compress() + PharData::extract() chargent tout en
   RAM, fail sur > 100 MB'

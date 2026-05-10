@@ -1,5 +1,13 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
+- 2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- _Index
+- _MOC-site-wordpress
 created: 2026-04-25
 description: Review complète + tests batterie de la connexion jt-booking ↔ PMS — clé
   API régénérée, 1 bug theme fixé, Stripe à configurer pour finaliser
@@ -16,8 +24,13 @@ intent: reference
 last-accessed: 2026-04-25
 project: site-wordpress
 related:
-- '[[Plugin-jt-booking]]'
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
+- 2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
 - '[[PMS-Stack]]'
+- '[[Plugin-jt-booking]]'
 - '[[Site-WordPress]]'
 - '[[Theme-jardintropical-child]]'
 relevance: high
@@ -123,3 +136,11 @@ Sans ça, tout le reste de la chaîne marche mais le client ne peut pas payer.
 - [[Site-WordPress]]
 - [[Theme-jardintropical-child]]
 - [[Workflow-API-Integrations]]
+
+## Related
+
+- [[2026-05-10-tarification-hébergements-structure-95-10-volontai]] — Tarification hébergements : structure 95 + 10€ volontaire
+- [[2026-05-10-accès-données-hbook-source-unique-de-vérité]] — Accès données HBook — source unique de vérité
+- [[2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp]] — Signaler impacts jt-booking avant clôture tâche WP
+- [[2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques]] — Avis TripAdvisor hardcodés, pas dynamiques
+- [[2026-05-10-page-hébergements-tableau-structuré-type-emplaceme]] — Page hébergements : tableau structuré (Type | Emplacement | Prix/Saison)

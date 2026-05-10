@@ -1,18 +1,26 @@
 ---
-intent: plugin-doc
-plugin_id: pre-mortem
-plugin_full_name: Pre-Mortem (Matthew Honnibal, créateur spaCy)
-project: claude-system
+backlinks:
+- _Index
 category: thinking
-regime: invocable
+consent_required: false
 cost: faible
 cost_tokens_estimate: 4000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Pre-Mortem (Matthew Honnibal, créateur spaCy)
+plugin_id: pre-mortem
+project: claude-system
+regime: invocable
 status: active
-tags: [pre-mortem, failure-modes, deploy, audit]
-synergies: [thinking-skills, devils-advocate]
+synergies:
+- thinking-skills
+- devils-advocate
+tags:
+- pre-mortem
+- failure-modes
+- deploy
+- audit
 ---
 
 # Pre-Mortem
@@ -44,4 +52,3 @@ https://github.com/honnibal/claude-skills — Matthew Honnibal
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `/root/.claude/skills/pre-mortem/` (skill user / plugin marketplace).
-

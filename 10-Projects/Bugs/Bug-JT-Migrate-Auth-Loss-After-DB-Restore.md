@@ -1,5 +1,12 @@
 ---
 ai_writable: false
+backlinks:
+- JT-Migrate-v1.2.1
+- Lessons-Learned
+- Migration-WP-com-vers-VPS-2026-04-25
+- Plugin-jt-migrate
+- _MOC-jt-migrate
+- _VAULT-INDEX
 created: 2026-04-25
 description: Pipeline d'import écrase wp_users AVANT search-replace+files → cookie
   session admin invalidé → steps 403. Workaround wp-cli, fix v1.3.0.

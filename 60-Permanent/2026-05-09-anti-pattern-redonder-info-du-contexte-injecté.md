@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- 2026-05-10-questionsprompts-externalisées-par-jeu
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +18,16 @@ intent: gotcha
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- 2026-05-10-questionsprompts-externalisées-par-jeu
+- CANONICITY
+- note-schema
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1726-session-96ce7c71.md
@@ -65,3 +78,15 @@ Quand on se prend à demander "tu peux me redire X ?", c'est symptôme : on n'a 
 
 ## Prévention
 Toujours vérifier MEMORY.md + contexte injecté AVANT de poser une question. Si pas de réponse dans les 7 sources, seul là demander.
+
+## Related
+
+- [[2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo]] — Trier items capturés : hot (immédiat) vs warm/cold (mémoire)
+- [[2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo]] — Hiérarchie persistance : Mémoire vs Vault vs Todo
+- [[note-schema]] — note schema
+- [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
+- [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
+- [[2026-05-08-frontmatter-enrichi-extrait-insights-durables]] — Frontmatter enrichi extrait insights durables
+- [[2026-05-10-questionsprompts-externalisées-par-jeu]] — Questions/prompts externalisées par jeu
+- [[2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée]] — Page à-propos : couleur fond « nos valeurs » trop foncée
+- [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle

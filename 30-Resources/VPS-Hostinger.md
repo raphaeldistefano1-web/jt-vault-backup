@@ -1,27 +1,45 @@
 ---
-type: resource
-status: active
-tags: [vps, infra, hostinger]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "VPS Hostinger 46.202.171.204 — host pour PMS + Site WP + Vault + Traefik"
 ai_writable: false
-related:
-  - "[[Stack-Tech]]"
-  - "[[Site-WordPress]]"
-  - "[[Dev-PMS-Area]]"
-  - "[[Vault-Setup]]"
-aliases: [VPS]
-id: 202604252031-vps-hostinger
-embed_model_version: null
+aliases:
+- VPS
+backlinks:
+- Bug-Apache-Timeout-300-vs-Uploads
+- OpenClaw-VPS-Reference
+- PMS-Stack
+- User-Raphael-Distefano
+created: 2026-04-25
+description: VPS Hostinger 46.202.171.204 — host pour PMS + Site WP + Vault + Traefik
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "VPS Hostinger host — WordPress Docker, PMS Next.js, OpenClaw Gateway, Vault Obsidian, Traefik reverse proxy."
-entities: [docker, nextjs, obsidian, pms, postgres, site-wordpress, wordpress]
-topic_cluster: infrastructure
+embed_model_version: null
+entities:
+- docker
+- nextjs
+- obsidian
+- pms
+- postgres
+- site-wordpress
+- wordpress
+id: 202604252031-vps-hostinger
 intent: reference
+last-accessed: 2026-04-25
+related:
+- VPS-Access-Tailscale
+- '[[Dev-PMS-Area]]'
+- '[[Site-WordPress]]'
+- '[[Stack-Tech]]'
+- '[[Vault-Setup]]'
+relevance: high
+status: active
+summary: VPS Hostinger host — WordPress Docker, PMS Next.js, OpenClaw Gateway, Vault
+  Obsidian, Traefik reverse proxy.
+tags:
+- vps
+- infra
+- hostinger
 tier: warm
+topic_cluster: infrastructure
+type: resource
+updated: 2026-04-25
 ---
 
 # 🖥️ VPS Hostinger
@@ -65,3 +83,7 @@ tier: warm
 - [[Stack-Tech]]
 - [[Site-WordPress]]
 - [[Dev-PMS-Area]]
+
+## Related
+
+- [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)

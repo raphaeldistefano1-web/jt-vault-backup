@@ -1,5 +1,10 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
+- Decision-Redis-Object-Cache-Disabled
+- Lessons-Learned
+- _MOC-site-wordpress
 created: 2026-04-25
 description: 'Plugin redis-cache + WP-Optimize page cache = conflit advanced-cache.php
   → site HTTP 500. Workaround : redis-cache désactivé.'
@@ -16,6 +21,7 @@ intent: log
 last-accessed: 2026-04-25
 project: Bugs
 related:
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
 - '[[Decision-Redis-Object-Cache-Disabled]]'
 - '[[Site-Plugins-Stack-2026-04-25]]'
 relevance: medium
@@ -75,3 +81,7 @@ Pour un site solo, **page cache file-based > object cache Redis** sur trafic fai
 
 - [[Decision-Redis-Object-Cache-Disabled]]
 - [[Site-Plugins-Stack-2026-04-25]]
+
+## Related
+
+- [[2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout]] — Edit échoue si classifieur indispo, retry résout

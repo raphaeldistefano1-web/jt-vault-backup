@@ -4,6 +4,12 @@ alternatives:
 - wp-cron pageload
 - cron systemd timer
 - cron dans conteneur
+backlinks:
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- Decisions-Log
+- Site-WordPress-Optimisation-2026-04-25
+- _MOC-site-wordpress
+- _VAULT-INDEX
 chosen: Cron Linux host
 context: Optim site WP 2026-04-25 — wp-cron au pageload est unfair
 created: 2026-04-25

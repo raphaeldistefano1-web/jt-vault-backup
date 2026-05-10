@@ -4,6 +4,15 @@ alternatives:
 - redis-cache + wp-optimize
 - redis-cache seul
 - memcached
+backlinks:
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
+- Bug-Redis-WPO-Advanced-Cache-Conflict
+- Decisions-Log
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress
+- Site-WordPress-Optimisation-2026-04-25
+- _MOC-site-wordpress
+- _VAULT-INDEX
 chosen: Redis désactivé, conteneur up pour usage futur
 context: Optim site WP 2026-04-25 — Redis installé puis désactivé
 created: 2026-04-25
@@ -22,9 +31,10 @@ intent: decision
 last-accessed: 2026-04-25
 project: Decisions
 related:
-- '[[Site-WordPress]]'
-- '[[Site-Plugins-Stack-2026-04-25]]'
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
 - '[[Bug-Redis-WPO-Advanced-Cache-Conflict]]'
+- '[[Site-Plugins-Stack-2026-04-25]]'
+- '[[Site-WordPress]]'
 relevance: medium
 status: accepted
 summary: Pendant Loop 1 optim, ajout du conteneur Redis au docker-compose pour activer
@@ -87,3 +97,7 @@ Le drop-in `advanced-cache.php` est utilisé par WP-Optimize (page cache file-ba
 
 - [[Site-Plugins-Stack-2026-04-25]]
 - [[Bug-Redis-WPO-Advanced-Cache-Conflict]]
+
+## Related
+
+- [[2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout]] — Edit échoue si classifieur indispo, retry résout

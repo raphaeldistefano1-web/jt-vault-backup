@@ -1,5 +1,13 @@
 ---
 ai_writable: false
+backlinks:
+- Dev-PMS-Area
+- PMS-AI-Assistant
+- PMS-Dashboard-v2
+- Workflow-API-Integrations
+- Workflow-Preview-Then-Apply
+- _Index
+- _MOC-pms
 created: 2026-04-25
 description: Hub central des paramètres PMS — consolidation de tous les settings dispersés
   en un point d'entrée

@@ -1,26 +1,45 @@
 ---
-id: 20260507-1110-pms-desktop-etat
-type: project
-title: Logiciel desktop PMS Le Jardin Tropical — État (Electron v1.3.0)
-project: pms-desktop
-area: null
-status: active
-confidence: high
-summary: Wrapper Electron v1.3.0 stable pour le PMS Next.js avec notifs macOS, tray menu bar, deep links, offline mode et auto-update manuel.
-intent: log
-entities: [electron, pms, desktop-app, macos, notifications, deep-links, offline-mode]
-topic_cluster: desktop-app
-related: ["[[_MOC-desktop-app]]", "[[PMS-Desktop-Reference]]", "[[PMS-Desktop-Pieges-Dev]]"]
-moc: "[[_MOC-desktop-app]]"
-source: "memory:project_pms_desktop_app.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [pms, electron, macos]
 ai_writable: true
+area: null
+backlinks:
+- PMS-Desktop-Pieges-Dev
+- PMS-Desktop-Reference
+- _Index
+- _VAULT-INDEX
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- electron
+- pms
+- desktop-app
+- macos
+- notifications
+- deep-links
+- offline-mode
+id: 20260507-1110-pms-desktop-etat
+intent: log
+last-accessed: 2026-05-07
+moc: '[[_MOC-desktop-app]]'
+project: pms-desktop
+related:
+- '[[_MOC-desktop-app]]'
+- '[[PMS-Desktop-Reference]]'
+- '[[PMS-Desktop-Pieges-Dev]]'
+source: memory:project_pms_desktop_app.md
+status: active
+summary: Wrapper Electron v1.3.0 stable pour le PMS Next.js avec notifs macOS, tray
+  menu bar, deep links, offline mode et auto-update manuel.
+tags:
+- pms
+- electron
+- macos
+tier: hot
+title: Logiciel desktop PMS Le Jardin Tropical — État (Electron v1.3.0)
+topic_cluster: desktop-app
+type: project
+updated: 2026-05-07
 ---
 
 # Logiciel desktop PMS Le Jardin Tropical — État

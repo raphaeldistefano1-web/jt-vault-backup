@@ -1,18 +1,28 @@
 ---
-intent: plugin-doc
-plugin_id: devils-advocate
-plugin_full_name: Devil's Advocate (Brandon Simpson)
-project: claude-system
+backlinks:
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- _Index
 category: thinking
-regime: invocable
+consent_required: false
 cost: faible
 cost_tokens_estimate: 5000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Devil's Advocate (Brandon Simpson)
+plugin_id: devils-advocate
+project: claude-system
+regime: invocable
 status: active
-tags: [self-critique, adversarial, code-review, plan-review]
-synergies: [codex-peer-review, pre-mortem]
+synergies:
+- codex-peer-review
+- pre-mortem
+tags:
+- self-critique
+- adversarial
+- code-review
+- plan-review
 ---
 
 # Devil's Advocate
@@ -44,4 +54,3 @@ https://github.com/brandonsimpson/devils-advocate — Brandon Simpson
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `plugin marketplace: devils-advocate@devils-advocate` (skill user / plugin marketplace).
-

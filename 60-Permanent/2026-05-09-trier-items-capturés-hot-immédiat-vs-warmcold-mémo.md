@@ -2,6 +2,13 @@
 ai_writable: false
 applies_to: global
 area: null
+auto_applied_at: 2026-05-09
+backlinks:
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
 created_by: vault-synthesizer
@@ -22,7 +29,14 @@ project: null
 proposed_rule: 'Quand capturant des infos/décisions, respecter le tier proposé par
   l''utilisateur : hot (actionner immédiatement, ajouter todo), warm (mémoriser, relire
   1-2 semaines), cold (archive). Ne pas traiter cold comme hot (waste motionnel).'
-related: []
+related:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- CANONICITY
+- TODO-centralized
+- note-schema
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1726-session-96ce7c71.md
@@ -60,7 +74,6 @@ topic_cluster: knowledge-management
 type: permanent-note
 updated: '2026-05-09'
 usage_count: 0
-auto_applied_at: 2026-05-09
 ---
 
 Signal observé : "tu peux le faire tout de suite. Pour le reste, garde en mémoire."
@@ -84,3 +97,13 @@ Signal observé : "tu peux le faire tout de suite. Pour le reste, garde en mémo
 
 ## Application
 Quand l'utilisateur dit "fais X maintenant, garde Y en mémoire" : respecter ce tri, ne pas élever cold en priorité par zèle.
+
+## Related
+
+- [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
+- [[2026-05-09-anti-pattern-redonder-info-du-contexte-injecté]] — Anti-pattern : redonder info du contexte injecté
+- [[TODO-centralized]] — TODO centralized
+- [[note-schema]] — note schema
+- [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
+- [[2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau]] — Audit one-shot — déduplication 39 mémoires CC vs vault
+- [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle

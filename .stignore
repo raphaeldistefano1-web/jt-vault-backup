@@ -30,3 +30,9 @@ desktop.ini
 
 # Conflict markers (always ignored by syncthing but explicit)
 *.sync-conflict-*
+
+# SQLite WAL/SHM sidecar files — volatile, host-specific, NEVER sync
+# (the .db file itself does sync; only the journal must stay local)
+*.db-wal
+*.db-shm
+*.db-journal

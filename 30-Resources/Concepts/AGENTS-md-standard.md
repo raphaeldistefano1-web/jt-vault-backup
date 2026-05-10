@@ -1,26 +1,38 @@
 ---
-type: concept
-status: active
-tags: [agents-md, ai, standard]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Standard fichier AGENTS.md à la racine d'un repo/vault — orientation universelle des agents IA"
 ai_writable: false
-related:
-  - "[[MCP-Model-Context-Protocol]]"
-  - "[[Vault-Setup]]"
-  - "[[Linux-Foundation-AAIF]]"
-aliases: [AGENTS.md]
-id: 202604252026-agents-md-standard
-embed_model_version: null
+aliases:
+- AGENTS.md
+backlinks:
+- MCP-Model-Context-Protocol
+- Vault-Setup
+created: 2026-04-25
+description: Standard fichier AGENTS.md à la racine d'un repo/vault — orientation
+  universelle des agents IA
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Fichier markdown à la racine d'un projet/repo/vault, lu en premier par les agents IA pour s'orienter : identité user, st…"
-entities: [documentation, mcp, reference]
-topic_cluster: vault-architecture
+embed_model_version: null
+entities:
+- documentation
+- mcp
+- reference
+id: 202604252026-agents-md-standard
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[MCP-Model-Context-Protocol]]'
+- '[[Vault-Setup]]'
+- '[[Linux-Foundation-AAIF]]'
+relevance: high
+status: active
+summary: 'Fichier markdown à la racine d''un projet/repo/vault, lu en premier par
+  les agents IA pour s''orienter : identité user, st…'
+tags:
+- agents-md
+- ai
+- standard
 tier: warm
+topic_cluster: vault-architecture
+type: concept
+updated: 2026-04-25
 ---
 
 # 📜 AGENTS.md — standard 2026

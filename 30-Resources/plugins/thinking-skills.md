@@ -1,18 +1,28 @@
 ---
-intent: plugin-doc
-plugin_id: thinking-skills
-plugin_full_name: CC Thinking Skills (TJ Boudreaux) — 29 mental models
-project: claude-system
+backlinks:
+- _Index
+- _VAULT-INDEX
 category: thinking
-regime: invocable
+consent_required: false
 cost: faible
 cost_tokens_estimate: 3000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: CC Thinking Skills (TJ Boudreaux) — 29 mental models
+plugin_id: thinking-skills
+project: claude-system
+regime: invocable
 status: active
-tags: [mental-models, frameworks, decision, debiasing]
-synergies: [pre-mortem, devils-advocate, research-companion]
+synergies:
+- pre-mortem
+- devils-advocate
+- research-companion
+tags:
+- mental-models
+- frameworks
+- decision
+- debiasing
 ---
 
 # Thinking Skills
@@ -44,4 +54,3 @@ https://github.com/tjboudreaux/cc-thinking-skills — TJ Boudreaux
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `plugin marketplace: thinking-skills@thinking-skills-marketplace` (skill user / plugin marketplace).
-

@@ -1,25 +1,37 @@
 ---
-type: concept
-status: active
-tags: [vault, zettelkasten, methodology]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Pattern atomic notes pour ce vault — 1 idée = 1 note, densément liée, pour réduire les tokens IA"
 ai_writable: false
-related:
-  - "[[Vault-Setup]]"
-  - "[[Frontmatter-Standard]]"
-  - "[[MOCs-Pattern]]"
-id: 202604252028-atomic-notes-pattern
-embed_model_version: null
+backlinks:
+- 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
+- Frontmatter-Standard
+- Vault-Setup
+created: 2026-04-25
+description: Pattern atomic notes pour ce vault — 1 idée = 1 note, densément liée,
+  pour réduire les tokens IA
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "1 idée = 1 note. Inspiré du Zettelkasten de Niklas Luhmann + framework \"Linking Your Thinking\" LYT de Nick Milo + Andy M…"
-entities: [documentation, reference]
-topic_cluster: vault-architecture
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252028-atomic-notes-pattern
 intent: concept
+last-accessed: 2026-04-25
+related:
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- '[[Frontmatter-Standard]]'
+- '[[MOCs-Pattern]]'
+- '[[Vault-Setup]]'
+relevance: high
+status: active
+summary: 1 idée = 1 note. Inspiré du Zettelkasten de Niklas Luhmann + framework "Linking
+  Your Thinking" LYT de Nick Milo + Andy M…
+tags:
+- vault
+- zettelkasten
+- methodology
 tier: warm
+topic_cluster: vault-architecture
+type: concept
+updated: 2026-04-25
 ---
 
 # ⚛️ Atomic Notes — pattern
@@ -103,3 +115,7 @@ Signaux qu'une note est trop atomique :
 
 - [[Vault-Setup]]
 - [[Frontmatter-Standard]]
+
+## Related
+
+- [[2026-05-08-frontmatter-enrichi-extrait-insights-durables]] — Frontmatter enrichi extrait insights durables

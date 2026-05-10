@@ -1,5 +1,12 @@
 ---
 ai_writable: false
+backlinks:
+- Dev-PMS-Area
+- PMS-Calendar-v2
+- Workflow-Preview-Then-Apply
+- _Index
+- _MOC-pms
+- _VAULT-INDEX
 created: 2026-04-25
 description: Dashboard v2 du PMS — appliqué prod après preview-then-apply, refonte
   centralisée

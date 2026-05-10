@@ -1,5 +1,14 @@
 ---
 ai_writable: false
+backlinks:
+- Bug-Apache-Timeout-300-vs-Uploads
+- JT-Migrate-v1.1.0
+- JT-Migrate-v1.2.1
+- Lessons-Learned
+- Migration-WP-com-vers-VPS-2026-04-25
+- Plugin-jt-migrate
+- _Index
+- _MOC-jt-migrate
 created: 2026-04-25
 description: v1.2.0 — mode import-from-server-path (bypass upload HTTP, dépose archive
   via SCP dans incoming/)
@@ -15,10 +24,11 @@ intent: reference
 last-accessed: 2026-04-25
 project: jt-migrate
 related:
-- '[[Plugin-jt-migrate]]'
+- Workflow-File-Share-Uploads
+- '[[Bug-Apache-Timeout-300-vs-Uploads]]'
 - '[[JT-Migrate-v1.1.0]]'
 - '[[JT-Migrate-v1.2.1]]'
-- '[[Bug-Apache-Timeout-300-vs-Uploads]]'
+- '[[Plugin-jt-migrate]]'
 relevance: medium
 status: superseded
 summary: ❌ Superseded par JT-Migrate-v1.2.1.
@@ -68,3 +78,7 @@ L'extract utilisait toujours `PharData::extract()` qui crash sur archive > 100 M
 
 - [[Plugin-jt-migrate]]
 - [[JT-Migrate-v1.2.1]]
+
+## Related
+
+- [[Workflow-File-Share-Uploads]] — Workflow-File-Share-Uploads

@@ -1,18 +1,30 @@
 ---
-intent: plugin-doc
-plugin_id: deep-research
-plugin_full_name: Claude Deep Research Skill (199-biotechnologies)
-project: claude-system
+backlinks:
+- 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
+- 2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin
+- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- _Index
 category: research
-regime: invocable
+consent_required: false
 cost: lourd
 cost_tokens_estimate: 20000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Claude Deep Research Skill (199-biotechnologies)
+plugin_id: deep-research
+project: claude-system
+regime: invocable
 status: active
-tags: [research, citation-tracking, multi-source, due-diligence]
-synergies: [research-companion, codex-peer-review]
+synergies:
+- research-companion
+- codex-peer-review
+tags:
+- research
+- citation-tracking
+- multi-source
+- due-diligence
 ---
 
 # Deep Research
@@ -44,4 +56,3 @@ https://github.com/199-biotechnologies/claude-deep-research-skill — 199-biotec
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `/root/.claude/skills/deep-research/` (skill user / plugin marketplace).
-

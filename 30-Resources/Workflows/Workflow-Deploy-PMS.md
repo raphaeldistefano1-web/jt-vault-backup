@@ -1,24 +1,40 @@
 ---
-type: workflow
-status: active
-tags: [workflow, deploy, pms, pm2]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Séquence de déploiement PMS — migrate, build, pm2 restart"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[PMS-Stack]]"
-id: 202604252029-workflow-deploy-pms
-embed_model_version: null
+backlinks:
+- Dev-PMS-Area
+- PMS-Stack
+- Workflow-Collaboration-IA
+- Workflow-Preview-Then-Apply
+created: 2026-04-25
+description: Séquence de déploiement PMS — migrate, build, pm2 restart
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Après chaque modif code du Dev-PMS-Area|PMS :"
-entities: [devops, migration, nextjs, pm2, pms, prisma]
-topic_cluster: pms-ops
+embed_model_version: null
+entities:
+- devops
+- migration
+- nextjs
+- pm2
+- pms
+- prisma
+id: 202604252029-workflow-deploy-pms
 intent: how-to
+last-accessed: 2026-04-25
+related:
+- Workflow-File-Share-Uploads
+- '[[Dev-PMS-Area]]'
+- '[[PMS-Stack]]'
+relevance: high
+status: active
+summary: 'Après chaque modif code du Dev-PMS-Area|PMS :'
+tags:
+- workflow
+- deploy
+- pms
+- pm2
 tier: warm
+topic_cluster: pms-ops
+type: workflow
+updated: 2026-04-25
 ---
 
 # 🚀 Workflow Deploy PMS
@@ -55,3 +71,7 @@ Cf. [[Workflow-Preview-Then-Apply]] pour les refontes UI.
 - [[Dev-PMS-Area]]
 - [[PMS-Stack]]
 - Mémoire référence : `deploy_workflow.md` (mémoire projet PMS)
+
+## Related
+
+- [[Workflow-File-Share-Uploads]] — Workflow-File-Share-Uploads

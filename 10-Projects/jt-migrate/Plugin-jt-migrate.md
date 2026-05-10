@@ -2,6 +2,23 @@
 ai_writable: false
 aliases:
 - JT Migrate
+backlinks:
+- 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- Bug-Apache-Timeout-300-vs-Uploads
+- Bug-JT-Migrate-Auth-Loss-After-DB-Restore
+- Bug-PharData-RAM-OOM
+- Decision-Streaming-tar-gz-vs-PharData
+- JT-Migrate-v1.0.0
+- JT-Migrate-v1.1.0
+- JT-Migrate-v1.2.0
+- JT-Migrate-v1.2.1
+- Migration-WP-com-vers-VPS-2026-04-25
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress
+- Workflow-File-Share-Uploads
+- _Index
+- _MOC-jt-migrate
+- _VAULT-INDEX
 created: 2026-04-25
 description: Plugin WP custom de migration full-fidelity v1.2.1 — similaire All-in-One
   WP Migration mais pure PHP, streaming
@@ -17,12 +34,14 @@ intent: reference
 last-accessed: 2026-04-25
 project: jt-migrate
 related:
-- '[[Site-WordPress]]'
+- 2026-05-09-instance-d-wordpress-en-rotation-test
+- 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
 - '[[JT-Migrate-v1.0.0]]'
 - '[[JT-Migrate-v1.1.0]]'
 - '[[JT-Migrate-v1.2.0]]'
 - '[[JT-Migrate-v1.2.1]]'
 - '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+- '[[Site-WordPress]]'
 relevance: high
 status: active
 summary: 'Plugin WordPress custom de migration full-fidelity entre instances WP. Similaire
@@ -93,3 +112,8 @@ Workaround actuel : finir l'import via wp-cli (bypass auth web). Fix v1.3.0 : or
 
 - [[Site-WordPress]]
 - [[Migration-WP-com-vers-VPS-2026-04-25]]
+
+## Related
+
+- [[2026-05-09-synchronisation-manuelle-fragile-entre-instances-w]] — Synchronisation manuelle fragile entre instances WordPress
+- [[2026-05-09-instance-d-wordpress-en-rotation-test]] — Instance D WordPress en rotation test

@@ -1,6 +1,12 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-08-automatiser-envoi-digest-via-email-avec-date
+- 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
+- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -15,7 +21,13 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-haiku-pour-curation-veille-ia-économie-tokens
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-08-automatiser-envoi-digest-via-email-avec-date
+- 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
+- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1424-session-e172a5dd.md
@@ -62,3 +74,12 @@ updated: '2026-05-08'
 **Config prompts** : prompts centralisés en fichier séparé `config/prompts/digest.md`, chargés dynamiquement par `analyze.py` + `render.py`. Facilite A/B testing et ajustements rapides.
 
 **Avantage** : cacheable par étape, parallélisable, debug granulaire, evite re-runs coûteux (Sonnet).
+
+## Related
+
+- [[2026-05-07-structure-répertoires-srvveille-ia-config-external]] — Structure répertoires /srv/veille-ia (config externalisée)
+- [[2026-05-08-automatiser-envoi-digest-via-email-avec-date]] — Automatiser envoi digest via email avec date
+- [[2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti]] — YouTube bloque requêtes datacenter — proxy résidentiel
+- [[2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent]] — Hook dispatch_advisor pour suggestions intelligentes
+- [[2026-05-07-haiku-pour-curation-veille-ia-économie-tokens]] — Haiku pour curation veille IA (économie tokens)
+- [[2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges]] — Valider systèmes de dispatch via instances vierges

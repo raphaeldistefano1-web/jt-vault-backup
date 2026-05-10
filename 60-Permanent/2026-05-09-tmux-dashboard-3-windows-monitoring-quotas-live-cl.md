@@ -1,6 +1,9 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
+- 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -15,7 +18,10 @@ intent: pattern
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
+- 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1625-session-d31950cd.md
@@ -47,3 +53,9 @@ updated: '2026-05-09'
 ---
 
 Setup tmux dans ~/.bashrc crée layout 3-windows au startup : (1) Haut-gauche : quotas live (scripts Python claude-quota.py + codex-quota.py, polling 60s), (2) Main : btop ressources système, (3) Bottom : shell interactif. Permet visibilité temps-réel quand approche plafond Claude Max pour basculer vers Codex. Placement toujours visible pendant travail. Aucun overhead significatif.
+
+## Related
+
+- [[2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau]] — Codex CLI en MCP server pour économiser quota Claude Max
+- [[2026-05-09-claude-max-5x-fenêtre-courte-à-réserver]] — Claude Max 5x : fenêtre courte, à réserver
+- [[2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése]] — Claude Max quota — fenêtre 5h limitée, stratégie réservation

@@ -1,26 +1,40 @@
 ---
-type: concept
-status: active
-tags: [llms-txt, geo, llm, seo]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Standard llms.txt — index markdown d'un site pour les LLMs, façon robots.txt / sitemap.xml"
 ai_writable: false
-related:
-  - "[[GEO-Generative-Engine-Optimization]]"
-  - "[[Robots-txt-LLM-Aware]]"
-  - "[[Site-WordPress-Optimisation-2026-04-25]]"
-aliases: ["llms.txt"]
-id: 202604252026-llms-txt-standard
-embed_model_version: null
+aliases:
+- llms.txt
+backlinks:
+- GEO-Generative-Engine-Optimization
+- Robots-txt-LLM-Aware
+- _VAULT-INDEX
+created: 2026-04-25
+description: Standard llms.txt — index markdown d'un site pour les LLMs, façon robots.txt
+  / sitemap.xml
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Fichier markdown à la racine d'un site web /llms.txt qui sert d'index curé pour les LLMs. Le format markdown est lisible…"
-entities: [documentation, llm, site-wordpress]
-topic_cluster: ai-integration
+embed_model_version: null
+entities:
+- documentation
+- llm
+- site-wordpress
+id: 202604252026-llms-txt-standard
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[GEO-Generative-Engine-Optimization]]'
+- '[[Robots-txt-LLM-Aware]]'
+- '[[Site-WordPress-Optimisation-2026-04-25]]'
+relevance: medium
+status: active
+summary: Fichier markdown à la racine d'un site web /llms.txt qui sert d'index curé
+  pour les LLMs. Le format markdown est lisible…
+tags:
+- llms-txt
+- geo
+- llm
+- seo
 tier: warm
+topic_cluster: ai-integration
+type: concept
+updated: 2026-04-25
 ---
 
 # 📄 llms.txt — standard

@@ -1,5 +1,11 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
+- Lessons-Learned
+- Site-WordPress-Optimisation-2026-04-25
+- _MOC-site-wordpress
 created: 2026-04-25
 description: 'Theme link vers /blog/ même sans blog actif → 404. Workaround : redirect
   301 vers home dans mu-plugin.'
@@ -14,8 +20,10 @@ intent: log
 last-accessed: 2026-04-25
 project: Bugs
 related:
-- '[[Theme-jardintropical-child]]'
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
 - '[[Mu-plugin-jt-seo-extras]]'
+- '[[Theme-jardintropical-child]]'
 relevance: low
 status: workaround
 summary: Audit broken links détecte un lien vers /blog/ dans la page À propos. Le
@@ -81,3 +89,8 @@ Plus généralement : **ne jamais hardcoder des slugs dans un theme**. Toujours 
 
 - [[Theme-jardintropical-child]]
 - [[Mu-plugin-jt-seo-extras]]
+
+## Related
+
+- [[2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout]] — Edit échoue si classifieur indispo, retry résout
+- [[2026-05-10-ajouter-google-business-à-côté-de-tripadvisor]] — Ajouter Google Business à côté de TripAdvisor

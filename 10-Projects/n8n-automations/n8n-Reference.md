@@ -1,26 +1,45 @@
 ---
-id: 20260507-1126-n8n-ref
-type: reference
-title: n8n self-hosted — URLs, paths, credentials, commandes
-project: n8n
-area: null
-status: active
-confidence: high
-summary: URL HTTPS Traefik, paths docker-compose/env/.n8n, owner setup, N8N_API_KEY, PMS HMAC secret, backup restore.
-intent: how-to
-entities: [n8n, docker, traefik, api-key, hmac, backup]
-topic_cluster: n8n
-related: ["[[_MOC-n8n]]", "[[n8n-Etat]]"]
-moc: "[[_MOC-n8n]]"
-source: "memory:reference_n8n.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [n8n, docker, api, reference]
 ai_writable: true
+area: null
+backlinks:
+- 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
+- _Index
+- n8n-Etat
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- n8n
+- docker
+- traefik
+- api-key
+- hmac
+- backup
+id: 20260507-1126-n8n-ref
+intent: how-to
+last-accessed: 2026-05-07
+moc: '[[_MOC-n8n]]'
+project: n8n
+related:
+- OpenClaw-VPS-Reference
+- '[[_MOC-n8n]]'
+- '[[n8n-Etat]]'
+source: memory:reference_n8n.md
+status: active
+summary: URL HTTPS Traefik, paths docker-compose/env/.n8n, owner setup, N8N_API_KEY,
+  PMS HMAC secret, backup restore.
+tags:
+- n8n
+- docker
+- api
+- reference
+tier: hot
+title: n8n self-hosted — URLs, paths, credentials, commandes
+topic_cluster: n8n
+type: reference
+updated: 2026-05-07
 ---
 
 # n8n self-hosted — URLs, paths, credentials, commandes
@@ -114,3 +133,7 @@ curl -X POST https://n8n-46-202-171-204.nip.io/api/v1/workflows \
 - MOC parent : [[_MOC-n8n]]
 - État du projet : [[n8n-Etat]]
 - Source : `memory:reference_n8n.md`
+
+## Related
+
+- [[OpenClaw-VPS-Reference]] — OpenClaw-VPS-Reference

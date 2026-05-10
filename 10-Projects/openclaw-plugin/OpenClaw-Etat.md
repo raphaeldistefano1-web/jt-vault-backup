@@ -1,26 +1,45 @@
 ---
-id: 20260507-1116-openclaw-etat
-type: project
-title: Plugin OpenClaw du PMS — État (avr 2026)
-project: openclaw
-area: null
-status: active
-confidence: high
-summary: Plugin jardin-tropical-pms avec OAuth OpenAI Codex sur /dashboard/ai, routes Gateway, Feature 1 livrée, Feature 2 reportée.
-intent: log
-entities: [openclaw, plugin, oauth-codex, pms, gateway, ai-routing]
-topic_cluster: openclaw
-related: ["[[_MOC-openclaw]]", "[[OpenClaw-VPS-Reference]]", "[[OpenClaw-Pieges-Dev]]"]
-moc: "[[_MOC-openclaw]]"
-source: "memory:project_openclaw_plugin.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [openclaw, plugin, oauth, pms]
 ai_writable: true
+area: null
+backlinks:
+- OpenClaw-Pieges-Dev
+- OpenClaw-VPS-Reference
+- _Index
+- _VAULT-INDEX
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- openclaw
+- plugin
+- oauth-codex
+- pms
+- gateway
+- ai-routing
+id: 20260507-1116-openclaw-etat
+intent: log
+last-accessed: 2026-05-07
+moc: '[[_MOC-openclaw]]'
+project: openclaw
+related:
+- '[[_MOC-openclaw]]'
+- '[[OpenClaw-VPS-Reference]]'
+- '[[OpenClaw-Pieges-Dev]]'
+source: memory:project_openclaw_plugin.md
+status: active
+summary: Plugin jardin-tropical-pms avec OAuth OpenAI Codex sur /dashboard/ai, routes
+  Gateway, Feature 1 livrée, Feature 2 reportée.
+tags:
+- openclaw
+- plugin
+- oauth
+- pms
+tier: hot
+title: Plugin OpenClaw du PMS — État (avr 2026)
+topic_cluster: openclaw
+type: project
+updated: 2026-05-07
 ---
 
 # Plugin OpenClaw du PMS — État

@@ -1,6 +1,11 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-08-automatiser-envoi-digest-via-email-avec-date
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -14,7 +19,13 @@ intent: config
 last-accessed: '2026-05-07'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- 2026-05-08-automatiser-envoi-digest-via-email-avec-date
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- Decision-Disable-WP-Cron-cron-Linux
+- Vault-Setup
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
 - 10-Projects/claude-system/2026-05-07-1128-session-9416e8cf.md
@@ -41,3 +52,12 @@ updated: '2026-05-07'
 **Lieu** : cron root ou systemd timer (à confirmer implémentation).
 
 **Moins critique que Couche 1 logic**, mais important pour ops : si changement horaire futur, éditer crontab/systemd sans toucher Python.
+
+## Related
+
+- [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
+- [[2026-05-08-automatiser-envoi-digest-via-email-avec-date]] — Automatiser envoi digest via email avec date
+- [[Decision-Disable-WP-Cron-cron-Linux]] — Decision Disable WP Cron cron Linux
+- [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
+- [[Vault-Setup]] — Vault Setup
+- [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer

@@ -2,6 +2,12 @@
 ai_writable: false
 applies_to: global
 area: null
+auto_applied_at: 2026-05-09
+backlinks:
+- 2026-05-09-impeccable-surpasse-frontend-design-officiel
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
 created_by: vault-synthesizer
@@ -22,7 +28,14 @@ pinned: false
 project: null
 proposed_rule: Toute interface doit être responsive et testée sur 375px, 768px, 1024px+.
   Valider via Chrome devtools mobile AVANT déclaré terminé.
-related: []
+related:
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-impeccable-surpasse-frontend-design-officiel
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- Workflow-Preview-Then-Apply
+- impeccable
+- interface-design
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1625-session-d31950cd.md
@@ -54,7 +67,16 @@ topic_cluster: ui-design
 type: permanent-note
 updated: '2026-05-09'
 usage_count: 0
-auto_applied_at: 2026-05-09
 ---
 
 Raphaël a exprimé frustration : 'ça ne s'adapte pas, je peux pas tout voir, il faudrait qu'il rétrécisse si l'écran est plus petit'. Règle absolue : chaque composant UI/dashboard/form/modal testable sur 375px (mobile), 768px (tablet), 1024px+ (desktop). Utiliser CSS flexbox/grid adaptable, jamais fixed widths ou overflows cassés. Validation obligatoire : ouvrir Chrome devtools mode mobile AVANT de déclarer terminé. Pattern récurrent sur tous projets (PMS, WP, designs).
+
+## Related
+
+- [[impeccable]] — impeccable
+- [[2026-05-09-impeccable-surpasse-frontend-design-officiel]] — Impeccable surpasse frontend-design officiel
+- [[interface-design]] — interface design
+- [[Workflow-Preview-Then-Apply]] — Workflow Preview Then Apply
+- [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
+- [[2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée]] — Page à-propos : couleur fond « nos valeurs » trop foncée
+- [[2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa]] — Carousel HBook : boutons surdimensionnés et mal espacés

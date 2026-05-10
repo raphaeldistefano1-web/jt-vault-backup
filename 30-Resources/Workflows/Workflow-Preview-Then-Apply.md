@@ -1,25 +1,43 @@
 ---
-type: workflow
-status: active
-tags: [workflow, ui, pms]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Workflow obligatoire pour toute refonte UI du PMS — passer par route _v2 prévisualisable"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[PMS-Dashboard-v2]]"
-  - "[[PMS-Calendar-v2]]"
-id: 202604252029-workflow-preview-then-apply
-embed_model_version: null
+backlinks:
+- 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- Brainstorm-PMS-Ameliorations-2026-04-25
+- Dev-PMS-Area
+- PMS
+- PMS-Calendar-v2
+- PMS-Dashboard-v2
+- Workflow-Collaboration-IA
+- Workflow-Cross-Feature-Coherence
+- Workflow-Deploy-PMS
+created: 2026-04-25
+description: Workflow obligatoire pour toute refonte UI du PMS — passer par route
+  _v2 prévisualisable
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Toute refonte UI d'envergure du Dev-PMS-Area|PMS passe par une route v2 prévisualisable, jamais de modif directe sur le …"
-entities: [calendar, dashboard, pms]
-topic_cluster: pms-patterns
+embed_model_version: null
+entities:
+- calendar
+- dashboard
+- pms
+id: 202604252029-workflow-preview-then-apply
 intent: how-to
+last-accessed: 2026-04-25
+related:
+- '[[Dev-PMS-Area]]'
+- '[[PMS-Dashboard-v2]]'
+- '[[PMS-Calendar-v2]]'
+relevance: high
+status: active
+summary: Toute refonte UI d'envergure du Dev-PMS-Area|PMS passe par une route v2 prévisualisable,
+  jamais de modif directe sur le …
+tags:
+- workflow
+- ui
+- pms
 tier: warm
+topic_cluster: pms-patterns
+type: workflow
+updated: 2026-04-25
 ---
 
 # 🎨 Workflow Preview-Then-Apply

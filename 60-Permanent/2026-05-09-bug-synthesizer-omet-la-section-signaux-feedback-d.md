@@ -1,6 +1,8 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +16,10 @@ intent: gotcha
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
+- _FEEDBACK-PENDING
+- _RULES-APPLIED
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1021-session-4d0a55cb.md
@@ -44,3 +49,9 @@ Lors de l'audit du pipeline vault-synthesizer, découverte que la logique d'extr
 **Conséquence** : la pipeline d'apprentissage en boucle fermée (feedback utilisateur → règle durable) est cassée à la source. Les patterns comportementaux qu'il faudrait capturer s'évaporent.
 
 **Fix** : ajouter un parseur pour la section feedback-rules dans le synthesizer et générer des notes `intent: feedback-rule` correspondantes.
+
+## Related
+
+- [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 0 appliquées, 0 archivées
+- [[_FEEDBACK-PENDING]] — 📋 Feedback rules en attente — 0 rule
+- [[2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag]] — Gotcha : Fichiers temporaires indexés par RAG

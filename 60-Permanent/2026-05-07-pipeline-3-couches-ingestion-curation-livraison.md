@@ -1,6 +1,12 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -14,7 +20,12 @@ intent: lesson
 last-accessed: '2026-05-07'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- _Index
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
 - 10-Projects/claude-system/2026-05-07-1128-session-9416e8cf.md
@@ -55,3 +66,11 @@ updated: '2026-05-07'
 **Avantage** : si critères changent, re-run Couche 1 seule (pas re-transcription). Si templates changent, re-run Couche 3 seule (pas re-curation). Chaque couche = idempotente + rejoignable.
 
 **Réutilisable** pour news feeds, paper summaries, podcast digests.
+
+## Related
+
+- [[2026-05-08-config-externalisée-env-prompts-markdown-séparés-d]] — Config externalisée : .env + prompts markdown séparés du code
+- [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
+- [[2026-05-07-structure-répertoires-srvveille-ia-config-external]] — Structure répertoires /srv/veille-ia (config externalisée)
+- [[2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives]] — YouTube Transcript API vs Whisper (priorité natives)
+- [[_Index]] — Index — pms-jardin-tropical

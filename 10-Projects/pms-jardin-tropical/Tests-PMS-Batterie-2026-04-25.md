@@ -1,5 +1,10 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
+- Brainstorm-PMS-Ameliorations-2026-04-25
+- _Index
+- _MOC-pms
 created: 2026-04-25
 description: Batterie complète tests fonctionnels PMS — 22 endpoints API + 26 pages
   testés, perfs excellentes, quelques incohérences mineures
@@ -17,9 +22,10 @@ intent: reference
 last-accessed: 2026-04-25
 project: pms-jardin-tropical
 related:
-- '[[PMS-Stack]]'
-- '[[Dev-PMS-Area]]'
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
 - '[[Brainstorm-PMS-Améliorations-2026-04-25]]'
+- '[[Dev-PMS-Area]]'
+- '[[PMS-Stack]]'
 relevance: high
 status: completed
 summary: Batterie tests PMS complets — 22 endpoints OK, 26 pages OK, TTFB < 120ms,
@@ -130,3 +136,7 @@ Très bon état général.
 - [[PMS-Stack]]
 - [[Dev-PMS-Area]]
 - [[Brainstorm-PMS-Améliorations-2026-04-25]]
+
+## Related
+
+- [[2026-05-10-accès-données-hbook-source-unique-de-vérité]] — Accès données HBook — source unique de vérité

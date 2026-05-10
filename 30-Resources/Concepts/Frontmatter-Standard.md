@@ -1,24 +1,34 @@
 ---
-type: concept
-status: active
-tags: [vault, frontmatter, conventions]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Standard YAML frontmatter pour toutes les notes du vault — IA-readable et Obsidian Bases-compatible"
 ai_writable: false
-related:
-  - "[[Atomic-Notes-Pattern]]"
-  - "[[Vault-Setup]]"
-id: 202604252028-frontmatter-standard
-embed_model_version: null
+backlinks:
+- Atomic-Notes-Pattern
+- Vault-Setup
+created: 2026-04-25
+description: Standard YAML frontmatter pour toutes les notes du vault — IA-readable
+  et Obsidian Bases-compatible
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Standard YAML frontmatter vault — champs, vocabulaires contrôlés, convention description, règles dates ISO."
-entities: [documentation, reference]
-topic_cluster: vault-architecture
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252028-frontmatter-standard
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[Atomic-Notes-Pattern]]'
+- '[[Vault-Setup]]'
+relevance: high
+status: active
+summary: Standard YAML frontmatter vault — champs, vocabulaires contrôlés, convention
+  description, règles dates ISO.
+tags:
+- vault
+- frontmatter
+- conventions
 tier: warm
+topic_cluster: vault-architecture
+type: concept
+updated: 2026-04-25
 ---
 
 # 📋 Frontmatter — standard du vault

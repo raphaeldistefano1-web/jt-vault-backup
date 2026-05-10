@@ -1,5 +1,26 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-09-instance-d-wordpress-en-rotation-test
+- 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-structure-paths-uploads-wordpress-instance-acd
+- Bug-WP-Link-Blog-404
+- Decision-Disable-WP-Cron-cron-Linux
+- Decision-Mu-plugin-vs-RankMath
+- Decision-Robots-txt-LLM-Aware
+- Mu-plugin-vs-Theme-Pattern
+- Robots-txt-LLM-Aware
+- Schema-FAQPage
+- Schema-org-LodgingBusiness
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress
+- Site-WordPress-Optimisation-2026-04-25
+- Theme-jardintropical-child
+- _Index
+- _MOC-site-wordpress
+- _VAULT-INDEX
 created: 2026-04-25
 description: Mu-plugin custom ~600 lignes 16 sections — robots.txt LLM-aware, security
   headers, schemas, GEO, redirects, A11y
@@ -14,12 +35,17 @@ intent: reference
 last-accessed: 2026-04-25
 project: site-wordpress
 related:
-- '[[Site-WordPress]]'
-- '[[Theme-jardintropical-child]]'
+- 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- 2026-05-10-structure-paths-uploads-wordpress-instance-acd
+- '[[GEO-Generative-Engine-Optimization]]'
 - '[[Mu-plugin-vs-Theme-Pattern]]'
 - '[[Robots-txt-LLM-Aware]]'
 - '[[Schema-FAQPage]]'
-- '[[GEO-Generative-Engine-Optimization]]'
+- '[[Site-WordPress]]'
+- '[[Theme-jardintropical-child]]'
 relevance: high
 status: active
 summary: /var/www/wordpress-instance/data/wordpress/wp-content/mu-plugins/jt-seo-extras.php
@@ -90,3 +116,11 @@ updated: 2026-04-25
 - [[Site-WordPress]]
 - [[Theme-jardintropical-child]]
 - [[Mu-plugin-vs-Theme-Pattern]]
+
+## Related
+
+- [[2026-05-09-synchronisation-manuelle-fragile-entre-instances-w]] — Synchronisation manuelle fragile entre instances WordPress
+- [[2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa]] — Carousel HBook : boutons surdimensionnés et mal espacés
+- [[2026-05-10-ajouter-google-business-à-côté-de-tripadvisor]] — Ajouter Google Business à côté de TripAdvisor
+- [[2026-05-10-page-hébergements-tableau-structuré-type-emplaceme]] — Page hébergements : tableau structuré (Type | Emplacement | Prix/Saison)
+- [[2026-05-10-structure-paths-uploads-wordpress-instance-acd]] — Structure paths uploads WordPress (Instance A/C/D)

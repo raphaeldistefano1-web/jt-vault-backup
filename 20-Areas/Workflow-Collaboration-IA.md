@@ -1,25 +1,40 @@
 ---
-type: area
-status: active
-tags: [workflow, ia, collaboration]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Comment Raphaël collabore avec ses IA — préférences, mode auto, to-do persistante, conventions"
 ai_writable: false
-related:
-  - "[[User-Raphael-Distefano]]"
-  - "[[TODO-centralized]]"
-  - "[[Mu-plugin-vs-Theme-Pattern]]"
-id: 202604252025-workflow-collaboration-ia
-embed_model_version: null
+backlinks:
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- Sub-agents-internes-PMS
+- TODO-centralized
+- User-Raphael-Distefano
+created: 2026-04-25
+description: Comment Raphaël collabore avec ses IA — préférences, mode auto, to-do
+  persistante, conventions
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "User-Raphael-Distefano|Raphaël utilise massivement le mode auto de Claude Code. Implications :"
-entities: [documentation, reference]
-topic_cluster: area-hub
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252025-workflow-collaboration-ia
 intent: reference
+last-accessed: 2026-04-25
+related:
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- 2026-05-10-service-worker-offline-pour-pwa-cul-sec
+- '[[Mu-plugin-vs-Theme-Pattern]]'
+- '[[TODO-centralized]]'
+- '[[User-Raphael-Distefano]]'
+relevance: high
+status: active
+summary: 'User-Raphael-Distefano|Raphaël utilise massivement le mode auto de Claude
+  Code. Implications :'
+tags:
+- workflow
+- ia
+- collaboration
 tier: hot
+topic_cluster: area-hub
+type: area
+updated: 2026-04-25
 ---
 
 # 🤝 Workflow Collaboration IA
@@ -76,3 +91,8 @@ Quand on travaille dans `/var/www/pms-jardin-tropical`, **les sub-agents interne
 ## Approche optim WP
 
 [[Mu-plugin-vs-Theme-Pattern|Pattern]] : compléter le theme via mu-plugin plutôt que d'installer un plugin SEO/perf qui voudrait écraser. Le theme `jardintropical-child` est déjà ultra pro.
+
+## Related
+
+- [[2026-05-10-service-worker-offline-pour-pwa-cul-sec]] — Service Worker offline pour PWA CUL SEC
+- [[2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése]] — Claude Max quota — fenêtre 5h limitée, stratégie réservation

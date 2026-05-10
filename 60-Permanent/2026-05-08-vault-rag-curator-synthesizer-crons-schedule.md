@@ -1,6 +1,12 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-08-automatiser-envoi-digest-via-email-avec-date
+- 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -16,7 +22,17 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
+- 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
+- 2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault
+- RUNBOOK-disaster-recovery
+- Vault-Setup
 schema_version: 1
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1325-session-158ff0de.md
@@ -61,3 +77,16 @@ Pipeline vault-rag asynchrone avec crons `/etc/cron.d/` :
 Chaque cron a entrée logrotate (daily, rotate 7, compress). Erreurs catchées via exit code → alerting optionnel mail.
 
 **Bénéfice** : vault toujours à jour sans charge synchrone requête utilisateur. **À monitorer** : curator peut timeout si 100+ notes nouvelles — ajouter `--batch-size 50` si besoin.
+
+## Related
+
+- [[2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak]] — Cron 23h30 pour ingestion veille (timing off-peak)
+- [[RUNBOOK-disaster-recovery]] — Runbook — Disaster Recovery vault
+- [[Vault-Setup]] — Vault Setup
+- [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
+- [[2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau]] — Audit one-shot — déduplication 39 mémoires CC vs vault
+- [[2026-05-10-decision-defensive-truncation-et-sync-check-vault-]] — Decision : Defensive truncation et sync-check vault RAG
+- [[2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct]] — Lesson : Checklist pour diagnostiquer que Crow fonctionne
+- [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
+- [[2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault]] — Pattern : Scripts maintenance et diagnostic vault
+- [[2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag]] — Gotcha : Fichiers temporaires indexés par RAG

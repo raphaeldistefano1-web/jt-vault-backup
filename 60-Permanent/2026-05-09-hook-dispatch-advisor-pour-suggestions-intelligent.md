@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +18,14 @@ intent: decision
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
+- _MOC-claude-system
+- deep-research
+- research-companion
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1442-session-21c4cfc3.md
@@ -68,3 +79,13 @@ Hook `dispatch_advisor.py` inspecte chaque prompt entrant et suggère :
 **Mécanisme** : regex sur mots-clés prompt + catalogue `.claude/dispatch_catalog.py` (YAML éditable).
 
 **Bénéfice** : réduit surcharge cognitive, évite oublis systématiques (pre-mortem avant prod, code-review avant merge).
+
+## Related
+
+- [[2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi]] — Valider systèmes de dispatch via test instances vierges
+- [[2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest]] — Pipeline modulaire ingest→analyze→render→digest
+- [[deep-research]] — deep research
+- [[research-companion]] — research companion
+- [[_MOC-claude-system]] — MOC Claude System — système IA personnel
+- [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents
+- [[2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges]] — Valider systèmes de dispatch via instances vierges

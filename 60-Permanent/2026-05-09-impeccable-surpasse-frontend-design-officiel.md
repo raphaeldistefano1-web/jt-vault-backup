@@ -1,6 +1,8 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-responsive-design-obligatoire-pour-toute-interface
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +16,13 @@ intent: decision
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
+- 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- color-expert
+- emil-design-eng
+- interface-design
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1442-session-21c4cfc3.md
@@ -62,3 +70,12 @@ Impeccable (pbakaus) banit 27 patterns de AI-generated UI slop explicitement : f
 **Décision** : Impeccable devient l'étalon-or pour audit UI. À invoquer avant première implémentation visuelle (modes brand/product).
 
 **Pourquoi** : 27 anti-patterns spécifiés = plus de précision qu'une compétence générique. Récupère directement la taxonomie d'Emil Kowalski (créateur Sonner/Vaul/Linear).
+
+## Related
+
+- [[2026-05-09-responsive-design-obligatoire-pour-toute-interface]] — Responsive design obligatoire pour toute interface UI
+- [[emil-design-eng]] — emil design eng
+- [[interface-design]] — interface design
+- [[color-expert]] — color expert
+- [[2026-05-09-claude-max-5x-fenêtre-courte-à-réserver]] — Claude Max 5x : fenêtre courte, à réserver
+- [[2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée]] — Page à-propos : couleur fond « nos valeurs » trop foncée

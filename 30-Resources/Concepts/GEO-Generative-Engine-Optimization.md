@@ -1,27 +1,43 @@
 ---
-type: concept
-status: active
-tags: [geo, llm, seo]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "GEO = optimisation pour être cité par les moteurs LLM (ChatGPT, Perplexity, Google AI Overviews)"
 ai_writable: false
-related:
-  - "[[llms-txt-standard]]"
-  - "[[Robots-txt-LLM-Aware]]"
-  - "[[Schema-org-LodgingBusiness]]"
-  - "[[Schema-FAQPage]]"
-aliases: [GEO]
-id: 202604252026-geo-generative-engine-optimization
-embed_model_version: null
+aliases:
+- GEO
+backlinks:
+- Decision-Robots-txt-LLM-Aware
+- Mu-plugin-jt-seo-extras
+- Robots-txt-LLM-Aware
+- Schema-FAQPage
+- Schema-org-LodgingBusiness
+- llms-txt-standard
+created: 2026-04-25
+description: GEO = optimisation pour être cité par les moteurs LLM (ChatGPT, Perplexity,
+  Google AI Overviews)
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Generative Engine Optimization = ensemble de pratiques pour être cité par les moteurs LLM ChatGPT search, Perplexity, Go…"
-entities: [documentation, llm, reference]
-topic_cluster: wordpress-seo
+embed_model_version: null
+entities:
+- documentation
+- llm
+- reference
+id: 202604252026-geo-generative-engine-optimization
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[llms-txt-standard]]'
+- '[[Robots-txt-LLM-Aware]]'
+- '[[Schema-org-LodgingBusiness]]'
+- '[[Schema-FAQPage]]'
+relevance: high
+status: active
+summary: Generative Engine Optimization = ensemble de pratiques pour être cité par
+  les moteurs LLM ChatGPT search, Perplexity, Go…
+tags:
+- geo
+- llm
+- seo
 tier: warm
+topic_cluster: wordpress-seo
+type: concept
+updated: 2026-04-25
 ---
 
 # 🤖 GEO — Generative Engine Optimization

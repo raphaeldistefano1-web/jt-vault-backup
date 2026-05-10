@@ -1,5 +1,12 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- 2026-05-10-structure-paths-uploads-wordpress-instance-acd
+- Lessons-Learned
+- Site-WordPress-Optimisation-2026-04-25
+- _MOC-site-wordpress
+- _VAULT-INDEX
 created: 2026-04-25
 description: Image WebP avec accent dans nom (dressée vs dressee) → 404 → fix par
   symlink
@@ -14,6 +21,8 @@ intent: log
 last-accessed: 2026-04-25
 project: Bugs
 related:
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- 2026-05-10-structure-paths-uploads-wordpress-instance-acd
 - '[[Site-WordPress]]'
 relevance: low
 status: resolved
@@ -76,3 +85,8 @@ Pour éviter ça à l'avenir : **slug-sanitize les noms d'attachment** AVANT upl
 
 - [[Site-WordPress]]
 - [[Site-WordPress-Optimisation-2026-04-25]]
+
+## Related
+
+- [[2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé]] — Instance C : images affichées mais absentes de la médiathèque
+- [[2026-05-10-structure-paths-uploads-wordpress-instance-acd]] — Structure paths uploads WordPress (Instance A/C/D)

@@ -1,26 +1,52 @@
 ---
-id: 20260507-runbook-disaster-recovery
-type: reference
-title: "Runbook — Disaster Recovery vault"
-project: claude-system
-area: dev-tooling
-status: active
-confidence: high
-summary: "Procédures step-by-step pour restaurer le vault Obsidian et la stack RAG en cas de panne."
-intent: runbook
-topic_cluster: ops-recovery
-tier: hot
-entities: [vault, sqlite-vec, ollama, syncthing, tar, git]
-tags: [runbook, recovery, ops, ai-generated]
-related: ["[[_MOC-claude-system]]", "[[Stack-Tech]]"]
-moc: null
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
 ai_writable: false
+area: dev-tooling
+backlinks:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
+- 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- vault
+- sqlite-vec
+- ollama
+- syncthing
+- tar
+- git
+id: 20260507-runbook-disaster-recovery
+intent: runbook
+last-accessed: 2026-05-07
+moc: null
+project: claude-system
+related:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
+- 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
+- 2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault
+- '[[Stack-Tech]]'
+- '[[_MOC-claude-system]]'
 schema_version: 1
+status: active
+summary: Procédures step-by-step pour restaurer le vault Obsidian et la stack RAG
+  en cas de panne.
+tags:
+- runbook
+- recovery
+- ops
+- ai-generated
+tier: hot
+title: Runbook — Disaster Recovery vault
+topic_cluster: ops-recovery
+type: reference
+updated: 2026-05-07
 ---
 
 # 🚑 Runbook — Disaster Recovery
@@ -192,3 +218,12 @@ systemctl restart syncthing@root
 - **MCP server vault** : déclaré dans `/root/.claude.json`
 - **Hooks Claude Code** : `/root/.claude/hooks/extract_memory.py` + `inject_context.py`
 - **Schémas frontmatter** : `/srv/vault/90-Meta/schemas/note-schema.md`
+
+## Related
+
+- [[2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau]] — Audit one-shot — déduplication 39 mémoires CC vs vault
+- [[2026-05-10-decision-defensive-truncation-et-sync-check-vault-]] — Decision : Defensive truncation et sync-check vault RAG
+- [[2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct]] — Lesson : Checklist pour diagnostiquer que Crow fonctionne
+- [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
+- [[2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault]] — Pattern : Scripts maintenance et diagnostic vault
+- [[2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag]] — Gotcha : Fichiers temporaires indexés par RAG

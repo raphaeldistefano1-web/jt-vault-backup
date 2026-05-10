@@ -1,25 +1,38 @@
 ---
-type: concept
-status: active
-tags: [robots-txt, geo, llm, seo]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Stratégie robots.txt 2026 : bloquer crawlers d'entraînement LLM, autoriser retrieval bots"
 ai_writable: false
-related:
-  - "[[GEO-Generative-Engine-Optimization]]"
-  - "[[llms-txt-standard]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-id: 202604252028-robots-txt-llm-aware
-embed_model_version: null
+backlinks:
+- Decision-Robots-txt-LLM-Aware
+- GEO-Generative-Engine-Optimization
+- Mu-plugin-jt-seo-extras
+- llms-txt-standard
+created: 2026-04-25
+description: 'Stratégie robots.txt 2026 : bloquer crawlers d''entraînement LLM, autoriser
+  retrieval bots'
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Les crawlers IA se divisent en 2 catégories :"
-entities: [documentation, llm, reference]
-topic_cluster: wordpress-seo
+embed_model_version: null
+entities:
+- documentation
+- llm
+- reference
+id: 202604252028-robots-txt-llm-aware
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[GEO-Generative-Engine-Optimization]]'
+- '[[llms-txt-standard]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+relevance: high
+status: active
+summary: 'Les crawlers IA se divisent en 2 catégories :'
+tags:
+- robots-txt
+- geo
+- llm
+- seo
 tier: warm
+topic_cluster: wordpress-seo
+type: concept
+updated: 2026-04-25
 ---
 
 # 🤖 robots.txt LLM-aware

@@ -1,6 +1,9 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -14,7 +17,12 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1424-session-e172a5dd.md
@@ -59,3 +67,11 @@ updated: '2026-05-08'
 **Dépendances** : `.env` contient credentials SMTP + destinataires. Vérifier chemin digest en local (`/srv/veille-ia/digests/YYYY-MM-DD.md`).
 
 **Avantage** : découple génération (batch nuit) de distribution (matin), permet reprise sur erreur et dry-run précis.
+
+## Related
+
+- [[2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend]] — Pipeline veille-ia-youtube : ingest→analyze→render→send
+- [[2026-05-07-structure-répertoires-srvveille-ia-config-external]] — Structure répertoires /srv/veille-ia (config externalisée)
+- [[2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest]] — Pipeline modulaire ingest→analyze→render→digest
+- [[2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak]] — Cron 23h30 pour ingestion veille (timing off-peak)
+- [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule

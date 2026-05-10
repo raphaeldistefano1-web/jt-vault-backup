@@ -1,5 +1,14 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
+- Dev-PMS-Area
+- PMS-Dashboard-v2
+- Plugin-jt-booking
+- Workflow-Cross-Feature-Coherence
+- Workflow-Preview-Then-Apply
+- _Index
+- _MOC-pms
 created: 2026-04-25
 description: Calendar v2 du PMS — vue calendrier centralisée pour gestion réservations,
   appliqué prod
@@ -15,11 +24,12 @@ intent: reference
 last-accessed: 2026-04-25
 project: pms-jardin-tropical
 related:
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
 - '[[Dev-PMS-Area]]'
-- '[[Workflow-Preview-Then-Apply]]'
 - '[[PMS-Dashboard-v2]]'
 - '[[Plugin-jt-booking]]'
 - '[[Workflow-Cross-Feature-Coherence]]'
+- '[[Workflow-Preview-Then-Apply]]'
 relevance: medium
 status: completed
 summary: ✅ Appliqué prod cf. mémoire projectpmsstate.md.
@@ -63,3 +73,7 @@ Les réservations entrantes via le plugin WP `jt-booking` doivent (en théorie) 
 - [[PMS-Dashboard-v2]]
 - [[Plugin-jt-booking]]
 - [[Workflow-Cross-Feature-Coherence]]
+
+## Related
+
+- [[2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp]] — Signaler impacts jt-booking avant clôture tâche WP

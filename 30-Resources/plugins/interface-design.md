@@ -1,18 +1,30 @@
 ---
-intent: plugin-doc
-plugin_id: interface-design
-plugin_full_name: Interface Design (Damola Akinleye)
-project: claude-system
+backlinks:
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-impeccable-surpasse-frontend-design-officiel
+- 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- _Index
 category: design
-regime: always-on-passive
+consent_required: false
 cost: faible
 cost_tokens_estimate: 4000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Interface Design (Damola Akinleye)
+plugin_id: interface-design
+project: claude-system
+regime: always-on-passive
 status: active
-tags: [design, persistence, anti-drift, design-system, decisions]
-synergies: [impeccable, emil-design-eng]
+synergies:
+- impeccable
+- emil-design-eng
+tags:
+- design
+- persistence
+- anti-drift
+- design-system
+- decisions
 ---
 
 # Interface Design
@@ -44,4 +56,3 @@ https://github.com/Dammyjay93/interface-design — Damola Akinleye
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `plugin marketplace: interface-design@interface-design` (skill user / plugin marketplace).
-

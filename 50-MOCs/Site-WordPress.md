@@ -1,21 +1,64 @@
 ---
-type: moc
-status: active
-tags: [wordpress, site-web, moc]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Map of Content — site WordPress lejardintropical.fr (actuellement sur wp-46-202-171-204.nip.io)"
 ai_writable: false
-id: 202604252021-site-wordpress
-embed_model_version: null
+backlinks:
+- 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- AGENTS-md-standard
+- Bug-WP-Image-Encoding-Accent
+- Decision-Disable-WP-Cron-cron-Linux
+- Decision-Redis-Object-Cache-Disabled
+- GEO-Generative-Engine-Optimization
+- Hotel
+- Hotel-Le-Jardin-Tropical
+- Migration-WP-com-vers-VPS-2026-04-25
+- Mu-plugin-jt-seo-extras
+- Mu-plugin-vs-Theme-Pattern
+- Plugin-jt-booking
+- Plugin-jt-migrate
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress-Optimisation-2026-04-25
+- Stack-Tech
+- Test-jt-booking-PMS-2026-04-25
+- Theme-jardintropical-child
+- User-Raphael-Distefano
+- VPS-Hostinger
+- _VAULT-INDEX
+- llms-txt-standard
+created: 2026-04-25
+description: Map of Content — site WordPress lejardintropical.fr (actuellement sur
+  wp-46-202-171-204.nip.io)
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "MOC WordPress — stack Docker, theme custom, jt-booking, jt-migrate, cache 27ms, schemas LodgingBusiness."
-entities: [docker, site-wordpress, wordpress]
-topic_cluster: vault-navigation
+embed_model_version: null
+entities:
+- docker
+- site-wordpress
+- wordpress
+id: 202604252021-site-wordpress
 intent: reference
+last-accessed: 2026-04-25
+related:
+- 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- Site-WordPress
+relevance: high
+status: active
+summary: MOC WordPress — stack Docker, theme custom, jt-booking, jt-migrate, cache
+  27ms, schemas LodgingBusiness.
+tags:
+- wordpress
+- site-web
+- moc
 tier: warm
+topic_cluster: vault-navigation
+type: moc
+updated: 2026-04-25
 ---
 
 # 🌐 MOC Site WordPress
@@ -68,3 +111,11 @@ tier: warm
 - Images sans `srcset` (mobile télécharge full-size)
 - Logo schema URL pointe vers `lejardintropical.fr` (domaine final)
 - Lien `/blog/` dans page À propos même sans blog actif
+
+## Related
+
+- [[2026-05-09-synchronisation-manuelle-fragile-entre-instances-w]] — Synchronisation manuelle fragile entre instances WordPress
+- [[Site-WordPress]] — Site-WordPress
+- [[2026-05-10-supprimer-références-club-med-du-contenu-ljt]] — Supprimer références Club Med du contenu LJT
+- [[2026-05-10-ajouter-google-business-à-côté-de-tripadvisor]] — Ajouter Google Business à côté de TripAdvisor
+- [[2026-05-10-workflow-modification-contenu-multi-instances-wp]] — Workflow modification contenu multi-instances WP

@@ -1,6 +1,12 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-embedding-model-nomic-embed-text-v2-moe-305m-moe
+- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
+- 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
+- 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -15,7 +21,8 @@ intent: config
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
 schema_version: 1
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1325-session-158ff0de.md
@@ -69,3 +76,7 @@ swapon /swapfile
 Redémarrer systemd : `systemctl daemon-reload && systemctl restart ollama`.
 
 **Effet** : Ollama plafonné 2.5 GB, système page sans OOM-kill. Démarrage manuel via CLI au lieu auto-start (contrôle charge). Cela maintient mémoire libre pour Postgres (1-2 GB), RAG (1-2 GB), cache disque (~1-2 GB). Stable 6+ mois.
+
+## Related
+
+- [[2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite]] — Ollama bge-m3 consomme 5.6 GB sans limite

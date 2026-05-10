@@ -1,27 +1,42 @@
 ---
-type: area
-status: active
-tags: [hotel, business, identity]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "L'hôtel Le Jardin Tropical à Bouillante (Guadeloupe) — fiche d'identité business"
 ai_writable: false
-related:
-  - "[[User-Raphael-Distefano]]"
-  - "[[Site-WordPress]]"
-  - "[[PMS-Area]]"
-  - "[[Reserve-Cousteau]]"
-aliases: ["Le Jardin Tropical", "JT"]
-id: 202604252024-hotel-le-jardin-tropical
-embed_model_version: null
+aliases:
+- Le Jardin Tropical
+- JT
+backlinks:
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- Schema-org-LodgingBusiness
+- User-Raphael-Distefano
+- _VAULT-INDEX
+created: 2026-04-25
+description: L'hôtel Le Jardin Tropical à Bouillante (Guadeloupe) — fiche d'identité
+  business
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Résidence de vacances 14 hébergements à Bouillante (Guadeloupe) — vitrine business, tarif depuis 85€/nuit, publicité directe."
-entities: [documentation, reference]
-topic_cluster: area-hub
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252024-hotel-le-jardin-tropical
 intent: reference
+last-accessed: 2026-04-25
+related:
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- '[[PMS-Area]]'
+- '[[Reserve-Cousteau]]'
+- '[[Site-WordPress]]'
+- '[[User-Raphael-Distefano]]'
+relevance: high
+status: active
+summary: Résidence de vacances 14 hébergements à Bouillante (Guadeloupe) — vitrine
+  business, tarif depuis 85€/nuit, publicité directe.
+tags:
+- hotel
+- business
+- identity
 tier: hot
+topic_cluster: area-hub
+type: area
+updated: 2026-04-25
 ---
 
 # 🌺 Hotel Le Jardin Tropical
@@ -94,3 +109,7 @@ tier: hot
 - Optimisation site web SEO + GEO (cf. [[Site-WordPress-Optimisation-2026-04-25]])
 - Mettre en place stratégie d'avis Google (5 avis = +35% conversion)
 - Décision migration domaine final + email pro
+
+## Related
+
+- [[2026-05-10-tarification-hébergements-structure-95-10-volontai]] — Tarification hébergements : structure 95 + 10€ volontaire

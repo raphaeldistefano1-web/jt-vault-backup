@@ -1,6 +1,19 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
+- 2026-05-10-structure-paths-uploads-wordpress-instance-acd
+- 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- Mu-plugin-jt-seo-extras
+- Plugin-jt-migrate
+- Site-WordPress
+- WP-Migration-Audit-2026-05-05
+- _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +27,20 @@ intent: gotcha
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques
+- 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
+- 2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
+- 2026-05-10-structure-paths-uploads-wordpress-instance-acd
+- 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- Mu-plugin-jt-seo-extras
+- Plugin-jt-migrate
+- Site-WordPress
+- _Index
+- _MOC-jt-migrate
 schema_version: 1
 source_notes:
 - 10-Projects/site-wordpress/2026-05-08-1132-session-e7718f3c.md
@@ -44,3 +70,19 @@ Architecture multi-instances (A/C/D) force **réplication manuelle du contenu** 
 **Piège** : facile d'oublier une instance lors d'une modification. Pas de trigger automatique de sync.
 
 **Mitigation potentielle** : script de validation (vérifier contenu identique sur A/C/D pour pages clés) ou webhook post-save → copie auto entre instances.
+
+## Related
+
+- [[_Index]] — Index — site-wordpress
+- [[Mu-plugin-jt-seo-extras]] — Mu plugin jt seo extras
+- [[Plugin-jt-migrate]] — Plugin jt migrate
+- [[_MOC-jt-migrate]] — MOC JT-Migrate Plugin
+- [[Site-WordPress]] — Site WordPress
+- [[2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé]] — Instance C : images affichées mais absentes de la médiathèque
+- [[2026-05-10-edit-échoue-si-classifieur-indispo-retry-résout]] — Edit échoue si classifieur indispo, retry résout
+- [[2026-05-10-supprimer-références-club-med-du-contenu-ljt]] — Supprimer références Club Med du contenu LJT
+- [[2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa]] — Carousel HBook : boutons surdimensionnés et mal espacés
+- [[2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp]] — Signaler impacts jt-booking avant clôture tâche WP
+- [[2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques]] — Avis TripAdvisor hardcodés, pas dynamiques
+- [[2026-05-10-workflow-modification-contenu-multi-instances-wp]] — Workflow modification contenu multi-instances WP
+- [[2026-05-10-structure-paths-uploads-wordpress-instance-acd]] — Structure paths uploads WordPress (Instance A/C/D)

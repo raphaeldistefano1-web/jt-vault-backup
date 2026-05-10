@@ -1,18 +1,27 @@
 ---
-intent: plugin-doc
-plugin_id: humanizer
-plugin_full_name: Humanizer (Brent Lader)
-project: claude-system
+backlinks:
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- _Index
+- _VAULT-INDEX
 category: prose
-regime: invocable
+consent_required: false
 cost: faible
 cost_tokens_estimate: 4000
-consent_required: false
-install_status: installed
 date_added: 2026-05-08
+install_status: installed
+intent: plugin-doc
+plugin_full_name: Humanizer (Brent Lader)
+plugin_id: humanizer
+project: claude-system
+regime: invocable
 status: active
-tags: [prose, anti-ai-slop, voice-match, ecriture]
-synergies: [elements-of-style]
+synergies:
+- elements-of-style
+tags:
+- prose
+- anti-ai-slop
+- voice-match
+- ecriture
 ---
 
 # Humanizer
@@ -44,4 +53,3 @@ https://github.com/blader/humanizer — Brent Lader
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `/root/.claude/skills/humanizer/` (skill user / plugin marketplace).
-

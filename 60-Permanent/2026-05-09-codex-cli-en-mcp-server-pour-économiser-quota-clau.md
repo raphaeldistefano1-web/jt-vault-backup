@@ -1,6 +1,9 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
+- 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -15,7 +18,13 @@ intent: decision
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
+- 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
+- 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- MCP-Model-Context-Protocol
+- _MOC-claude-system
+- codex-peer-review
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1625-session-d31950cd.md
@@ -47,3 +56,12 @@ updated: '2026-05-09'
 ---
 
 Claude Max a une fenêtre de 5h limitée par semaine. Codex CLI (ChatGPT Plus) est gratuit et accessible via MCP (scope user). Stratégie : déléguer tâches mécaniques (refactor >5 fichiers, tests unitaires stables, conversions format, boilerplate) à Codex ; réserver Claude pour architecture, debug profond, code review qualité, design feature. Auth OAuth via ChatGPT Plus (Raphaël). Économie estimée : 10-15% quotas Claude par batch.
+
+## Related
+
+- [[2026-05-09-claude-max-5x-fenêtre-courte-à-réserver]] — Claude Max 5x : fenêtre courte, à réserver
+- [[codex-peer-review]] — codex peer review
+- [[2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl]] — Tmux dashboard 3-windows monitoring quotas live Claude/Codex
+- [[_MOC-claude-system]] — MOC Claude System — système IA personnel
+- [[MCP-Model-Context-Protocol]] — MCP Model Context Protocol
+- [[2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése]] — Claude Max quota — fenêtre 5h limitée, stratégie réservation

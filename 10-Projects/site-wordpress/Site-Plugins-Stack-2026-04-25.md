@@ -1,5 +1,13 @@
 ---
 ai_writable: false
+backlinks:
+- Bug-Redis-WPO-Advanced-Cache-Conflict
+- Decision-Akismet-vers-Antispam-Bee
+- Decision-Redis-Object-Cache-Disabled
+- Site-WordPress
+- Site-WordPress-Optimisation-2026-04-25
+- _Index
+- _MOC-site-wordpress
 created: 2026-04-25
 description: Stack 10 plugins WP actifs au 2026-04-25 + état post-cleanup (akismet/all-in-one-wp-migration/hello/wp-robots-txt
   désinstallés)
@@ -16,11 +24,12 @@ intent: reference
 last-accessed: 2026-04-25
 project: site-wordpress
 related:
-- '[[Site-WordPress]]'
-- '[[Plugin-jt-booking]]'
-- '[[Plugin-jt-migrate]]'
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
 - '[[Decision-Akismet-vers-Antispam-Bee]]'
 - '[[Decision-Redis-Object-Cache-Disabled]]'
+- '[[Plugin-jt-booking]]'
+- '[[Plugin-jt-migrate]]'
+- '[[Site-WordPress]]'
 relevance: high
 status: active
 summary: '| Plugin | Version | Rôle | Notes |'
@@ -77,3 +86,7 @@ Ajouté au docker-compose, **up et healthy** mais **pas utilisé** comme object 
 
 - [[Site-WordPress]]
 - [[Site-WordPress-Optimisation-2026-04-25]]
+
+## Related
+
+- [[2026-05-10-ajouter-google-business-à-côté-de-tripadvisor]] — Ajouter Google Business à côté de TripAdvisor

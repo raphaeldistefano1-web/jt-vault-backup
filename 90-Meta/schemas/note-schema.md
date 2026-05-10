@@ -1,12 +1,31 @@
 ---
-type: schema
-status: active
-tags: [meta, schema, frontmatter]
-created: 2026-05-07
-updated: 2026-05-07
-relevance: high
-description: "Schéma canonique du frontmatter pour toutes les notes du vault — référence pour humains, Claude, agents, futurs systèmes RAG"
 ai_writable: false
+backlinks:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
+- 2026-05-09-adr-template-et-pattern-docsadr
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-10-questionsprompts-externalisées-par-jeu
+- 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
+created: 2026-05-07
+description: Schéma canonique du frontmatter pour toutes les notes du vault — référence
+  pour humains, Claude, agents, futurs systèmes RAG
+related:
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
+relevance: high
+status: active
+tags:
+- meta
+- schema
+- frontmatter
+type: schema
+updated: 2026-05-07
 ---
 
 # Note Schema — Frontmatter canonique
@@ -107,3 +126,8 @@ ai_writable: true                       # true = Claude peut éditer
 - Re-embedder uniquement les notes dont le `embed_hash` ≠ SHA256 actuel du contenu
 - Migration blue-green : embedder en parallèle avec un nouveau modèle, swap atomique quand validé
 - Rollback possible vers ancien modèle si dégradation détectée
+
+## Related
+
+- [[2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau]] — Audit one-shot — déduplication 39 mémoires CC vs vault
+- [[2026-05-10-registry-pattern-centralisateur-jeux-modulaires]] — Registry pattern — centralisateur jeux modulaires

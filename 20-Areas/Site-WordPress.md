@@ -1,28 +1,37 @@
 ---
-type: area
-status: active
-tags: [wordpress, site-web]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Area site WordPress — vitrine + booking, optimisé en profondeur le 2026-04-25"
 ai_writable: false
-related:
-  - "[[Theme-jardintropical-child]]"
-  - "[[Plugin-jt-booking]]"
-  - "[[Plugin-jt-migrate]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-  - "[[Site-WordPress-Optimisation-2026-04-25]]"
-  - "[[Migration-WP-com-vers-VPS-2026-04-25]]"
-id: 202604252024-site-wordpress
-embed_model_version: null
+created: 2026-04-25
+description: Area site WordPress — vitrine + booking, optimisé en profondeur le 2026-04-25
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Site WordPress optimisé LodgingBusiness — Docker Apache/PHP/MariaDB, theme custom, mu-plugin SEO, TTFB 33ms."
-entities: [docker, site-wordpress, wordpress]
-topic_cluster: area-hub
+embed_model_version: null
+entities:
+- docker
+- site-wordpress
+- wordpress
+id: 202604252024-site-wordpress
 intent: reference
+last-accessed: 2026-04-25
+related:
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+- '[[Plugin-jt-booking]]'
+- '[[Plugin-jt-migrate]]'
+- '[[Site-WordPress-Optimisation-2026-04-25]]'
+- '[[Theme-jardintropical-child]]'
+relevance: high
+status: active
+summary: Site WordPress optimisé LodgingBusiness — Docker Apache/PHP/MariaDB, theme
+  custom, mu-plugin SEO, TTFB 33ms.
+tags:
+- wordpress
+- site-web
 tier: hot
+topic_cluster: area-hub
+type: area
+updated: 2026-04-25
 ---
 
 # 🌐 Site WordPress
@@ -92,3 +101,9 @@ tier: hot
 - Migrer domaine final
 - Décision blog GO/NO-GO
 - Décision bilingue FR/EN
+
+## Related
+
+- [[2026-05-10-tarification-hébergements-structure-95-10-volontai]] — Tarification hébergements : structure 95 + 10€ volontaire
+- [[2026-05-10-supprimer-références-club-med-du-contenu-ljt]] — Supprimer références Club Med du contenu LJT
+- [[2026-05-10-page-hébergements-tableau-structuré-type-emplaceme]] — Page hébergements : tableau structuré (Type | Emplacement | Prix/Saison)

@@ -1,6 +1,9 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -14,7 +17,14 @@ intent: pattern
 last-accessed: '2026-05-09'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
+- 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-10-architecture-decision-records-template-structure
+- 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
+- AGENTS
+- note-schema
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1442-session-21c4cfc3.md
@@ -72,3 +82,13 @@ Alternatives considered: ...
 **Retour** : zéro coût quota, ROI énorme à long terme. Audit trail complet, évite redécisions, désolidarise du CLAUDE.md qui devient volatile.
 
 Référence : Nat Pryce/Michael Nygard (ThoughtWorks), popularisée par 7tonshark.
+
+## Related
+
+- [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
+- [[note-schema]] — note schema
+- [[2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo]] — Hiérarchie persistance : Mémoire vs Vault vs Todo
+- [[AGENTS]] — AGENTS
+- [[2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo]] — Décision — CANONICITY.md pour déduplication vault↔mémoires CC
+- [[2026-05-10-registry-pattern-centralisateur-jeux-modulaires]] — Registry pattern — centralisateur jeux modulaires
+- [[2026-05-10-architecture-decision-records-template-structure]] — Architecture Decision Records template structure

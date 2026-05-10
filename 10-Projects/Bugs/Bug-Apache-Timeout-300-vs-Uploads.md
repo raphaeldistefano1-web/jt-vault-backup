@@ -1,5 +1,12 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- JT-Migrate-v1.2.0
+- Lessons-Learned
+- Migration-WP-com-vers-VPS-2026-04-25
+- Site-WordPress-Optimisation-2026-04-25
+- _MOC-site-wordpress
 created: 2026-04-25
 description: Apache Timeout=300s (default) tue les uploads > 5 min sur connexion résidentielle
   → Traefik retourne 502. Fix Timeout 1800s.
@@ -14,9 +21,10 @@ intent: log
 last-accessed: 2026-04-25
 project: Bugs
 related:
+- 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
 - '[[Migration-WP-com-vers-VPS-2026-04-25]]'
-- '[[VPS-Hostinger]]'
 - '[[Plugin-jt-migrate]]'
+- '[[VPS-Hostinger]]'
 relevance: medium
 status: resolved
 summary: 'Pendant l''import d''une archive 321 MB via UI WordPress, l''upload abandonnait
@@ -85,3 +93,7 @@ Sur Traefik, pas de timeout particulier à modifier (les valeurs par défaut son
 - [[VPS-Hostinger]]
 - [[Migration-WP-com-vers-VPS-2026-04-25]]
 - [[JT-Migrate-v1.2.0]]
+
+## Related
+
+- [[2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé]] — Instance C : images affichées mais absentes de la médiathèque

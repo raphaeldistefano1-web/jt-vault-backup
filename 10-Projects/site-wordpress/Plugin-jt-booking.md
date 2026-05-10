@@ -1,5 +1,19 @@
 ---
 ai_writable: false
+backlinks:
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- Dev-PMS-Area
+- PMS-Calendar-v2
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress
+- Test-jt-booking-PMS-2026-04-25
+- _Index
+- _MOC-site-wordpress
+- _VAULT-INDEX
 created: 2026-04-25
 description: Plugin WP custom de réservation v1.0.4 — module booking connecté au PMS
   (en théorie)
@@ -16,8 +30,13 @@ intent: reference
 last-accessed: 2026-04-25
 project: site-wordpress
 related:
-- '[[Site-WordPress]]'
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- 2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques
+- 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
+- 2026-05-10-tarification-hébergements-structure-95-10-volontai
 - '[[PMS-Calendar-v2]]'
+- '[[Site-WordPress]]'
 relevance: high
 status: active
 summary: Plugin WordPress custom dev par User-Raphael-Distefano|Raphaël. Module de
@@ -74,3 +93,11 @@ plugins/jt-booking-v1.0.4/
 
 - [[Site-WordPress]]
 - [[PMS-Calendar-v2]]
+
+## Related
+
+- [[2026-05-10-tarification-hébergements-structure-95-10-volontai]] — Tarification hébergements : structure 95 + 10€ volontaire
+- [[2026-05-10-ajouter-google-business-à-côté-de-tripadvisor]] — Ajouter Google Business à côté de TripAdvisor
+- [[2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp]] — Signaler impacts jt-booking avant clôture tâche WP
+- [[2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques]] — Avis TripAdvisor hardcodés, pas dynamiques
+- [[2026-05-10-page-hébergements-tableau-structuré-type-emplaceme]] — Page hébergements : tableau structuré (Type | Emplacement | Prix/Saison)

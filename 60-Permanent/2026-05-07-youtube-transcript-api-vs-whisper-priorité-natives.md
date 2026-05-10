@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
+- 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -14,7 +18,12 @@ intent: gotcha
 last-accessed: '2026-05-07'
 moc: null
 project: null
-related: []
+related:
+- Whisper-VPS-Reference
+- 2026-05-07-critères-filtrage-youtube-veille-ia
+- _MOC-montage-video
+- 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
+- 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
 - 10-Projects/claude-system/2026-05-07-1128-session-9416e8cf.md
@@ -45,3 +54,11 @@ updated: '2026-05-07'
 **Raison** : Whisper large-v3-turbo sur GPU coûte latence (0.29× realtime) + ressources. Les natives YouTube sont quasi-toujours dispo pour vidéos populaires (critère >10k vues appliqué).
 
 **Implication** : pour futurs scraping médias, tester l'API native avant fallback transcription.
+
+## Related
+
+- [[Whisper-VPS-Reference]] — Whisper large-v3-turbo VPS — Paths, usage, performances
+- [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
+- [[_MOC-montage-video]] — MOC Montage Vidéo automatique
+- [[2026-05-07-pipeline-3-couches-ingestion-curation-livraison]] — Pipeline 3-couches ingestion → curation → livraison
+- [[2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti]] — YouTube bloque requêtes datacenter — proxy résidentiel

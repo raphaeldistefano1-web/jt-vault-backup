@@ -1,21 +1,38 @@
 ---
-type: moc
-status: active
-tags: [pms, dev, nextjs, moc]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Map of Content — PMS (Property Management System) custom Next.js du Jardin Tropical"
 ai_writable: false
-id: 202604252021-pms
-embed_model_version: null
+backlinks:
+- 2026-05-10-architecture-decision-records-template-structure
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- AGENTS-md-standard
+- _VAULT-INDEX
+created: 2026-04-25
+description: Map of Content — PMS (Property Management System) custom Next.js du Jardin
+  Tropical
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "PMS Property Management System custom dev en Next.js, géré par Raphaël owner-operator. Pas de produit SaaS — outil inter…"
-entities: [nextjs, pms, postgres, prisma]
-topic_cluster: vault-navigation
+embed_model_version: null
+entities:
+- nextjs
+- pms
+- postgres
+- prisma
+id: 202604252021-pms
 intent: reference
+last-accessed: 2026-04-25
+related:
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+relevance: high
+status: active
+summary: PMS Property Management System custom dev en Next.js, géré par Raphaël owner-operator.
+  Pas de produit SaaS — outil inter…
+tags:
+- pms
+- dev
+- nextjs
+- moc
 tier: warm
+topic_cluster: vault-navigation
+type: moc
+updated: 2026-04-25
 ---
 
 # 🛏️ MOC PMS Le Jardin Tropical
@@ -64,3 +81,7 @@ Le projet a 6 sub-agents spécialisés dans `.claude/agents/` (priorité sur les
 - Plugin OpenClaw Feature 2 (routines) — reportée
 - Connecter PMS ↔ jt-booking (email J+1 post-checkout via Brevo)
 - Synchro tarifs jt-booking ↔ PMS (éviter divergence)
+
+## Related
+
+- [[2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router]] — Stack CUL SEC — PWA Next.js 14 App Router

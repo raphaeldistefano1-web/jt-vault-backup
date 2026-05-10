@@ -1,26 +1,55 @@
 ---
-id: 20260507-1110-index-root
-type: moc
-title: "INDEX racine — cerveau multi-projets"
-project: null
-area: null
-status: active
-confidence: high
-summary: "Entry point racine du vault — navigation par couches PARA + MOCs par projet."
-intent: reference
-entities: [vault, index, navigation]
-topic_cluster: meta
-related: ["[[AGENTS]]", "[[Decisions-Log]]", "[[Lessons-Learned]]"]
-moc: null
-source: null
-tier: hot
-created: 2026-04-25
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [index, root, moc]
 ai_writable: false
+area: null
+backlinks:
+- 2026-04-25-session-context
+- 2026-04-25-session-context 2
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
+- Decisions-Log
+- Lessons-Learned
+- Vault-Setup
+- _MOC-claude-system
+- _MOC-desktop-app
+- _MOC-jt-migrate
+- _MOC-montage-video
+- _MOC-n8n
+- _MOC-openclaw
+- _MOC-pms
+- _MOC-site-wordpress
+- _VAULT-INDEX
+confidence: high
+created: 2026-04-25
+embed_hash: null
+embed_model_version: null
+entities:
+- vault
+- index
+- navigation
+id: 20260507-1110-index-root
+intent: reference
+last-accessed: 2026-05-07
+moc: null
+project: null
+related:
+- 2026-04-25-session-context 2
+- 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
+- '[[AGENTS]]'
+- '[[Decisions-Log]]'
+- '[[Lessons-Learned]]'
+source: null
+status: active
+summary: Entry point racine du vault — navigation par couches PARA + MOCs par projet.
+tags:
+- index
+- root
+- moc
+tier: hot
+title: INDEX racine — cerveau multi-projets
+topic_cluster: meta
+type: moc
+updated: 2026-05-07
 ---
 
 # 🧠 INDEX — Cerveau Raphaël Distefano
@@ -116,3 +145,8 @@ Projets clos. Aucune IA ne doit les modifier.
 - Semantic search : **Pas active** (Phase 4 future, seuil ~300 notes)
 - Path canonique : `/srv/vault/` (symlink rétro `/srv/vault-jardin-tropical/`)
 - Versionning : git (tag `pre-rebuild-2026-05-07` posé avant refonte)
+
+## Related
+
+- [[2026-04-25-session-context 2]] — 2026-04-25-session-context 2
+- [[2026-05-10-registry-pattern-centralisateur-jeux-modulaires]] — Registry pattern — centralisateur jeux modulaires

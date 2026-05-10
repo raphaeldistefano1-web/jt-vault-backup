@@ -1,26 +1,43 @@
 ---
-id: 20260507-1112-pms-desktop-ref
-type: reference
-title: PMS Desktop — Paths, endpoints, commandes
-project: pms-desktop
-area: null
-status: active
-confidence: high
-summary: Endpoints API tray-summary et hotel-config, version manifest, commandes build/deploy VPS, xattr Gatekeeper.
-intent: how-to
-entities: [endpoints, build-commands, version-manifest, gatekeeper, xattr]
-topic_cluster: desktop-app
-related: ["[[_MOC-desktop-app]]", "[[PMS-Desktop-Etat]]"]
-moc: "[[_MOC-desktop-app]]"
-source: "memory:reference_pms_desktop.md"
-tier: hot
-created: 2026-05-07
-updated: 2026-05-07
-last-accessed: 2026-05-07
-embed_model_version: null
-embed_hash: null
-tags: [pms, desktop, api, build]
 ai_writable: true
+area: null
+backlinks:
+- PMS-Desktop-Etat
+- _Index
+confidence: high
+created: 2026-05-07
+embed_hash: null
+embed_model_version: null
+entities:
+- endpoints
+- build-commands
+- version-manifest
+- gatekeeper
+- xattr
+id: 20260507-1112-pms-desktop-ref
+intent: how-to
+last-accessed: 2026-05-07
+moc: '[[_MOC-desktop-app]]'
+project: pms-desktop
+related:
+- OpenClaw-VPS-Reference
+- VPS-Access-Tailscale
+- '[[PMS-Desktop-Etat]]'
+- '[[_MOC-desktop-app]]'
+source: memory:reference_pms_desktop.md
+status: active
+summary: Endpoints API tray-summary et hotel-config, version manifest, commandes build/deploy
+  VPS, xattr Gatekeeper.
+tags:
+- pms
+- desktop
+- api
+- build
+tier: hot
+title: PMS Desktop — Paths, endpoints, commandes
+topic_cluster: desktop-app
+type: reference
+updated: 2026-05-07
 ---
 
 # PMS Desktop — Paths, endpoints, commandes
@@ -107,3 +124,8 @@ Toujours utiliser optional chaining `?.` — `pmsBridge` est `undefined` en navi
 - MOC parent : [[_MOC-desktop-app]]
 - État du projet : [[PMS-Desktop-Etat]]
 - Source : `memory:reference_pms_desktop.md`
+
+## Related
+
+- [[OpenClaw-VPS-Reference]] — OpenClaw-VPS-Reference
+- [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)

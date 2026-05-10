@@ -1,5 +1,15 @@
 ---
 ai_writable: false
+backlinks:
+- Bug-JT-Migrate-Auth-Loss-After-DB-Restore
+- Bug-PharData-RAM-OOM
+- Decision-Streaming-tar-gz-vs-PharData
+- JT-Migrate-v1.1.0
+- JT-Migrate-v1.2.0
+- Migration-WP-com-vers-VPS-2026-04-25
+- Plugin-jt-migrate
+- _Index
+- _MOC-jt-migrate
 created: 2026-04-25
 description: v1.2.1 — fix streaming import (parser USTAR custom en lecture, miroir
   du fix v1.1 mais à l'extract). Version actuelle.

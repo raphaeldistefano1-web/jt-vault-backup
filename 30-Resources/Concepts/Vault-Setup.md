@@ -1,26 +1,48 @@
 ---
-type: concept
-status: active
-tags: [vault, setup, obsidian]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "Setup du vault Obsidian — installer Obsidian, plugins clés, MCP, sync git"
 ai_writable: false
-related:
-  - "[[MCP-Model-Context-Protocol]]"
-  - "[[AGENTS-md-standard]]"
-  - "[[Atomic-Notes-Pattern]]"
-  - "[[Frontmatter-Standard]]"
-id: 202604252041-vault-setup
-embed_model_version: null
+backlinks:
+- 2026-04-25-session-context
+- 2026-04-25-session-context 2
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- AGENTS-md-standard
+- Atomic-Notes-Pattern
+- Frontmatter-Standard
+- MCP-Model-Context-Protocol
+- VPS-Hostinger
+- llms-txt-standard
+created: 2026-04-25
+description: Setup du vault Obsidian — installer Obsidian, plugins clés, MCP, sync
+  git
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "/srv/vault-jardin-tropical/ sur le VPS Hostinger 46.202.171.204."
-entities: [documentation, obsidian, reference]
-topic_cluster: vault-architecture
+embed_model_version: null
+entities:
+- documentation
+- obsidian
+- reference
+id: 202604252041-vault-setup
 intent: concept
+last-accessed: 2026-04-25
+related:
+- 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- VPS-Access-Tailscale
+- '[[AGENTS-md-standard]]'
+- '[[Atomic-Notes-Pattern]]'
+- '[[Frontmatter-Standard]]'
+- '[[MCP-Model-Context-Protocol]]'
+relevance: high
+status: active
+summary: /srv/vault-jardin-tropical/ sur le VPS Hostinger 46.202.171.204.
+tags:
+- vault
+- setup
+- obsidian
 tier: warm
+topic_cluster: vault-architecture
+type: concept
+updated: 2026-04-25
 ---
 
 # 🛠️ Vault Setup
@@ -114,3 +136,8 @@ Dans Claude Desktop : "list files in my Obsidian vault" → doit lister les fich
 - [[MCP-Model-Context-Protocol]]
 - [[AGENTS-md-standard]]
 - [[Atomic-Notes-Pattern]]
+
+## Related
+
+- [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)
+- [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only

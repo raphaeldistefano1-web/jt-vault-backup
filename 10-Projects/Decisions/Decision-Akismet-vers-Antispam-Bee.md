@@ -4,6 +4,11 @@ alternatives:
 - Akismet payant
 - Cloudflare Turnstile
 - CleanTalk
+backlinks:
+- Decisions-Log
+- Site-Plugins-Stack-2026-04-25
+- Site-WordPress-Optimisation-2026-04-25
+- _MOC-site-wordpress
 chosen: Antispam Bee (gratuit, RGPD-pur)
 context: Optim site WP 2026-04-25 — Akismet en place mais licence commerciale exigée
 created: 2026-04-25

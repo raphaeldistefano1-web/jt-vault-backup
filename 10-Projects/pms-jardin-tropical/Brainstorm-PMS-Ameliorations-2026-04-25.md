@@ -1,5 +1,10 @@
 ---
 ai_writable: true
+backlinks:
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- _Index
+- _MOC-pms
 created: 2026-04-25
 description: Brainstorm complet améliorations PMS — quick wins UX/perf + investissements
   + anti-patterns à éviter
@@ -14,9 +19,10 @@ intent: reference
 last-accessed: 2026-04-25
 project: pms-jardin-tropical
 related:
-- '[[Tests-PMS-Batterie-2026-04-25]]'
-- '[[PMS-Stack]]'
+- 2026-05-10-accès-données-hbook-source-unique-de-vérité
 - '[[Dev-PMS-Area]]'
+- '[[PMS-Stack]]'
+- '[[Tests-PMS-Batterie-2026-04-25]]'
 relevance: high
 status: active
 summary: Synthèse de la recherche UX hôtellerie 2026 HippoRAG-style retrieval + analyse
@@ -210,3 +216,7 @@ Soit configurer OPENAI_API_KEY en env, soit changer aiActiveProvider en ANTHROPI
 - [[PMS-Stack]]
 - [[Dev-PMS-Area]]
 - [[Workflow-Preview-Then-Apply]]
+
+## Related
+
+- [[2026-05-10-accès-données-hbook-source-unique-de-vérité]] — Accès données HBook — source unique de vérité

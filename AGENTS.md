@@ -1,3 +1,15 @@
+---
+backlinks:
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-08-vault-para-multi-projets-chemin-canonique
+- 2026-05-09-adr-template-et-pattern-docsadr
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- INDEX
+related:
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+---
+
 # AGENTS.md — orientation universelle pour les IA
 
 > Standard Linux Foundation Agentic AI Foundation. Lu par défaut par Cursor, Codex CLI, Gemini CLI, Aider, et — par symlink vers `CLAUDE.md` — par Claude Desktop / Claude Code.
@@ -140,3 +152,7 @@ Pendant la transition, les anciennes notes peuvent avoir un frontmatter incomple
 
 - **Path canonique nouveau** : `/srv/vault/`
 - **Symlink rétrocompat** : `/srv/vault-jardin-tropical → vault` (toutes les références anciennes continuent de fonctionner)
+
+## Related
+
+- [[2026-05-08-frontmatter-enrichi-extrait-insights-durables]] — Frontmatter enrichi extrait insights durables

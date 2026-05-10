@@ -1,6 +1,11 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
+- 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
+- 2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g
+- 2026-05-07-vps-guardrails-4-gb-swap-ollama-memorymax25g
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -15,7 +20,12 @@ intent: gotcha
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-07-vps-guardrails-4-gb-swap-ollama-memorymax25g
+- 2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g
+- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
+- 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
+- 2026-05-08-ollama-systemd-memorymax-guardrail-et-swap
 schema_version: 1
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1325-session-158ff0de.md
@@ -57,3 +67,11 @@ Le modèle `nomic-embed-text-v2-moe` (305M params actifs, MoE multilingue) chois
 - `all-minilm-l6-v2` (35M params, ~100 MB)
 
 Suivre `journalctl -u ollama -f` pendant indexation pour détecter boucles infinies.
+
+## Related
+
+- [[2026-05-07-vps-guardrails-4-gb-swap-ollama-memorymax25g]] — VPS guardrails : 4 GB swap + Ollama MemoryMax=2.5G
+- [[2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g]] — systemd override.conf pour Ollama : MemoryMax=2.5G
+- [[2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod]] — Lesson : profiler services lourds avant scaling prod
+- [[2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd]] — Ollama démarrage manuel, pas auto-start systemd
+- [[2026-05-08-ollama-systemd-memorymax-guardrail-et-swap]] — Ollama systemd MemoryMax guardrail et swap

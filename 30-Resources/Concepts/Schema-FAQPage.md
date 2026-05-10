@@ -1,25 +1,37 @@
 ---
-type: concept
-status: active
-tags: [schema-org, faq, geo]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: medium
-description: "Schema FAQPage — booster majeur Google AI Overviews et citations LLM"
 ai_writable: false
-related:
-  - "[[Schema-org-LodgingBusiness]]"
-  - "[[GEO-Generative-Engine-Optimization]]"
-  - "[[Mu-plugin-jt-seo-extras]]"
-id: 202604252028-schema-faqpage
-embed_model_version: null
+backlinks:
+- 2026-05-10-ajouter-google-business-à-côté-de-tripadvisor
+- GEO-Generative-Engine-Optimization
+- Mu-plugin-jt-seo-extras
+- Schema-org-LodgingBusiness
+- _VAULT-INDEX
+created: 2026-04-25
+description: Schema FAQPage — booster majeur Google AI Overviews et citations LLM
 embed_hash: null
-last-accessed: 2026-04-25
-summary: "Type Schema.org qui structure une page FAQ en Q/R machine-readable. Booster majeur pour :"
-entities: [documentation, reference]
-topic_cluster: wordpress-schema
+embed_model_version: null
+entities:
+- documentation
+- reference
+id: 202604252028-schema-faqpage
 intent: concept
+last-accessed: 2026-04-25
+related:
+- '[[Schema-org-LodgingBusiness]]'
+- '[[GEO-Generative-Engine-Optimization]]'
+- '[[Mu-plugin-jt-seo-extras]]'
+relevance: medium
+status: active
+summary: 'Type Schema.org qui structure une page FAQ en Q/R machine-readable. Booster
+  majeur pour :'
+tags:
+- schema-org
+- faq
+- geo
 tier: warm
+topic_cluster: wordpress-schema
+type: concept
+updated: 2026-04-25
 ---
 
 # ❓ Schema.org — FAQPage

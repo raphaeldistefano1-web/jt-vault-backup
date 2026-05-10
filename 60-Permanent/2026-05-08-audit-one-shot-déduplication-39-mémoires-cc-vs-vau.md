@@ -1,6 +1,13 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- RUNBOOK-disaster-recovery
+- note-schema
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -14,7 +21,14 @@ intent: pattern
 last-accessed: '2026-05-08'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- CANONICITY
+- RUNBOOK-disaster-recovery
+- note-schema
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-0903-session-4d0a55cb.md
@@ -62,3 +76,13 @@ updated: '2026-05-08'
 
 **Post-audit** :
 - Mettre en place `vault-sync-memories` (script cron) pour éviter ré-divergence
+
+## Related
+
+- [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
+- [[2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo]] — Hiérarchie persistance : Mémoire vs Vault vs Todo
+- [[note-schema]] — note schema
+- [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
+- [[RUNBOOK-disaster-recovery]] — Runbook — Disaster Recovery vault
+- [[2026-05-10-decision-defensive-truncation-et-sync-check-vault-]] — Decision : Defensive truncation et sync-check vault RAG
+- [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle

@@ -1,24 +1,42 @@
 ---
-type: resource
-status: active
-tags: [pms, agents, ai, claude-code]
-created: 2026-04-25
-updated: 2026-04-25
-relevance: high
-description: "6 sub-agents internes du projet PMS dans .claude/agents/ — priorité sur les plugins officiels Claude Code"
 ai_writable: false
-related:
-  - "[[Dev-PMS-Area]]"
-  - "[[Workflow-Collaboration-IA]]"
-id: 202604252031-sub-agents-internes-pms
-embed_model_version: null
+backlinks:
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-10-architecture-decision-records-template-structure
+- 2026-05-10-service-worker-offline-pour-pwa-cul-sec
+- Dev-PMS-Area
+- PMS-Stack
+- Workflow-Collaboration-IA
+created: 2026-04-25
+description: 6 sub-agents internes du projet PMS dans .claude/agents/ — priorité sur
+  les plugins officiels Claude Code
 embed_hash: null
-last-accessed: 2026-04-25
-summary: ".claude/agents/ à la racine du projet /var/www/pms-jardin-tropical/."
-entities: [devops, infrastructure, pms]
-topic_cluster: pms-architecture
+embed_model_version: null
+entities:
+- devops
+- infrastructure
+- pms
+id: 202604252031-sub-agents-internes-pms
 intent: reference
+last-accessed: 2026-04-25
+related:
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-10-architecture-decision-records-template-structure
+- 2026-05-10-service-worker-offline-pour-pwa-cul-sec
+- '[[Dev-PMS-Area]]'
+- '[[Workflow-Collaboration-IA]]'
+relevance: high
+status: active
+summary: .claude/agents/ à la racine du projet /var/www/pms-jardin-tropical/.
+tags:
+- pms
+- agents
+- ai
+- claude-code
 tier: warm
+topic_cluster: pms-architecture
+type: resource
+updated: 2026-04-25
 ---
 
 # 🧑‍💼 Sub-agents internes PMS
@@ -52,3 +70,9 @@ Cf. matrice de décision dans la mémoire `agents_workflow.md`.
 - [[Dev-PMS-Area]]
 - [[Workflow-Collaboration-IA]]
 - Mémoire référence : `agents_workflow.md` (mémoire projet PMS)
+
+## Related
+
+- [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents
+- [[2026-05-10-service-worker-offline-pour-pwa-cul-sec]] — Service Worker offline pour PWA CUL SEC
+- [[2026-05-10-architecture-decision-records-template-structure]] — Architecture Decision Records template structure
