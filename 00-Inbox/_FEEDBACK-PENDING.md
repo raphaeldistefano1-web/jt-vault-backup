@@ -1,5 +1,5 @@
 ---
-id: 20260508-feedback-pending
+id: 20260510-feedback-pending
 type: report
 title: "📋 Feedback rules en attente — 0 rule"
 project: claude-system
@@ -13,7 +13,7 @@ auto-generated: true
 schema_version: 1
 ---
 
-# 📋 Feedback rules en attente — 2026-05-08 08:54 UTC
+# 📋 Feedback rules en attente — 2026-05-10 09:00 UTC
 
 Aucune rule en attente. ✅
 

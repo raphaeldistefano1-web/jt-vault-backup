@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-10
-updated: 2026-05-10
+created: 2026-05-11
+updated: 2026-05-11
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — site-wordpress
 
-> Auto-régénéré le 2026-05-10 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-11 03:01 par `vault-rag-curator`.
 
 ## HOT (6)
 
@@ -26,7 +26,7 @@ ai_writable: false
 - [[Test-jt-booking-PMS-2026-04-25]] — 1. Régénération clé API WordPress côté PMS script scripts/regen-wp-key.ts — précédente perdue/inaccessible
 - [[Theme-jardintropical-child]] — Theme standalone custom malgré son nom -child qui suggère un theme enfant — il n'a en fait pas de parent dépendant.
 
-## COLD (44)
+## COLD (45)
 
 - [[2026-05-09-0843-session-edb63232]] — Session Claude Code du 2026-05-09 08:43 sur projet site-wordpress (0 edits, 0 créations, 2 bash).
 - [[2026-05-09-0845-session-edb63232]] — Session Claude Code du 2026-05-09 08:45 sur projet site-wordpress (0 edits, 0 créations, 3 bash).
@@ -66,6 +66,7 @@ ai_writable: false
 - [[2026-05-09-1141-session-edb63232]] — Session Claude Code du 2026-05-09 11:41 sur projet unknown (14 edits, 19 créations, 193 bash).
 - [[2026-05-09-1400-session-edb63232]] — Session Claude Code du 2026-05-09 14:00 sur projet unknown (22 edits, 23 créations, 256 bash).
 - [[2026-05-09-1608-session-0375ba09]] — Session Claude Code du 2026-05-09 16:08 sur projet site-wordpress (14 edits, 1 créations, 44 bash).
+- [[2026-05-10-0911-session-0375ba09]] — Session Claude Code du 2026-05-10 09:11 sur projet site-wordpress (14 edits, 1 créations, 52 bash).
 - [[2026-05-07-1348-session-e7718f3c]] — Session Claude Code du 2026-05-07 13:48 sur projet unknown (0 edits, 0 créations, 11 bash).
 - [[2026-05-07-1355-session-e7718f3c]] — Session Claude Code du 2026-05-07 13:55 sur projet unknown (4 edits, 0 créations, 16 bash).
 - [[2026-05-07-1400-session-e7718f3c]] — Session Claude Code du 2026-05-07 14:00 sur projet unknown (6 edits, 0 créations, 18 bash).
