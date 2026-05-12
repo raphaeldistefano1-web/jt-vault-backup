@@ -131,7 +131,7 @@ Test : `curl https://wp-46-202-171-204.nip.io/robots.txt` → 53 lignes.
 
 ## Décision Le Jardin Tropical
 
-Cf. [[Decision-Robots-LLM-Aware]] — choix de bloquer training + autoriser retrieval.
+Cf. [[Decision-Robots-txt-LLM-Aware]] — choix de bloquer training + autoriser retrieval.
 
 ## Liens
 

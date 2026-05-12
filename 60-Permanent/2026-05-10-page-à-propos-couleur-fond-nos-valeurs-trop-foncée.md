@@ -5,6 +5,7 @@ backlinks:
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-impeccable-surpasse-frontend-design-officiel
 - 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- 2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul
 - color-expert
 - impeccable
 confidence: medium
@@ -20,10 +21,11 @@ last-accessed: '2026-05-10'
 moc: null
 project: null
 related:
-- color-expert
-- impeccable
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- 2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul
+- color-expert
+- impeccable
 schema_version: 1
 source_notes:
 - 10-Projects/site-wordpress/2026-05-09-0907-session-edb63232.md
@@ -109,3 +111,4 @@ Page à-propos (instance C), rubrique « nos valeurs » : couleur de fond actuel
 - [[impeccable]] — impeccable
 - [[2026-05-09-anti-pattern-redonder-info-du-contexte-injecté]] — Anti-pattern : redonder info du contexte injecté
 - [[2026-05-09-responsive-design-obligatoire-pour-toute-interface]] — Responsive design obligatoire pour toute interface UI
+- [[2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul]] — Refonte visuelle non-fialisée vs MOC du projet culsec

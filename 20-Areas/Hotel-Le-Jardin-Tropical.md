@@ -5,6 +5,10 @@ aliases:
 - JT
 backlinks:
 - 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- Email-Infra
+- Fournisseurs
+- Hotel-Operations
+- Reserve-Cousteau
 - Schema-org-LodgingBusiness
 - User-Raphael-Distefano
 - _VAULT-INDEX
@@ -21,7 +25,7 @@ intent: reference
 last-accessed: 2026-04-25
 related:
 - 2026-05-10-tarification-hébergements-structure-95-10-volontai
-- '[[PMS-Area]]'
+- '[[Dev-PMS-Area]]'
 - '[[Reserve-Cousteau]]'
 - '[[Site-WordPress]]'
 - '[[User-Raphael-Distefano]]'

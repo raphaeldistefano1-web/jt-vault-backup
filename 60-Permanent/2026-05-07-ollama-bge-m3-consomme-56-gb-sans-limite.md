@@ -6,7 +6,6 @@ backlinks:
 - 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
 - 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
 - 2026-05-08-ollama-systemd-memorymax-guardrail-et-swap
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'
 embed_hash: null

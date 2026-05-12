@@ -6,6 +6,9 @@ backlinks:
 - 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
+- 2026-05-12-vérification-pre-cutover-systématique-perf-et-diff
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -26,6 +29,10 @@ related:
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
 - 2026-05-08-ollama-systemd-memorymax-guardrail-et-swap
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
+- 2026-05-12-vérification-pre-cutover-systématique-perf-et-diff
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1254-session-158ff0de.md
 - 10-Projects/claude-system/2026-05-07-1240-session-158ff0de.md
@@ -60,3 +67,7 @@ Documentations donnent chiffres optimistes ("700 MB") qui ignores : overhead run
 - [[2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann]] — nomic-embed-text-v2-moe consommation réelle vs annoncée
 - [[2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g]] — systemd override.conf pour Ollama : MemoryMax=2.5G
 - [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle
+- [[2026-05-12-auto-arrêt-à-80-cpu-notification-email]] — Auto-arrêt à 80% CPU + notification email
+- [[2026-05-12-services-pausable-durgence-docker-systemd-inventor]] — Services pausable d'urgence — Docker + systemd inventory
+- [[2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar]] — CPU throttling VPS Hostinger — monitoring via sar
+- [[2026-05-12-vérification-pre-cutover-systématique-perf-et-diff]] — Vérification pre-cutover systématique : perf et différences

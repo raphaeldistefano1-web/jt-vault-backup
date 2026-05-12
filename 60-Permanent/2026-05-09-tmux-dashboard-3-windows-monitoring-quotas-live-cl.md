@@ -4,6 +4,7 @@ area: null
 backlinks:
 - 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
 - 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
+- 2026-05-12-tailscale-cli-installation-sur-macos
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -22,6 +23,7 @@ related:
 - 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
 - 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
 - 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- 2026-05-12-tailscale-cli-installation-sur-macos
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-1625-session-d31950cd.md
@@ -59,3 +61,4 @@ Setup tmux dans ~/.bashrc crée layout 3-windows au startup : (1) Haut-gauche : 
 - [[2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau]] — Codex CLI en MCP server pour économiser quota Claude Max
 - [[2026-05-09-claude-max-5x-fenêtre-courte-à-réserver]] — Claude Max 5x : fenêtre courte, à réserver
 - [[2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése]] — Claude Max quota — fenêtre 5h limitée, stratégie réservation
+- [[2026-05-12-tailscale-cli-installation-sur-macos]] — Tailscale CLI installation sur macOS

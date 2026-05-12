@@ -2,6 +2,8 @@
 backlinks:
 - 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
 - 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
+- 2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl
 - _Index
 category: research
 consent_required: false

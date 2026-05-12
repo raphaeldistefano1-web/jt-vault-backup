@@ -3,12 +3,14 @@ ai_writable: false
 backlinks:
 - 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
 - Dev-PMS-Area
+- PMS
 - PMS-Dashboard-v2
 - Plugin-jt-booking
 - Workflow-Cross-Feature-Coherence
 - Workflow-Preview-Then-Apply
 - _Index
 - _MOC-pms
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Calendar v2 du PMS — vue calendrier centralisée pour gestion réservations,
   appliqué prod

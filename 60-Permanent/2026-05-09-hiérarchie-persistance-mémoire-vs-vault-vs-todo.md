@@ -9,6 +9,7 @@ backlinks:
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
 - 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -26,6 +27,7 @@ related:
 - 2026-05-08-décision-canonicitymd-pour-déduplication-vaultmémo
 - 2026-05-08-frontmatter-enrichi-extrait-insights-durables
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
 - AGENTS
 - INDEX
 - TODO-centralized
@@ -101,3 +103,4 @@ Cette hiérarchie élimine les redémarrages mémoire et structure la recherche 
 - [[INDEX]] — INDEX racine — cerveau multi-projets
 - [[2026-05-08-frontmatter-enrichi-extrait-insights-durables]] — Frontmatter enrichi extrait insights durables
 - [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle
+- [[2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério]] — Mémoire Claude accumule sans archivage — audit périodique requis

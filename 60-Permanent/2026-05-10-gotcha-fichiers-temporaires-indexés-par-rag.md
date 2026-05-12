@@ -5,7 +5,6 @@ backlinks:
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-09-bug-synthesizer-omet-la-section-signaux-feedback-d
 - RUNBOOK-disaster-recovery
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-10'
 embed_hash: null
@@ -20,11 +19,12 @@ last-accessed: '2026-05-10'
 moc: null
 project: null
 related:
-- _VAULT-INDEX
+- 2026-05-07-structure-répertoires-srvveille-ia-config-external
 - 2026-05-09-bug-synthesizer-omet-la-section-signaux-feedback-d
+- 2026-05-12-hook-extract-memory-capture-refs-erronées-du-trans
 - RUNBOOK-disaster-recovery
 - _Index
-- 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- _VAULT-INDEX
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-09-0856-session-7ba133d2.md
@@ -71,3 +71,4 @@ Cette classe de bug est récurrente avec les RAG : whitelist explicitement les d
 - [[RUNBOOK-disaster-recovery]] — Runbook — Disaster Recovery vault
 - [[_Index]] — Index — montage-video
 - [[2026-05-07-structure-répertoires-srvveille-ia-config-external]] — Structure répertoires /srv/veille-ia (config externalisée)
+- [[2026-05-12-hook-extract-memory-capture-refs-erronées-du-trans]] — Hook extract_memory capture refs erronées du transcript

@@ -3,8 +3,10 @@ ai_writable: true
 backlinks:
 - 2026-05-10-accès-données-hbook-source-unique-de-vérité
 - 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- Tests-PMS-Batterie-2026-04-25
 - _Index
 - _MOC-pms
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Brainstorm complet améliorations PMS — quick wins UX/perf + investissements
   + anti-patterns à éviter

@@ -5,6 +5,7 @@ backlinks:
 - 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
 - 2026-05-10-structure-paths-uploads-wordpress-instance-acd
 - 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- 2026-05-12-tester-migration-sur-instance-avec-données-réelles
 - Decisions-Log
 - Plugin-jt-migrate
 - WP-Migration-Audit-2026-05-05
@@ -24,6 +25,7 @@ related:
 - 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
 - 2026-05-10-structure-paths-uploads-wordpress-instance-acd
 - 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- 2026-05-12-tester-migration-sur-instance-avec-données-réelles
 - Decisions-Log
 - Mu-plugin-jt-seo-extras
 - WP-Migration-Audit-2026-05-05
@@ -65,3 +67,4 @@ Session révèle utilisation d'une **Instance D** en plus des instances A (clone
 - [[2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé]] — Instance C : images affichées mais absentes de la médiathèque
 - [[2026-05-10-workflow-modification-contenu-multi-instances-wp]] — Workflow modification contenu multi-instances WP
 - [[2026-05-10-structure-paths-uploads-wordpress-instance-acd]] — Structure paths uploads WordPress (Instance A/C/D)
+- [[2026-05-12-tester-migration-sur-instance-avec-données-réelles]] — Tester migration sur instance avec données réelles, pas vierge

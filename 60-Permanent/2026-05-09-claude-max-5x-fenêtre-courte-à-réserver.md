@@ -6,7 +6,6 @@ backlinks:
 - 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
 - 2026-05-09-impeccable-surpasse-frontend-design-officiel
 - 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
 embed_hash: null

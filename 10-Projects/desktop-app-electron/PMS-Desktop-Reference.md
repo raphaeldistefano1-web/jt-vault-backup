@@ -2,6 +2,8 @@
 ai_writable: true
 area: null
 backlinks:
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
+- 2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps
 - PMS-Desktop-Etat
 - _Index
 confidence: high
@@ -20,6 +22,7 @@ last-accessed: 2026-05-07
 moc: '[[_MOC-desktop-app]]'
 project: pms-desktop
 related:
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
 - OpenClaw-VPS-Reference
 - VPS-Access-Tailscale
 - '[[PMS-Desktop-Etat]]'
@@ -129,3 +132,4 @@ Toujours utiliser optional chaining `?.` — `pmsBridge` est `undefined` en navi
 
 - [[OpenClaw-VPS-Reference]] — OpenClaw-VPS-Reference
 - [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)
+- [[2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms]] — Path `/var/www/culsec/` — homogénéité infra VPS avec PMS

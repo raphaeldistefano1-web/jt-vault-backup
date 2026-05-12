@@ -8,7 +8,9 @@ backlinks:
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
-- _VAULT-INDEX
+- 2026-05-12-hydration-mismatch-418-avec-zustand-nextjs-16
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
 confidence: medium
 created: '2026-05-09'
 created_by: vault-synthesizer
@@ -34,6 +36,8 @@ related:
 - 2026-05-09-3-régimes-dintégration-plugin-distincts
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-12-hydration-mismatch-418-avec-zustand-nextjs-16
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
 - CANONICITY
 - TODO-centralized
 - note-schema
@@ -107,3 +111,5 @@ Quand l'utilisateur dit "fais X maintenant, garde Y en mémoire" : respecter ce 
 - [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
 - [[2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau]] — Audit one-shot — déduplication 39 mémoires CC vs vault
 - [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle
+- [[2026-05-12-hydration-mismatch-418-avec-zustand-nextjs-16]] — Hydration mismatch (#418) avec Zustand + Next.js 16
+- [[2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério]] — Mémoire Claude accumule sans archivage — audit périodique requis

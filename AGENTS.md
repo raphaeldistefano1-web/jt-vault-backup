@@ -5,6 +5,8 @@ backlinks:
 - 2026-05-09-adr-template-et-pattern-docsadr
 - 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
 - 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- 2026-05-11-stack-cul-sec-nextjs-14-app-router-framer-motion-p
+- 2026-05-12-migration-architecture-claude-vps-mac-mini
 - INDEX
 related:
 - 2026-05-08-frontmatter-enrichi-extrait-insights-durables

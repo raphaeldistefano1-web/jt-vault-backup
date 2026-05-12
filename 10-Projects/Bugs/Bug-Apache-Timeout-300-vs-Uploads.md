@@ -2,7 +2,9 @@
 ai_writable: false
 backlinks:
 - 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- 2026-05-12-mcp-health-check-timeout-ssh-cold-start-python-imp
 - JT-Migrate-v1.2.0
+- Lesson-Apache-Timeout-defaut-trop-court
 - Lessons-Learned
 - Migration-WP-com-vers-VPS-2026-04-25
 - Site-WordPress-Optimisation-2026-04-25
@@ -22,6 +24,7 @@ last-accessed: 2026-04-25
 project: Bugs
 related:
 - 2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé
+- 2026-05-12-mcp-health-check-timeout-ssh-cold-start-python-imp
 - '[[Migration-WP-com-vers-VPS-2026-04-25]]'
 - '[[Plugin-jt-migrate]]'
 - '[[VPS-Hostinger]]'
@@ -97,3 +100,4 @@ Sur Traefik, pas de timeout particulier à modifier (les valeurs par défaut son
 ## Related
 
 - [[2026-05-10-instance-c-images-affichées-mais-absentes-de-la-mé]] — Instance C : images affichées mais absentes de la médiathèque
+- [[2026-05-12-mcp-health-check-timeout-ssh-cold-start-python-imp]] — MCP health-check timeout : SSH cold start + Python imports

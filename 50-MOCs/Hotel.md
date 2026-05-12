@@ -2,6 +2,7 @@
 ai_writable: false
 backlinks:
 - AGENTS-md-standard
+- Hotel-Operations
 - INDEX
 - _VAULT-INDEX
 created: 2026-04-25
@@ -42,7 +43,7 @@ Hôtel/résidence de vacances à **Bouillante (Guadeloupe)**, face à la **Rése
 ## Areas (responsabilités continues)
 
 - [[Hotel-Operations]] — ops courantes, planning, fournisseurs
-- [[Dev-PMS]] — développement du PMS Next.js
+- [[Dev-PMS-Area]] — développement du PMS Next.js
 - [[Site-WordPress]] — site vitrine + booking
 
 ## Resources (références)

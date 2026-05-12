@@ -4,8 +4,14 @@ aliases:
 - JT Migrate
 backlinks:
 - 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- 2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente
+- 2026-05-11-defensive-architecture-pour-import-fail-safe-optio
+- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
+- 2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl
+- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
 - Bug-Apache-Timeout-300-vs-Uploads
 - Bug-JT-Migrate-Auth-Loss-After-DB-Restore
+- Bug-JT-Migrate-v1.1-Import-Extract-Fail
 - Bug-PharData-RAM-OOM
 - Decision-Streaming-tar-gz-vs-PharData
 - JT-Migrate-v1.0.0
@@ -36,6 +42,9 @@ project: jt-migrate
 related:
 - 2026-05-09-instance-d-wordpress-en-rotation-test
 - 2026-05-09-synchronisation-manuelle-fragile-entre-instances-w
+- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
+- 2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl
+- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
 - '[[JT-Migrate-v1.0.0]]'
 - '[[JT-Migrate-v1.1.0]]'
 - '[[JT-Migrate-v1.2.0]]'
@@ -117,3 +126,6 @@ Workaround actuel : finir l'import via wp-cli (bypass auth web). Fix v1.3.0 : or
 
 - [[2026-05-09-synchronisation-manuelle-fragile-entre-instances-w]] — Synchronisation manuelle fragile entre instances WordPress
 - [[2026-05-09-instance-d-wordpress-en-rotation-test]] — Instance D WordPress en rotation test
+- [[2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl]] — Scripts pre-cutover cleanup et post-import reenable
+- [[2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl]] — Utiliser /ultrareview avant merge de changements plugin
+- [[2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph]] — Validation syntax gate avant commit sur plugins PHP

@@ -6,7 +6,6 @@ backlinks:
 - PMS-Stack
 - Sub-agents-internes-PMS
 - Workflow-Collaboration-IA
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-10'
 embed_hash: null

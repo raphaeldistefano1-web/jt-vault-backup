@@ -7,6 +7,7 @@ backlinks:
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
 - 2026-05-08-vault-para-multi-projets-chemin-canonique
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
 - AGENTS-md-standard
 - Atomic-Notes-Pattern
 - Frontmatter-Standard
@@ -27,6 +28,7 @@ intent: concept
 last-accessed: 2026-04-25
 related:
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
 - VPS-Access-Tailscale
 - '[[AGENTS-md-standard]]'
 - '[[Atomic-Notes-Pattern]]'
@@ -141,3 +143,4 @@ Dans Claude Desktop : "list files in my Obsidian vault" → doit lister les fich
 
 - [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)
 - [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
+- [[2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms]] — Path `/var/www/culsec/` — homogénéité infra VPS avec PMS

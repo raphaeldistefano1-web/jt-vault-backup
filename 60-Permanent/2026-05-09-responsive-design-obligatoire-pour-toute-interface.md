@@ -7,6 +7,7 @@ backlinks:
 - 2026-05-09-impeccable-surpasse-frontend-design-officiel
 - 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
 - 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- 2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul
 - _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
@@ -33,6 +34,7 @@ related:
 - 2026-05-09-impeccable-surpasse-frontend-design-officiel
 - 2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa
 - 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- 2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul
 - Workflow-Preview-Then-Apply
 - impeccable
 - interface-design
@@ -80,3 +82,4 @@ Raphaël a exprimé frustration : 'ça ne s'adapte pas, je peux pas tout voir, i
 - [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
 - [[2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée]] — Page à-propos : couleur fond « nos valeurs » trop foncée
 - [[2026-05-10-carousel-hbook-boutons-surdimensionnés-et-mal-espa]] — Carousel HBook : boutons surdimensionnés et mal espacés
+- [[2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul]] — Refonte visuelle non-fialisée vs MOC du projet culsec

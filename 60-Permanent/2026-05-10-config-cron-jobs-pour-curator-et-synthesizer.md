@@ -7,7 +7,6 @@ backlinks:
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
 - RUNBOOK-disaster-recovery
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-10'
 embed_hash: null
@@ -23,8 +22,9 @@ moc: null
 project: null
 related:
 - 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
-- RUNBOOK-disaster-recovery
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
+- RUNBOOK-disaster-recovery
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-09-0856-session-7ba133d2.md
@@ -71,3 +71,4 @@ Vérifier l'état : `ps aux | grep -E "curator|synthesizer|ollama"`. Logs crucia
 - [[2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak]] — Cron 23h30 pour ingestion veille (timing off-peak)
 - [[RUNBOOK-disaster-recovery]] — Runbook — Disaster Recovery vault
 - [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
+- [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd

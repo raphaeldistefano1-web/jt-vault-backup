@@ -27,6 +27,7 @@ related:
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
 - 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
 - 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- 2026-05-12-migration-architecture-claude-vps-mac-mini
 - AGENTS
 - CANONICITY
 - INDEX
@@ -83,3 +84,4 @@ Chaque projet a dossier `/10-Projects/pms-jardin-tropical/`, `/10-Projects/openc
 - [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
 - [[2026-05-10-registry-pattern-centralisateur-jeux-modulaires]] — Registry pattern — centralisateur jeux modulaires
 - [[2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router]] — Stack CUL SEC — PWA Next.js 14 App Router
+- [[2026-05-12-migration-architecture-claude-vps-mac-mini]] — Migration architecture Claude : VPS → Mac mini

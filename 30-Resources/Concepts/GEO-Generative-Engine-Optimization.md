@@ -4,9 +4,11 @@ aliases:
 - GEO
 backlinks:
 - Decision-Robots-txt-LLM-Aware
+- Decision-Schema-Offer-priceValidUntil
 - Mu-plugin-jt-seo-extras
 - Robots-txt-LLM-Aware
 - Schema-FAQPage
+- Schema-TouristAttraction
 - Schema-org-LodgingBusiness
 - llms-txt-standard
 created: 2026-04-25

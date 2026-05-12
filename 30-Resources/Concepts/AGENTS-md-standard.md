@@ -3,6 +3,7 @@ ai_writable: false
 aliases:
 - AGENTS.md
 backlinks:
+- Linux-Foundation-AAIF
 - MCP-Model-Context-Protocol
 - Vault-Setup
 created: 2026-04-25

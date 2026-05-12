@@ -1,13 +1,16 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq
 - Dev-PMS-Area
+- PMS
 - PMS-AI-Assistant
 - PMS-Dashboard-v2
 - Workflow-API-Integrations
 - Workflow-Preview-Then-Apply
 - _Index
 - _MOC-pms
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Hub central des paramètres PMS — consolidation de tous les settings dispersés
   en un point d'entrée
@@ -23,9 +26,10 @@ intent: reference
 last-accessed: 2026-04-25
 project: pms-jardin-tropical
 related:
+- 2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq
 - '[[Dev-PMS-Area]]'
-- '[[Workflow-API-Integrations]]'
 - '[[PMS-AI-Assistant]]'
+- '[[Workflow-API-Integrations]]'
 relevance: medium
 status: completed
 summary: ✅ Consolidé cf. mémoire projectpmsstate.md. Tous les paramètres précédemment
@@ -66,3 +70,7 @@ updated: 2026-04-25
 - [[Dev-PMS-Area]]
 - [[Workflow-API-Integrations]]
 - [[PMS-AI-Assistant]]
+
+## Related
+
+- [[2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq]] — État global Zustand + hook useGameSession pour logique jeu

@@ -31,11 +31,13 @@ project: null
 proposed_rule: Avant de déclarer un système de dispatch/hooks/suggestion finalisé,
   tester via instances vierges.
 related:
-- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
 - 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
 - 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
 - 2026-05-09-3-régimes-dintégration-plugin-distincts
+- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
 - 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-12-tester-migration-sur-instance-avec-données-réelles
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-09-0904-session-21c4cfc3.md
@@ -68,3 +70,5 @@ usage_count: 0
 - [[2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest]] — Pipeline modulaire ingest→analyze→render→digest
 - [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
 - [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents
+- [[2026-05-12-tester-migration-sur-instance-avec-données-réelles]] — Tester migration sur instance avec données réelles, pas vierge
+- [[2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat]] — Workflow itératif : valider par phase plutôt que batch

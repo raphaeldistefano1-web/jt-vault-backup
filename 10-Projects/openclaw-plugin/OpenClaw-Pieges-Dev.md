@@ -2,6 +2,7 @@
 ai_writable: true
 area: null
 backlinks:
+- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
 - OpenClaw-Etat
 - _Index
 confidence: high

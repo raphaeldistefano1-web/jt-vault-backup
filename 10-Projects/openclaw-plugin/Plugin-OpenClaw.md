@@ -25,9 +25,10 @@ intent: reference
 last-accessed: 2026-04-25
 project: openclaw-plugin
 related:
-- '[[PMS-AI-Assistant]]'
-- '[[OpenClaw-VPS-Reference]]'
+- 2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m
 - '[[Bug-OpenClaw-Plugin-Sandbox]]'
+- '[[OpenClaw-VPS-Reference]]'
+- '[[PMS-AI-Assistant]]'
 relevance: high
 status: partial
 summary: Plugin IA du PMS — Feature 1 OAuth Codex livrée sur /dashboard/ai, Feature
@@ -76,3 +77,7 @@ Cf. mémoire `project_openclaw_plugin.md`.
 - [[PMS-AI-Assistant]]
 - [[OpenClaw-VPS-Reference]]
 - Mémoire référence : `project_openclaw_plugin.md` + `reference_openclaw_vps.md`
+
+## Related
+
+- [[2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m]] — Service Worker offline PWA: stratégie cache-first + manifest

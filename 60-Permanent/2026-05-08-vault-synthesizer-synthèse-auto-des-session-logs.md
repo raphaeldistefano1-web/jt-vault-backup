@@ -28,6 +28,7 @@ related:
 - 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
 - 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
 - 2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault
+- 2026-05-12-audit-infrastructure-claude-code-avant-multi-insta
 - CANONICITY
 - _Index
 - _MOC-claude-system
@@ -87,3 +88,4 @@ updated: '2026-05-08'
 - [[2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct]] — Lesson : Checklist pour diagnostiquer que Crow fonctionne
 - [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
 - [[2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault]] — Pattern : Scripts maintenance et diagnostic vault
+- [[2026-05-12-audit-infrastructure-claude-code-avant-multi-insta]] — Audit infrastructure Claude Code avant multi-instance

@@ -8,6 +8,7 @@ backlinks:
 - 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
 - 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
 - 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
 confidence: high
 created: 2026-05-07
 embed_hash: null
@@ -31,6 +32,7 @@ related:
 - 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
 - 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
 - 2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
 - '[[Stack-Tech]]'
 - '[[_MOC-claude-system]]'
 schema_version: 1
@@ -227,3 +229,4 @@ systemctl restart syncthing@root
 - [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
 - [[2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault]] — Pattern : Scripts maintenance et diagnostic vault
 - [[2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag]] — Gotcha : Fichiers temporaires indexés par RAG
+- [[2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-]] — vault-rag multi-instance : trade-off SSH wrapper vs install local

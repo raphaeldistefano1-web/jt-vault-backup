@@ -6,6 +6,7 @@ backlinks:
 - 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
 - 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
 - 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
 - _VAULT-INDEX
 confidence: medium
 created: '2026-05-08'
@@ -28,6 +29,8 @@ related:
 - 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
 - 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
 - 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-12-audit-infrastructure-claude-code-avant-multi-insta
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
 - TODO-centralized
 - note-schema
 schema_version: 1
@@ -84,3 +87,5 @@ updated: '2026-05-08'
 - [[note-schema]] — note schema
 - [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
 - [[2026-05-10-decision-defensive-truncation-et-sync-check-vault-]] — Decision : Defensive truncation et sync-check vault RAG
+- [[2026-05-12-audit-infrastructure-claude-code-avant-multi-insta]] — Audit infrastructure Claude Code avant multi-instance
+- [[2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério]] — Mémoire Claude accumule sans archivage — audit périodique requis

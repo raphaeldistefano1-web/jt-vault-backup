@@ -5,7 +5,6 @@ backlinks:
 - 2026-05-07-embedding-model-nomic-embed-text-v2-moe-305m-moe
 - 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'
 embed_hash: null

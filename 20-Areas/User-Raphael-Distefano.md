@@ -34,8 +34,9 @@ id: 202604252023-user-raphael-distefano
 intent: reference
 last-accessed: 2026-04-25
 related:
-- '[[Hotel-Le-Jardin-Tropical]]'
+- Site-WordPress
 - '[[Dev-PMS-Area]]'
+- '[[Hotel-Le-Jardin-Tropical]]'
 - '[[Workflow-Collaboration-IA]]'
 relevance: high
 status: active
@@ -63,7 +64,7 @@ updated: 2026-04-25
 
 ## Activités tech
 
-- Développement et exploitation du [[PMS-Area|PMS Next.js custom]]
+- Développement et exploitation du [[Dev-PMS-Area|PMS Next.js custom]]
 - Gestion du [[Site-WordPress|site web WordPress]]
 - Daily driver : **Claude Code** (mode auto), Cursor / ChatGPT / Gemini occasionnels
 - Stack daily : PMS Next.js + WP + Brevo + Stripe + OVH + Hostinger
@@ -90,3 +91,7 @@ updated: 2026-04-25
 - Lancer un blog "silo Bouillante" (drafts prêts dans `/root/site-content-drafts/`)
 - Connexion PMS ↔ jt-booking
 - Stratégie GEO (Google Business Profile, avis)
+
+## Related
+
+- [[Site-WordPress]] — Site-WordPress

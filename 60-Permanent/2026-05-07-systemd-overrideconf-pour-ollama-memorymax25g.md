@@ -5,6 +5,8 @@ backlinks:
 - 2026-05-07-embedding-model-nomic-embed-text-v2-moe-305m-moe
 - 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
 - _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'
@@ -21,6 +23,8 @@ moc: null
 project: null
 related:
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1254-session-158ff0de.md
 - 10-Projects/claude-system/2026-05-07-1240-session-158ff0de.md
@@ -58,3 +62,5 @@ Force systemd à terminer Ollama *gracefully* si RSS > 2.5G. `MemoryHigh=2.0G` d
 ## Related
 
 - [[2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann]] — nomic-embed-text-v2-moe consommation réelle vs annoncée
+- [[2026-05-12-auto-arrêt-à-80-cpu-notification-email]] — Auto-arrêt à 80% CPU + notification email
+- [[2026-05-12-services-pausable-durgence-docker-systemd-inventor]] — Services pausable d'urgence — Docker + systemd inventory

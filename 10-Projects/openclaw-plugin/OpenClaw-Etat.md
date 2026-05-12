@@ -2,6 +2,7 @@
 ai_writable: true
 area: null
 backlinks:
+- 2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m
 - OpenClaw-Pieges-Dev
 - OpenClaw-VPS-Reference
 - _Index

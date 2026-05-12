@@ -2,6 +2,7 @@
 ai_writable: false
 backlinks:
 - 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
 - Brainstorm-PMS-Ameliorations-2026-04-25
 - Dev-PMS-Area
 - PMS

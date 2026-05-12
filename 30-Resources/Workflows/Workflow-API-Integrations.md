@@ -2,6 +2,7 @@
 ai_writable: false
 backlinks:
 - 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- 2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi
 - Dev-PMS-Area
 - PMS
 - PMS-Settings-Hub
@@ -22,8 +23,9 @@ id: 202604252029-workflow-api-integrations
 intent: how-to
 last-accessed: 2026-04-25
 related:
-- '[[PMS-Settings-Hub]]'
+- 2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi
 - '[[Dev-PMS-Area]]'
+- '[[PMS-Settings-Hub]]'
 relevance: high
 status: active
 summary: Toute clé API externe Stripe, Brevo, OVH, Claude, OpenAI… doit passer par
@@ -72,3 +74,7 @@ Toute clé API externe (Stripe, Brevo, OVH, Claude, OpenAI…) **doit** passer p
 
 - [[PMS-Settings-Hub]]
 - Mémoire référence : `api_integrations_rule.md` (mémoire projet PMS)
+
+## Related
+
+- [[2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi]] — Brevo DOI template — erreur 'Redirection url is missing'

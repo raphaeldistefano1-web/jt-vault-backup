@@ -7,7 +7,6 @@ backlinks:
 - Bug-Apache-Timeout-300-vs-Uploads
 - Bug-WP-Image-Encoding-Accent
 - Migration-WP-com-vers-VPS-2026-04-25
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-10'
 embed_hash: null

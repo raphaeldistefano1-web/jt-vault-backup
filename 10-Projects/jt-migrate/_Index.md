@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-11
-updated: 2026-05-11
+created: 2026-05-12
+updated: 2026-05-12
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — jt-migrate
 
-> Auto-régénéré le 2026-05-11 03:01 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-12 03:00 par `vault-rag-curator`.
 
 ## HOT (1)
 
@@ -30,7 +30,7 @@ ai_writable: false
 - [[Migration-WP-com-vers-VPS-2026-04-25]] — Migration 321 MB WP.com → VPS Hostinger réussie — 5 bugs résolus (PharData RAM, Apache Timeout, auth loss).
 - [[Plugin-jt-migrate]] — Plugin WordPress custom de migration full-fidelity entre instances WP. Similaire à All-in-One WP Migration mais :
 
-## COLD (81)
+## COLD (93)
 
 - [[2026-05-09-1151-session-edb63232]] — Session Claude Code du 2026-05-09 11:51 sur projet jt-migrate (20 edits, 19 créations, 213 bash).
 - [[2026-05-09-1218-session-edb63232]] — Session Claude Code du 2026-05-09 12:18 sur projet jt-migrate (21 edits, 19 créations, 215 bash).
@@ -108,8 +108,20 @@ ai_writable: false
 - [[2026-05-10-1753-session-f978e4ee]] — Session Claude Code du 2026-05-10 17:53 sur projet jt-migrate (7 edits, 5 créations, 141 bash).
 - [[2026-05-10-1802-session-f978e4ee]] — Session Claude Code du 2026-05-10 18:02 sur projet jt-migrate (9 edits, 10 créations, 154 bash).
 - [[2026-05-10-1814-session-f978e4ee]] — Session Claude Code du 2026-05-10 18:14 sur projet unknown (9 edits, 11 créations, 160 bash).
+- [[2026-05-11-1747-session-f978e4ee]] — Session Claude Code du 2026-05-11 17:47 sur projet unknown (9 edits, 11 créations, 160 bash).
+- [[2026-05-11-2118-session-8bb149e5]] — Session Claude Code du 2026-05-11 21:18 sur projet jt-migrate (2 edits, 1 créations, 31 bash).
+- [[2026-05-11-2122-session-8bb149e5]] — Session Claude Code du 2026-05-11 21:22 sur projet jt-migrate (2 edits, 1 créations, 32 bash).
+- [[2026-05-11-2145-session-f943ad9b]] — Session Claude Code du 2026-05-11 21:45 sur projet jt-migrate (1 edits, 0 créations, 46 bash).
+- [[2026-05-11-2201-session-f943ad9b]] — Session Claude Code du 2026-05-11 22:01 sur projet jt-migrate (1 edits, 0 créations, 55 bash).
 - [[2026-05-09-0840-session-e7718f3c]] — Session Claude Code du 2026-05-09 08:40 sur projet jt-migrate (10 edits, 0 créations, 47 bash).
 - [[2026-05-10-0006-session-4fd4bfe4]] — Session Claude Code du 2026-05-10 00:06 sur projet jt-migrate (0 edits, 0 créations, 2 bash).
 - [[2026-05-10-0033-session-4fd4bfe4]] — Session Claude Code du 2026-05-10 00:33 sur projet jt-migrate (0 edits, 0 créations, 2 bash).
 - [[2026-05-10-0129-session-4fd4bfe4]] — Session Claude Code du 2026-05-10 01:29 sur projet jt-migrate (3 edits, 0 créations, 11 bash).
 - [[2026-05-10-0817-session-4fd4bfe4]] — Session Claude Code du 2026-05-10 08:17 sur projet jt-migrate (3 edits, 0 créations, 11 bash).
+- [[2026-05-12-0051-session-af662ef1]] — Session Claude Code du 2026-05-12 00:51 sur projet jt-migrate (0 edits, 0 créations, 3 bash).
+- [[2026-05-12-0054-session-af662ef1]] — Session Claude Code du 2026-05-12 00:54 sur projet jt-migrate (0 edits, 0 créations, 4 bash).
+- [[2026-05-12-0056-session-af662ef1]] — Session Claude Code du 2026-05-12 00:56 sur projet jt-migrate (0 edits, 0 créations, 9 bash).
+- [[2026-05-12-0104-session-af662ef1]] — Session Claude Code du 2026-05-12 01:04 sur projet jt-migrate (2 edits, 12 créations, 18 bash).
+- [[2026-05-12-0106-session-af662ef1]] — Session Claude Code du 2026-05-12 01:06 sur projet jt-migrate (2 edits, 12 créations, 20 bash).
+- [[2026-05-12-0108-session-af662ef1]] — Session Claude Code du 2026-05-12 01:08 sur projet jt-migrate (2 edits, 12 créations, 22 bash).
+- [[2026-05-12-0110-session-af662ef1]] — Session Claude Code du 2026-05-12 01:10 sur projet jt-migrate (2 edits, 12 créations, 22 bash).

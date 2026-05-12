@@ -6,6 +6,7 @@ backlinks:
 - 2026-05-07-structure-répertoires-srvveille-ia-config-external
 - 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 - 2026-05-10-questionsprompts-externalisées-par-jeu
+- 2026-05-12-approche-défensive-pour-cutover-jt-migrate
 confidence: medium
 created: '2026-05-08'
 embed_hash: null

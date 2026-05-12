@@ -9,6 +9,8 @@ backlinks:
 - 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
 - 2026-05-10-structure-paths-uploads-wordpress-instance-acd
 - 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- 2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
 - Mu-plugin-jt-seo-extras
 - Plugin-jt-migrate
 - Site-WordPress
@@ -36,6 +38,8 @@ related:
 - 2026-05-10-structure-paths-uploads-wordpress-instance-acd
 - 2026-05-10-supprimer-références-club-med-du-contenu-ljt
 - 2026-05-10-workflow-modification-contenu-multi-instances-wp
+- 2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
 - Mu-plugin-jt-seo-extras
 - Plugin-jt-migrate
 - Site-WordPress
@@ -86,3 +90,5 @@ Architecture multi-instances (A/C/D) force **réplication manuelle du contenu** 
 - [[2026-05-10-avis-tripadvisor-hardcodés-pas-dynamiques]] — Avis TripAdvisor hardcodés, pas dynamiques
 - [[2026-05-10-workflow-modification-contenu-multi-instances-wp]] — Workflow modification contenu multi-instances WP
 - [[2026-05-10-structure-paths-uploads-wordpress-instance-acd]] — Structure paths uploads WordPress (Instance A/C/D)
+- [[2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser]] — MCP reconnect workflow : /mcp + OAuth browser
+- [[2026-05-12-services-pausable-durgence-docker-systemd-inventor]] — Services pausable d'urgence — Docker + systemd inventory

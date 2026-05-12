@@ -19,9 +19,10 @@ intent: reference
 last-accessed: 2026-04-25
 project: claude-system
 related:
+- 2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente
 - '[[INDEX]]'
-- '[[Vault-Setup]]'
 - '[[TODO-centralized]]'
+- '[[Vault-Setup]]'
 relevance: high
 status: active
 summary: 'Session log 2026-04-25: migration WP, site optimization, Obsidian vault
@@ -67,3 +68,7 @@ Quand Phase 5 + sync VPS↔Mac OK → bascule canon : vault unique source de vé
 - [[INDEX]]
 - [[Vault-Setup]]
 - [[TODO-centralized]]
+
+## Related
+
+- [[2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente]] — Audit migration WP Phase 0 — 7 décisions en attente

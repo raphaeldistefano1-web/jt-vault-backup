@@ -23,10 +23,11 @@ moc: null
 project: null
 related:
 - 2026-05-08-vault-para-multi-projets-chemin-canonique
-- note-schema
-- INDEX
-- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
 - 2026-05-09-adr-template-et-pattern-docsadr
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-12-structure-et-composants-du-projet-culsec-nextjs-16
+- INDEX
+- note-schema
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-10-0114-session-19e3ce30.md
@@ -61,3 +62,4 @@ updated: '2026-05-10'
 - [[INDEX]] — INDEX racine — cerveau multi-projets
 - [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents
 - [[2026-05-09-adr-template-et-pattern-docsadr]] — ADR template et pattern docs/adr/
+- [[2026-05-12-structure-et-composants-du-projet-culsec-nextjs-16]] — Structure et composants du projet culsec (Next.js 16 + Zustand)

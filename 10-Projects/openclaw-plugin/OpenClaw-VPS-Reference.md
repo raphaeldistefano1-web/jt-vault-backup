@@ -2,6 +2,10 @@
 ai_writable: true
 area: null
 backlinks:
+- 2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps
+- 2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser
+- Bug-OpenClaw-Plugin-Sandbox
+- Lesson-Server-to-Server-curl-bypass-user
 - OpenClaw-Etat
 - OpenClaw-Pieges-Dev
 - PMS-AI-Assistant
@@ -27,6 +31,8 @@ last-accessed: 2026-05-07
 moc: '[[_MOC-openclaw]]'
 project: openclaw
 related:
+- 2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps
+- 2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser
 - OpenClaw-VPS-Reference
 - VPS-Access-Tailscale
 - '[[OpenClaw-Etat]]'
@@ -96,3 +102,5 @@ Le service file pointait par défaut vers `/usr/bin/node` (inexistant sur ce VPS
 
 - [[VPS-Access-Tailscale]] — Accès VPS via Tailscale (depuis 2026-05-06)
 - [[OpenClaw-VPS-Reference]] — OpenClaw-VPS-Reference
+- [[2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser]] — MCP reconnect workflow : /mcp + OAuth browser
+- [[2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps]] — Accès VPS culsec via Tailscale + SSH (alias monvps/vps-pms)

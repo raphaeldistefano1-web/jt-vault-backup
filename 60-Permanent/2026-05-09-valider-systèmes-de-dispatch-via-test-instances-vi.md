@@ -6,6 +6,8 @@ auto_applied_at: 2026-05-09
 backlinks:
 - 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
 - 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- 2026-05-12-tester-migration-sur-instance-avec-données-réelles
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
 - _VAULT-INDEX
 confidence: medium
 created: '2026-05-09'
@@ -33,6 +35,7 @@ related:
 - 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
 - 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
 - 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
 - codex-peer-review
 - devils-advocate
 schema_version: 1
@@ -102,3 +105,4 @@ Justification : dispatch_advisor introduit de la sophistication (regex, catalogu
 - [[2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo]] — Hiérarchie persistance : Mémoire vs Vault vs Todo
 - [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents
 - [[2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges]] — Valider systèmes de dispatch via instances vierges
+- [[2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat]] — Workflow itératif : valider par phase plutôt que batch

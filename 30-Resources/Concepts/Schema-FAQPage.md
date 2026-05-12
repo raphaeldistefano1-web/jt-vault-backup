@@ -5,7 +5,6 @@ backlinks:
 - GEO-Generative-Engine-Optimization
 - Mu-plugin-jt-seo-extras
 - Schema-org-LodgingBusiness
-- _VAULT-INDEX
 created: 2026-04-25
 description: Schema FAQPage — booster majeur Google AI Overviews et citations LLM
 embed_hash: null

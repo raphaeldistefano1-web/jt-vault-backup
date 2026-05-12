@@ -1,6 +1,9 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-defensive-architecture-pour-import-fail-safe-optio
+- 2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor
+- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
 - Bug-PharData-RAM-OOM
 - Decision-Streaming-tar-gz-vs-PharData
 - JT-Migrate-v1.0.0
@@ -25,9 +28,12 @@ intent: reference
 last-accessed: 2026-04-25
 project: jt-migrate
 related:
-- '[[Plugin-jt-migrate]]'
+- 2026-05-11-defensive-architecture-pour-import-fail-safe-optio
+- 2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor
+- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
 - '[[JT-Migrate-v1.0.0]]'
 - '[[JT-Migrate-v1.2.0]]'
+- '[[Plugin-jt-migrate]]'
 relevance: low
 status: superseded
 summary: ❌ Superseded par JT-Migrate-v1.2.0.
@@ -83,3 +89,9 @@ L'**import** utilise toujours `PharData::extract()` qui charge l'index complet e
 - [[Plugin-jt-migrate]]
 - [[JT-Migrate-v1.0.0]]
 - [[JT-Migrate-v1.2.1]]
+
+## Related
+
+- [[2026-05-11-defensive-architecture-pour-import-fail-safe-optio]] — Defensive architecture pour import: fail-safe optional steps
+- [[2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl]] — Scripts pre-cutover cleanup et post-import reenable
+- [[2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor]] — HBook placeholder names corrupted lors export/import entre instances

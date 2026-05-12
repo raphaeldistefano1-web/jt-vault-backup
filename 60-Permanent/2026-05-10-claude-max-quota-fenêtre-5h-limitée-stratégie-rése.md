@@ -6,7 +6,6 @@ backlinks:
 - 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
 - 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
 - Workflow-Collaboration-IA
-- _VAULT-INDEX
 - codex-peer-review
 confidence: medium
 created: '2026-05-10'

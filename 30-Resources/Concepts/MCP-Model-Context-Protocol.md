@@ -6,7 +6,6 @@ backlinks:
 - 2026-05-09-codex-cli-en-mcp-server-pour-économiser-quota-clau
 - AGENTS-md-standard
 - Vault-Setup
-- _VAULT-INDEX
 created: 2026-04-25
 description: Standard 2026 pour exposer outils/données aux LLMs — MCP donné à la Linux
   Foundation par Anthropic

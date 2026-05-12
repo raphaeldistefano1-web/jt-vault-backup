@@ -9,6 +9,8 @@ backlinks:
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
 - 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-12-vérification-pre-cutover-systématique-perf-et-diff
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
 confidence: medium
 created: '2026-05-10'
 created_by: vault-synthesizer
@@ -30,10 +32,12 @@ proposed_rule: Avant analyse de données métier (taux, statistiques, financièr
   données partielles ou stale.
 related:
 - 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
-- deep-research
 - 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
-- queries
 - 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-12-vérification-pre-cutover-systématique-perf-et-diff
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
+- deep-research
+- queries
 schema_version: 1
 source_notes:
 - 10-Projects/pms-jardin-tropical/2026-05-09-1524-session-b53ba567.md
@@ -76,3 +80,5 @@ usage_count: 0
 - [[2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau]] — Audit one-shot — déduplication 39 mémoires CC vs vault
 - [[queries]] — 70-Data — requêtes SQL utiles
 - [[2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo]] — Trier items capturés : hot (immédiat) vs warm/cold (mémoire)
+- [[2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat]] — Workflow itératif : valider par phase plutôt que batch
+- [[2026-05-12-vérification-pre-cutover-systématique-perf-et-diff]] — Vérification pre-cutover systématique : perf et différences

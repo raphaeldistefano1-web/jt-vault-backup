@@ -2,6 +2,8 @@
 ai_writable: true
 area: null
 backlinks:
+- 2026-05-12-sudo-silent-failures-et-env-vars-non-appliquées
+- 2026-05-12-tailscale-cli-installation-sur-macos
 - PMS-Desktop-Etat
 - _Index
 - _VAULT-INDEX
@@ -21,8 +23,10 @@ last-accessed: 2026-05-07
 moc: '[[_MOC-desktop-app]]'
 project: pms-desktop
 related:
-- '[[_MOC-desktop-app]]'
+- 2026-05-12-sudo-silent-failures-et-env-vars-non-appliquées
+- 2026-05-12-tailscale-cli-installation-sur-macos
 - '[[PMS-Desktop-Etat]]'
+- '[[_MOC-desktop-app]]'
 source: memory:feedback_pms_desktop_dev.md
 status: active
 summary: Cross-compile Linux→macOS limites (pas dmg/universal), mutations offline
@@ -121,3 +125,8 @@ Et appliquer `electron-no-drag` sur **chaque** bouton/lien/input dans la zone dr
 - MOC parent : [[_MOC-desktop-app]]
 - État du projet : [[PMS-Desktop-Etat]]
 - Source : `memory:feedback_pms_desktop_dev.md`
+
+## Related
+
+- [[2026-05-12-sudo-silent-failures-et-env-vars-non-appliquées]] — Sudo silent failures et env vars non-appliquées
+- [[2026-05-12-tailscale-cli-installation-sur-macos]] — Tailscale CLI installation sur macOS

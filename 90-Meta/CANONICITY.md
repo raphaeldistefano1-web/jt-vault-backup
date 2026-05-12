@@ -11,6 +11,10 @@ backlinks:
 - 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
 - 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
 - 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-12-audit-infrastructure-claude-code-avant-multi-insta
+- 2026-05-12-migration-architecture-claude-vps-mac-mini
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
 - _VAULT-INDEX
 created: '2026-05-08'
 id: canonicity-vault-cc-memory
@@ -19,6 +23,10 @@ project: claude-system
 related:
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
 - 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-12-audit-infrastructure-claude-code-avant-multi-insta
+- 2026-05-12-migration-architecture-claude-vps-mac-mini
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
 schema_version: 1
 status: active
 tags:
@@ -120,3 +128,7 @@ Le hook `UserPromptSubmit` `auto_retrieve.py` compense l'absence de notes en mé
 
 - [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
 - [[2026-05-10-decision-defensive-truncation-et-sync-check-vault-]] — Decision : Defensive truncation et sync-check vault RAG
+- [[2026-05-12-audit-infrastructure-claude-code-avant-multi-insta]] — Audit infrastructure Claude Code avant multi-instance
+- [[2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério]] — Mémoire Claude accumule sans archivage — audit périodique requis
+- [[2026-05-12-migration-architecture-claude-vps-mac-mini]] — Migration architecture Claude : VPS → Mac mini
+- [[2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-]] — vault-rag multi-instance : trade-off SSH wrapper vs install local

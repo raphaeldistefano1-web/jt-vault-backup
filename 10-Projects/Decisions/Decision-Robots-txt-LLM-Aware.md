@@ -7,9 +7,11 @@ alternatives:
 backlinks:
 - Decisions-Log
 - Lessons-Learned
+- Robots-txt-LLM-Aware
 - Site-WordPress
 - Site-WordPress-Optimisation-2026-04-25
 - _MOC-site-wordpress
+- _STUBS-A-ARBITRER-2026-05-12
 chosen: Bloquer training crawlers, autoriser retrieval crawlers
 context: Optim site WP 2026-04-25 — décision stratégique GEO
 created: 2026-04-25

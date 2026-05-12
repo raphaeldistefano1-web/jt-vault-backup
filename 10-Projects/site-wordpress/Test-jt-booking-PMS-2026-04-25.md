@@ -6,8 +6,10 @@ backlinks:
 - 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
 - 2026-05-10-signaler-impacts-jt-booking-avant-clôture-tâche-wp
 - 2026-05-10-tarification-hébergements-structure-95-10-volontai
+- Site-WordPress
 - _Index
 - _MOC-site-wordpress
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Review complète + tests batterie de la connexion jt-booking ↔ PMS — clé
   API régénérée, 1 bug theme fixé, Stripe à configurer pour finaliser

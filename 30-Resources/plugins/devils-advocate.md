@@ -2,6 +2,9 @@
 backlinks:
 - 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
 - 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- 2026-05-11-git-init-empty-baseline-pour-ultrareview-sur-repos
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
+- 2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl
 - _Index
 category: thinking
 consent_required: false
@@ -14,6 +17,9 @@ plugin_full_name: Devil's Advocate (Brandon Simpson)
 plugin_id: devils-advocate
 project: claude-system
 regime: invocable
+related:
+- 2026-05-11-git-init-empty-baseline-pour-ultrareview-sur-repos
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
 status: active
 synergies:
 - codex-peer-review
@@ -54,3 +60,8 @@ https://github.com/brandonsimpson/devils-advocate — Brandon Simpson
 
 ## Install status
 Installé chez Raphaël le 2026-05-08 sous `plugin marketplace: devils-advocate@devils-advocate` (skill user / plugin marketplace).
+
+## Related
+
+- [[2026-05-11-testing-vérification-obligatoires-après-chaque-éta]] — Testing + vérification obligatoires après chaque étape migration
+- [[2026-05-11-git-init-empty-baseline-pour-ultrareview-sur-repos]] — Git init empty baseline pour ultrareview sur repos existants

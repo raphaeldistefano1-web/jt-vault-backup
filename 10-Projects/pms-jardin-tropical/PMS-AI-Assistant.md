@@ -2,11 +2,13 @@
 ai_writable: false
 backlinks:
 - Dev-PMS-Area
+- PMS
 - PMS-Dashboard-v2
 - PMS-Settings-Hub
 - Plugin-OpenClaw
 - _Index
 - _MOC-pms
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Assistant IA du PMS — fusion Mémoire IA + Assistant IA, alimenté par
   OpenClaw plugin

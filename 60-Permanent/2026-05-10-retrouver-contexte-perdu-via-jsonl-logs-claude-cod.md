@@ -1,6 +1,9 @@
 ---
 ai_writable: false
 area: null
+backlinks:
+- 2026-05-12-architecture-du-hook-extract-memory-capture-du-tra
+- 2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser
 confidence: medium
 created: '2026-05-10'
 embed_hash: null
@@ -14,7 +17,8 @@ intent: pattern
 last-accessed: '2026-05-10'
 moc: null
 project: null
-related: []
+related:
+- 2026-05-12-architecture-du-hook-extract-memory-capture-du-tra
 schema_version: 1
 source_notes:
 - 10-Projects/site-wordpress/2026-05-09-1608-session-0375ba09.md
@@ -42,3 +46,7 @@ jq -c 'select(.type == "assistant") | {ts, content}' file.jsonl
 ```
 
 Cette approche reconstruit le fil sans dépendre de la session actuelle. Utile après timeouts, redémarrages, ou changements de contexte projet.
+
+## Related
+
+- [[2026-05-12-architecture-du-hook-extract-memory-capture-du-tra]] — Architecture du hook extract_memory : capture du transcript et fin de session

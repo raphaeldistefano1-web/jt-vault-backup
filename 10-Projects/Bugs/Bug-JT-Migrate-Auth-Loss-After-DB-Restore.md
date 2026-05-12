@@ -1,7 +1,12 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi
+- 2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor
+- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
+- Bug-JT-Migrate-v1.1-Import-Extract-Fail
 - JT-Migrate-v1.2.1
+- Lesson-Pipeline-Auth-vs-DB-Restore
 - Lessons-Learned
 - Migration-WP-com-vers-VPS-2026-04-25
 - Plugin-jt-migrate
@@ -22,9 +27,10 @@ intent: log
 last-accessed: 2026-04-25
 project: Bugs
 related:
-- '[[Plugin-jt-migrate]]'
+- 2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor
 - '[[JT-Migrate-v1.2.1]]'
 - '[[Migration-WP-com-vers-VPS-2026-04-25]]'
+- '[[Plugin-jt-migrate]]'
 relevance: high
 status: workaround
 summary: 'Pendant l''import d''un site sur le VPS :'
@@ -101,3 +107,7 @@ Plus généralement : tout pipeline AJAX en plusieurs steps doit être **résist
 - [[Plugin-jt-migrate]]
 - [[JT-Migrate-v1.2.1]]
 - [[Migration-WP-com-vers-VPS-2026-04-25]]
+
+## Related
+
+- [[2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor]] — HBook placeholder names corrupted lors export/import entre instances

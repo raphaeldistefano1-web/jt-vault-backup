@@ -1,6 +1,10 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-architecture-jeux-extensible-registry-gameshell-is
+- 2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi
+- 2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
 - Dev-PMS-Area
 - PMS
 - PMS-Calendar-v2
@@ -19,6 +23,9 @@ id: 202604252029-workflow-cross-feature-coherence
 intent: how-to
 last-accessed: 2026-04-25
 related:
+- 2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi
+- 2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
 - '[[Dev-PMS-Area]]'
 - '[[Workflow-Preview-Then-Apply]]'
 relevance: high
@@ -67,3 +74,9 @@ Le PMS est utilisé en cross-context permanent (l'user passe Calendar → frontd
 - [[Dev-PMS-Area]]
 - [[PMS-Calendar-v2]]
 - Mémoire référence : `cross_feature_coherence.md` (mémoire projet PMS)
+
+## Related
+
+- [[2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi]] — Brevo DOI template — erreur 'Redirection url is missing'
+- [[2026-05-11-testing-vérification-obligatoires-après-chaque-éta]] — Testing + vérification obligatoires après chaque étape migration
+- [[2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta]] — Layout 'nouvelle saison' — 3 cartes alignées horizontalement

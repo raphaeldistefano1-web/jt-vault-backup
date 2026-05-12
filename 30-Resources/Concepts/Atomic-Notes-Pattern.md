@@ -3,7 +3,9 @@ ai_writable: false
 backlinks:
 - 2026-05-09-schéma-canonique-des-notes-du-vault-atomiques
 - Frontmatter-Standard
+- MOCs-Pattern
 - Vault-Setup
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Pattern atomic notes pour ce vault — 1 idée = 1 note, densément liée,
   pour réduire les tokens IA

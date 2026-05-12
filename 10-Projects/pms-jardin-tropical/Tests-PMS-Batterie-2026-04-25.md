@@ -23,7 +23,7 @@ last-accessed: 2026-04-25
 project: pms-jardin-tropical
 related:
 - 2026-05-10-accès-données-hbook-source-unique-de-vérité
-- '[[Brainstorm-PMS-Améliorations-2026-04-25]]'
+- '[[Brainstorm-PMS-Ameliorations-2026-04-25]]'
 - '[[Dev-PMS-Area]]'
 - '[[PMS-Stack]]'
 relevance: high
@@ -135,7 +135,7 @@ Très bon état général.
 
 - [[PMS-Stack]]
 - [[Dev-PMS-Area]]
-- [[Brainstorm-PMS-Améliorations-2026-04-25]]
+- [[Brainstorm-PMS-Ameliorations-2026-04-25]]
 
 ## Related
 

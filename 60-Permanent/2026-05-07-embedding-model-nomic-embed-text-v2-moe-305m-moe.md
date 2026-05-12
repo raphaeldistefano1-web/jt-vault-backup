@@ -5,7 +5,6 @@ backlinks:
 - 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
 - 2026-05-07-ollama-démarrage-manuel-pas-auto-start-systemd
 - 2026-05-07-vps-guardrails-4-gb-swap-ollama-memorymax25g
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'
 embed_hash: null

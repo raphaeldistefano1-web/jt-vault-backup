@@ -1,10 +1,15 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-git-init-empty-baseline-pour-ultrareview-sur-repos
+- 2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
 - Dev-PMS-Area
+- PMS
 - PMS-Stack
 - Workflow-Collaboration-IA
 - Workflow-Preview-Then-Apply
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Séquence de déploiement PMS — migrate, build, pm2 restart
 embed_hash: null
@@ -20,6 +25,7 @@ id: 202604252029-workflow-deploy-pms
 intent: how-to
 last-accessed: 2026-04-25
 related:
+- 2026-05-11-testing-vérification-obligatoires-après-chaque-éta
 - Workflow-File-Share-Uploads
 - '[[Dev-PMS-Area]]'
 - '[[PMS-Stack]]'
@@ -75,3 +81,4 @@ Cf. [[Workflow-Preview-Then-Apply]] pour les refontes UI.
 ## Related
 
 - [[Workflow-File-Share-Uploads]] — Workflow-File-Share-Uploads
+- [[2026-05-11-testing-vérification-obligatoires-après-chaque-éta]] — Testing + vérification obligatoires après chaque étape migration

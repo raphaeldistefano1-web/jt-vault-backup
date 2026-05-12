@@ -4,6 +4,7 @@ backlinks:
 - 2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin
 - 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-11-git-init-empty-baseline-pour-ultrareview-sur-repos
 - _Index
 category: research
 consent_required: false

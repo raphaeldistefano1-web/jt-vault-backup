@@ -1,8 +1,14 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-12-les-slugs-moc-sont-sensibles-aux-typos-et-créent-d
 - Decisions-Log
 - INDEX
+- Lesson-Apache-Timeout-defaut-trop-court
+- Lesson-PharData-charge-tout-en-RAM
+- Lesson-Pipeline-Auth-vs-DB-Restore
+- Lesson-Server-to-Server-curl-bypass-user
+- Lesson-mu-plugins-WP-com-toxiques-sur-standalone
 - _VAULT-INDEX
 created: 2026-04-25
 description: MOC apprentissages transversaux — bugs résolus, patterns à retenir, anti-patterns
@@ -19,8 +25,9 @@ id: 202604252041-lessons-learned
 intent: reference
 last-accessed: 2026-04-25
 related:
-- '[[INDEX]]'
+- 2026-05-12-les-slugs-moc-sont-sensibles-aux-typos-et-créent-d
 - '[[Decisions-Log]]'
+- '[[INDEX]]'
 relevance: high
 status: active
 summary: MOC apprentissages — PharData RAM, Redis vs WPO, streaming uploads, pipelines
@@ -77,3 +84,7 @@ updated: 2026-04-25
 - [[INDEX]]
 - [[Decisions-Log]]
 - Tous les bugs : [[Bug-PharData-RAM-OOM]], [[Bug-JT-Migrate-Auth-Loss-After-DB-Restore]], [[Bug-Apache-Timeout-300-vs-Uploads]], [[Bug-Redis-WPO-Advanced-Cache-Conflict]], [[Bug-WP-Image-Encoding-Accent]], [[Bug-WP-Link-Blog-404]]
+
+## Related
+
+- [[2026-05-12-les-slugs-moc-sont-sensibles-aux-typos-et-créent-d]] — Les slugs MOC sont sensibles aux typos et créent des dangling links

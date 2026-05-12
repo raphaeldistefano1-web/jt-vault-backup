@@ -3,6 +3,8 @@ ai_writable: false
 backlinks:
 - Brainstorm-PMS-Ameliorations-2026-04-25
 - Desktop-App-Electron
+- Hotel
+- Hotel-Le-Jardin-Tropical
 - PMS-AI-Assistant
 - PMS-Calendar-v2
 - PMS-Dashboard-v2
@@ -17,6 +19,7 @@ backlinks:
 - Workflow-Deploy-PMS
 - Workflow-File-Share-Uploads
 - Workflow-Preview-Then-Apply
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Area de responsabilité — développement et exploitation du PMS custom
   Le Jardin Tropical
@@ -60,7 +63,7 @@ updated: 2026-04-25
 
 ## Vue d'ensemble
 
-[[PMS-Area|PMS]] = Property Management System custom Next.js mono-tenant pour piloter Le Jardin Tropical au quotidien. Pas de produit SaaS, pas multi-tenant — outil interne de [[User-Raphael-Distefano|Raphaël]].
+[[Dev-PMS-Area|PMS]] = Property Management System custom Next.js mono-tenant pour piloter Le Jardin Tropical au quotidien. Pas de produit SaaS, pas multi-tenant — outil interne de [[User-Raphael-Distefano|Raphaël]].
 
 ## Stack technique
 

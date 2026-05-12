@@ -7,6 +7,7 @@ backlinks:
 - 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
 - 2026-05-07-vps-guardrails-4-gb-swap-ollama-memorymax25g
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -21,11 +22,12 @@ last-accessed: '2026-05-07'
 moc: null
 project: null
 related:
+- 2026-05-07-embedding-model-nomic-embed-text-v2-moe-305m-moe
+- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
 - 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
 - 2026-05-07-vps-guardrails-4-gb-swap-ollama-memorymax25g
-- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
-- 2026-05-07-embedding-model-nomic-embed-text-v2-moe-305m-moe
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-07-1254-session-158ff0de.md
 - 10-Projects/claude-system/2026-05-07-1240-session-158ff0de.md
@@ -56,3 +58,4 @@ Ollama est lourd (2.5G+ RAM sous limite). Configuré sans auto-start au boot (`T
 - [[2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod]] — Lesson : profiler services lourds avant scaling prod
 - [[2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann]] — nomic-embed-text-v2-moe consommation réelle vs annoncée
 - [[2026-05-07-embedding-model-nomic-embed-text-v2-moe-305m-moe]] — Embedding model : nomic-embed-text-v2-moe (305M MoE)
+- [[2026-05-12-services-pausable-durgence-docker-systemd-inventor]] — Services pausable d'urgence — Docker + systemd inventory

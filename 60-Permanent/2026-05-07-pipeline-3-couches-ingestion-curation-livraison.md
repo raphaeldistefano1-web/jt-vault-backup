@@ -6,6 +6,11 @@ backlinks:
 - 2026-05-07-structure-répertoires-srvveille-ia-config-external
 - 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
 - 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- 2026-05-11-architecture-jeux-extensible-registry-gameshell-is
+- 2026-05-11-git-init-empty-baseline-pour-ultrareview-sur-repos
+- 2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m
+- 2026-05-11-stack-cul-sec-nextjs-14-app-router-framer-motion-p
+- 2026-05-12-structure-et-composants-du-projet-culsec-nextjs-16
 - _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'
@@ -21,10 +26,11 @@ last-accessed: '2026-05-07'
 moc: null
 project: null
 related:
-- 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
 - 2026-05-07-critères-filtrage-youtube-veille-ia
 - 2026-05-07-structure-répertoires-srvveille-ia-config-external
 - 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
+- 2026-05-11-architecture-jeux-extensible-registry-gameshell-is
 - _Index
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
@@ -74,3 +80,4 @@ updated: '2026-05-07'
 - [[2026-05-07-structure-répertoires-srvveille-ia-config-external]] — Structure répertoires /srv/veille-ia (config externalisée)
 - [[2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives]] — YouTube Transcript API vs Whisper (priorité natives)
 - [[_Index]] — Index — pms-jardin-tropical
+- [[2026-05-11-architecture-jeux-extensible-registry-gameshell-is]] — Architecture jeux extensible: registry + GameShell + isolement composant

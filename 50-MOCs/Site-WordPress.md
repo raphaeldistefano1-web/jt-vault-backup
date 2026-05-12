@@ -27,7 +27,6 @@ backlinks:
 - Theme-jardintropical-child
 - User-Raphael-Distefano
 - VPS-Hostinger
-- _VAULT-INDEX
 - llms-txt-standard
 created: 2026-04-25
 description: Map of Content — site WordPress lejardintropical.fr (actuellement sur
@@ -80,8 +79,8 @@ updated: 2026-04-25
 
 ## Plugins métier custom
 
-- [[jt-booking]] — module de réservation connecté au PMS
-- [[jt-migrate]] v1.2.1 — plugin de migration WP full-fidelity (similaire All-in-One WP Migration)
+- [[Test-jt-booking-PMS-2026-04-25|jt-booking]] — module de réservation connecté au PMS
+- [[_MOC-jt-migrate|jt-migrate]] v1.2.1 — plugin de migration WP full-fidelity (similaire All-in-One WP Migration)
 
 ## Optimisations en place (2026-04-25)
 

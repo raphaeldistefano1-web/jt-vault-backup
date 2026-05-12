@@ -10,6 +10,7 @@ backlinks:
 - 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 - 2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin
 - 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
+- 2026-05-11-stack-cul-sec-nextjs-14-app-router-framer-motion-p
 - _VAULT-INDEX
 confidence: medium
 created: '2026-05-07'

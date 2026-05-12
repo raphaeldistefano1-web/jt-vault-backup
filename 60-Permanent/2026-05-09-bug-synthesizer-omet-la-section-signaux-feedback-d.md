@@ -3,6 +3,9 @@ ai_writable: false
 area: null
 backlinks:
 - 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
+- 2026-05-12-architecture-du-hook-extract-memory-capture-du-tra
+- 2026-05-12-hook-extract-memory-capture-refs-erronées-du-trans
+- 2026-05-12-sudo-silent-failures-et-env-vars-non-appliquées
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -18,6 +21,9 @@ moc: null
 project: null
 related:
 - 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
+- 2026-05-12-architecture-du-hook-extract-memory-capture-du-tra
+- 2026-05-12-hook-extract-memory-capture-refs-erronées-du-trans
+- 2026-05-12-sudo-silent-failures-et-env-vars-non-appliquées
 - _FEEDBACK-PENDING
 - _RULES-APPLIED
 schema_version: 1
@@ -55,3 +61,6 @@ Lors de l'audit du pipeline vault-synthesizer, découverte que la logique d'extr
 - [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 0 appliquées, 0 archivées
 - [[_FEEDBACK-PENDING]] — 📋 Feedback rules en attente — 0 rule
 - [[2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag]] — Gotcha : Fichiers temporaires indexés par RAG
+- [[2026-05-12-sudo-silent-failures-et-env-vars-non-appliquées]] — Sudo silent failures et env vars non-appliquées
+- [[2026-05-12-hook-extract-memory-capture-refs-erronées-du-trans]] — Hook extract_memory capture refs erronées du transcript
+- [[2026-05-12-architecture-du-hook-extract-memory-capture-du-tra]] — Architecture du hook extract_memory : capture du transcript et fin de session

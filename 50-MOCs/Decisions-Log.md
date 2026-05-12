@@ -3,6 +3,9 @@ ai_writable: false
 backlinks:
 - 2026-05-09-instance-d-wordpress-en-rotation-test
 - 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- 2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente
+- 2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl
+- 2026-05-11-wp-optimize-minify-décision-de-désactivation-insta
 - INDEX
 - Lessons-Learned
 - _MOC-pms
@@ -26,6 +29,8 @@ last-accessed: 2026-04-25
 related:
 - 2026-04-25-session-context 2
 - 2026-05-09-instance-d-wordpress-en-rotation-test
+- 2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente
+- 2026-05-11-wp-optimize-minify-décision-de-désactivation-insta
 - '[[INDEX]]'
 - '[[Lessons-Learned]]'
 relevance: high
@@ -82,3 +87,5 @@ Pour ce site, le ratio coût/bénéfice penche systématiquement vers du self-ho
 
 - [[2026-05-09-instance-d-wordpress-en-rotation-test]] — Instance D WordPress en rotation test
 - [[2026-04-25-session-context 2]] — 2026-04-25-session-context 2
+- [[2026-05-11-wp-optimize-minify-décision-de-désactivation-insta]] — WP-Optimize Minify — décision de désactivation Instance C
+- [[2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente]] — Audit migration WP Phase 0 — 7 décisions en attente

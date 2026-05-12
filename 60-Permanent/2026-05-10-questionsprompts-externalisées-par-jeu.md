@@ -7,6 +7,7 @@ backlinks:
 - 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
 - 2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-12-structure-et-composants-du-projet-culsec-nextjs-16
 confidence: medium
 created: '2026-05-10'
 embed_hash: null

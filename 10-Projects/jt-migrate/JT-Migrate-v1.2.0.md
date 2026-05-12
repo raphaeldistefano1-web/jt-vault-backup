@@ -1,6 +1,9 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-defensive-architecture-pour-import-fail-safe-optio
+- 2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor
+- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
 - Bug-Apache-Timeout-300-vs-Uploads
 - JT-Migrate-v1.1.0
 - JT-Migrate-v1.2.1
@@ -24,6 +27,8 @@ intent: reference
 last-accessed: 2026-04-25
 project: jt-migrate
 related:
+- 2026-05-11-defensive-architecture-pour-import-fail-safe-optio
+- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
 - Workflow-File-Share-Uploads
 - '[[Bug-Apache-Timeout-300-vs-Uploads]]'
 - '[[JT-Migrate-v1.1.0]]'
@@ -82,3 +87,5 @@ L'extract utilisait toujours `PharData::extract()` qui crash sur archive > 100 M
 ## Related
 
 - [[Workflow-File-Share-Uploads]] — Workflow-File-Share-Uploads
+- [[2026-05-11-defensive-architecture-pour-import-fail-safe-optio]] — Defensive architecture pour import: fail-safe optional steps
+- [[2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl]] — Scripts pre-cutover cleanup et post-import reenable

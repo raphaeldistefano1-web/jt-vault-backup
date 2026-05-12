@@ -3,7 +3,6 @@ ai_writable: true
 area: null
 backlinks:
 - _Index
-- _VAULT-INDEX
 - n8n-Reference
 confidence: high
 created: 2026-05-07

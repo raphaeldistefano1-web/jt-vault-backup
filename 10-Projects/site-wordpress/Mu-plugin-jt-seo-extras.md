@@ -10,9 +10,12 @@ backlinks:
 - Decision-Disable-WP-Cron-cron-Linux
 - Decision-Mu-plugin-vs-RankMath
 - Decision-Robots-txt-LLM-Aware
+- Decision-Schema-Offer-priceValidUntil
 - Mu-plugin-vs-Theme-Pattern
+- Page-FAQ-2026-04-25
 - Robots-txt-LLM-Aware
 - Schema-FAQPage
+- Schema-TouristAttraction
 - Schema-org-LodgingBusiness
 - Site-Plugins-Stack-2026-04-25
 - Site-WordPress

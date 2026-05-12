@@ -6,6 +6,8 @@ backlinks:
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
 - 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 confidence: medium
 created: '2026-05-07'
 embed_hash: null
@@ -24,6 +26,8 @@ related:
 - 2026-05-08-automatiser-envoi-digest-via-email-avec-date
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 - Decision-Disable-WP-Cron-cron-Linux
 - Vault-Setup
 source_notes:
@@ -61,3 +65,5 @@ updated: '2026-05-07'
 - [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
 - [[Vault-Setup]] — Vault Setup
 - [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
+- [[2026-05-12-auto-arrêt-à-80-cpu-notification-email]] — Auto-arrêt à 80% CPU + notification email
+- [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd

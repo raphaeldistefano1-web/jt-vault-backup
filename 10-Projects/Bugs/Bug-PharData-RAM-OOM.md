@@ -2,8 +2,14 @@
 ai_writable: false
 backlinks:
 - 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
+- 2026-05-11-defensive-architecture-pour-import-fail-safe-optio
+- 2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor
+- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
+- 2026-05-12-approche-défensive-pour-cutover-jt-migrate
+- Bug-JT-Migrate-v1.1-Import-Extract-Fail
 - Decision-Streaming-tar-gz-vs-PharData
 - JT-Migrate-v1.0.0
+- Lesson-PharData-charge-tout-en-RAM
 - Lessons-Learned
 - _MOC-jt-migrate
 - _VAULT-INDEX
@@ -21,9 +27,13 @@ intent: log
 last-accessed: 2026-04-25
 project: Bugs
 related:
-- '[[Plugin-jt-migrate]]'
-- '[[JT-Migrate-v1.0.0]]'
+- 2026-05-11-defensive-architecture-pour-import-fail-safe-optio
+- 2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor
+- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
+- 2026-05-12-approche-défensive-pour-cutover-jt-migrate
 - '[[Decision-Streaming-tar-gz-vs-PharData]]'
+- '[[JT-Migrate-v1.0.0]]'
+- '[[Plugin-jt-migrate]]'
 relevance: high
 status: resolved
 summary: 'Le plugin JT-Migrate-v1.0.0|JT Migrate v1.0.0 crashait à l''export d''un
@@ -91,3 +101,10 @@ Vérifier toujours la doc PHP du module avant de l'utiliser sur gros volume : `P
 - [[Plugin-jt-migrate]]
 - [[Decision-Streaming-tar-gz-vs-PharData]]
 - [[JT-Migrate-v1.0.0]]
+
+## Related
+
+- [[2026-05-11-defensive-architecture-pour-import-fail-safe-optio]] — Defensive architecture pour import: fail-safe optional steps
+- [[2026-05-11-hbook-placeholder-names-corrupted-lors-exportimpor]] — HBook placeholder names corrupted lors export/import entre instances
+- [[2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph]] — Validation syntax gate avant commit sur plugins PHP
+- [[2026-05-12-approche-défensive-pour-cutover-jt-migrate]] — Approche défensive pour cutover jt-migrate

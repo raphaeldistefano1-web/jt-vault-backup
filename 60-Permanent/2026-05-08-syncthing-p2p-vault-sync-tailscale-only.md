@@ -6,6 +6,10 @@ backlinks:
 - 2026-05-08-vault-para-multi-projets-chemin-canonique
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps
+- 2026-05-12-migration-architecture-claude-vps-mac-mini
+- 2026-05-12-tailscale-cli-installation-sur-macos
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
 - CANONICITY
 - Vault-Setup
 confidence: medium
@@ -26,6 +30,10 @@ related:
 - 2026-05-08-vault-para-multi-projets-chemin-canonique
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
+- 2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps
+- 2026-05-12-migration-architecture-claude-vps-mac-mini
+- 2026-05-12-tailscale-cli-installation-sur-macos
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
 - CANONICITY
 - Vault-Setup
 - _HEALTH
@@ -84,3 +92,7 @@ Setup P2P vault VPS ↔ Mac (développement local) :
 - [[_HEALTH]] — Vault Health Check
 - [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
 - [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
+- [[2026-05-12-tailscale-cli-installation-sur-macos]] — Tailscale CLI installation sur macOS
+- [[2026-05-12-migration-architecture-claude-vps-mac-mini]] — Migration architecture Claude : VPS → Mac mini
+- [[2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps]] — Accès VPS culsec via Tailscale + SSH (alias monvps/vps-pms)
+- [[2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-]] — vault-rag multi-instance : trade-off SSH wrapper vs install local

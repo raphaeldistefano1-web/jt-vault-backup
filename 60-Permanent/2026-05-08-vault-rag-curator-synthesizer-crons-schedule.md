@@ -7,6 +7,14 @@ backlinks:
 - 2026-05-08-automatiser-envoi-digest-via-email-avec-date
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
 - 2026-05-10-decision-defensive-truncation-et-sync-check-vault-
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo
+- 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
+- 2026-05-12-mcp-health-check-timeout-ssh-cold-start-python-imp
+- 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 confidence: medium
 created: '2026-05-08'
 embed_hash: null
@@ -31,6 +39,14 @@ related:
 - 2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag
 - 2026-05-10-lesson-checklist-pour-diagnostiquer-que-crow-fonct
 - 2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo
+- 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
+- 2026-05-12-mcp-health-check-timeout-ssh-cold-start-python-imp
+- 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
+- 2026-05-12-services-pausable-durgence-docker-systemd-inventor
+- 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 - RUNBOOK-disaster-recovery
 - Vault-Setup
 schema_version: 1
@@ -90,3 +106,11 @@ Chaque cron a entrée logrotate (daily, rotate 7, compress). Erreurs catchées v
 - [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
 - [[2026-05-10-pattern-scripts-maintenance-et-diagnostic-vault]] — Pattern : Scripts maintenance et diagnostic vault
 - [[2026-05-10-gotcha-fichiers-temporaires-indexés-par-rag]] — Gotcha : Fichiers temporaires indexés par RAG
+- [[2026-05-12-auto-arrêt-à-80-cpu-notification-email]] — Auto-arrêt à 80% CPU + notification email
+- [[2026-05-12-mcp-health-check-timeout-ssh-cold-start-python-imp]] — MCP health-check timeout : SSH cold start + Python imports
+- [[2026-05-12-services-pausable-durgence-docker-systemd-inventor]] — Services pausable d'urgence — Docker + systemd inventory
+- [[2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar]] — CPU throttling VPS Hostinger — monitoring via sar
+- [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd
+- [[2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo]] — Chemins d'accumulation disque connus: Docker, node_modules, logs
+- [[2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-]] — vault-rag multi-instance : trade-off SSH wrapper vs install local
+- [[2026-05-12-procédure-daudit-disque-vps-diagnostic-standard]] — Procédure d'audit disque VPS — diagnostic standard

@@ -1,8 +1,11 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta
 - Atomic-Notes-Pattern
+- MOCs-Pattern
 - Vault-Setup
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Standard YAML frontmatter pour toutes les notes du vault — IA-readable
   et Obsidian Bases-compatible
@@ -15,6 +18,7 @@ id: 202604252028-frontmatter-standard
 intent: concept
 last-accessed: 2026-04-25
 related:
+- 2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta
 - '[[Atomic-Notes-Pattern]]'
 - '[[Vault-Setup]]'
 relevance: high
@@ -116,3 +120,7 @@ Exemples :
 
 - [[Atomic-Notes-Pattern]]
 - [[Vault-Setup]]
+
+## Related
+
+- [[2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta]] — Layout 'nouvelle saison' — 3 cartes alignées horizontalement

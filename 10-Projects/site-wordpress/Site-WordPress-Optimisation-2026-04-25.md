@@ -3,16 +3,22 @@ ai_writable: false
 backlinks:
 - 2026-04-25-session-context
 - 2026-04-25-session-context 2
+- 2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente
+- 2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi
+- 2026-05-11-wp-optimize-minify-décision-de-désactivation-insta
 - Bug-WP-Image-Encoding-Accent
 - Decision-Mu-plugin-vs-RankMath
 - Decisions-Log
 - GEO-Generative-Engine-Optimization
 - Hotel-Le-Jardin-Tropical
+- Lesson-mu-plugins-WP-com-toxiques-sur-standalone
 - Migration-WP-com-vers-VPS-2026-04-25
 - Mu-plugin-jt-seo-extras
+- Page-FAQ-2026-04-25
 - Robots-txt-LLM-Aware
 - Site-Plugins-Stack-2026-04-25
 - Site-WordPress
+- TODO-Site-WP
 - _Index
 - _MOC-site-wordpress
 - llms-txt-standard
@@ -31,6 +37,9 @@ last-accessed: 2026-04-25
 project: site-wordpress
 related:
 - 2026-04-25-session-context 2
+- 2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente
+- 2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi
+- 2026-05-11-wp-optimize-minify-décision-de-désactivation-insta
 - '[[Migration-WP-com-vers-VPS-2026-04-25]]'
 - '[[Mu-plugin-jt-seo-extras]]'
 - '[[Site-Plugins-Stack-2026-04-25]]'
@@ -133,3 +142,6 @@ Chaque loop = vérification → recherche web (agents avec WebSearch) → applic
 ## Related
 
 - [[2026-04-25-session-context 2]] — 2026-04-25-session-context 2
+- [[2026-05-11-brevo-doi-template-erreur-redirection-url-is-missi]] — Brevo DOI template — erreur 'Redirection url is missing'
+- [[2026-05-11-wp-optimize-minify-décision-de-désactivation-insta]] — WP-Optimize Minify — décision de désactivation Instance C
+- [[2026-05-11-audit-migration-wp-phase-0-7-décisions-en-attente]] — Audit migration WP Phase 0 — 7 décisions en attente

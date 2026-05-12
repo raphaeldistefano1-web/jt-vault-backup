@@ -5,8 +5,10 @@ alternatives:
 - exec(tar)
 - ZipArchive
 backlinks:
+- 2026-05-11-wp-optimize-minify-décision-de-désactivation-insta
 - Bug-PharData-RAM-OOM
 - Decisions-Log
+- Lesson-PharData-charge-tout-en-RAM
 - Site-WordPress
 - _MOC-jt-migrate
 chosen: Streaming gzopen + USTAR custom

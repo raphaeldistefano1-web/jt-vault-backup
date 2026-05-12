@@ -58,11 +58,11 @@ PMS (Property Management System) custom dev en Next.js, géré par Raphaël (own
 
 ## Composants clés
 
-- [[Dashboard-v2]] — dashboard principal v2 appliqué prod
-- [[Calendar-v2]] — calendar v2 appliqué prod
-- [[Settings-Hub]] — paramètres consolidés en hub central
-- [[AI-Assistant]] — fusion Mémoire IA + Assistant IA via plugin OpenClaw
-- [[Desktop-App]] — wrapper Electron v1.3.0 (notifs natives, badge dock, tray menu bar, deep links pms://, mode offline lecture, auto-update prompt)
+- [[PMS-Dashboard-v2]] — dashboard principal v2 appliqué prod
+- [[PMS-Calendar-v2]] — calendar v2 appliqué prod
+- [[PMS-Settings-Hub]] — paramètres consolidés en hub central
+- [[PMS-AI-Assistant]] — fusion Mémoire IA + Assistant IA via plugin OpenClaw
+- [[Desktop-App-Electron]] — wrapper Electron v1.3.0 (notifs natives, badge dock, tray menu bar, deep links pms://, mode offline lecture, auto-update prompt)
 - [[Plugin-OpenClaw]] — plugin IA, Feature 1 OAuth Codex livrée sur /dashboard/ai
 
 ## Sub-agents internes du projet
@@ -72,7 +72,7 @@ Le projet a 6 sub-agents spécialisés dans `.claude/agents/` (priorité sur les
 ## Workflows
 
 - [[Workflow-Preview-Then-Apply]] — toute refonte UI passe par route `_v2` prévisualisable
-- [[Workflow-Deploy]] — migrate (si schema) → build → pm2 restart
+- [[Workflow-Deploy-PMS]] — migrate (si schema) → build → pm2 restart
 - [[Workflow-API-Integrations]] — toute clé API externe via /dashboard/settings/integrations (Stripe, Brevo, OVH, Claude…)
 - [[Workflow-Cross-Feature-Coherence]] — toute feature exposée à TOUS les points d'entrée pertinents
 

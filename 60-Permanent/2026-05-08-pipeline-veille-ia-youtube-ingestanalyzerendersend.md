@@ -7,6 +7,7 @@ backlinks:
 - 2026-05-08-automatiser-envoi-digest-via-email-avec-date
 - 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
 - 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
+- 2026-05-11-architecture-jeux-extensible-registry-gameshell-is
 confidence: medium
 created: '2026-05-08'
 embed_hash: null

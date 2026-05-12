@@ -18,11 +18,12 @@ last-accessed: '2026-05-08'
 moc: null
 project: null
 related:
-- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
 - 2026-05-07-structure-répertoires-srvveille-ia-config-external
 - 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
-- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1424-session-e172a5dd.md
@@ -75,3 +76,4 @@ updated: '2026-05-08'
 - [[2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest]] — Pipeline modulaire ingest→analyze→render→digest
 - [[2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak]] — Cron 23h30 pour ingestion veille (timing off-peak)
 - [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
+- [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd

@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-11
-updated: 2026-05-11
+created: 2026-05-12
+updated: 2026-05-12
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — site-wordpress
 
-> Auto-régénéré le 2026-05-11 03:01 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-12 03:00 par `vault-rag-curator`.
 
 ## HOT (6)
 
@@ -26,7 +26,11 @@ ai_writable: false
 - [[Test-jt-booking-PMS-2026-04-25]] — 1. Régénération clé API WordPress côté PMS script scripts/regen-wp-key.ts — précédente perdue/inaccessible
 - [[Theme-jardintropical-child]] — Theme standalone custom malgré son nom -child qui suggère un theme enfant — il n'a en fait pas de parent dépendant.
 
-## COLD (45)
+## WARM (1)
+
+- [[TODO-Site-WP]] — Liste des actions WP en attente — Google Site Kit, Wordfence 2FA, UpdraftPlus, Complianz, WebP, domaine final
+
+## COLD (46)
 
 - [[2026-05-09-0843-session-edb63232]] — Session Claude Code du 2026-05-09 08:43 sur projet site-wordpress (0 edits, 0 créations, 2 bash).
 - [[2026-05-09-0845-session-edb63232]] — Session Claude Code du 2026-05-09 08:45 sur projet site-wordpress (0 edits, 0 créations, 3 bash).
@@ -73,3 +77,4 @@ ai_writable: false
 - [[2026-05-07-1429-session-e7718f3c]] — Session Claude Code du 2026-05-07 14:29 sur projet unknown (8 edits, 0 créations, 20 bash).
 - [[2026-05-07-1450-session-e7718f3c]] — Session Claude Code du 2026-05-07 14:50 sur projet unknown (10 edits, 0 créations, 37 bash).
 - [[2026-05-08-1132-session-e7718f3c]] — Session Claude Code du 2026-05-08 11:32 sur projet unknown (10 edits, 0 créations, 45 bash).
+- [[Page-FAQ-2026-04-25]] — Page FAQ avril 2026 — schema FAQPage injecté, contenu à finaliser

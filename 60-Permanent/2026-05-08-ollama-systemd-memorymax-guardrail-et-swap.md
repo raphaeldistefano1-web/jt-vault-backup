@@ -6,7 +6,6 @@ backlinks:
 - 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
 - 2026-05-07-ollama-bge-m3-consomme-56-gb-sans-limite
 - 2026-05-08-nomic-embed-text-v2-moe-consommation-réelle-vs-ann
-- _VAULT-INDEX
 confidence: medium
 created: '2026-05-08'
 embed_hash: null

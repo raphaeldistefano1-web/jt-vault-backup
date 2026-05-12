@@ -2,8 +2,10 @@
 ai_writable: false
 backlinks:
 - 2026-05-10-page-hébergements-tableau-structuré-type-emplaceme
+- Decision-Schema-Offer-priceValidUntil
 - GEO-Generative-Engine-Optimization
 - Schema-FAQPage
+- Schema-TouristAttraction
 - Theme-jardintropical-child
 created: 2026-04-25
 description: Schema.org LodgingBusiness / BedAndBreakfast — type structuré pour hôtel/location

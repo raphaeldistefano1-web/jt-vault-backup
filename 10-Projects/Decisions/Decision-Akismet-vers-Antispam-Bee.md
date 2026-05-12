@@ -5,6 +5,7 @@ alternatives:
 - Cloudflare Turnstile
 - CleanTalk
 backlinks:
+- 2026-05-11-wp-optimize-minify-décision-de-désactivation-insta
 - Decisions-Log
 - Site-Plugins-Stack-2026-04-25
 - Site-WordPress-Optimisation-2026-04-25
@@ -25,6 +26,7 @@ intent: decision
 last-accessed: 2026-04-25
 project: Decisions
 related:
+- 2026-05-11-wp-optimize-minify-décision-de-désactivation-insta
 - '[[Site-Plugins-Stack-2026-04-25]]'
 relevance: medium
 status: accepted
@@ -96,3 +98,7 @@ Akismet était installé sur le site WP migré depuis dealmfr. Akismet est **gra
 ## Liens
 
 - [[Site-Plugins-Stack-2026-04-25]]
+
+## Related
+
+- [[2026-05-11-wp-optimize-minify-décision-de-désactivation-insta]] — WP-Optimize Minify — décision de désactivation Instance C

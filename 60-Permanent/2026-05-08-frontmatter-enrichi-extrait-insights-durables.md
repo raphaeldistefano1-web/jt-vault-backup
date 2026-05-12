@@ -5,6 +5,7 @@ backlinks:
 - 2026-05-08-vault-synthesizer-synthèse-auto-des-session-logs
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq
 - AGENTS
 - Atomic-Notes-Pattern
 confidence: medium

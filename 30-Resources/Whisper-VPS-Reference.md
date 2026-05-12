@@ -3,6 +3,11 @@ ai_writable: true
 area: null
 backlinks:
 - 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo
+- 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
+- 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 - _VAULT-INDEX
 confidence: high
 created: 2026-05-07
@@ -21,8 +26,12 @@ last-accessed: 2026-05-07
 moc: '[[Stack-Tech]]'
 project: null
 related:
+- 2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo
+- 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
+- 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
+- 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 - '[[Stack-Tech]]'
-- '[[project_montage_video]]'
+- '[[_MOC-montage-video]]'
 source: memory:reference_whisper_vps.md
 status: active
 summary: faster-whisper + modèle 1.6GB. CLI /usr/local/bin/whisper. ~0.29x realtime
@@ -90,5 +99,12 @@ Sortie écrite à côté du fichier source (même basename, extension du format)
 
 ## Liens
 - MOC parent : [[Stack-Tech]]
-- Référence vidéo : [[project_montage_video]]
+- Référence vidéo : [[_MOC-montage-video]]
 - Source : `memory:reference_whisper_vps.md`
+
+## Related
+
+- [[2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar]] — CPU throttling VPS Hostinger — monitoring via sar
+- [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd
+- [[2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo]] — Chemins d'accumulation disque connus: Docker, node_modules, logs
+- [[2026-05-12-procédure-daudit-disque-vps-diagnostic-standard]] — Procédure d'audit disque VPS — diagnostic standard

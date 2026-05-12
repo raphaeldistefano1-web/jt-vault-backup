@@ -8,6 +8,7 @@ backlinks:
 - 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
 - 2026-05-10-architecture-decision-records-template-structure
 - 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
+- 2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -25,6 +26,7 @@ related:
 - 2026-05-09-adr-template-et-pattern-docsadr
 - 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
 - 2026-05-10-architecture-decision-records-template-structure
+- 2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul
 - CANONICITY
 - Workflow-Collaboration-IA
 - interface-design
@@ -89,3 +91,4 @@ Chaque régime a son outil, sa fréquence d'audit, ses relecteurs. Pas de shortc
 - [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
 - [[Workflow-Collaboration-IA]] — Workflow Collaboration IA
 - [[2026-05-10-architecture-decision-records-template-structure]] — Architecture Decision Records template structure
+- [[2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul]] — Refonte visuelle non-fialisée vs MOC du projet culsec

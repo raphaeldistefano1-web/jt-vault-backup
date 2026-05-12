@@ -1,10 +1,14 @@
 ---
 ai_writable: false
 backlinks:
+- 2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m
+- Bug-Cross-Compile-Linux-MacOS
 - Dev-PMS-Area
+- PMS
 - PMS-Stack
 - _Index
 - _MOC-desktop-app
+- _STUBS-A-ARBITRER-2026-05-12
 created: 2026-04-25
 description: Wrapper Electron v1.3.0 du PMS — notifs natives, badge dock, tray menu
   bar, deep links pms://, mode offline lecture
@@ -19,9 +23,10 @@ intent: reference
 last-accessed: 2026-04-25
 project: desktop-app-electron
 related:
+- 2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m
+- '[[Bug-Cross-Compile-Linux-MacOS]]'
 - '[[Dev-PMS-Area]]'
 - '[[PMS-Stack]]'
-- '[[Bug-Cross-Compile-Linux-MacOS]]'
 relevance: high
 status: deployed
 summary: ✅ Déployée prod cf. mémoire projectpmsdesktopapp.md.
@@ -78,3 +83,7 @@ Cf. mémoire `reference_pms_desktop.md` pour :
 - [[Dev-PMS-Area]]
 - [[PMS-Stack]]
 - Mémoire référence : `project_pms_desktop_app.md` + `reference_pms_desktop.md`
+
+## Related
+
+- [[2026-05-11-service-worker-offline-pwa-stratégie-cache-first-m]] — Service Worker offline PWA: stratégie cache-first + manifest

@@ -4,6 +4,7 @@ area: null
 backlinks:
 - 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
 - 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
+- 2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser
 confidence: medium
 created: '2026-05-09'
 embed_hash: null
@@ -22,6 +23,7 @@ related:
 - 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
 - 2026-05-09-tmux-dashboard-3-windows-monitoring-quotas-live-cl
 - 2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése
+- 2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser
 - MCP-Model-Context-Protocol
 - _MOC-claude-system
 - codex-peer-review
@@ -65,3 +67,4 @@ Claude Max a une fenêtre de 5h limitée par semaine. Codex CLI (ChatGPT Plus) e
 - [[_MOC-claude-system]] — MOC Claude System — système IA personnel
 - [[MCP-Model-Context-Protocol]] — MCP Model Context Protocol
 - [[2026-05-10-claude-max-quota-fenêtre-5h-limitée-stratégie-rése]] — Claude Max quota — fenêtre 5h limitée, stratégie réservation
+- [[2026-05-12-mcp-reconnect-workflow-mcp-oauth-browser]] — MCP reconnect workflow : /mcp + OAuth browser

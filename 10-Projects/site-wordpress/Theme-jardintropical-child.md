@@ -2,6 +2,7 @@
 ai_writable: false
 backlinks:
 - 2026-05-10-supprimer-références-club-med-du-contenu-ljt
+- 2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta
 - Bug-WP-Link-Blog-404
 - Decision-Mu-plugin-vs-RankMath
 - Mu-plugin-jt-seo-extras
@@ -25,10 +26,11 @@ intent: reference
 last-accessed: 2026-04-25
 project: site-wordpress
 related:
-- '[[Site-WordPress]]'
-- '[[Schema-org-LodgingBusiness]]'
-- '[[Mu-plugin-vs-Theme-Pattern]]'
+- 2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta
 - '[[Mu-plugin-jt-seo-extras]]'
+- '[[Mu-plugin-vs-Theme-Pattern]]'
+- '[[Schema-org-LodgingBusiness]]'
+- '[[Site-WordPress]]'
 relevance: high
 status: active
 summary: Theme standalone custom malgré son nom -child qui suggère un theme enfant
@@ -83,3 +85,7 @@ Cf. [[Decision-Mu-plugin-vs-RankMath]] — le theme fait déjà tout ce qu'un pl
 - [[Mu-plugin-jt-seo-extras]]
 - [[Schema-org-LodgingBusiness]]
 - [[Decision-Mu-plugin-vs-RankMath]]
+
+## Related
+
+- [[2026-05-11-layout-nouvelle-saison-3-cartes-alignées-horizonta]] — Layout 'nouvelle saison' — 3 cartes alignées horizontalement
