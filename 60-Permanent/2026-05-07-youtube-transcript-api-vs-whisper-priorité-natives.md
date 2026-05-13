@@ -19,11 +19,12 @@ last-accessed: '2026-05-07'
 moc: null
 project: null
 related:
-- Whisper-VPS-Reference
 - 2026-05-07-critères-filtrage-youtube-veille-ia
-- _MOC-montage-video
 - 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
 - 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
+- 2026-05-12-upgrade-whisper-model-apple-silicon
+- Whisper-VPS-Reference
+- _MOC-montage-video
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
 - 10-Projects/claude-system/2026-05-07-1128-session-9416e8cf.md
@@ -62,3 +63,4 @@ updated: '2026-05-07'
 - [[_MOC-montage-video]] — MOC Montage Vidéo automatique
 - [[2026-05-07-pipeline-3-couches-ingestion-curation-livraison]] — Pipeline 3-couches ingestion → curation → livraison
 - [[2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti]] — YouTube bloque requêtes datacenter — proxy résidentiel
+- [[2026-05-12-upgrade-whisper-model-apple-silicon]] — 2026-05-12-upgrade-whisper-model-apple-silicon

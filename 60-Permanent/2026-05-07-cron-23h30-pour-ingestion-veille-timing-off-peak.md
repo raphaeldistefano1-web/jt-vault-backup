@@ -27,6 +27,7 @@ related:
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-10-config-cron-jobs-pour-curator-et-synthesizer
 - 2026-05-12-auto-arrêt-à-80-cpu-notification-email
+- 2026-05-12-monitor-launchd-veille-ia
 - 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 - Decision-Disable-WP-Cron-cron-Linux
 - Vault-Setup
@@ -67,3 +68,4 @@ updated: '2026-05-07'
 - [[2026-05-10-config-cron-jobs-pour-curator-et-synthesizer]] — Config : Cron jobs pour curator et synthesizer
 - [[2026-05-12-auto-arrêt-à-80-cpu-notification-email]] — Auto-arrêt à 80% CPU + notification email
 - [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd
+- [[2026-05-12-monitor-launchd-veille-ia]] — 2026-05-12-monitor-launchd-veille-ia

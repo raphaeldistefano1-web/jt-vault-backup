@@ -24,9 +24,10 @@ project: null
 related:
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
 - 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
-- Whisper-VPS-Reference
-- VPS-Hostinger
+- 2026-05-12-refactor-env-loader-veille-ia
 - Stack-Tech
+- VPS-Hostinger
+- Whisper-VPS-Reference
 schema_version: 1
 source_notes:
 - 10-Projects/jt-migrate/2026-05-11-2118-session-8bb149e5.md
@@ -65,3 +66,4 @@ Contrôle proactif: `du -sh /path/*` mensuellement vs attendu. Si saut >500MB in
 - [[Whisper-VPS-Reference]] — Whisper large-v3-turbo VPS — Paths, usage, performances
 - [[VPS-Hostinger]] — VPS Hostinger
 - [[Stack-Tech]] — Stack Tech
+- [[2026-05-12-refactor-env-loader-veille-ia]] — 2026-05-12-refactor-env-loader-veille-ia

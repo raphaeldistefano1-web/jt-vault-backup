@@ -23,11 +23,12 @@ last-accessed: '2026-05-12'
 moc: null
 project: null
 related:
-- VPS-Access-Tailscale
-- CANONICITY
-- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
-- AGENTS
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
+- 2026-05-12-upgrade-whisper-model-apple-silicon
+- AGENTS
+- CANONICITY
+- VPS-Access-Tailscale
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-12-0048-session-13c136f3.md
@@ -71,3 +72,4 @@ updated: '2026-05-12'
 - [[2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms]] — Path `/var/www/culsec/` — homogénéité infra VPS avec PMS
 - [[AGENTS]] — AGENTS
 - [[2026-05-08-syncthing-p2p-vault-sync-tailscale-only]] — Syncthing P2P vault sync Tailscale-only
+- [[2026-05-12-upgrade-whisper-model-apple-silicon]] — 2026-05-12-upgrade-whisper-model-apple-silicon

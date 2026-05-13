@@ -35,6 +35,7 @@ project: null
 related:
 - 2026-04-25-session-context 2
 - 2026-05-10-registry-pattern-centralisateur-jeux-modulaires
+- '2026-05-12'
 - '[[AGENTS]]'
 - '[[Decisions-Log]]'
 - '[[Lessons-Learned]]'
@@ -150,3 +151,4 @@ Projets clos. Aucune IA ne doit les modifier.
 
 - [[2026-04-25-session-context 2]] — 2026-04-25-session-context 2
 - [[2026-05-10-registry-pattern-centralisateur-jeux-modulaires]] — Registry pattern — centralisateur jeux modulaires
+- [[2026-05-12]] — Veille IA — Mardi 12 mai 2026

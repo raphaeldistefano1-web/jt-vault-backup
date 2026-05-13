@@ -24,6 +24,7 @@ related:
 - 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
 - 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 - 2026-05-10-questionsprompts-externalisées-par-jeu
+- 2026-05-12-refactor-env-loader-veille-ia
 - Workflow-API-Integrations
 - impeccable
 - n8n-Reference
@@ -58,3 +59,4 @@ Pattern configuration robuste : **1) `.env`** : variables sensibles (API keys ma
 - [[impeccable]] — impeccable
 - [[n8n-Reference]] — n8n self-hosted — URLs, paths, credentials, commandes
 - [[2026-05-10-questionsprompts-externalisées-par-jeu]] — Questions/prompts externalisées par jeu
+- [[2026-05-12-refactor-env-loader-veille-ia]] — 2026-05-12-refactor-env-loader-veille-ia

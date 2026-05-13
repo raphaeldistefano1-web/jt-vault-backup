@@ -22,11 +22,12 @@ last-accessed: '2026-05-12'
 moc: null
 project: null
 related:
-- Whisper-VPS-Reference
 - 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
-- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
+- 2026-05-12-upgrade-whisper-model-apple-silicon
 - VPS-Hostinger
+- Whisper-VPS-Reference
 schema_version: 1
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-11-2047-session-a2f2421f.md
@@ -72,3 +73,4 @@ updated: '2026-05-12'
 - [[2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms]] — Path `/var/www/culsec/` — homogénéité infra VPS avec PMS
 - [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
 - [[VPS-Hostinger]] — VPS Hostinger
+- [[2026-05-12-upgrade-whisper-model-apple-silicon]] — 2026-05-12-upgrade-whisper-model-apple-silicon

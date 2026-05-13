@@ -31,6 +31,7 @@ related:
 - 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
 - 2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin
 - 2026-05-10-questionsprompts-externalisées-par-jeu
+- 2026-05-12-refactor-env-loader-veille-ia
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
 - 10-Projects/claude-system/2026-05-07-1128-session-9416e8cf.md
@@ -81,3 +82,4 @@ updated: '2026-05-07'
 - [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
 - [[2026-05-07-pipeline-3-couches-ingestion-curation-livraison]] — Pipeline 3-couches ingestion → curation → livraison
 - [[2026-05-10-questionsprompts-externalisées-par-jeu]] — Questions/prompts externalisées par jeu
+- [[2026-05-12-refactor-env-loader-veille-ia]] — 2026-05-12-refactor-env-loader-veille-ia

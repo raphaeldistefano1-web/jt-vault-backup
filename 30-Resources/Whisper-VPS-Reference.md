@@ -29,6 +29,7 @@ related:
 - 2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo
 - 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
 - 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
+- 2026-05-12-upgrade-whisper-model-apple-silicon
 - 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 - '[[Stack-Tech]]'
 - '[[_MOC-montage-video]]'
@@ -108,3 +109,4 @@ Sortie écrite à côté du fichier source (même basename, extension du format)
 - [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd
 - [[2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo]] — Chemins d'accumulation disque connus: Docker, node_modules, logs
 - [[2026-05-12-procédure-daudit-disque-vps-diagnostic-standard]] — Procédure d'audit disque VPS — diagnostic standard
+- [[2026-05-12-upgrade-whisper-model-apple-silicon]] — 2026-05-12-upgrade-whisper-model-apple-silicon

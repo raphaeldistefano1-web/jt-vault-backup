@@ -23,10 +23,11 @@ moc: null
 project: null
 related:
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
-- VPS-Access-Tailscale
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-12-upgrade-whisper-model-apple-silicon
 - CANONICITY
 - RUNBOOK-disaster-recovery
+- VPS-Access-Tailscale
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-11-2202-session-d41c35b1.md
@@ -74,3 +75,4 @@ Quand intégrer Mac mini comme ops/preview instance, vault-rag (MCP SQLite+vec0+
 - [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
 - [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
 - [[RUNBOOK-disaster-recovery]] — Runbook — Disaster Recovery vault
+- [[2026-05-12-upgrade-whisper-model-apple-silicon]] — 2026-05-12-upgrade-whisper-model-apple-silicon

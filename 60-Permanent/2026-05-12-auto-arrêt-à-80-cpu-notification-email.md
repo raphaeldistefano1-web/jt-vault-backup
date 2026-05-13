@@ -32,9 +32,10 @@ proposed_rule: Tout VPS en production doit avoir un watchdog CPU qui arrête ser
 related:
 - 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
 - 2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g
-- Whisper-VPS-Reference
-- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
+- 2026-05-12-monitor-launchd-veille-ia
+- Whisper-VPS-Reference
 schema_version: 1
 source_notes:
 - 10-Projects/openclaw-plugin/2026-05-11-2047-session-a2f2421f.md
@@ -81,3 +82,4 @@ usage_count: 0
 - [[Whisper-VPS-Reference]] — Whisper large-v3-turbo VPS — Paths, usage, performances
 - [[2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms]] — Path `/var/www/culsec/` — homogénéité infra VPS avec PMS
 - [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
+- [[2026-05-12-monitor-launchd-veille-ia]] — 2026-05-12-monitor-launchd-veille-ia

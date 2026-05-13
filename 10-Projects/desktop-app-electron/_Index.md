@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-12
-updated: 2026-05-12
+created: 2026-05-13
+updated: 2026-05-13
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — desktop-app-electron
 
-> Auto-régénéré le 2026-05-12 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-13 03:00 par `vault-rag-curator`.
 
 ## HOT (2)
 
@@ -26,3 +26,7 @@ ai_writable: false
 
 - [[Desktop-App-Electron]] — ✅ Déployée prod cf. mémoire projectpmsdesktopapp.md.
 - [[PMS-Desktop-Pieges-Dev]] — Cross-compile Linux→macOS limites (pas dmg/universal), mutations offline désactivées, Gatekeeper xattr, cookies tray, dr…
+
+## COLD (1)
+
+- [[2026-05-12-2234-session-f9830d5d]] — Session Claude Code du 2026-05-12 22:34 sur projet desktop-app-electron (1 edits, 1 créations, 7 bash).

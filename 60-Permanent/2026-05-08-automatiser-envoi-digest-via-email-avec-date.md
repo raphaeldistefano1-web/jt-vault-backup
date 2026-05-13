@@ -23,6 +23,8 @@ related:
 - 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
 - 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 - 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-12-monitor-launchd-veille-ia
+- 2026-05-12-refactor-env-loader-veille-ia
 - 2026-05-12-watchdog-cpu-durgence-pattern-systemd
 schema_version: 1
 source_notes:
@@ -77,3 +79,5 @@ updated: '2026-05-08'
 - [[2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak]] — Cron 23h30 pour ingestion veille (timing off-peak)
 - [[2026-05-08-vault-rag-curator-synthesizer-crons-schedule]] — vault-rag curator synthesizer crons schedule
 - [[2026-05-12-watchdog-cpu-durgence-pattern-systemd]] — Watchdog CPU d'urgence — pattern systemd
+- [[2026-05-12-refactor-env-loader-veille-ia]] — 2026-05-12-refactor-env-loader-veille-ia
+- [[2026-05-12-monitor-launchd-veille-ia]] — 2026-05-12-monitor-launchd-veille-ia

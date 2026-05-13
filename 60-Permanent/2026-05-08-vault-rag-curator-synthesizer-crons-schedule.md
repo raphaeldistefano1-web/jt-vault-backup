@@ -43,6 +43,7 @@ related:
 - 2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo
 - 2026-05-12-cpu-throttling-vps-hostinger-monitoring-via-sar
 - 2026-05-12-mcp-health-check-timeout-ssh-cold-start-python-imp
+- 2026-05-12-monitor-launchd-veille-ia
 - 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
 - 2026-05-12-services-pausable-durgence-docker-systemd-inventor
 - 2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-
@@ -114,3 +115,4 @@ Chaque cron a entrée logrotate (daily, rotate 7, compress). Erreurs catchées v
 - [[2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo]] — Chemins d'accumulation disque connus: Docker, node_modules, logs
 - [[2026-05-12-vault-rag-multi-instance-trade-off-ssh-wrapper-vs-]] — vault-rag multi-instance : trade-off SSH wrapper vs install local
 - [[2026-05-12-procédure-daudit-disque-vps-diagnostic-standard]] — Procédure d'audit disque VPS — diagnostic standard
+- [[2026-05-12-monitor-launchd-veille-ia]] — 2026-05-12-monitor-launchd-veille-ia
