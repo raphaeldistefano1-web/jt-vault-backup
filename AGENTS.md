@@ -11,6 +11,7 @@ backlinks:
 related:
 - 2026-05-08-frontmatter-enrichi-extrait-insights-durables
 - '2026-05-12'
+- '2026-05-13'
 ---
 
 # AGENTS.md — orientation universelle pour les IA
@@ -160,3 +161,4 @@ Pendant la transition, les anciennes notes peuvent avoir un frontmatter incomple
 
 - [[2026-05-08-frontmatter-enrichi-extrait-insights-durables]] — Frontmatter enrichi extrait insights durables
 - [[2026-05-12]] — Veille IA — Mardi 12 mai 2026
+- [[2026-05-13]] — Veille IA — Mercredi 13 mai 2026

@@ -24,6 +24,7 @@ related:
 - 2026-05-07-critères-filtrage-youtube-veille-ia
 - 2026-05-07-structure-répertoires-srvveille-ia-config-external
 - 2026-05-10-questionsprompts-externalisées-par-jeu
+- '2026-05-13'
 - _MOC-claude-system
 - deep-research
 schema_version: 1
@@ -57,3 +58,4 @@ Pattern de coordination multi-agents : chaque finding complexe (ex: Finding #1, 
 - [[_MOC-claude-system]] — MOC Claude System — système IA personnel
 - [[deep-research]] — deep research
 - [[2026-05-10-questionsprompts-externalisées-par-jeu]] — Questions/prompts externalisées par jeu
+- [[2026-05-13]] — Veille IA — Mercredi 13 mai 2026

@@ -27,6 +27,7 @@ related:
 - 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
 - '2026-05-12'
 - 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
+- '2026-05-13'
 - deep-research
 - research-companion
 schema_version: 1
@@ -88,3 +89,4 @@ updated: '2026-05-08'
 - [[2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges]] — Valider systèmes de dispatch via instances vierges
 - [[2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat]] — Workflow itératif : valider par phase plutôt que batch
 - [[2026-05-12]] — Veille IA — Mardi 12 mai 2026
+- [[2026-05-13]] — Veille IA — Mercredi 13 mai 2026
