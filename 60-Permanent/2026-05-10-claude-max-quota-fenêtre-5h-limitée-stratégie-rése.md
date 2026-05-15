@@ -22,10 +22,11 @@ last-accessed: '2026-05-10'
 moc: null
 project: null
 related:
-- codex-peer-review
-- Workflow-Collaboration-IA
-- Decisions-Log
 - CANONICITY
+- Decisions-Log
+- Workflow-Collaboration-IA
+- check-1-critique-2026-05-14-1244
+- codex-peer-review
 - devils-advocate
 schema_version: 1
 source_notes:
@@ -62,3 +63,4 @@ Ne pas utiliser Max comme discipline hebdo. Chaque Major Decision vaut ~4-5h ré
 - [[Decisions-Log]] — Decisions Log
 - [[CANONICITY]] — Canonicité vault ↔ mémoire Claude Code
 - [[devils-advocate]] — devils advocate
+- [[check-1-critique-2026-05-14-1244]] — check-1-critique-2026-05-14-1244

@@ -31,6 +31,7 @@ related:
 - Brainstorm-PMS-Ameliorations-2026-04-25
 - PMS
 - PMS-Stack
+- business-plan
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-10-0114-session-19e3ce30.md
@@ -68,3 +69,4 @@ updated: '2026-05-10'
 - [[2026-05-08-vault-para-multi-projets-chemin-canonique]] — Vault PARA multi-projets chemin canonique
 - [[2026-05-12-hydration-mismatch-418-avec-zustand-nextjs-16]] — Hydration mismatch (#418) avec Zustand + Next.js 16
 - [[2026-05-12-structure-et-composants-du-projet-culsec-nextjs-16]] — Structure et composants du projet culsec (Next.js 16 + Zustand)
+- [[business-plan]] — Cul Sec — Business Plan 2026

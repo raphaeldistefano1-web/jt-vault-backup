@@ -23,10 +23,11 @@ moc: null
 project: null
 related:
 - 2026-05-08-syncthing-p2p-vault-sync-tailscale-only
-- PMS-Desktop-Reference
 - 2026-05-11-stack-cul-sec-nextjs-14-app-router-framer-motion-p
 - OpenClaw-VPS-Reference
+- PMS-Desktop-Reference
 - VPS-Hostinger
+- session
 schema_version: 1
 source_notes:
 - 10-Projects/pms-jardin-tropical/2026-05-12-0207-session-0d81ecb1.md
@@ -74,3 +75,4 @@ ssh vps-pms "cd /var/www/culsec && git status"
 - [[2026-05-11-stack-cul-sec-nextjs-14-app-router-framer-motion-p]] — Stack CUL SEC: Next.js 14 App Router + Framer Motion PWA offline
 - [[OpenClaw-VPS-Reference]] — OpenClaw sur le VPS — Paths, ports, config
 - [[VPS-Hostinger]] — VPS Hostinger
+- [[session]] — session

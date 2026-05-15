@@ -28,9 +28,10 @@ project: null
 related:
 - 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
 - 2026-05-07-structure-répertoires-srvveille-ia-config-external
+- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
 - 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
 - 2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin
-- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- session
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
 - 10-Projects/claude-system/2026-05-07-1128-session-9416e8cf.md
@@ -68,3 +69,4 @@ updated: '2026-05-07'
 - [[2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend]] — Pipeline veille-ia-youtube : ingest→analyze→render→send
 - [[2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin]] — Team interne + task-list pour paralléliser multi-findings
 - [[2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives]] — YouTube Transcript API vs Whisper (priorité natives)
+- [[session]] — session

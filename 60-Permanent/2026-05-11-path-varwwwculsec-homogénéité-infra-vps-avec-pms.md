@@ -42,6 +42,8 @@ related:
 - VPS-Access-Tailscale
 - VPS-Hostinger
 - Vault-Setup
+- business-plan
+- check-1-critique-2026-05-14-1244
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-10-0820-session-19e3ce30.md
@@ -86,3 +88,5 @@ updated: '2026-05-11'
 - [[2026-05-12-accès-vps-culsec-via-tailscale-ssh-alias-monvpsvps]] — Accès VPS culsec via Tailscale + SSH (alias monvps/vps-pms)
 - [[2026-05-12-structure-et-composants-du-projet-culsec-nextjs-16]] — Structure et composants du projet culsec (Next.js 16 + Zustand)
 - [[2026-05-12-procédure-daudit-disque-vps-diagnostic-standard]] — Procédure d'audit disque VPS — diagnostic standard
+- [[business-plan]] — Cul Sec — Business Plan 2026
+- [[check-1-critique-2026-05-14-1244]] — check-1-critique-2026-05-14-1244

@@ -21,11 +21,12 @@ last-accessed: '2026-05-12'
 moc: null
 project: null
 related:
-- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
-- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-3-régimes-dintégration-plugin-distincts
-- _RULES-APPLIED
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-responsive-design-obligatoire-pour-toute-interface
+- 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- _RULES-APPLIED
+- session
 schema_version: 1
 source_notes:
 - 10-Projects/pms-jardin-tropical/2026-05-12-0207-session-0d81ecb1.md
@@ -59,3 +60,4 @@ Dans culsec, des éléments du MOC (layout, spacing, couleurs, states visuels) n
 - [[2026-05-09-3-régimes-dintégration-plugin-distincts]] — 3 régimes d'intégration plugin distincts
 - [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 6 appliquées, 0 archivées
 - [[2026-05-09-responsive-design-obligatoire-pour-toute-interface]] — Responsive design obligatoire pour toute interface UI
+- [[session]] — session

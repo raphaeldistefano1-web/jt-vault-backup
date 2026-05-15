@@ -22,11 +22,12 @@ last-accessed: '2026-05-12'
 moc: null
 project: null
 related:
-- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
-- 2026-05-10-questionsprompts-externalisées-par-jeu
-- 2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq
-- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
 - 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
+- 2026-05-10-questionsprompts-externalisées-par-jeu
+- 2026-05-10-stack-cul-sec-pwa-nextjs-14-app-router
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
+- 2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq
+- business-plan
 schema_version: 1
 source_notes:
 - 10-Projects/pms-jardin-tropical/2026-05-12-0207-session-0d81ecb1.md
@@ -70,3 +71,4 @@ updated: '2026-05-12'
 - [[2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq]] — État global Zustand + hook useGameSession pour logique jeu
 - [[2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms]] — Path `/var/www/culsec/` — homogénéité infra VPS avec PMS
 - [[2026-05-07-pipeline-3-couches-ingestion-curation-livraison]] — Pipeline 3-couches ingestion → curation → livraison
+- [[business-plan]] — Cul Sec — Business Plan 2026
