@@ -25,6 +25,7 @@ related:
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-responsive-design-obligatoire-pour-toute-interface
 - 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
+- 2026-05-15-qa-hygiene-serveur-next-local
 - _RULES-APPLIED
 - session
 schema_version: 1
@@ -61,3 +62,4 @@ Dans culsec, des éléments du MOC (layout, spacing, couleurs, states visuels) n
 - [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 6 appliquées, 0 archivées
 - [[2026-05-09-responsive-design-obligatoire-pour-toute-interface]] — Responsive design obligatoire pour toute interface UI
 - [[session]] — session
+- [[2026-05-15-qa-hygiene-serveur-next-local]] — 2026-05-15-qa-hygiene-serveur-next-local

@@ -12,6 +12,7 @@ related:
 - 2026-05-08-frontmatter-enrichi-extrait-insights-durables
 - '2026-05-12'
 - '2026-05-13'
+- '2026-05-15'
 - check-1-critique-2026-05-14-1244
 ---
 
@@ -164,3 +165,4 @@ Pendant la transition, les anciennes notes peuvent avoir un frontmatter incomple
 - [[2026-05-12]] — Veille IA — Mardi 12 mai 2026
 - [[2026-05-13]] — Veille IA — Mercredi 13 mai 2026
 - [[check-1-critique-2026-05-14-1244]] — check-1-critique-2026-05-14-1244
+- [[2026-05-15]] — Veille IA — Vendredi 15 mai 2026

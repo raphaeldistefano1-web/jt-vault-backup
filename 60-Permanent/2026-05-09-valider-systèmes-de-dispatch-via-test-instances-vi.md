@@ -36,6 +36,7 @@ related:
 - 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
 - 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
 - 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
+- 2026-05-15-qa-hygiene-serveur-next-local
 - codex-peer-review
 - devils-advocate
 schema_version: 1
@@ -106,3 +107,4 @@ Justification : dispatch_advisor introduit de la sophistication (regex, catalogu
 - [[2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a]] — Nouveaux skills doivent être auto-découverts par agents
 - [[2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges]] — Valider systèmes de dispatch via instances vierges
 - [[2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat]] — Workflow itératif : valider par phase plutôt que batch
+- [[2026-05-15-qa-hygiene-serveur-next-local]] — 2026-05-15-qa-hygiene-serveur-next-local

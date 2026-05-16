@@ -21,11 +21,12 @@ last-accessed: '2026-05-12'
 moc: null
 project: null
 related:
-- 2026-05-10-analyse-métier-valider-source-de-données-réelle
-- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
-- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
 - 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl
 - 2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl
+- 2026-05-11-validation-syntax-gate-avant-commit-sur-plugins-ph
+- 2026-05-15-qa-hygiene-serveur-next-local
 schema_version: 1
 source_notes:
 - 10-Projects/jt-migrate/2026-05-11-1747-session-f978e4ee.md
@@ -59,3 +60,4 @@ Avant le cutover final, exécuter une vérification complète : (1) comparaison 
 - [[2026-05-11-scripts-pre-cutover-cleanup-et-post-import-reenabl]] — Scripts pre-cutover cleanup et post-import reenable
 - [[2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod]] — Lesson : profiler services lourds avant scaling prod
 - [[2026-05-11-utiliser-ultrareview-avant-merge-de-changements-pl]] — Utiliser /ultrareview avant merge de changements plugin
+- [[2026-05-15-qa-hygiene-serveur-next-local]] — 2026-05-15-qa-hygiene-serveur-next-local

@@ -29,6 +29,7 @@ related:
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
 - 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
 - '2026-05-13'
+- '2026-05-15'
 - AGENTS
 - INDEX
 - TODO-centralized
@@ -106,3 +107,4 @@ Cette hiérarchie élimine les redémarrages mémoire et structure la recherche 
 - [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle
 - [[2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério]] — Mémoire Claude accumule sans archivage — audit périodique requis
 - [[2026-05-13]] — Veille IA — Mercredi 13 mai 2026
+- [[2026-05-15]] — Veille IA — Vendredi 15 mai 2026

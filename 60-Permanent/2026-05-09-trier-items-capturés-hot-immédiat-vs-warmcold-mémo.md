@@ -38,6 +38,7 @@ related:
 - 2026-05-10-analyse-métier-valider-source-de-données-réelle
 - 2026-05-12-hydration-mismatch-418-avec-zustand-nextjs-16
 - 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
+- 2026-05-15-qa-hygiene-serveur-next-local
 - CANONICITY
 - TODO-centralized
 - note-schema
@@ -113,3 +114,4 @@ Quand l'utilisateur dit "fais X maintenant, garde Y en mémoire" : respecter ce 
 - [[2026-05-10-analyse-métier-valider-source-de-données-réelle]] — Analyse métier — valider source de données réelle
 - [[2026-05-12-hydration-mismatch-418-avec-zustand-nextjs-16]] — Hydration mismatch (#418) avec Zustand + Next.js 16
 - [[2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério]] — Mémoire Claude accumule sans archivage — audit périodique requis
+- [[2026-05-15-qa-hygiene-serveur-next-local]] — 2026-05-15-qa-hygiene-serveur-next-local

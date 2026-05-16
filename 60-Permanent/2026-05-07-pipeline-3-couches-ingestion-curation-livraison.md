@@ -31,6 +31,7 @@ related:
 - 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
 - 2026-05-08-config-externalisée-env-prompts-markdown-séparés-d
 - 2026-05-11-architecture-jeux-extensible-registry-gameshell-is
+- 2026-05-15-culsec-rebalancer-banques-questions
 - _Index
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
@@ -81,3 +82,4 @@ updated: '2026-05-07'
 - [[2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives]] — YouTube Transcript API vs Whisper (priorité natives)
 - [[_Index]] — Index — pms-jardin-tropical
 - [[2026-05-11-architecture-jeux-extensible-registry-gameshell-is]] — Architecture jeux extensible: registry + GameShell + isolement composant
+- [[2026-05-15-culsec-rebalancer-banques-questions]] — 2026-05-15-culsec-rebalancer-banques-questions

@@ -37,6 +37,7 @@ related:
 - 2026-05-12-migration-architecture-claude-vps-mac-mini
 - 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
 - 2026-05-12-structure-et-composants-du-projet-culsec-nextjs-16
+- 2026-05-15-sync-to-vps-tuer-orphelin-port
 - PMS-Desktop-Reference
 - Stack-Tech
 - VPS-Access-Tailscale
@@ -90,3 +91,4 @@ updated: '2026-05-11'
 - [[2026-05-12-procédure-daudit-disque-vps-diagnostic-standard]] — Procédure d'audit disque VPS — diagnostic standard
 - [[business-plan]] — Cul Sec — Business Plan 2026
 - [[check-1-critique-2026-05-14-1244]] — check-1-critique-2026-05-14-1244
+- [[2026-05-15-sync-to-vps-tuer-orphelin-port]] — 2026-05-15-sync-to-vps-tuer-orphelin-port

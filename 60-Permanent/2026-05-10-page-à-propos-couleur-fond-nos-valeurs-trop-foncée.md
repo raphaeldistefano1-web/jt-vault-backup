@@ -24,6 +24,7 @@ related:
 - 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
 - 2026-05-09-responsive-design-obligatoire-pour-toute-interface
 - 2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul
+- 2026-05-15-culsec-rebalancer-banques-questions
 - color-expert
 - impeccable
 schema_version: 1
@@ -112,3 +113,4 @@ Page à-propos (instance C), rubrique « nos valeurs » : couleur de fond actuel
 - [[2026-05-09-anti-pattern-redonder-info-du-contexte-injecté]] — Anti-pattern : redonder info du contexte injecté
 - [[2026-05-09-responsive-design-obligatoire-pour-toute-interface]] — Responsive design obligatoire pour toute interface UI
 - [[2026-05-12-refonte-visuelle-non-fialisée-vs-moc-du-projet-cul]] — Refonte visuelle non-fialisée vs MOC du projet culsec
+- [[2026-05-15-culsec-rebalancer-banques-questions]] — 2026-05-15-culsec-rebalancer-banques-questions
