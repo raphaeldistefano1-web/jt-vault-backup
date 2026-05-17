@@ -1,10 +1,10 @@
 ---
-id: 20260516-vault-health
+id: 20260517-vault-health
 type: report
 title: "🚨 Vault Health Check"
 project: claude-system
 status: active
-summary: "Health check vault — généré 2026-05-16T04:00:01+0000"
+summary: "Health check vault — généré 2026-05-17T04:00:02+0000"
 intent: monitor
 tier: hot
 tags: [health, monitor, ai-generated, alert]
@@ -12,7 +12,7 @@ ai_writable: false
 auto-generated: true
 ---
 
-# 🏥 Vault Health — 2026-05-16 04:00:01 UTC
+# 🏥 Vault Health — 2026-05-17 04:00:02 UTC
 
 ## Synthèse
 - **srv1524600** — 7 checks OK / 2 critical sur 9
@@ -22,19 +22,19 @@ auto-generated: true
 | Check | État | Détail |
 |---|---|---|
 | Ollama | ✅ | version 0.23.1 |
-| Vault.db | ✅ | integrity ok, 14.7 MB |
-| Curator log | ✅ | dernier run 2026-05-16 03:01 (il y a 1.0h) |
-| Synthesizer log | ✅ | dernier run 2026-05-15 04:01 (il y a 24.0h) |
+| Vault.db | ✅ | integrity ok, 15.3 MB |
+| Curator log | ✅ | dernier run 2026-05-17 03:02 (il y a 1.0h) |
+| Synthesizer log | ✅ | dernier run 2026-05-17 00:00 (il y a 4.0h) |
 | Inbox backlog | ✅ | 0 notes en backlog |
-| Notes non consolidées | ❌ | 125/595 notes non consolidated (> 50) |
-| Index sync (FS vs DB) | ❌ | disk=865, db=806, drift=+59 (>5 → reindex incomplet) |
-| Syncthing folder | ✅ | idle, 909 files, 0 errors |
-| Disk free / | ✅ | 53.4 GB libre / 96 GB (44% used) |
+| Notes non consolidées | ❌ | 99/623 notes non consolidated (> 50) |
+| Index sync (FS vs DB) | ❌ | disk=894, db=836, drift=+58 (>5 → reindex incomplet) |
+| Syncthing folder | ✅ | idle, 938 files, 0 errors |
+| Disk free / | ✅ | 53.3 GB libre / 96 GB (44% used) |
 
 ## Actions recommandées
 
-- **Notes non consolidées** — 125/595 notes non consolidated (> 50)
-- **Index sync (FS vs DB)** — disk=865, db=806, drift=+59 (>5 → reindex incomplet)
+- **Notes non consolidées** — 99/623 notes non consolidated (> 50)
+- **Index sync (FS vs DB)** — disk=894, db=836, drift=+58 (>5 → reindex incomplet)
 
 ---
 

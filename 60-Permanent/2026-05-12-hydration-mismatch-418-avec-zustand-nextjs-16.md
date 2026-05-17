@@ -29,6 +29,7 @@ related:
 - 2026-05-11-stack-cul-sec-nextjs-14-app-router-framer-motion-p
 - 2026-05-11-état-global-zustand-hook-usegamesession-pour-logiq
 - 2026-05-15-qa-hygiene-serveur-next-local
+- 2026-05-16-culsec-premium-validation-serveur
 schema_version: 1
 source_notes:
 - 10-Projects/pms-jardin-tropical/2026-05-12-0207-session-0d81ecb1.md
@@ -65,3 +66,4 @@ Erreur React #418 survient typiquement sur pages utilisant Zustand (ou store cli
 - [[2026-05-11-stack-cul-sec-nextjs-14-app-router-framer-motion-p]] — Stack CUL SEC: Next.js 14 App Router + Framer Motion PWA offline
 - [[2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo]] — Trier items capturés : hot (immédiat) vs warm/cold (mémoire)
 - [[2026-05-15-qa-hygiene-serveur-next-local]] — 2026-05-15-qa-hygiene-serveur-next-local
+- [[2026-05-16-culsec-premium-validation-serveur]] — 2026-05-16-culsec-premium-validation-serveur

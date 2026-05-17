@@ -20,6 +20,7 @@ entities:
 id: 202605141200-culsec-business-plan
 project: culsec
 related:
+- 2026-05-16-culsec-premium-validation-serveur
 - '[[10-Projects/culsec/_MOC-culsec]]'
 - '[[50-MOCs/Decisions-Log]]'
 - check-1-critique-2026-05-14-1244
@@ -1015,3 +1016,4 @@ Les fixes de v2 résolvent l'essentiel des findings Codex + DA. Restent ces poin
 
 - [[session]] — session
 - [[check-1-critique-2026-05-14-1244]] — check-1-critique-2026-05-14-1244
+- [[2026-05-16-culsec-premium-validation-serveur]] — 2026-05-16-culsec-premium-validation-serveur

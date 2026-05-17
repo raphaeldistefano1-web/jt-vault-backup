@@ -24,9 +24,10 @@ last-accessed: 2026-05-07
 moc: '[[_MOC-openclaw]]'
 project: openclaw
 related:
-- '[[_MOC-openclaw]]'
-- '[[OpenClaw-VPS-Reference]]'
+- 2026-05-16-culsec-premium-validation-serveur
 - '[[OpenClaw-Pieges-Dev]]'
+- '[[OpenClaw-VPS-Reference]]'
+- '[[_MOC-openclaw]]'
 source: memory:project_openclaw_plugin.md
 status: active
 summary: Plugin jardin-tropical-pms avec OAuth OpenAI Codex sur /dashboard/ai, routes
@@ -84,3 +85,7 @@ Initiative démarrée le 2026-04-22 pour brancher l'assistant IA du PMS sur l'ab
 - Référence VPS : [[OpenClaw-VPS-Reference]]
 - Pièges dev : [[OpenClaw-Pieges-Dev]]
 - Source : `memory:project_openclaw_plugin.md`
+
+## Related
+
+- [[2026-05-16-culsec-premium-validation-serveur]] — 2026-05-16-culsec-premium-validation-serveur
