@@ -1,24 +1,29 @@
 ---
-id: 20260510-feedback-pending
+id: 20260517-feedback-pending
 type: report
-title: "📋 Feedback rules en attente — 0 rule"
+title: "📋 Feedback rules en attente — 1 rule"
 project: claude-system
 status: active
-summary: "Aucune feedback-rule en attente — rien à valider"
+summary: "1 rule auto-apprises depuis tes corrections — lance /reflect-vault pour valider"
 intent: monitor
-tier: cold
-tags: [feedback, pending, ai-generated]
+tier: hot
+tags: [feedback, pending, alert, ai-generated]
 ai_writable: false
 auto-generated: true
 schema_version: 1
 ---
 
-# 📋 Feedback rules en attente — 2026-05-10 09:00 UTC
+# 📋 Feedback rules en attente — 2026-05-17 09:00 UTC
 
-Aucune rule en attente. ✅
+> **1** rule synthétisée par le `vault-synthesizer` attend ta validation.
+> Lance la slash-command `/reflect-vault` dans une session Claude Code pour les passer en revue.
 
 
-_Le `vault-synthesizer` n'a extrait aucune `feedback-rule` avec `status: pending` depuis tes dernières corrections._
+## Rules en attente
+
+### 🟡 MEDIUM (approbations)
+
+1. **Après chaque étape migration (installation plugin, import data, déploiement), exécuter systématiquement: test perf (comparison instances), vérification fonctionnelle (éléments critiques), comparaison d'état avant validation.** — _source: [[60-Permanent/2026-05-11-testing-vérification-obligatoires-après-chaque-éta]]_
 
 ---
 

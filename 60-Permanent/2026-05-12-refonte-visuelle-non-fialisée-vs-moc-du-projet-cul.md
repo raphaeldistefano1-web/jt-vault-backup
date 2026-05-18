@@ -26,6 +26,7 @@ related:
 - 2026-05-09-responsive-design-obligatoire-pour-toute-interface
 - 2026-05-10-page-à-propos-couleur-fond-nos-valeurs-trop-foncée
 - 2026-05-15-qa-hygiene-serveur-next-local
+- 2026-05-17-culsec-icone-master-1024
 - _RULES-APPLIED
 - session
 schema_version: 1
@@ -63,3 +64,4 @@ Dans culsec, des éléments du MOC (layout, spacing, couleurs, states visuels) n
 - [[2026-05-09-responsive-design-obligatoire-pour-toute-interface]] — Responsive design obligatoire pour toute interface UI
 - [[session]] — session
 - [[2026-05-15-qa-hygiene-serveur-next-local]] — 2026-05-15-qa-hygiene-serveur-next-local
+- [[2026-05-17-culsec-icone-master-1024]] — 2026-05-17-culsec-icone-master-1024
