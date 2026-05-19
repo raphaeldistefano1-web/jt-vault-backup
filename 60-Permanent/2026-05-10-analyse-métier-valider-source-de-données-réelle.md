@@ -36,6 +36,7 @@ related:
 - 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
 - 2026-05-12-vérification-pre-cutover-systématique-perf-et-diff
 - 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
+- 2026-05-18-couplage-monetisation-avis-aso
 - deep-research
 - queries
 schema_version: 1
@@ -82,3 +83,4 @@ usage_count: 0
 - [[2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo]] — Trier items capturés : hot (immédiat) vs warm/cold (mémoire)
 - [[2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat]] — Workflow itératif : valider par phase plutôt que batch
 - [[2026-05-12-vérification-pre-cutover-systématique-perf-et-diff]] — Vérification pre-cutover systématique : perf et différences
+- [[2026-05-18-couplage-monetisation-avis-aso]] — 2026-05-18-couplage-monetisation-avis-aso

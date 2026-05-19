@@ -30,6 +30,7 @@ related:
 - 2026-05-08-team-interne-task-list-pour-paralléliser-multi-fin
 - 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
 - 2026-05-12-refactor-env-loader-veille-ia
+- 2026-05-18-veille-ia-429-subs-whisper-fragile
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-08-0844-session-e172a5dd.md
@@ -62,3 +63,4 @@ Architecture pipeline complète et réutilisable : **1) Ingest** : `ingest.py` t
 - [[2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti]] — YouTube bloque requêtes datacenter — proxy résidentiel
 - [[2026-05-07-haiku-pour-curation-veille-ia-économie-tokens]] — Haiku pour curation veille IA (économie tokens)
 - [[2026-05-12-refactor-env-loader-veille-ia]] — 2026-05-12-refactor-env-loader-veille-ia
+- [[2026-05-18-veille-ia-429-subs-whisper-fragile]] — 2026-05-18-veille-ia-429-subs-whisper-fragile

@@ -20,11 +20,12 @@ last-accessed: '2026-05-10'
 moc: null
 project: null
 related:
+- 2026-05-18-couplage-monetisation-avis-aso
 - Brainstorm-PMS-Ameliorations-2026-04-25
+- Test-jt-booking-PMS-2026-04-25
 - Tests-PMS-Batterie-2026-04-25
 - _Index
 - n8n-Reference
-- Test-jt-booking-PMS-2026-04-25
 schema_version: 1
 source_notes:
 - 10-Projects/pms-jardin-tropical/2026-05-09-1524-session-b53ba567.md
@@ -63,3 +64,4 @@ Le doute exprimé (« tu es sur de tout les chiffres ? ca me parrait pas grand c
 - [[_Index]] — Index — pms-jardin-tropical
 - [[n8n-Reference]] — n8n self-hosted — URLs, paths, credentials, commandes
 - [[Test-jt-booking-PMS-2026-04-25]] — Test jt booking PMS 2026 04 25
+- [[2026-05-18-couplage-monetisation-avis-aso]] — 2026-05-18-couplage-monetisation-avis-aso

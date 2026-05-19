@@ -31,6 +31,7 @@ related:
 - 2026-05-12-procédure-daudit-disque-vps-diagnostic-standard
 - 2026-05-12-upgrade-whisper-model-apple-silicon
 - 2026-05-12-watchdog-cpu-durgence-pattern-systemd
+- 2026-05-18-veille-ia-429-subs-whisper-fragile
 - '[[Stack-Tech]]'
 - '[[_MOC-montage-video]]'
 source: memory:reference_whisper_vps.md
@@ -110,3 +111,4 @@ Sortie écrite à côté du fichier source (même basename, extension du format)
 - [[2026-05-12-chemins-daccumulation-disque-connus-docker-node-mo]] — Chemins d'accumulation disque connus: Docker, node_modules, logs
 - [[2026-05-12-procédure-daudit-disque-vps-diagnostic-standard]] — Procédure d'audit disque VPS — diagnostic standard
 - [[2026-05-12-upgrade-whisper-model-apple-silicon]] — 2026-05-12-upgrade-whisper-model-apple-silicon
+- [[2026-05-18-veille-ia-429-subs-whisper-fragile]] — 2026-05-18-veille-ia-429-subs-whisper-fragile

@@ -10,24 +10,24 @@ tier: hot
 tags: [moc, index, auto-generated, root]
 ai_writable: false
 auto-generated: true
-updated: 2026-05-18
+updated: 2026-05-19
 ---
 
 # 🗂️ Vault Index
 
-> Auto-régénéré le **2026-05-18 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
+> Auto-régénéré le **2026-05-19 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
 
 Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un dossier **60-Permanent** pour les insights atomiques distillés. Chaque note a un frontmatter riche (`intent`, `topic_cluster`, `tier`, `related`) parseable.
 
 ## 🔧 Projets actifs
 
-- [[10-Projects/claude-system/_Index|claude-system]] (438 notes)
+- [[10-Projects/claude-system/_Index|claude-system]] (457 notes)
 - [[10-Projects/desktop-app-electron/_Index|desktop-app-electron]] (6 notes)
 - [[10-Projects/jt-migrate/_Index|jt-migrate]] (100 notes)
 - [[10-Projects/montage-video/_Index|montage-video]] (0 notes)
 - [[10-Projects/n8n-automations/_Index|n8n-automations]] (2 notes)
 - [[10-Projects/openclaw-plugin/_Index|openclaw-plugin]] (27 notes)
-- [[10-Projects/pms-jardin-tropical/_Index|pms-jardin-tropical]] (74 notes)
+- [[10-Projects/pms-jardin-tropical/_Index|pms-jardin-tropical]] (80 notes)
 - [[10-Projects/site-wordpress/_Index|site-wordpress]] (53 notes)
 
 ## 🧠 Top topic clusters
@@ -152,7 +152,7 @@ Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un 
 ### `monitor` (3)
 - [[_FEEDBACK-PENDING]] — 📋 Feedback rules en attente — 1 rule
 - [[_HEALTH]] — 🚨 Vault Health Check
-- [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 6 appliquées, 0 archivées
+- [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 2 appliquées, 0 archivées
 
 ## 📚 Couches du vault
 

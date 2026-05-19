@@ -26,6 +26,7 @@ related:
 - 2026-05-09-claude-max-5x-fenêtre-courte-à-réserver
 - '2026-05-12'
 - '2026-05-17'
+- '2026-05-18'
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1126-session-9416e8cf.md
 - 10-Projects/claude-system/2026-05-07-1128-session-9416e8cf.md
@@ -61,3 +62,4 @@ updated: '2026-05-07'
 - [[2026-05-07]] — Veille IA — Jeudi 7 mai 2026
 - [[2026-05-12]] — Veille IA — Mardi 12 mai 2026
 - [[2026-05-17]] — Veille IA — Dimanche 17 mai 2026
+- [[2026-05-18]] — Veille IA — Lundi 18 mai 2026

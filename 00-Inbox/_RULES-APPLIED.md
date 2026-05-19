@@ -1,37 +1,36 @@
 ---
-id: 20260511-rules-applied
+id: 20260518-rules-applied
 schema_version: 1
 type: report
-title: "📋 Rules apprises cette semaine — 6 appliquées, 0 archivées"
+title: "📋 Rules apprises cette semaine — 2 appliquées, 0 archivées"
 project: claude-system
 status: active
-summary: "6 rules auto-appliquées par le synthesizer, 0 archivées par le curator (cette semaine)."
+summary: "2 rules auto-appliquées par le synthesizer, 0 archivées par le curator (cette semaine)."
 intent: monitor
 tier: cold
 tags: [rules, applied, ai-generated]
 ai_writable: false
 auto-generated: true
-created: 2026-05-11
+created: 2026-05-18
 ---
 
-# 📋 Rules apprises — semaine du 2026-05-04 au 2026-05-11
+# 📋 Rules apprises — semaine du 2026-05-11 au 2026-05-18
 
-**Résumé** : 6 rule(s) auto-appliquée(s) · 0 archivée(s) par le curator · 0 conflit(s) en attente.
+**Résumé** : 2 rule(s) auto-appliquée(s) · 0 archivée(s) par le curator · 0 conflit(s) en attente.
 
 ## ✅ Auto-appliquées cette semaine
 
-### MEDIUM (6)
+### HIGH (1)
 
-- **Toute interface doit être responsive et testée sur 375px, 768px, 1024px+. Valider via Chrome devtools mobile AVANT déclaré terminé.** — `2026-05-09-responsive-design-obligatoire-pour-toute-interface` _(usage: 0x)_
-- **Avant de déclarer un système de dispatch/suggestion (hook, agent, skill) prêt à la production, exécuter 3-5 sessions de test sur instances vierges via team Agent, documenter anomalies, puis générer recommandations et ajustements.** — `2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi` _(usage: 0x)_
-- **Quand capturant des infos/décisions, respecter le tier proposé par l'utilisateur : hot (actionner immédiatement, ajouter todo), warm (mémoriser, relire 1-2 semaines), cold (archive). Ne pas traiter cold comme hot (waste motionnel).** — `2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo` _(usage: 0x)_
-- **Avant analyse de données métier (taux, statistiques, financière), accéder directement aux sources (API, BDD) plutôt que mémoire. Déclarer explicitement si données partielles ou stale.** — `2026-05-10-analyse-métier-valider-source-de-données-réelle` _(usage: 0x)_
-- **Les agents doivent auto-découvrir les skills disponibles via le registry (file-based ou API) au lieu d'une liste statique à mettre à jour manuellement.** — `2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a` _(usage: 0x)_
-- **Avant de déclarer un système de dispatch/hooks/suggestion finalisé, tester via instances vierges.** — `2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges` _(usage: 0x)_
+- **Tout VPS en production doit avoir un watchdog CPU qui arrête services préemptivement à 80% et envoie email rapport.** — `2026-05-12-auto-arrêt-à-80-cpu-notification-email` _(usage: 0x)_
+
+### MEDIUM (1)
+
+- **Pour les migrations et features multi-phase, valider chaque étape avant de planifier la suivante. Ne pas assumer un grand plan ; laisser le feedback utilisateur décider la trajectoire.** — `2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat` _(usage: 0x)_
 
 ---
 
 **Comment retirer une rule** : `/revoke-rule <id>` dans une session Claude Code.
 **Comment voir toutes les rules actives** : `cat /root/.claude/CLAUDE.md | grep -A 200 'Rules apprises'`.
 
-_Rapport généré le 2026-05-11 09:00 par `vault-rules-applied` (cron lundi 9h Paris)._
+_Rapport généré le 2026-05-18 09:00 par `vault-rules-applied` (cron lundi 9h Paris)._

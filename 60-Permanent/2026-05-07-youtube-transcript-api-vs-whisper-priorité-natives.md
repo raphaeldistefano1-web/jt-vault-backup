@@ -23,6 +23,7 @@ related:
 - 2026-05-07-pipeline-3-couches-ingestion-curation-livraison
 - 2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti
 - 2026-05-12-upgrade-whisper-model-apple-silicon
+- 2026-05-18-veille-ia-429-subs-whisper-fragile
 - Whisper-VPS-Reference
 - _MOC-montage-video
 source_notes:
@@ -64,3 +65,4 @@ updated: '2026-05-07'
 - [[2026-05-07-pipeline-3-couches-ingestion-curation-livraison]] — Pipeline 3-couches ingestion → curation → livraison
 - [[2026-05-08-youtube-bloque-requêtes-datacenter-proxy-résidenti]] — YouTube bloque requêtes datacenter — proxy résidentiel
 - [[2026-05-12-upgrade-whisper-model-apple-silicon]] — 2026-05-12-upgrade-whisper-model-apple-silicon
+- [[2026-05-18-veille-ia-429-subs-whisper-fragile]] — 2026-05-18-veille-ia-429-subs-whisper-fragile

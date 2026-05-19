@@ -18,11 +18,12 @@ last-accessed: '2026-05-08'
 moc: null
 project: null
 related:
-- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
-- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
-- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
 - 2026-05-07-critères-filtrage-youtube-veille-ia
 - 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
+- 2026-05-08-pipeline-veille-ia-youtube-ingestanalyzerendersend
+- 2026-05-18-veille-ia-429-subs-whisper-fragile
 schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-07-1424-session-e172a5dd.md
@@ -72,3 +73,4 @@ updated: '2026-05-08'
 - [[2026-05-07-youtube-transcript-api-vs-whisper-priorité-natives]] — YouTube Transcript API vs Whisper (priorité natives)
 - [[2026-05-07-critères-filtrage-youtube-veille-ia]] — Critères filtrage YouTube veille-ia
 - [[2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak]] — Cron 23h30 pour ingestion veille (timing off-peak)
+- [[2026-05-18-veille-ia-429-subs-whisper-fragile]] — 2026-05-18-veille-ia-429-subs-whisper-fragile
