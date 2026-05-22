@@ -10,19 +10,19 @@ tier: hot
 tags: [moc, index, auto-generated, root]
 ai_writable: false
 auto-generated: true
-updated: 2026-05-21
+updated: 2026-05-22
 ---
 
 # 🗂️ Vault Index
 
-> Auto-régénéré le **2026-05-21 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
+> Auto-régénéré le **2026-05-22 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
 
 Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un dossier **60-Permanent** pour les insights atomiques distillés. Chaque note a un frontmatter riche (`intent`, `topic_cluster`, `tier`, `related`) parseable.
 
 ## 🔧 Projets actifs
 
-- [[10-Projects/claude-system/_Index|claude-system]] (510 notes)
-- [[10-Projects/desktop-app-electron/_Index|desktop-app-electron]] (6 notes)
+- [[10-Projects/claude-system/_Index|claude-system]] (545 notes)
+- [[10-Projects/desktop-app-electron/_Index|desktop-app-electron]] (12 notes)
 - [[10-Projects/jt-migrate/_Index|jt-migrate]] (100 notes)
 - [[10-Projects/montage-video/_Index|montage-video]] (0 notes)
 - [[10-Projects/n8n-automations/_Index|n8n-automations]] (2 notes)
