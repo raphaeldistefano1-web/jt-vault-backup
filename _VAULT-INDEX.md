@@ -10,12 +10,12 @@ tier: hot
 tags: [moc, index, auto-generated, root]
 ai_writable: false
 auto-generated: true
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # 🗂️ Vault Index
 
-> Auto-régénéré le **2026-05-25 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
+> Auto-régénéré le **2026-05-26 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
 
 Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un dossier **60-Permanent** pour les insights atomiques distillés. Chaque note a un frontmatter riche (`intent`, `topic_cluster`, `tier`, `related`) parseable.
 
@@ -152,7 +152,7 @@ Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un 
 ### `monitor` (3)
 - [[_FEEDBACK-PENDING]] — 📋 Feedback rules en attente — 1 rule
 - [[_HEALTH]] — 🚨 Vault Health Check
-- [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 2 appliquées, 0 archivées
+- [[_RULES-APPLIED]] — 📋 Rules apprises cette semaine — 0 appliquées, 0 archivées
 
 ## 📚 Couches du vault
 
