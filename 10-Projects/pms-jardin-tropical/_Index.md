@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-26
-updated: 2026-05-26
+created: 2026-05-27
+updated: 2026-05-27
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — pms-jardin-tropical
 
-> Auto-régénéré le 2026-05-26 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-27 03:00 par `vault-rag-curator`.
 
 ## HOT (7)
 
@@ -27,7 +27,7 @@ ai_writable: false
 - [[PMS-Stack]] — Stack technique PMS — Next.js 15 + Postgres + Prisma 6 + PM2 + NextAuth v5 + OpenClaw Gateway loopback.
 - [[Tests-PMS-Batterie-2026-04-25]] — Batterie tests PMS complets — 22 endpoints OK, 26 pages OK, TTFB < 120ms, 7 findings mineurs documentés.
 
-## COLD (76)
+## COLD (77)
 
 - [[2026-05-08-1007-session-4d0a55cb]] — Session Claude Code du 2026-05-08 10:07 sur projet pms-jardin-tropical (4 edits, 1 créations, 30 bash).
 - [[2026-05-08-1344-session-8d305207]] — Session Claude Code du 2026-05-08 13:44 sur projet pms-jardin-tropical (4 edits, 10 créations, 58 bash).
@@ -105,3 +105,4 @@ ai_writable: false
 - [[2026-05-12-1022-session-0d81ecb1]] — Session Claude Code du 2026-05-12 10:22 sur projet unknown (18 edits, 1 créations, 180 bash).
 - [[2026-05-12-1040-session-0d81ecb1]] — Session Claude Code du 2026-05-12 10:40 sur projet unknown (18 edits, 3 créations, 216 bash).
 - [[2026-05-12-1658-session-0d81ecb1]] — Session Claude Code du 2026-05-12 16:58 sur projet unknown (18 edits, 3 créations, 218 bash).
+- [[2026-05-26-1921-session-17e25838]] — Session Claude Code du 2026-05-26 19:21 sur projet unknown (0 edits, 0 créations, 6 bash).
