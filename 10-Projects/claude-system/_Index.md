@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-28
-updated: 2026-05-28
+created: 2026-05-29
+updated: 2026-05-29
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-05-28 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-29 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (604)
+## COLD (611)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -464,6 +464,13 @@ ai_writable: false
 - [[2026-05-27-2313-session-44b87bc1]] — Session Claude Code du 2026-05-27 23:13 sur projet unknown (42 edits, 45 créations, 174 bash).
 - [[2026-05-27-2324-session-44b87bc1]] — Session Claude Code du 2026-05-27 23:24 sur projet unknown (42 edits, 45 créations, 177 bash).
 - [[2026-05-27-2330-session-44b87bc1]] — Session Claude Code du 2026-05-27 23:30 sur projet unknown (42 edits, 45 créations, 181 bash).
+- [[2026-05-28-1444-session-44b87bc1]] — Session Claude Code du 2026-05-28 14:44 sur projet unknown (42 edits, 47 créations, 187 bash).
+- [[2026-05-28-1453-session-44b87bc1]] — Session Claude Code du 2026-05-28 14:53 sur projet unknown (42 edits, 47 créations, 192 bash).
+- [[2026-05-28-1456-session-44b87bc1]] — Session Claude Code du 2026-05-28 14:56 sur projet unknown (42 edits, 47 créations, 193 bash).
+- [[2026-05-28-1459-session-315af8be]] — Session Claude Code du 2026-05-28 14:59 sur projet unknown (1 edits, 0 créations, 5 bash).
+- [[2026-05-28-1510-session-315af8be]] — Session Claude Code du 2026-05-28 15:10 sur projet unknown (1 edits, 1 créations, 10 bash).
+- [[2026-05-28-1822-session-315af8be]] — Session Claude Code du 2026-05-28 18:22 sur projet claude-system (1 edits, 2 créations, 14 bash).
+- [[2026-05-28-1836-session-315af8be]] — Session Claude Code du 2026-05-28 18:36 sur projet claude-system (2 edits, 3 créations, 21 bash).
 - [[2026-05-10-0114-session-19e3ce30]] — Session Claude Code du 2026-05-10 01:14 sur projet unknown (14 edits, 40 créations, 59 bash).
 - [[2026-05-10-0820-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:20 sur projet unknown (14 edits, 40 créations, 65 bash).
 - [[2026-05-10-0827-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:27 sur projet unknown (14 edits, 40 créations, 65 bash).
