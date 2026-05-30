@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-29
-updated: 2026-05-29
+created: 2026-05-30
+updated: 2026-05-30
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-05-29 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-30 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (611)
+## COLD (650)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -471,6 +471,23 @@ ai_writable: false
 - [[2026-05-28-1510-session-315af8be]] — Session Claude Code du 2026-05-28 15:10 sur projet unknown (1 edits, 1 créations, 10 bash).
 - [[2026-05-28-1822-session-315af8be]] — Session Claude Code du 2026-05-28 18:22 sur projet claude-system (1 edits, 2 créations, 14 bash).
 - [[2026-05-28-1836-session-315af8be]] — Session Claude Code du 2026-05-28 18:36 sur projet claude-system (2 edits, 3 créations, 21 bash).
+- [[2026-05-29-1041-session-315af8be]] — Session Claude Code du 2026-05-29 10:41 sur projet unknown (12 edits, 3 créations, 25 bash).
+- [[2026-05-29-1104-session-315af8be]] — Session Claude Code du 2026-05-29 11:04 sur projet unknown (12 edits, 3 créations, 27 bash).
+- [[2026-05-29-1104-session-d7aa6455]] — Session Claude Code du 2026-05-29 11:04 sur projet unknown (0 edits, 0 créations, 0 bash).
+- [[2026-05-29-1105-session-315af8be]] — Session Claude Code du 2026-05-29 11:05 sur projet unknown (12 edits, 3 créations, 30 bash).
+- [[2026-05-29-1106-session-315af8be]] — Session Claude Code du 2026-05-29 11:06 sur projet unknown (12 edits, 3 créations, 30 bash).
+- [[2026-05-29-1106-session-d7aa6455]] — Session Claude Code du 2026-05-29 11:06 sur projet unknown (0 edits, 0 créations, 2 bash).
+- [[2026-05-29-1109-session-315af8be]] — Session Claude Code du 2026-05-29 11:09 sur projet unknown (12 edits, 3 créations, 30 bash).
+- [[2026-05-29-1121-session-315af8be]] — Session Claude Code du 2026-05-29 11:21 sur projet unknown (12 edits, 3 créations, 31 bash).
+- [[2026-05-29-1122-session-315af8be]] — Session Claude Code du 2026-05-29 11:22 sur projet unknown (12 edits, 3 créations, 33 bash).
+- [[2026-05-29-1130-session-315af8be]] — Session Claude Code du 2026-05-29 11:30 sur projet unknown (12 edits, 3 créations, 36 bash).
+- [[2026-05-29-1140-session-315af8be]] — Session Claude Code du 2026-05-29 11:40 sur projet unknown (12 edits, 3 créations, 37 bash).
+- [[2026-05-29-1141-session-315af8be]] — Session Claude Code du 2026-05-29 11:41 sur projet unknown (12 edits, 3 créations, 39 bash).
+- [[2026-05-29-1147-session-315af8be]] — Session Claude Code du 2026-05-29 11:47 sur projet unknown (12 edits, 3 créations, 43 bash).
+- [[2026-05-29-1151-session-315af8be]] — Session Claude Code du 2026-05-29 11:51 sur projet unknown (12 edits, 3 créations, 45 bash).
+- [[2026-05-29-1915-session-b92fb645]] — Session Claude Code du 2026-05-29 19:15 sur projet unknown (0 edits, 0 créations, 0 bash).
+- [[2026-05-29-1916-session-b92fb645]] — Session Claude Code du 2026-05-29 19:16 sur projet unknown (0 edits, 0 créations, 0 bash).
+- [[claude-mem-2026-05-29-1149-raphia-1a9db5d6]] — Successfully created two tasks in TickTick Inbox: "Cyclone : faire un mode équipe" (ID 6a197d56) and "Cyclone : faire un…
 - [[2026-05-10-0114-session-19e3ce30]] — Session Claude Code du 2026-05-10 01:14 sur projet unknown (14 edits, 40 créations, 59 bash).
 - [[2026-05-10-0820-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:20 sur projet unknown (14 edits, 40 créations, 65 bash).
 - [[2026-05-10-0827-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:27 sur projet unknown (14 edits, 40 créations, 65 bash).
@@ -511,6 +528,9 @@ ai_writable: false
 - [[2026-05-07-1257-session-b3219199]] — Session Claude Code du 2026-05-07 12:57 sur projet unknown (1 edits, 1 créations, 24 bash).
 - [[2026-05-07-1259-session-b3219199]] — Session Claude Code du 2026-05-07 12:59 sur projet unknown (1 edits, 1 créations, 28 bash).
 - [[2026-05-07-1305-session-b3219199]] — Session Claude Code du 2026-05-07 13:05 sur projet unknown (1 edits, 1 créations, 29 bash).
+- [[2026-05-29-1115-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:15 sur projet claude-system (0 edits, 0 créations, 12 bash).
+- [[2026-05-29-1126-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:26 sur projet claude-system (0 edits, 0 créations, 12 bash).
+- [[2026-05-29-1150-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:50 sur projet claude-system (2 edits, 2 créations, 29 bash).
 - [[2026-05-07-1215-session-158ff0de 2]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
 - [[2026-05-07-1215-session-158ff0de]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
 - [[2026-05-07-1225-session-158ff0de]] — Session Claude Code du 2026-05-07 12:25 sur projet claude-system (0 edits, 0 créations, 21 bash).
@@ -547,6 +567,24 @@ ai_writable: false
 - [[2026-05-08-0909-session-158ff0de]] — Session Claude Code du 2026-05-08 09:09 sur projet claude-system (13 edits, 22 créations, 113 bash).
 - [[2026-05-08-0927-session-158ff0de]] — Session Claude Code du 2026-05-08 09:27 sur projet claude-system (13 edits, 22 créations, 121 bash).
 - [[2026-05-08-0946-session-158ff0de]] — Session Claude Code du 2026-05-08 09:46 sur projet unknown (13 edits, 25 créations, 124 bash).
+- [[2026-05-29-1258-session-0ff45d8d]] — Session Claude Code du 2026-05-29 12:58 sur projet unknown (19 edits, 8 créations, 23 bash).
+- [[2026-05-29-1303-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:03 sur projet unknown (21 edits, 8 créations, 27 bash).
+- [[2026-05-29-1316-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:16 sur projet unknown (24 edits, 9 créations, 34 bash).
+- [[2026-05-29-1321-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:21 sur projet unknown (24 edits, 9 créations, 42 bash).
+- [[2026-05-29-1324-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:24 sur projet unknown (24 edits, 9 créations, 45 bash).
+- [[2026-05-29-1334-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:34 sur projet unknown (24 edits, 9 créations, 49 bash).
+- [[2026-05-29-1336-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:36 sur projet unknown (24 edits, 9 créations, 53 bash).
+- [[2026-05-29-1342-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:42 sur projet unknown (24 edits, 9 créations, 57 bash).
+- [[2026-05-29-1349-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:49 sur projet unknown (26 edits, 9 créations, 59 bash).
+- [[2026-05-29-1350-session-0ff45d8d]] — Session Claude Code du 2026-05-29 13:50 sur projet unknown (26 edits, 9 créations, 62 bash).
+- [[2026-05-29-1846-session-0ff45d8d]] — Session Claude Code du 2026-05-29 18:46 sur projet unknown (26 edits, 9 créations, 64 bash).
+- [[2026-05-29-1937-session-0ff45d8d]] — Session Claude Code du 2026-05-29 19:37 sur projet unknown (26 edits, 9 créations, 65 bash).
+- [[2026-05-29-2003-session-0ff45d8d]] — Session Claude Code du 2026-05-29 20:03 sur projet unknown (27 edits, 9 créations, 74 bash).
+- [[2026-05-29-2052-session-0ff45d8d]] — Session Claude Code du 2026-05-29 20:52 sur projet unknown (29 edits, 10 créations, 75 bash).
+- [[2026-05-29-2056-session-0ff45d8d]] — Session Claude Code du 2026-05-29 20:56 sur projet unknown (29 edits, 10 créations, 75 bash).
+- [[2026-05-29-2100-session-0ff45d8d]] — Session Claude Code du 2026-05-29 21:00 sur projet unknown (30 edits, 10 créations, 78 bash).
+- [[2026-05-29-2241-session-0ff45d8d]] — Session Claude Code du 2026-05-29 22:41 sur projet unknown (31 edits, 10 créations, 80 bash).
+- [[claude-mem-2026-05-29-0953-raphia-35405473]] — Added clarifying text to OnboardingView between title and input field: "Le perdant fait un gage — à vous de décider : un…
 - [[2026-05-19-0838-session-a850f537]] — Session Claude Code du 2026-05-19 08:38 sur projet unknown (0 edits, 0 créations, 0 bash).
 - [[2026-05-19-0839-session-a850f537]] — Session Claude Code du 2026-05-19 08:39 sur projet unknown (0 edits, 0 créations, 1 bash).
 - [[2026-05-19-0841-session-a850f537]] — Session Claude Code du 2026-05-19 08:41 sur projet unknown (0 edits, 0 créations, 5 bash).
@@ -567,6 +605,7 @@ ai_writable: false
 - [[2026-05-19-2245-session-a850f537]] — Session Claude Code du 2026-05-19 22:45 sur projet unknown (13 edits, 33 créations, 64 bash).
 - [[2026-05-19-2253-session-a850f537]] — Session Claude Code du 2026-05-19 22:53 sur projet unknown (13 edits, 33 créations, 74 bash).
 - [[2026-05-19-2305-session-a850f537]] — Session Claude Code du 2026-05-19 23:05 sur projet unknown (15 edits, 36 créations, 78 bash).
+- [[claude-mem-2026-05-29-1715-raphia-2a18142c]] — Claude delivered a playful compliment message from Raphaël to Axelle while humorously disclaiming personal responsibilit…
 - [[2026-05-17-2152-session-55862166]] — Session Claude Code du 2026-05-17 21:52 sur projet claude-system (1 edits, 2 créations, 7 bash).
 - [[2026-05-12-1712-session-ea4448f6]] — Session Claude Code du 2026-05-12 17:12 sur projet unknown (0 edits, 0 créations, 9 bash).
 - [[2026-05-12-1729-session-35d19c4c]] — Session Claude Code du 2026-05-12 17:29 sur projet claude-system (2 edits, 2 créations, 3 bash).
