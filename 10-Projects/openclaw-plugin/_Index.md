@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-30
-updated: 2026-05-30
+created: 2026-05-31
+updated: 2026-05-31
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — openclaw-plugin
 
-> Auto-régénéré le 2026-05-30 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-05-31 03:00 par `vault-rag-curator`.
 
 ## HOT (2)
 
