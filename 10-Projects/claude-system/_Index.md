@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-05-31
-updated: 2026-05-31
+created: 2026-06-01
+updated: 2026-06-01
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-05-31 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-01 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (667)
+## COLD (673)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -494,6 +494,8 @@ ai_writable: false
 - [[2026-05-30-1928-session-876c5ac5]] — Session Claude Code du 2026-05-30 19:28 sur projet claude-system (0 edits, 2 créations, 35 bash).
 - [[2026-05-30-2253-session-4eed0c30]] — Session Claude Code du 2026-05-30 22:53 sur projet claude-system (3 edits, 3 créations, 152 bash).
 - [[2026-05-31-0353-session-876c5ac5]] — Session Claude Code du 2026-05-31 03:53 sur projet claude-system (0 edits, 2 créations, 45 bash).
+- [[2026-05-31-1527-session-876c5ac5]] — Session Claude Code du 2026-05-31 15:27 sur projet claude-system (0 edits, 3 créations, 59 bash).
+- [[2026-05-31-1619-session-4eed0c30]] — Session Claude Code du 2026-05-31 16:19 sur projet unknown (3 edits, 3 créations, 203 bash).
 - [[claude-mem-2026-05-29-1149-raphia-1a9db5d6]] — Successfully created two tasks in TickTick Inbox: "Cyclone : faire un mode équipe" (ID 6a197d56) and "Cyclone : faire un…
 - [[2026-05-10-0114-session-19e3ce30]] — Session Claude Code du 2026-05-10 01:14 sur projet unknown (14 edits, 40 créations, 59 bash).
 - [[2026-05-10-0820-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:20 sur projet unknown (14 edits, 40 créations, 65 bash).
@@ -535,9 +537,12 @@ ai_writable: false
 - [[2026-05-07-1257-session-b3219199]] — Session Claude Code du 2026-05-07 12:57 sur projet unknown (1 edits, 1 créations, 24 bash).
 - [[2026-05-07-1259-session-b3219199]] — Session Claude Code du 2026-05-07 12:59 sur projet unknown (1 edits, 1 créations, 28 bash).
 - [[2026-05-07-1305-session-b3219199]] — Session Claude Code du 2026-05-07 13:05 sur projet unknown (1 edits, 1 créations, 29 bash).
+- [[claude-mem-2026-05-31-1555-raphia-03caaa41]] — ✅ HTML guide structure with full content (cover, 5 daily sections, travel journal with 8 location addresses/hours, packi…
+- [[claude-mem-2026-05-30-1615-raphia-65ceeb61]] — Identified correct app bundle; rebuilt app from current sources; captured real onboarding screen with accurate content; …
 - [[2026-05-29-1115-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:15 sur projet claude-system (0 edits, 0 créations, 12 bash).
 - [[2026-05-29-1126-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:26 sur projet claude-system (0 edits, 0 créations, 12 bash).
 - [[2026-05-29-1150-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:50 sur projet claude-system (2 edits, 2 créations, 29 bash).
+- [[claude-mem-2026-05-30-1650-raphia-ff0b5a7a]] — Created gen_excel.py script that programmatically regenerates Excel workbooks from JSON banks. Installed openpyxl depend…
 - [[2026-05-07-1215-session-158ff0de 2]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
 - [[2026-05-07-1215-session-158ff0de]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
 - [[2026-05-07-1225-session-158ff0de]] — Session Claude Code du 2026-05-07 12:25 sur projet claude-system (0 edits, 0 créations, 21 bash).
@@ -691,3 +696,4 @@ ai_writable: false
 - [[2026-05-08-0844-session-e172a5dd]] — Session Claude Code du 2026-05-08 08:44 sur projet claude-system (10 edits, 4 créations, 93 bash).
 - [[2026-05-08-1322-session-e172a5dd]] — Session Claude Code du 2026-05-08 13:22 sur projet claude-system (11 edits, 5 créations, 94 bash).
 - [[2026-05-08-1323-session-e172a5dd]] — Session Claude Code du 2026-05-08 13:23 sur projet claude-system (11 edits, 5 créations, 94 bash).
+- [[2026-05-31-1801-session-db146f09]] — Session Claude Code du 2026-05-31 18:01 sur projet claude-system (0 edits, 0 créations, 0 bash).
