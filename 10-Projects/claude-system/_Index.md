@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-04
+updated: 2026-06-04
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-03 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-04 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (713)
+## COLD (724)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -517,6 +517,14 @@ ai_writable: false
 - [[2026-06-02-1944-session-cb40c6c0]] — Session Claude Code du 2026-06-02 19:44 sur projet unknown (20 edits, 2 créations, 37 bash).
 - [[2026-06-02-2015-session-cb40c6c0]] — Session Claude Code du 2026-06-02 20:15 sur projet unknown (22 edits, 2 créations, 44 bash).
 - [[2026-06-02-2022-session-cb40c6c0]] — Session Claude Code du 2026-06-02 20:22 sur projet unknown (23 edits, 2 créations, 51 bash).
+- [[2026-06-03-1506-session-919f8ef6]] — Session Claude Code du 2026-06-03 15:06 sur projet unknown (0 edits, 0 créations, 0 bash).
+- [[2026-06-03-1542-session-d9d20daf]] — Session Claude Code du 2026-06-03 15:42 sur projet unknown (0 edits, 0 créations, 4 bash).
+- [[2026-06-03-1808-session-d9d20daf]] — Session Claude Code du 2026-06-03 18:08 sur projet unknown (3 edits, 2 créations, 26 bash).
+- [[2026-06-03-1837-session-d9d20daf]] — Session Claude Code du 2026-06-03 18:37 sur projet unknown (7 edits, 2 créations, 31 bash).
+- [[2026-06-03-1851-session-d9d20daf]] — Session Claude Code du 2026-06-03 18:51 sur projet unknown (11 edits, 3 créations, 34 bash).
+- [[2026-06-03-1913-session-d9d20daf]] — Session Claude Code du 2026-06-03 19:13 sur projet unknown (13 edits, 3 créations, 38 bash).
+- [[2026-06-03-1915-session-d9d20daf]] — Session Claude Code du 2026-06-03 19:15 sur projet unknown (13 edits, 3 créations, 42 bash).
+- [[2026-06-03-1918-session-d9d20daf]] — Session Claude Code du 2026-06-03 19:18 sur projet unknown (13 edits, 3 créations, 46 bash).
 - [[claude-mem-2026-05-29-1149-raphia-1a9db5d6]] — Successfully created two tasks in TickTick Inbox: "Cyclone : faire un mode équipe" (ID 6a197d56) and "Cyclone : faire un…
 - [[2026-05-10-0114-session-19e3ce30]] — Session Claude Code du 2026-05-10 01:14 sur projet unknown (14 edits, 40 créations, 59 bash).
 - [[2026-05-10-0820-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:20 sur projet unknown (14 edits, 40 créations, 65 bash).
@@ -564,10 +572,12 @@ ai_writable: false
 - [[claude-mem-2026-05-31-1555-raphia-03caaa41]] — ✅ HTML guide structure with full content (cover, 5 daily sections, travel journal with 8 location addresses/hours, packi…
 - [[claude-mem-2026-06-02-1549-raphia-55fa1558]] — - 8 bug/compliance fixes applied: av-076 alcohol removal, AppModel.eraseAllData() onboardedKey addition, NeverHaveIEverM…
 - [[claude-mem-2026-05-31-1555-raphia-d7c991cf]] — Built complete 6-page A4 data book template (HTML + CSS) with cover, character profiles, activity sections, hall of fame…
+- [[claude-mem-2026-06-03-1341-raphia-62ee60cb]] — Built Cyclone app with CYCLONE_FORCE_PREMIUM flag enabled for Debug configuration; successfully installed custom build (…
 - [[claude-mem-2026-05-30-1615-raphia-65ceeb61]] — Identified correct app bundle; rebuilt app from current sources; captured real onboarding screen with accurate content; …
 - [[2026-05-29-1115-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:15 sur projet claude-system (0 edits, 0 créations, 12 bash).
 - [[2026-05-29-1126-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:26 sur projet claude-system (0 edits, 0 créations, 12 bash).
 - [[2026-05-29-1150-session-4c6b950d]] — Session Claude Code du 2026-05-29 11:50 sur projet claude-system (2 edits, 2 créations, 29 bash).
+- [[claude-mem-2026-06-03-1306-raphia-16f496b6]] — - Removed 6 images: piscine-personnes, chambre-baroque-rouge, chambre-baroque-large, chambre-parquet, chambre-parquet-la…
 - [[claude-mem-2026-05-30-1650-raphia-ff0b5a7a]] — Created gen_excel.py script that programmatically regenerates Excel workbooks from JSON banks. Installed openpyxl depend…
 - [[2026-05-07-1215-session-158ff0de 2]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
 - [[2026-05-07-1215-session-158ff0de]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
@@ -647,6 +657,7 @@ ai_writable: false
 - [[claude-mem-2026-05-29-0953-raphia-9c141984]] — Created new reference spreadsheet cyclone-questions-MAJ.xlsx from cyclone-questions-par-mode.xlsx; verified fresh conten…
 - [[claude-mem-2026-05-29-0953-raphia-35405473]] — Added clarifying text to OnboardingView between title and input field: "Le perdant fait un gage — à vous de décider : un…
 - [[claude-mem-2026-05-30-1650-raphia-e0cf6cbb]] — User formalized content quality requirements in rf-feedback-distilled.md capturing: problem (repetitive lazy penalty for…
+- [[claude-mem-2026-06-03-0811-raphia-d9c11a62]] — Full WordPress restoration from 608MB .wpress export; custom Python extractor deployed; 19,657 files extracted and integ…
 - [[2026-05-19-0838-session-a850f537]] — Session Claude Code du 2026-05-19 08:38 sur projet unknown (0 edits, 0 créations, 0 bash).
 - [[2026-05-19-0839-session-a850f537]] — Session Claude Code du 2026-05-19 08:39 sur projet unknown (0 edits, 0 créations, 1 bash).
 - [[2026-05-19-0841-session-a850f537]] — Session Claude Code du 2026-05-19 08:41 sur projet unknown (0 edits, 0 créations, 5 bash).
