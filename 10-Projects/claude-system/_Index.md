@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-06
+updated: 2026-06-06
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-05 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-06 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (771)
+## COLD (783)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -554,6 +554,12 @@ ai_writable: false
 - [[2026-06-04-1804-session-fbe3d455]] — Session Claude Code du 2026-06-04 18:04 sur projet claude-system (4 edits, 6 créations, 49 bash).
 - [[2026-06-04-1805-session-1842eaa6]] — Session Claude Code du 2026-06-04 18:05 sur projet unknown (13 edits, 5 créations, 81 bash).
 - [[2026-06-04-1826-session-fbe3d455]] — Session Claude Code du 2026-06-04 18:26 sur projet claude-system (4 edits, 6 créations, 50 bash).
+- [[2026-06-05-1026-session-fda53b33]] — Session Claude Code du 2026-06-05 10:26 sur projet unknown (0 edits, 1 créations, 9 bash).
+- [[2026-06-05-1028-session-fda53b33]] — Session Claude Code du 2026-06-05 10:28 sur projet unknown (0 edits, 1 créations, 9 bash).
+- [[2026-06-05-1053-session-fda53b33]] — Session Claude Code du 2026-06-05 10:53 sur projet unknown (0 edits, 2 créations, 11 bash).
+- [[2026-06-05-1142-session-fda53b33]] — Session Claude Code du 2026-06-05 11:42 sur projet unknown (0 edits, 3 créations, 16 bash).
+- [[2026-06-05-1213-session-fda53b33]] — Session Claude Code du 2026-06-05 12:13 sur projet unknown (0 edits, 3 créations, 16 bash).
+- [[2026-06-05-1238-session-fda53b33]] — Session Claude Code du 2026-06-05 12:38 sur projet unknown (2 edits, 4 créations, 18 bash).
 - [[claude-mem-2026-05-29-1149-raphia-1a9db5d6]] — Successfully created two tasks in TickTick Inbox: "Cyclone : faire un mode équipe" (ID 6a197d56) and "Cyclone : faire un…
 - [[2026-05-10-0114-session-19e3ce30]] — Session Claude Code du 2026-05-10 01:14 sur projet unknown (14 edits, 40 créations, 59 bash).
 - [[2026-05-10-0820-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:20 sur projet unknown (14 edits, 40 créations, 65 bash).
@@ -602,6 +608,7 @@ ai_writable: false
 - [[claude-mem-2026-06-02-1331-raphia-4a1fc34b]] — Catalog premium redesign fully implemented, tested, and integrated (ab246a4). Game accessibility improvements applied (m…
 - [[claude-mem-2026-06-02-1229-raphia-d8a921f7]] — Staged 24 files (20 modified tracked files, 4 new files: PlayerRotationTests.swift and 3 Excel documentation exports). C…
 - [[claude-mem-2026-06-04-0941-raphia-2ccc8f29]] — Committed paywall redesign and monthly subscription feature (commit 06d1601). Built and installed app on iPhone (bundle:…
+- [[claude-mem-2026-06-05-0818-raphia-85f849a2]] — • ✅ Bibliography updated: Zahra & George (2002) absorptive capacity reference added in alphabetical order (APA 7e format…
 - [[claude-mem-2026-05-31-1555-raphia-03caaa41]] — ✅ HTML guide structure with full content (cover, 5 daily sections, travel journal with 8 location addresses/hours, packi…
 - [[claude-mem-2026-06-02-1549-raphia-55fa1558]] — - 8 bug/compliance fixes applied: av-076 alcohol removal, AppModel.eraseAllData() onboardedKey addition, NeverHaveIEverM…
 - [[claude-mem-2026-05-31-1555-raphia-d7c991cf]] — Built complete 6-page A4 data book template (HTML + CSS) with cover, character profiles, activity sections, hall of fame…
@@ -618,6 +625,7 @@ ai_writable: false
 - [[claude-mem-2026-05-30-1650-raphia-ff0b5a7a]] — Created gen_excel.py script that programmatically regenerates Excel workbooks from JSON banks. Installed openpyxl depend…
 - [[claude-mem-2026-06-04-1307-raphia-e97b0c1b]] — Structured candid analysis provided across three success scenarios: (1) as portfolio/learning piece before main business…
 - [[claude-mem-2026-06-04-1233-raphia-e590d977]] — Session initialized and ready for observation; Claude responded with acknowledgment
+- [[claude-mem-2026-06-05-1839-raphia-79467f96]] — Built Cyclone Debug app with CYCLONE_FORCE_PREMIUM compilation flag enabled (all premium features unlocked, StoreKit byp…
 - [[2026-05-07-1215-session-158ff0de 2]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
 - [[2026-05-07-1215-session-158ff0de]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
 - [[2026-05-07-1225-session-158ff0de]] — Session Claude Code du 2026-05-07 12:25 sur projet claude-system (0 edits, 0 créations, 21 bash).
@@ -721,8 +729,12 @@ ai_writable: false
 - [[2026-05-19-2305-session-a850f537]] — Session Claude Code du 2026-05-19 23:05 sur projet unknown (15 edits, 36 créations, 78 bash).
 - [[claude-mem-2026-06-03-1306-raphia-c79386a8]] — Distance corrections applied (Saint-Rémy: 0 km→8 km; Les Baux: 10 km→8 km; Carrières: standardized to 8 km); three villa…
 - [[claude-mem-2026-05-29-1715-raphia-2a18142c]] — Claude delivered a playful compliment message from Raphaël to Axelle while humorously disclaiming personal responsibilit…
+- [[claude-mem-2026-06-05-0400-claude-heartbeat-0a4983d4]] — User received the requested acknowledgment response.
+- [[claude-mem-2026-06-05-1400-claude-heartbeat-104c0b92]] — Acknowledged user request with "ok" response
+- [[claude-mem-2026-06-05-1900-claude-heartbeat-0cda17cf]] — User received requested "ok" response
 - [[claude-mem-2026-06-04-1320-raphia-55e22a65]] — (1) 6 comprehensive specifications drafted, reviewed, and saved to /docs/specs/ covering SRS (FSRS-6 algorithm + schema …
 - [[claude-mem-2026-06-04-1400-claude-heartbeat-e24432ac]] — Simple acknowledgment provided. No code changes, deployments, or configuration work completed.
+- [[claude-mem-2026-06-05-0900-claude-heartbeat-ebd025ab]] — User request acknowledged with "ok" response; no substantive work completed
 - [[claude-mem-2026-06-04-1234-claude-heartbeat-1c153309]] — Simple acknowledgment provided as requested
 - [[claude-mem-2026-06-04-1352-english-lessons-ea289517]] — Verbal acknowledgment provided as requested
 - [[claude-mem-2026-06-03-1341-raphia-c908b23d]] — In-game redesign work (IGKit.swift, animations, all game modes) is fully committed in 02a8bc6. Working tree is clean wit…
