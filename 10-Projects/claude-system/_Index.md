@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-06
-updated: 2026-06-06
+created: 2026-06-07
+updated: 2026-06-07
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-06 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-07 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (783)
+## COLD (787)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -706,6 +706,8 @@ ai_writable: false
 - [[claude-mem-2026-05-29-0953-raphia-35405473]] — Added clarifying text to OnboardingView between title and input field: "Le perdant fait un gage — à vous de décider : un…
 - [[claude-mem-2026-05-30-1650-raphia-e0cf6cbb]] — User formalized content quality requirements in rf-feedback-distilled.md capturing: problem (repetitive lazy penalty for…
 - [[claude-mem-2026-06-03-0811-raphia-d9c11a62]] — Full WordPress restoration from 608MB .wpress export; custom Python extractor deployed; 19,657 files extracted and integ…
+- [[claude-mem-2026-06-06-1400-claude-heartbeat-5772b359]] — User acknowledgment provided with response "ok"
+- [[claude-mem-2026-06-06-0400-claude-heartbeat-068e25f6]] — User request acknowledged with "ok" response
 - [[claude-mem-2026-06-04-1343-english-lessons-a0fe75c5]] — Provided a conversational correction to a student's English sentence, demonstrating natural rephrasing and follow-up eng…
 - [[2026-05-19-0838-session-a850f537]] — Session Claude Code du 2026-05-19 08:38 sur projet unknown (0 edits, 0 créations, 0 bash).
 - [[2026-05-19-0839-session-a850f537]] — Session Claude Code du 2026-05-19 08:39 sur projet unknown (0 edits, 0 créations, 1 bash).
@@ -732,6 +734,8 @@ ai_writable: false
 - [[claude-mem-2026-06-05-0400-claude-heartbeat-0a4983d4]] — User received the requested acknowledgment response.
 - [[claude-mem-2026-06-05-1400-claude-heartbeat-104c0b92]] — Acknowledged user request with "ok" response
 - [[claude-mem-2026-06-05-1900-claude-heartbeat-0cda17cf]] — User received requested "ok" response
+- [[claude-mem-2026-06-06-0900-claude-heartbeat-2be2a81a]] — Acknowledgment response provided
+- [[claude-mem-2026-06-06-1900-claude-heartbeat-929c5358]] — Simple text response delivered as requested
 - [[claude-mem-2026-06-04-1320-raphia-55e22a65]] — (1) 6 comprehensive specifications drafted, reviewed, and saved to /docs/specs/ covering SRS (FSRS-6 algorithm + schema …
 - [[claude-mem-2026-06-04-1400-claude-heartbeat-e24432ac]] — Simple acknowledgment provided. No code changes, deployments, or configuration work completed.
 - [[claude-mem-2026-06-05-0900-claude-heartbeat-ebd025ab]] — User request acknowledged with "ok" response; no substantive work completed
