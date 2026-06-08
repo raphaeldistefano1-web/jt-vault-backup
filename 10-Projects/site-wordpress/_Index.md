@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-07
-updated: 2026-06-07
+created: 2026-06-08
+updated: 2026-06-08
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — site-wordpress
 
-> Auto-régénéré le 2026-06-07 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-08 03:00 par `vault-rag-curator`.
 
 ## HOT (6)
 
