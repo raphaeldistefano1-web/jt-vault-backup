@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-09
-updated: 2026-06-09
+created: 2026-06-10
+updated: 2026-06-10
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-09 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-10 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (796)
+## COLD (801)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -563,6 +563,11 @@ ai_writable: false
 - [[2026-06-08-0908-session-fda53b33]] — Session Claude Code du 2026-06-08 09:08 sur projet unknown (2 edits, 4 créations, 18 bash).
 - [[2026-06-08-1318-session-fda53b33]] — Session Claude Code du 2026-06-08 13:18 sur projet unknown (2 edits, 5 créations, 19 bash).
 - [[2026-06-08-1511-session-fda53b33]] — Session Claude Code du 2026-06-08 15:11 sur projet unknown (2 edits, 6 créations, 20 bash).
+- [[2026-06-09-1735-session-10ee66df]] — Session Claude Code du 2026-06-09 17:35 sur projet claude-system (1 edits, 3 créations, 0 bash).
+- [[2026-06-09-1941-session-10ee66df]] — Session Claude Code du 2026-06-09 19:41 sur projet unknown (11 edits, 28 créations, 22 bash).
+- [[2026-06-09-2027-session-10ee66df]] — Session Claude Code du 2026-06-09 20:27 sur projet unknown (11 edits, 28 créations, 31 bash).
+- [[2026-06-09-2048-session-10ee66df]] — Session Claude Code du 2026-06-09 20:48 sur projet unknown (11 edits, 29 créations, 35 bash).
+- [[2026-06-09-2114-session-10ee66df]] — Session Claude Code du 2026-06-09 21:14 sur projet unknown (12 edits, 29 créations, 39 bash).
 - [[claude-mem-2026-05-29-1149-raphia-1a9db5d6]] — Successfully created two tasks in TickTick Inbox: "Cyclone : faire un mode équipe" (ID 6a197d56) and "Cyclone : faire un…
 - [[2026-05-10-0114-session-19e3ce30]] — Session Claude Code du 2026-05-10 01:14 sur projet unknown (14 edits, 40 créations, 59 bash).
 - [[2026-05-10-0820-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:20 sur projet unknown (14 edits, 40 créations, 65 bash).
