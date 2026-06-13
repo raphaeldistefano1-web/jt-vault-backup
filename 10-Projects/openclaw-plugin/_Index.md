@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-12
-updated: 2026-06-12
+created: 2026-06-13
+updated: 2026-06-13
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — openclaw-plugin
 
-> Auto-régénéré le 2026-06-12 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-13 03:00 par `vault-rag-curator`.
 
 ## HOT (2)
 
@@ -27,7 +27,7 @@ ai_writable: false
 - [[OpenClaw-Pieges-Dev]] — Ne pas mettre openclaw en devDep (symlink récursif crash Gateway), plugins update skip source=path, sandbox bloque prism…
 - [[Plugin-OpenClaw]] — Plugin IA du PMS — Feature 1 OAuth Codex livrée sur /dashboard/ai, Feature 2 routines en attente.
 
-## COLD (24)
+## COLD (25)
 
 - [[2026-05-08-1115-session-8d305207]] — Session Claude Code du 2026-05-08 11:15 sur projet openclaw-plugin (1 edits, 4 créations, 18 bash).
 - [[2026-05-08-1122-session-8d305207]] — Session Claude Code du 2026-05-08 11:22 sur projet openclaw-plugin (1 edits, 4 créations, 20 bash).
@@ -53,3 +53,4 @@ ai_writable: false
 - [[2026-05-07-1340-session-158ff0de]] — Session Claude Code du 2026-05-07 13:40 sur projet openclaw-plugin (4 edits, 12 créations, 69 bash).
 - [[2026-05-08-0940-session-158ff0de]] — Session Claude Code du 2026-05-08 09:40 sur projet openclaw-plugin (13 edits, 25 créations, 122 bash).
 - [[2026-05-08-0942-session-158ff0de]] — Session Claude Code du 2026-05-08 09:42 sur projet openclaw-plugin (13 edits, 25 créations, 123 bash).
+- [[2026-06-12-1459-session-46674773]] — Session Claude Code du 2026-06-12 14:59 sur projet openclaw-plugin (0 edits, 0 créations, 0 bash).

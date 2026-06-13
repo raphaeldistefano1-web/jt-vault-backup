@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-12
-updated: 2026-06-12
+created: 2026-06-13
+updated: 2026-06-13
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-12 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-13 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (835)
+## COLD (839)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -731,11 +731,13 @@ ai_writable: false
 - [[2026-06-11-1402-session-bfa0d7af]] — Session Claude Code du 2026-06-11 14:02 sur projet unknown (2 edits, 4 créations, 58 bash).
 - [[2026-06-11-1405-session-bfa0d7af]] — Session Claude Code du 2026-06-11 14:05 sur projet unknown (2 edits, 4 créations, 58 bash).
 - [[claude-mem-2026-05-30-1615-raphia-a6171842]] — Created promotional video cyclone-ad-v2.mp4 (1080×1920, 12.5s, 4 MB, QuickTime-compatible with faststart); video include…
+- [[claude-mem-2026-06-12-1300-raphia-d67ad42c]] — Strategic feature triage completed: identified 5 core visible features (calendar, unified inbox, booking card, invoicing…
 - [[claude-mem-2026-05-29-0953-raphia-9c141984]] — Created new reference spreadsheet cyclone-questions-MAJ.xlsx from cyclone-questions-par-mode.xlsx; verified fresh conten…
 - [[claude-mem-2026-05-29-0953-raphia-35405473]] — Added clarifying text to OnboardingView between title and input field: "Le perdant fait un gage — à vous de décider : un…
 - [[claude-mem-2026-05-30-1650-raphia-e0cf6cbb]] — User formalized content quality requirements in rf-feedback-distilled.md capturing: problem (repetitive lazy penalty for…
 - [[claude-mem-2026-06-03-0811-raphia-d9c11a62]] — Full WordPress restoration from 608MB .wpress export; custom Python extractor deployed; 19,657 files extracted and integ…
 - [[claude-mem-2026-06-11-1152-raphia-acd0ab7a]] — Analysis of Gallet interview quality, codability, and contribution; diagnosis of sampling strategy bias; identification …
+- [[claude-mem-2026-06-12-0400-claude-heartbeat-484589f0]] — Acknowledgment provided. No technical work completed.
 - [[claude-mem-2026-06-06-1400-claude-heartbeat-5772b359]] — User acknowledgment provided with response "ok"
 - [[claude-mem-2026-06-06-0400-claude-heartbeat-068e25f6]] — User request acknowledged with "ok" response
 - [[claude-mem-2026-06-04-1343-english-lessons-a0fe75c5]] — Provided a conversational correction to a student's English sentence, demonstrating natural rephrasing and follow-up eng…
@@ -766,6 +768,7 @@ ai_writable: false
 - [[claude-mem-2026-05-29-1715-raphia-2a18142c]] — Claude delivered a playful compliment message from Raphaël to Axelle while humorously disclaiming personal responsibilit…
 - [[claude-mem-2026-06-11-0400-claude-heartbeat-4a912824]] — User request fulfilled with acknowledgment response
 - [[claude-mem-2026-06-11-1400-claude-heartbeat-3fac76a5]] — User's acknowledgment request was fulfilled with "ok" response
+- [[claude-mem-2026-06-12-0900-claude-heartbeat-43a02acb]] — User received the requested acknowledgment response.
 - [[claude-mem-2026-06-05-0400-claude-heartbeat-0a4983d4]] — User received the requested acknowledgment response.
 - [[claude-mem-2026-06-05-1400-claude-heartbeat-104c0b92]] — Acknowledged user request with "ok" response
 - [[claude-mem-2026-06-05-1900-claude-heartbeat-0cda17cf]] — User received requested "ok" response
@@ -780,6 +783,7 @@ ai_writable: false
 - [[claude-mem-2026-06-10-1900-claude-heartbeat-1f8d1f00]] — User received confirmation response as requested
 - [[claude-mem-2026-06-07-1400-claude-heartbeat-79f71460]] — User request acknowledged. No code changes, tool executions, or work items completed.
 - [[claude-mem-2026-06-04-1400-claude-heartbeat-e24432ac]] — Simple acknowledgment provided. No code changes, deployments, or configuration work completed.
+- [[claude-mem-2026-06-12-1400-claude-heartbeat-be63118c]] — Simple confirmation response provided
 - [[claude-mem-2026-06-05-0900-claude-heartbeat-ebd025ab]] — User request acknowledged with "ok" response; no substantive work completed
 - [[claude-mem-2026-06-04-1234-claude-heartbeat-1c153309]] — Simple acknowledgment provided as requested
 - [[claude-mem-2026-06-10-1400-claude-heartbeat-cf674ecc]] — Simple acknowledgment provided; no work or changes implemented
