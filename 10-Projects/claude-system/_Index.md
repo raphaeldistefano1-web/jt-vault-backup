@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-13
-updated: 2026-06-13
+created: 2026-06-14
+updated: 2026-06-14
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-13 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-14 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (839)
+## COLD (844)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -737,8 +737,10 @@ ai_writable: false
 - [[claude-mem-2026-05-30-1650-raphia-e0cf6cbb]] — User formalized content quality requirements in rf-feedback-distilled.md capturing: problem (repetitive lazy penalty for…
 - [[claude-mem-2026-06-03-0811-raphia-d9c11a62]] — Full WordPress restoration from 608MB .wpress export; custom Python extractor deployed; 19,657 files extracted and integ…
 - [[claude-mem-2026-06-11-1152-raphia-acd0ab7a]] — Analysis of Gallet interview quality, codability, and contribution; diagnosis of sampling strategy bias; identification …
+- [[claude-mem-2026-06-14-0107-raphia-7095e646]] — Core system verified with full test pass rate. Previous work on authentication, booking, automations, and Channex integr…
 - [[claude-mem-2026-06-12-0400-claude-heartbeat-484589f0]] — Acknowledgment provided. No technical work completed.
 - [[claude-mem-2026-06-06-1400-claude-heartbeat-5772b359]] — User acknowledgment provided with response "ok"
+- [[claude-mem-2026-06-13-0400-claude-heartbeat-f2e55a80]] — Acknowledged the user's request with "ok". No actual development work, code changes, or deployments.
 - [[claude-mem-2026-06-06-0400-claude-heartbeat-068e25f6]] — User request acknowledged with "ok" response
 - [[claude-mem-2026-06-04-1343-english-lessons-a0fe75c5]] — Provided a conversational correction to a student's English sentence, demonstrating natural rephrasing and follow-up eng…
 - [[claude-mem-2026-06-07-1600-improvements-dbfbe9f3]] — Knowledge synthesis complete. Strategy document prepared covering: Dynamic Workflows usage criteria and 6-pattern taxono…
@@ -766,6 +768,7 @@ ai_writable: false
 - [[2026-06-11-1757-session-6b1c29cc]] — Session Claude Code du 2026-06-11 17:57 sur projet unknown (8 edits, 2 créations, 97 bash).
 - [[claude-mem-2026-06-03-1306-raphia-c79386a8]] — Distance corrections applied (Saint-Rémy: 0 km→8 km; Les Baux: 10 km→8 km; Carrières: standardized to 8 km); three villa…
 - [[claude-mem-2026-05-29-1715-raphia-2a18142c]] — Claude delivered a playful compliment message from Raphaël to Axelle while humorously disclaiming personal responsibilit…
+- [[claude-mem-2026-06-13-1400-claude-heartbeat-e7fb9d5a]] — User request acknowledged with "ok" response
 - [[claude-mem-2026-06-11-0400-claude-heartbeat-4a912824]] — User request fulfilled with acknowledgment response
 - [[claude-mem-2026-06-11-1400-claude-heartbeat-3fac76a5]] — User's acknowledgment request was fulfilled with "ok" response
 - [[claude-mem-2026-06-12-0900-claude-heartbeat-43a02acb]] — User received the requested acknowledgment response.
@@ -776,6 +779,8 @@ ai_writable: false
 - [[claude-mem-2026-06-06-1900-claude-heartbeat-929c5358]] — Simple text response delivered as requested
 - [[claude-mem-2026-06-11-0900-claude-heartbeat-fd82430b]] — User received acknowledgment response ("ok") as requested. No code changes, deployments, configurations, or substantive …
 - [[claude-mem-2026-06-07-1900-claude-heartbeat-f27da488]] — Acknowledged user request with simple "ok" response
+- [[claude-mem-2026-06-13-0900-claude-heartbeat-ddb3dce0]] — User's request for acknowledgment was fulfilled with a simple "ok" response.
+- [[claude-mem-2026-06-13-1900-claude-heartbeat-143e9285]] — Provided the requested confirmation response "ok"
 - [[claude-mem-2026-06-04-1320-raphia-55e22a65]] — (1) 6 comprehensive specifications drafted, reviewed, and saved to /docs/specs/ covering SRS (FSRS-6 algorithm + schema …
 - [[claude-mem-2026-06-07-0400-claude-heartbeat-ba60d6f1]] — User's request fulfilled with acknowledgment response.
 - [[claude-mem-2026-06-07-0900-claude-heartbeat-93864d80]] — No work completed or changes made
