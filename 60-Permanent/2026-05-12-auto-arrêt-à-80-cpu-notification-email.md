@@ -1,4 +1,13 @@
 ---
+backlinks:
+- 2026-05-07-cron-23h30-pour-ingestion-veille-timing-off-peak
+- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
+- 2026-05-07-systemd-overrideconf-pour-ollama-memorymax25g
+- 2026-05-08-vault-rag-curator-synthesizer-crons-schedule
+- 2026-05-11-path-varwwwculsec-homogénéité-infra-vps-avec-pms
+---
+
+---
 ai_writable: false
 applies_to: global
 area: null
@@ -50,7 +59,7 @@ source_notes:
 - 10-Projects/claude-system/2026-05-11-2100-session-a2f2421f.md
 - 10-Projects/claude-system/2026-05-11-2052-session-a2f2421f.md
 source_session: a2f2421f-261b-497a-ab22-7566cddd56d7
-status: auto-applied
+status: stale
 summary: Déployer watchdog qui arrête services à 80% CPU et envoie email rapport.
 tags:
 - permanent
@@ -64,8 +73,7 @@ title: Auto-arrêt à 80% CPU + notification email
 topic_cluster: vps-operations
 type: permanent-note
 updated: '2026-05-12'
-usage_count: 0
----
+usage_count: 0---
 
 **Signal détecté** : User demande explicitement « quand CPU atteint 80%, arrête ou met en pause toutes les applications + mail rapport ».
 

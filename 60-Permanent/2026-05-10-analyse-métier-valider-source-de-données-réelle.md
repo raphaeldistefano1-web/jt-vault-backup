@@ -1,4 +1,15 @@
 ---
+backlinks:
+- 2026-05-07-lesson-profiler-services-lourds-avant-scaling-prod
+- 2026-05-08-audit-one-shot-déduplication-39-mémoires-cc-vs-vau
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-hiérarchie-persistance-mémoire-vs-vault-vs-todo
+- 2026-05-09-trier-items-capturés-hot-immédiat-vs-warmcold-mémo
+- 2026-05-12-vérification-pre-cutover-systématique-perf-et-diff
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
+---
+
+---
 ai_writable: false
 applies_to: global
 area: null
@@ -46,7 +57,7 @@ source_notes:
 - 10-Projects/pms-jardin-tropical/2026-05-09-1522-session-b53ba567.md
 - 10-Projects/pms-jardin-tropical/2026-05-09-1516-session-b53ba567.md
 source_session: b53ba567-cec1-4390-a306-dc625e77c91e
-status: auto-applied
+status: stale
 summary: Avant analyse de données métier, accéder directement aux sources (API, BDD)
   plutôt que mémoire; déclarer explicitement limitations.
 tags:
@@ -61,8 +72,7 @@ title: Analyse métier — valider source de données réelle
 topic_cluster: data-methodology
 type: permanent-note
 updated: '2026-05-10'
-usage_count: 0
----
+usage_count: 0---
 
 **Signal feedback** : Raphaël remet en question la fiabilité d'une analyse de taux d'occupation (« tu es sur de tout les chiffres ? »), ce qui indique que la méthodologie (synthèse à partir de mémoire) était insuffisante.
 

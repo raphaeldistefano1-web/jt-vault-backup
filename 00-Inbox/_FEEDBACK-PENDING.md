@@ -1,5 +1,5 @@
 ---
-id: 20260607-feedback-pending
+id: 20260614-feedback-pending
 type: report
 title: "📋 Feedback rules en attente — 1 rule"
 project: claude-system
@@ -13,7 +13,7 @@ auto-generated: true
 schema_version: 1
 ---
 
-# 📋 Feedback rules en attente — 2026-06-07 09:00 UTC
+# 📋 Feedback rules en attente — 2026-06-14 09:00 UTC
 
 > **1** rule synthétisée par le `vault-synthesizer` attend ta validation.
 > Lance la slash-command `/reflect-vault` dans une session Claude Code pour les passer en revue.

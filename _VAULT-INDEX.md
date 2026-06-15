@@ -10,24 +10,24 @@ tier: hot
 tags: [moc, index, auto-generated, root]
 ai_writable: false
 auto-generated: true
-updated: 2026-06-14
+updated: 2026-06-15
 ---
 
 # 🗂️ Vault Index
 
-> Auto-régénéré le **2026-06-14 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
+> Auto-régénéré le **2026-06-15 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
 
 Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un dossier **60-Permanent** pour les insights atomiques distillés. Chaque note a un frontmatter riche (`intent`, `topic_cluster`, `tier`, `related`) parseable.
 
 ## 🔧 Projets actifs
 
-- [[10-Projects/claude-system/_Index|claude-system]] (846 notes)
+- [[10-Projects/claude-system/_Index|claude-system]] (856 notes)
 - [[10-Projects/desktop-app-electron/_Index|desktop-app-electron]] (18 notes)
 - [[10-Projects/jt-migrate/_Index|jt-migrate]] (100 notes)
 - [[10-Projects/montage-video/_Index|montage-video]] (0 notes)
 - [[10-Projects/n8n-automations/_Index|n8n-automations]] (2 notes)
-- [[10-Projects/openclaw-plugin/_Index|openclaw-plugin]] (32 notes)
-- [[10-Projects/pms-jardin-tropical/_Index|pms-jardin-tropical]] (94 notes)
+- [[10-Projects/openclaw-plugin/_Index|openclaw-plugin]] (34 notes)
+- [[10-Projects/pms-jardin-tropical/_Index|pms-jardin-tropical]] (100 notes)
 - [[10-Projects/site-wordpress/_Index|site-wordpress]] (53 notes)
 
 ## 🧠 Top topic clusters
@@ -128,11 +128,6 @@ Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un 
 - [[INDEX]] — INDEX racine — cerveau multi-projets
 - [[Hotel-Le-Jardin-Tropical]] — Hotel-Le-Jardin-Tropical
 - [[Fournisseurs]] — Fournisseurs
-
-### `feedback-rule` (9)
-- [[2026-05-12-auto-arrêt-à-80-cpu-notification-email]] — Auto-arrêt à 80% CPU + notification email
-- [[2026-05-09-responsive-design-obligatoire-pour-toute-interface]] — Responsive design obligatoire pour toute interface UI
-- [[2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi]] — Valider systèmes de dispatch via test instances vierges
 
 ### `log` (21)
 - [[_STUBS-A-ARBITRER-2026-05-12]] — _STUBS-A-ARBITRER-2026-05-12

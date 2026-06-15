@@ -1,4 +1,15 @@
 ---
+backlinks:
+- 2026-05-08-frontmatter-enrichi-extrait-insights-durables
+- 2026-05-09-anti-pattern-redonder-info-du-contexte-injecté
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-12-hydration-mismatch-418-avec-zustand-nextjs-16
+- 2026-05-12-mémoire-claude-accumule-sans-archivage-audit-pério
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
+---
+
+---
 ai_writable: false
 applies_to: global
 area: null
@@ -62,7 +73,7 @@ source_notes:
 - 10-Projects/claude-system/2026-05-08-1802-session-96ce7c71.md
 - 10-Projects/claude-system/2026-05-08-1740-session-96ce7c71.md
 source_session: 96ce7c71-9b8d-45c1-a608-8a8a0cffb777
-status: auto-applied
+status: stale
 summary: Certains items doivent être actionnés immédiatement (hot/todo), d'autres
   gardés en mémoire pour plus tard (warm/cold). Respecter le tier proposé par l'utilisateur.
 tags:
@@ -78,8 +89,7 @@ title: 'Trier items capturés : hot (immédiat) vs warm/cold (mémoire)'
 topic_cluster: knowledge-management
 type: permanent-note
 updated: '2026-05-09'
-usage_count: 0
----
+usage_count: 0---
 
 Signal observé : "tu peux le faire tout de suite. Pour le reste, garde en mémoire."
 

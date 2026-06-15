@@ -1,4 +1,13 @@
 ---
+backlinks:
+- 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
+- 2026-05-08-pipeline-modulaire-ingestanalyzerenderdigest
+- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- 2026-05-09-nouveaux-skills-doivent-être-auto-découverts-par-a
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+---
+
+---
 ai_writable: false
 applies_to: global
 area: null
@@ -42,7 +51,7 @@ schema_version: 1
 source_notes:
 - 10-Projects/claude-system/2026-05-09-0904-session-21c4cfc3.md
 source_session: 21c4cfc3-93d1-4d4d-9bab-ab7b63ed0c6a
-status: auto-applied
+status: stale
 summary: Nouveaux systèmes de dispatch/hooks doivent être testés dans instances vierges
   avant finalisation.
 tags:
@@ -60,8 +69,7 @@ title: Valider systèmes de dispatch via instances vierges
 topic_cluster: system-validation
 type: permanent-note
 updated: '2026-05-10'
-usage_count: 0
----
+usage_count: 0---
 
 ## Related
 

@@ -1,9 +1,9 @@
 ---
 title: Vault RAG — usage week report
 type: meeting
-created: '2026-06-07'
-updated: '2026-06-07'
-id: usage-week-20260607
+created: '2026-06-14'
+updated: '2026-06-14'
+id: usage-week-20260614
 schema_version: 1
 tier: cold
 status: report
@@ -14,7 +14,7 @@ tags: [usage, telemetry, weekly, ai-generated]
 ai_writable: false
 ---
 
-# 📊 Vault RAG — usage report (2026-05-31 → 2026-06-07)
+# 📊 Vault RAG — usage report (2026-06-07 → 2026-06-14)
 
 > Total **0 appels MCP** sur 7 jours. Source : `/var/log/vault-rag-usage.jsonl`.
 

@@ -1,4 +1,12 @@
 ---
+backlinks:
+- 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
+- 2026-05-09-hook-dispatch-advisor-pour-suggestions-intelligent
+- 2026-05-12-tester-migration-sur-instance-avec-données-réelles
+- 2026-05-12-workflow-itératif-valider-par-phase-plutôt-que-bat
+---
+
+---
 ai_writable: false
 applies_to: global
 area: null
@@ -65,7 +73,7 @@ source_notes:
 - 10-Projects/claude-system/2026-05-08-1656-session-21c4cfc3.md
 - 10-Projects/pms-jardin-tropical/2026-05-08-1625-session-21c4cfc3.md
 source_session: 21c4cfc3-93d1-4d4d-9bab-ab7b63ed0c6a
-status: auto-applied
+status: stale
 summary: Tout nouveau système de dispatch/suggestion doit passer par test sur instances
   vierges avant déclaration stable.
 tags:
@@ -80,8 +88,7 @@ title: Valider systèmes de dispatch via test instances vierges
 topic_cluster: quality-assurance
 type: permanent-note
 updated: '2026-05-09'
-usage_count: 0
----
+usage_count: 0---
 
 Signal utilisateur explicite : 'tu fais quelques petites sessions de test de ce nouveau système... code via ton outil de team Agent pour voir si tout répond bien. après tu fais des Recommandations'.
 

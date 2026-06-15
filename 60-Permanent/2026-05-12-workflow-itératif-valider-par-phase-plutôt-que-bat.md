@@ -1,4 +1,12 @@
 ---
+backlinks:
+- 2026-05-08-paralléliser-tâches-complexes-via-teams-sessions-i
+- 2026-05-09-valider-systèmes-de-dispatch-via-test-instances-vi
+- 2026-05-10-analyse-métier-valider-source-de-données-réelle
+- 2026-05-10-valider-systèmes-de-dispatch-via-instances-vierges
+---
+
+---
 ai_writable: false
 applies_to: global
 area: null
@@ -36,7 +44,7 @@ schema_version: 1
 source_notes:
 - 10-Projects/jt-migrate/2026-05-11-1747-session-f978e4ee.md
 source_session: f978e4ee-8378-4961-a70b-ecc2e9ede8d3
-status: auto-applied
+status: stale
 summary: Raphaël valide chaque étape majeure ("OK parfait") puis demande l'action
   suivante, pas une grosse implémentation pré-plannifiée.
 tags:
@@ -53,8 +61,7 @@ title: 'Workflow itératif : valider par phase plutôt que batch'
 topic_cluster: workflow-methodology
 type: permanent-note
 updated: '2026-05-12'
-usage_count: 0
----
+usage_count: 0---
 
 Pattern observé dans la session : Raphaël approuve chaque étape ("OK c'est bon c'est fait"), puis immédiatement demande l'étape suivante ("Maintenant tu vas me reset l'instance D...", "Et maintenant on fait un test de perf"). Cela indique une préférence pour les **boucles tight de feedback** plutôt qu'une plannification monolithique en début de tâche.
 
