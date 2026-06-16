@@ -1,5 +1,5 @@
 ---
-id: 20260608-rules-applied
+id: 20260615-rules-applied
 schema_version: 1
 type: report
 title: "📋 Rules apprises cette semaine — 0 appliquées, 0 archivées"
@@ -11,10 +11,10 @@ tier: cold
 tags: [rules, applied, ai-generated]
 ai_writable: false
 auto-generated: true
-created: 2026-06-08
+created: 2026-06-15
 ---
 
-# 📋 Rules apprises — semaine du 2026-06-01 au 2026-06-08
+# 📋 Rules apprises — semaine du 2026-06-08 au 2026-06-15
 
 **Résumé** : 0 rule(s) auto-appliquée(s) · 0 archivée(s) par le curator · 0 conflit(s) en attente.
 
@@ -29,4 +29,4 @@ _Possibles raisons : tu n'as fait aucune correction explicite, ou les sessions �
 **Comment retirer une rule** : `/revoke-rule <id>` dans une session Claude Code.
 **Comment voir toutes les rules actives** : `cat /root/.claude/CLAUDE.md | grep -A 200 'Rules apprises'`.
 
-_Rapport généré le 2026-06-08 09:00 par `vault-rules-applied` (cron lundi 9h Paris)._
+_Rapport généré le 2026-06-15 09:00 par `vault-rules-applied` (cron lundi 9h Paris)._
