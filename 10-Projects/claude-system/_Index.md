@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-16
-updated: 2026-06-16
+created: 2026-06-17
+updated: 2026-06-17
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-16 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-17 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (859)
+## COLD (870)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -569,6 +569,7 @@ ai_writable: false
 - [[2026-06-09-2048-session-10ee66df]] — Session Claude Code du 2026-06-09 20:48 sur projet unknown (11 edits, 29 créations, 35 bash).
 - [[2026-06-09-2114-session-10ee66df]] — Session Claude Code du 2026-06-09 21:14 sur projet unknown (12 edits, 29 créations, 39 bash).
 - [[2026-06-11-0511-session-6a1a85ff]] — Session Claude Code du 2026-06-11 05:11 sur projet unknown (20 edits, 16 créations, 83 bash).
+- [[2026-06-16-1336-session-28fbc50c]] — Session Claude Code du 2026-06-16 13:36 sur projet unknown (0 edits, 0 créations, 27 bash).
 - [[claude-mem-2026-05-29-1149-raphia-1a9db5d6]] — Successfully created two tasks in TickTick Inbox: "Cyclone : faire un mode équipe" (ID 6a197d56) and "Cyclone : faire un…
 - [[2026-05-10-0114-session-19e3ce30]] — Session Claude Code du 2026-05-10 01:14 sur projet unknown (14 edits, 40 créations, 59 bash).
 - [[2026-05-10-0820-session-19e3ce30]] — Session Claude Code du 2026-05-10 08:20 sur projet unknown (14 edits, 40 créations, 65 bash).
@@ -678,6 +679,7 @@ ai_writable: false
 - [[2026-05-08-0909-session-158ff0de]] — Session Claude Code du 2026-05-08 09:09 sur projet claude-system (13 edits, 22 créations, 113 bash).
 - [[2026-05-08-0927-session-158ff0de]] — Session Claude Code du 2026-05-08 09:27 sur projet claude-system (13 edits, 22 créations, 121 bash).
 - [[2026-05-08-0946-session-158ff0de]] — Session Claude Code du 2026-05-08 09:46 sur projet unknown (13 edits, 25 créations, 124 bash).
+- [[claude-mem-2026-06-16-1201-raphia-b8b7bde6]] — RESTORE.md created with step-by-step restoration procedures for all 5 service categories (PMS Le Jardin Tropical, 3 Word…
 - [[2026-06-01-1213-session-f6b8501e]] — Session Claude Code du 2026-06-01 12:13 sur projet unknown (1 edits, 4 créations, 16 bash).
 - [[2026-06-01-1225-session-f6b8501e]] — Session Claude Code du 2026-06-01 12:25 sur projet unknown (1 edits, 4 créations, 17 bash).
 - [[2026-06-01-1534-session-f6b8501e]] — Session Claude Code du 2026-06-01 15:34 sur projet unknown (2 edits, 7 créations, 24 bash).
@@ -772,7 +774,10 @@ ai_writable: false
 - [[claude-mem-2026-06-10-1239-raphia-2d782bb7]] — Initiated audio processing jobs (two concurrent jobs); transcription and diarization processes launched and currently ex…
 - [[2026-06-11-1757-session-6b1c29cc]] — Session Claude Code du 2026-06-11 17:57 sur projet unknown (8 edits, 2 créations, 97 bash).
 - [[claude-mem-2026-06-03-1306-raphia-c79386a8]] — Distance corrections applied (Saint-Rémy: 0 km→8 km; Les Baux: 10 km→8 km; Carrières: standardized to 8 km); three villa…
+- [[claude-mem-2026-06-16-0400-claude-heartbeat-9e5e1ef9]] — No work completed; no code changes, deployments, configurations, or fixes applied.
+- [[claude-mem-2026-06-14-1041-raphia-eb857f07]] — Identified root cause of authentication failures; provided specific credentials for both hotelier and admin accounts; re…
 - [[claude-mem-2026-05-29-1715-raphia-2a18142c]] — Claude delivered a playful compliment message from Raphaël to Axelle while humorously disclaiming personal responsibilit…
+- [[claude-mem-2026-06-16-0947-raphia-983559e0]] — Global PMS redesign implemented on `feat/lakou-redesign` branch with: (1) Public booking page for "le-jardin-tropical" p…
 - [[claude-mem-2026-06-13-1400-claude-heartbeat-e7fb9d5a]] — User request acknowledged with "ok" response
 - [[claude-mem-2026-06-11-0400-claude-heartbeat-4a912824]] — User request fulfilled with acknowledgment response
 - [[claude-mem-2026-06-11-1400-claude-heartbeat-3fac76a5]] — User's acknowledgment request was fulfilled with "ok" response
@@ -796,16 +801,22 @@ ai_writable: false
 - [[claude-mem-2026-06-07-0400-claude-heartbeat-ba60d6f1]] — User's request fulfilled with acknowledgment response.
 - [[claude-mem-2026-06-07-0900-claude-heartbeat-93864d80]] — No work completed or changes made
 - [[claude-mem-2026-06-15-0900-claude-heartbeat-c4c44efd]] — Acknowledgment provided; no substantive work completed
+- [[claude-mem-2026-06-16-0900-claude-heartbeat-b8fea9fc]] — Provided requested acknowledgment response
 - [[claude-mem-2026-06-11-1900-claude-heartbeat-19daa9dd]] — No substantive work completed; simple response given
+- [[claude-mem-2026-06-16-1400-claude-heartbeat-8dd169bf]] — Acknowledgment provided as requested
 - [[claude-mem-2026-06-10-1900-claude-heartbeat-1f8d1f00]] — User received confirmation response as requested
 - [[claude-mem-2026-06-07-1400-claude-heartbeat-79f71460]] — User request acknowledged. No code changes, tool executions, or work items completed.
 - [[claude-mem-2026-06-04-1400-claude-heartbeat-e24432ac]] — Simple acknowledgment provided. No code changes, deployments, or configuration work completed.
 - [[claude-mem-2026-06-12-1400-claude-heartbeat-be63118c]] — Simple confirmation response provided
 - [[claude-mem-2026-06-05-0900-claude-heartbeat-ebd025ab]] — User request acknowledged with "ok" response; no substantive work completed
+- [[claude-mem-2026-06-16-1900-claude-heartbeat-f6aa367c]] — Acknowledgment response delivered ("ok")
 - [[claude-mem-2026-06-14-1400-claude-heartbeat-e300e820]] — Acknowledgment provided as requested
 - [[claude-mem-2026-06-04-1234-claude-heartbeat-1c153309]] — Simple acknowledgment provided as requested
 - [[claude-mem-2026-06-10-1400-claude-heartbeat-cf674ecc]] — Simple acknowledgment provided; no work or changes implemented
 - [[claude-mem-2026-06-04-1352-english-lessons-ea289517]] — Verbal acknowledgment provided as requested
+- [[claude-mem-2026-06-16-1033-raphia-2d72714c]] — VPS infrastructure assessment report finalized with migration decision (personal/dev/AI to Mac Mini is safe; hotel produ…
+- [[claude-mem-2026-06-16-1032-raphia-2d72714c]] — Infrastructure assessment report generated with key migration decision: personal/development/AI workloads can safely mig…
+- [[claude-mem-2026-06-16-1035-raphia-2d72714c]] — VPS infrastructure assessment report fully finalized with migration decision and strategy; all available SSH diagnostics…
 - [[claude-mem-2026-06-03-1341-raphia-c908b23d]] — In-game redesign work (IGKit.swift, animations, all game modes) is fully committed in 02a8bc6. Working tree is clean wit…
 - [[2026-06-10-1424-session-af70c367]] — Session Claude Code du 2026-06-10 14:24 sur projet claude-system (0 edits, 3 créations, 14 bash).
 - [[2026-06-10-1439-session-af70c367]] — Session Claude Code du 2026-06-10 14:39 sur projet unknown (0 edits, 5 créations, 23 bash).

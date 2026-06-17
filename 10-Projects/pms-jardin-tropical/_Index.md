@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-16
-updated: 2026-06-16
+created: 2026-06-17
+updated: 2026-06-17
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — pms-jardin-tropical
 
-> Auto-régénéré le 2026-06-16 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-17 03:00 par `vault-rag-curator`.
 
 ## HOT (7)
 
@@ -27,7 +27,7 @@ ai_writable: false
 - [[PMS-Stack]] — Stack technique PMS — Next.js 15 + Postgres + Prisma 6 + PM2 + NextAuth v5 + OpenClaw Gateway loopback.
 - [[Tests-PMS-Batterie-2026-04-25]] — Batterie tests PMS complets — 22 endpoints OK, 26 pages OK, TTFB < 120ms, 7 findings mineurs documentés.
 
-## COLD (93)
+## COLD (96)
 
 - [[2026-05-08-1007-session-4d0a55cb]] — Session Claude Code du 2026-05-08 10:07 sur projet pms-jardin-tropical (4 edits, 1 créations, 30 bash).
 - [[2026-05-08-1344-session-8d305207]] — Session Claude Code du 2026-05-08 13:44 sur projet pms-jardin-tropical (4 edits, 10 créations, 58 bash).
@@ -113,6 +113,9 @@ ai_writable: false
 - [[2026-06-14-1332-session-d0ef0d4e]] — Session Claude Code du 2026-06-14 13:32 sur projet pms-jardin-tropical (0 edits, 0 créations, 8 bash).
 - [[2026-06-14-1338-session-d0ef0d4e]] — Session Claude Code du 2026-06-14 13:38 sur projet pms-jardin-tropical (0 edits, 0 créations, 8 bash).
 - [[2026-06-14-1930-session-d0ef0d4e]] — Session Claude Code du 2026-06-14 19:30 sur projet unknown (6 edits, 0 créations, 66 bash).
+- [[2026-06-16-1147-session-d0ef0d4e]] — Session Claude Code du 2026-06-16 11:47 sur projet unknown (6 edits, 0 créations, 70 bash).
+- [[2026-06-16-1150-session-d0ef0d4e]] — Session Claude Code du 2026-06-16 11:50 sur projet unknown (6 edits, 0 créations, 78 bash).
+- [[2026-06-16-1152-session-d0ef0d4e]] — Session Claude Code du 2026-06-16 11:52 sur projet unknown (6 edits, 0 créations, 79 bash).
 - [[2026-05-12-0207-session-0d81ecb1]] — Session Claude Code du 2026-05-12 02:07 sur projet unknown (15 edits, 1 créations, 107 bash).
 - [[2026-05-12-0921-session-0d81ecb1]] — Session Claude Code du 2026-05-12 09:21 sur projet unknown (15 edits, 1 créations, 112 bash).
 - [[2026-05-12-0926-session-0d81ecb1]] — Session Claude Code du 2026-05-12 09:26 sur projet unknown (15 edits, 1 créations, 112 bash).

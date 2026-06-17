@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-16
-updated: 2026-06-16
+created: 2026-06-17
+updated: 2026-06-17
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — openclaw-plugin
 
-> Auto-régénéré le 2026-06-16 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-17 03:00 par `vault-rag-curator`.
 
 ## HOT (2)
 
@@ -27,7 +27,7 @@ ai_writable: false
 - [[OpenClaw-Pieges-Dev]] — Ne pas mettre openclaw en devDep (symlink récursif crash Gateway), plugins update skip source=path, sandbox bloque prism…
 - [[Plugin-OpenClaw]] — Plugin IA du PMS — Feature 1 OAuth Codex livrée sur /dashboard/ai, Feature 2 routines en attente.
 
-## COLD (30)
+## COLD (42)
 
 - [[2026-05-08-1115-session-8d305207]] — Session Claude Code du 2026-05-08 11:15 sur projet openclaw-plugin (1 edits, 4 créations, 18 bash).
 - [[2026-05-08-1122-session-8d305207]] — Session Claude Code du 2026-05-08 11:22 sur projet openclaw-plugin (1 edits, 4 créations, 20 bash).
@@ -48,6 +48,18 @@ ai_writable: false
 - [[2026-05-16-1706-session-e727e022]] — Session Claude Code du 2026-05-16 17:06 sur projet unknown (3 edits, 5 créations, 45 bash).
 - [[2026-05-16-1739-session-e727e022]] — Session Claude Code du 2026-05-16 17:39 sur projet unknown (3 edits, 5 créations, 45 bash).
 - [[2026-05-26-1444-session-7122fc39]] — Session Claude Code du 2026-05-26 14:44 sur projet openclaw-plugin (0 edits, 0 créations, 0 bash).
+- [[2026-06-16-1401-session-28fbc50c]] — Session Claude Code du 2026-06-16 14:01 sur projet openclaw-plugin (0 edits, 3 créations, 47 bash).
+- [[2026-06-16-1419-session-28fbc50c]] — Session Claude Code du 2026-06-16 14:19 sur projet openclaw-plugin (0 edits, 3 créations, 48 bash).
+- [[2026-06-16-1507-session-28fbc50c]] — Session Claude Code du 2026-06-16 15:07 sur projet openclaw-plugin (0 edits, 5 créations, 53 bash).
+- [[2026-06-16-1511-session-28fbc50c]] — Session Claude Code du 2026-06-16 15:11 sur projet openclaw-plugin (2 edits, 5 créations, 53 bash).
+- [[2026-06-16-1208-session-c7abeefe]] — Session Claude Code du 2026-06-16 12:08 sur projet openclaw-plugin (0 edits, 0 créations, 11 bash).
+- [[2026-06-16-1230-session-c7abeefe]] — Session Claude Code du 2026-06-16 12:30 sur projet openclaw-plugin (0 edits, 0 créations, 11 bash).
+- [[2026-06-16-1232-session-c7abeefe]] — Session Claude Code du 2026-06-16 12:32 sur projet openclaw-plugin (0 edits, 0 créations, 11 bash).
+- [[2026-06-16-1233-session-c7abeefe]] — Session Claude Code du 2026-06-16 12:33 sur projet openclaw-plugin (0 edits, 0 créations, 11 bash).
+- [[2026-06-16-1235-session-c7abeefe]] — Session Claude Code du 2026-06-16 12:35 sur projet openclaw-plugin (0 edits, 0 créations, 11 bash).
+- [[2026-06-16-1257-session-c7abeefe]] — Session Claude Code du 2026-06-16 12:57 sur projet openclaw-plugin (0 edits, 0 créations, 12 bash).
+- [[2026-06-16-1309-session-c7abeefe]] — Session Claude Code du 2026-06-16 13:09 sur projet openclaw-plugin (0 edits, 0 créations, 16 bash).
+- [[2026-06-16-1340-session-c7abeefe]] — Session Claude Code du 2026-06-16 13:40 sur projet openclaw-plugin (2 edits, 0 créations, 21 bash).
 - [[2026-05-07-1254-session-158ff0de]] — Session Claude Code du 2026-05-07 12:54 sur projet openclaw-plugin (3 edits, 3 créations, 37 bash).
 - [[2026-05-07-1325-session-158ff0de]] — Session Claude Code du 2026-05-07 13:25 sur projet openclaw-plugin (4 edits, 10 créations, 60 bash).
 - [[2026-05-07-1340-session-158ff0de]] — Session Claude Code du 2026-05-07 13:40 sur projet openclaw-plugin (4 edits, 12 créations, 69 bash).
