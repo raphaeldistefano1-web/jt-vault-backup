@@ -31,8 +31,8 @@ source: /Users/raphia/.claude/projects/-Users-raphia/c7abeefe-1424-4ecb-a7cc-a63
 status: draft
 summary: Session Claude Code du 2026-06-16 12:33 sur projet openclaw-plugin (0 edits,
   0 créations, 11 bash).
-synth_attempts: 2
-synth_last_error: '2026-06-18 04:00 — LLMUnavailable: claude CLI failed: '
+synth_attempts: 3
+synth_last_error: '2026-06-19 04:00 — LLMUnavailable: claude CLI failed: '
 tags:
 - session
 - log
