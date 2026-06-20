@@ -7,6 +7,10 @@ cache_create: 517821
 cache_hit_ratio: 0.9279
 cache_read: 9327902
 confidence: medium
+consolidated: true
+consolidated_at: '2026-06-20'
+consolidated_essence: FAILED after 3 synth attempts — manual review needed
+consolidated_to: []
 cost_usd_est: 46.2965
 created: 2026-06-16
 cwd: /Users/raphia
@@ -30,7 +34,7 @@ related: []
 schema_version: 1
 session_id: c7abeefe-1424-4ecb-a7cc-a634ad6a7ea2
 source: /Users/raphia/.claude/projects/-Users-raphia/c7abeefe-1424-4ecb-a7cc-a634ad6a7ea2.jsonl
-status: draft
+status: consolidated
 summary: Session Claude Code du 2026-06-16 13:40 sur projet openclaw-plugin (2 edits,
   0 créations, 21 bash).
 synth_attempts: 3
