@@ -7,15 +7,15 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-21
-updated: 2026-06-21
+created: 2026-06-22
+updated: 2026-06-22
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — pms-jardin-tropical
 
-> Auto-régénéré le 2026-06-21 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-22 03:00 par `vault-rag-curator`.
 
 ## HOT (7)
 
@@ -27,7 +27,7 @@ ai_writable: false
 - [[PMS-Stack]] — Stack technique PMS — Next.js 15 + Postgres + Prisma 6 + PM2 + NextAuth v5 + OpenClaw Gateway loopback.
 - [[Tests-PMS-Batterie-2026-04-25]] — Batterie tests PMS complets — 22 endpoints OK, 26 pages OK, TTFB < 120ms, 7 findings mineurs documentés.
 
-## COLD (99)
+## COLD (102)
 
 - [[2026-05-08-1007-session-4d0a55cb]] — Session Claude Code du 2026-05-08 10:07 sur projet pms-jardin-tropical (4 edits, 1 créations, 30 bash).
 - [[2026-05-08-1344-session-8d305207]] — Session Claude Code du 2026-05-08 13:44 sur projet pms-jardin-tropical (4 edits, 10 créations, 58 bash).
@@ -99,6 +99,9 @@ ai_writable: false
 - [[2026-05-07-1314-session-b3219199]] — Session Claude Code du 2026-05-07 13:14 sur projet pms-jardin-tropical (2 edits, 2 créations, 37 bash).
 - [[2026-05-07-1319-session-b3219199]] — Session Claude Code du 2026-05-07 13:19 sur projet pms-jardin-tropical (3 edits, 2 créations, 40 bash).
 - [[2026-05-08-0830-session-b3219199]] — Session Claude Code du 2026-05-08 08:30 sur projet pms-jardin-tropical (3 edits, 2 créations, 42 bash).
+- [[2026-06-21-1551-session-813d6841]] — Session Claude Code du 2026-06-21 15:51 sur projet unknown (0 edits, 0 créations, 0 bash).
+- [[2026-06-21-1604-session-813d6841]] — Session Claude Code du 2026-06-21 16:04 sur projet unknown (0 edits, 0 créations, 0 bash).
+- [[2026-06-21-1540-session-e813548f]] — Session Claude Code du 2026-06-21 15:40 sur projet unknown (1 edits, 0 créations, 13 bash).
 - [[2026-06-13-1829-session-22671a7b]] — Session Claude Code du 2026-06-13 18:29 sur projet pms-jardin-tropical (0 edits, 0 créations, 5 bash).
 - [[2026-06-13-1832-session-22671a7b]] — Session Claude Code du 2026-06-13 18:32 sur projet pms-jardin-tropical (0 edits, 0 créations, 6 bash).
 - [[2026-06-14-0723-session-22671a7b]] — Session Claude Code du 2026-06-14 07:23 sur projet unknown (7 edits, 13 créations, 58 bash).

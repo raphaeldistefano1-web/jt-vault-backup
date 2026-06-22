@@ -7,22 +7,22 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-21
-updated: 2026-06-21
+created: 2026-06-22
+updated: 2026-06-22
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — claude-system
 
-> Auto-régénéré le 2026-06-21 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-22 03:00 par `vault-rag-curator`.
 
 ## WARM (2)
 
 - [[2026-04-25-session-context]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 - [[2026-04-25-session-context 2]] — Session log 2026-04-25: migration WP, site optimization, Obsidian vault construction with 67 notes.
 
-## COLD (903)
+## COLD (905)
 
 - [[2026-05-08-0901-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:01 sur projet claude-system (0 edits, 0 créations, 1 bash).
 - [[2026-05-08-0903-session-4d0a55cb]] — Session Claude Code du 2026-05-08 09:03 sur projet claude-system (0 edits, 0 créations, 2 bash).
@@ -648,6 +648,8 @@ ai_writable: false
 - [[claude-mem-2026-05-30-1650-raphia-ff0b5a7a]] — Created gen_excel.py script that programmatically regenerates Excel workbooks from JSON banks. Installed openpyxl depend…
 - [[claude-mem-2026-06-18-0726-raphia-b2b00636]] — GUIDE_ENTRETIEN_Commercial_Sales.docx created (+ .md source) with 20-question interview framework, preamble tailored to …
 - [[claude-mem-2026-06-04-1307-raphia-e97b0c1b]] — Structured candid analysis provided across three success scenarios: (1) as portfolio/learning piece before main business…
+- [[2026-06-21-1557-session-e813548f]] — Session Claude Code du 2026-06-21 15:57 sur projet claude-system (16 edits, 1 créations, 19 bash).
+- [[2026-06-21-1613-session-e813548f]] — Session Claude Code du 2026-06-21 16:13 sur projet claude-system (17 edits, 2 créations, 31 bash).
 - [[claude-mem-2026-06-04-1233-raphia-e590d977]] — Session initialized and ready for observation; Claude responded with acknowledgment
 - [[claude-mem-2026-06-05-1839-raphia-79467f96]] — Built Cyclone Debug app with CYCLONE_FORCE_PREMIUM compilation flag enabled (all premium features unlocked, StoreKit byp…
 - [[2026-05-07-1215-session-158ff0de 2]] — Session Claude Code du 2026-05-07 12:15 sur projet claude-system (0 edits, 0 créations, 15 bash).
