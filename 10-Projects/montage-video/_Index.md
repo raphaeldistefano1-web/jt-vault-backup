@@ -7,12 +7,12 @@ status: active
 summary: "Index auto-régénéré par vault-rag-curator. Liste des notes du projet par tier."
 intent: reference
 tier: hot
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-06-23
+updated: 2026-06-23
 tags: [index, moc, auto-generated]
 ai_writable: false
 ---
 
 # 📑 Index — montage-video
 
-> Auto-régénéré le 2026-06-22 03:00 par `vault-rag-curator`.
+> Auto-régénéré le 2026-06-23 03:00 par `vault-rag-curator`.

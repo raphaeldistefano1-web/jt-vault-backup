@@ -10,12 +10,12 @@ tier: hot
 tags: [moc, index, auto-generated, root]
 ai_writable: false
 auto-generated: true
-updated: 2026-06-22
+updated: 2026-06-23
 ---
 
 # 🗂️ Vault Index
 
-> Auto-régénéré le **2026-06-22 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
+> Auto-régénéré le **2026-06-23 04:30** par `vault-build-index`. Ne pas éditer — les modifs seront écrasées au prochain run.
 
 Ce vault suit la structure **PARA** (Projects, Areas, Resources, Archives) + un dossier **60-Permanent** pour les insights atomiques distillés. Chaque note a un frontmatter riche (`intent`, `topic_cluster`, `tier`, `related`) parseable.
 
